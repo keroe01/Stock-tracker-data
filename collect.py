@@ -268,7 +268,10 @@ def main():
         watchlist = json.load(f)
     collect_memory_spot()
     collect_target_price(watchlist)
-    collect_prepost(watchlist)
+    # collect_prepost(watchlist) — no longer collected; the desktop app's
+    # 시간외 feature that consumed this was removed as not useful in
+    # practice, so this is now dead weight rather than something worth
+    # spending API calls to keep growing.
 
 
 if __name__ == "__main__":
