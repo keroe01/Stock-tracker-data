@@ -1,0 +1,58 @@
+[
+  {
+    "symbol": "MU",
+    "date": "2026-08-10",
+    "market_state": "PRE",
+    "regular_open": 904.65,
+    "regular_high": 904.65,
+    "regular_low": 847.02,
+    "regular_price": 877.57,
+    "pre_market_price": 863.49,
+    "pre_market_change_percent": -0.016044324,
+    "post_market_price": 880.0,
+    "post_market_change_percent": 0.0027690015,
+    "collected_at": "2026-08-10T11:19:12+00:00"
+  },
+  {
+    "symbol": "SNDK",
+    "date": "2026-08-10",
+    "market_state": "PRE",
+    "regular_open": 1308.16,
+    "regular_high": 1309.53,
+    "regular_low": 1184.37,
+    "regular_price": 1212.21,
+    "pre_market_price": 1189.08,
+    "pre_market_change_percent": -0.019080857,
+    "post_market_price": 1219.9888,
+    "post_market_change_percent": 0.006417047,
+    "collected_at": "2026-08-10T11:19:12+00:00"
+  },
+  {
+    "symbol": "SOXL",
+    "date": "2026-08-10",
+    "market_state": "PRE",
+    "regular_open": 141.97,
+    "regular_high": 143.92,
+    "regular_low": 131.56,
+    "regular_price": 140.25,
+    "pre_market_price": 142.1,
+    "pre_market_change_percent": 0.013010247,
+    "post_market_price": 141.2383,
+    "post_market_change_percent": 0.0070466776,
+    "collected_at": "2026-08-10T11:19:13+00:00"
+  },
+  {
+    "symbol": "SKHY",
+    "date": "2026-08-10",
+    "market_state": "PRE",
+    "regular_open": 143.48,
+    "regular_high": 143.649,
+    "regular_low": 133.8,
+    "regular_price": 137.91,
+    "pre_market_price": 135.33,
+    "pre_market_change_percent": -0.018707866,
+    "post_market_price": 138.1498,
+    "post_market_change_percent": 0.0017387562,
+    "collected_at": "2026-08-10T11:19:14+00:00"
+  }
+]
