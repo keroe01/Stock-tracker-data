@@ -7,12 +7,16 @@ or the PC it runs on is on.
   because they have no free historical backfill, so a PC that's off when
   that window passes would otherwise lose them permanently. Accumulating
   history (`data/dram.json`, `data/nand.json`, `data/target_price.json`).
-- KOSPI 저PER/저PBR/상승률 screener (`kr_screener.py`, same logic as the
-  desktop app's `app/services/kr_screener.py`) — captured here mainly for
-  speed: it's a ~1 minute scan of the whole KOSPI market, and running it
-  on a GitHub Actions runner instead of the user's own PC avoids the GIL
-  contention that scan caused with the desktop app's Qt event loop.
-  Full-replace snapshot, not history (`data/screener.json`).
+- 코스피200 저PER/저PBR/상승률 screener (`kr_screener.py`, same logic as
+  the desktop app's `app/services/kr_screener.py`) — captured here for
+  speed (running the scan on a GitHub Actions runner instead of the
+  user's own PC avoids the GIL contention it caused with the desktop
+  app's Qt event loop) and scoped to 코스피200 (not the whole ~960-name
+  KOSPI market) so thin/illiquid micro-caps don't dominate the
+  저PER/상승률 lists. Constituent codes come from Naver's public
+  entryJongmok.naver listing — full KRX300 membership isn't available
+  for free without a KRX data-portal login. Full-replace snapshot, not
+  history (`data/screener.json`).
 
 This repo is public — it only ever holds market-data snapshots (prices,
 screener results), nothing account-specific — so the desktop app (and any
