@@ -18,6 +18,8 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+import kr_screener
+
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
@@ -263,11 +265,29 @@ def collect_prepost(watchlist: list[dict]):
     print(f"prepost.json: {changed} snapshots updated")
 
 
+# ---- KOSPI 저PER/저PBR/상승률 screener ----
+
+
+def collect_screener():
+    """Unlike the other collectors here, this is a full-replace snapshot
+    (not an accumulating history) — each run's result fully supersedes the
+    last, same as how the desktop app already persists its own local scan
+    to the ScreenerResults sheet. Written straight in the shape
+    screen_kr_market() returns (plus generated_at) so the desktop app can
+    use it directly with no reshaping."""
+    result = kr_screener.screen_kr_market()
+    result["generated_at"] = now_iso()
+    _save("screener.json", result)
+    total = sum(len(v) for k, v in result.items() if k != "generated_at")
+    print(f"screener.json: {total} entries across {len(result) - 1} lists")
+
+
 def main():
     with open(ROOT / "watchlist.json", encoding="utf-8") as f:
         watchlist = json.load(f)
     collect_memory_spot()
     collect_target_price(watchlist)
+    collect_screener()
     # collect_prepost(watchlist) — no longer collected; the desktop app's
     # 시간외 feature that consumed this was removed as not useful in
     # practice, so this is now dead weight rather than something worth

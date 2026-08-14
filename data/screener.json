@@ -1,0 +1,472 @@
+{
+  "per": [
+    {
+      "code": "005110",
+      "name": "한창",
+      "change_percent": 0.0,
+      "market_cap": 265.0,
+      "per": 0.49
+    },
+    {
+      "code": "000910",
+      "name": "유니온",
+      "change_percent": 0.17,
+      "market_cap": 459.0,
+      "per": 0.89
+    },
+    {
+      "code": "031820",
+      "name": "아이티센씨티에스",
+      "change_percent": 3.05,
+      "market_cap": 737.0,
+      "per": 0.97
+    },
+    {
+      "code": "000040",
+      "name": "KR모터스",
+      "change_percent": -0.57,
+      "market_cap": 211.0,
+      "per": 0.97
+    },
+    {
+      "code": "001620",
+      "name": "케이비아이동국실업",
+      "change_percent": 1.1,
+      "market_cap": 511.0,
+      "per": 1.22
+    },
+    {
+      "code": "010770",
+      "name": "평화홀딩스",
+      "change_percent": 2.66,
+      "market_cap": 565.0,
+      "per": 1.26
+    },
+    {
+      "code": "003080",
+      "name": "SB성보",
+      "change_percent": 0.43,
+      "market_cap": 467.0,
+      "per": 1.38
+    },
+    {
+      "code": "019180",
+      "name": "티에이치엔",
+      "change_percent": 1.24,
+      "market_cap": 1174.0,
+      "per": 1.45
+    },
+    {
+      "code": "013580",
+      "name": "계룡건설",
+      "change_percent": 3.1,
+      "market_cap": 1929.0,
+      "per": 1.77
+    },
+    {
+      "code": "013520",
+      "name": "화승코퍼레이션",
+      "change_percent": 2.26,
+      "market_cap": 1361.0,
+      "per": 1.8
+    },
+    {
+      "code": "018500",
+      "name": "동원모빌리티",
+      "change_percent": 2.01,
+      "market_cap": 710.0,
+      "per": 1.82
+    },
+    {
+      "code": "004960",
+      "name": "한신공영",
+      "change_percent": 5.7,
+      "market_cap": 1353.0,
+      "per": 1.97
+    },
+    {
+      "code": "093240",
+      "name": "형지엘리트",
+      "change_percent": -3.72,
+      "market_cap": 238.0,
+      "per": 2.07
+    },
+    {
+      "code": "003480",
+      "name": "한진중공업홀딩스",
+      "change_percent": 1.78,
+      "market_cap": 1435.0,
+      "per": 2.17
+    },
+    {
+      "code": "136490",
+      "name": "선진",
+      "change_percent": -1.79,
+      "market_cap": 2485.0,
+      "per": 2.2
+    },
+    {
+      "code": "004920",
+      "name": "씨아이테크",
+      "change_percent": 2.4,
+      "market_cap": 490.0,
+      "per": 2.25
+    },
+    {
+      "code": "005725",
+      "name": "넥센우",
+      "change_percent": -0.12,
+      "market_cap": 155.0,
+      "per": 2.31
+    },
+    {
+      "code": "007980",
+      "name": "TP",
+      "change_percent": 1.38,
+      "market_cap": 893.0,
+      "per": 2.32
+    },
+    {
+      "code": "033530",
+      "name": "SJG세종",
+      "change_percent": 0.14,
+      "market_cap": 1921.0,
+      "per": 2.33
+    },
+    {
+      "code": "002355",
+      "name": "넥센타이어1우B",
+      "change_percent": 0.91,
+      "market_cap": 254.0,
+      "per": 2.35
+    }
+  ],
+  "pbr": [
+    {
+      "code": "139480",
+      "name": "이마트",
+      "change_percent": 1.02,
+      "market_cap": 21773.0,
+      "per": 17.39,
+      "pbr": 0.18
+    },
+    {
+      "code": "023530",
+      "name": "롯데쇼핑",
+      "change_percent": 3.42,
+      "market_cap": 29109.0,
+      "per": 17.8,
+      "pbr": 0.19
+    },
+    {
+      "code": "011170",
+      "name": "롯데케미칼",
+      "change_percent": -0.35,
+      "market_cap": 24468.0,
+      "per": -1.36,
+      "pbr": 0.19
+    },
+    {
+      "code": "000670",
+      "name": "영풍",
+      "change_percent": -1.8,
+      "market_cap": 7014.0,
+      "per": -2.5,
+      "pbr": 0.19
+    },
+    {
+      "code": "004020",
+      "name": "현대제철",
+      "change_percent": 3.82,
+      "market_cap": 39900.0,
+      "per": 553.7,
+      "pbr": 0.2
+    },
+    {
+      "code": "003240",
+      "name": "태광산업",
+      "change_percent": -1.38,
+      "market_cap": 10355.0,
+      "per": 30.35,
+      "pbr": 0.2
+    },
+    {
+      "code": "058650",
+      "name": "세아홀딩스",
+      "change_percent": 2.81,
+      "market_cap": 5430.0,
+      "per": 7.3,
+      "pbr": 0.23
+    },
+    {
+      "code": "017940",
+      "name": "E1",
+      "change_percent": 4.07,
+      "market_cap": 6140.0,
+      "per": 5.44,
+      "pbr": 0.25
+    },
+    {
+      "code": "007700",
+      "name": "F&F홀딩스",
+      "change_percent": 4.7,
+      "market_cap": 5844.0,
+      "per": 3.56,
+      "pbr": 0.25
+    },
+    {
+      "code": "016380",
+      "name": "KG스틸",
+      "change_percent": 0.89,
+      "market_cap": 5690.0,
+      "per": 4.26,
+      "pbr": 0.27
+    },
+    {
+      "code": "088350",
+      "name": "한화생명",
+      "change_percent": 11.93,
+      "market_cap": 48898.0,
+      "per": 6.61,
+      "pbr": 0.28
+    },
+    {
+      "code": "036460",
+      "name": "한국가스공사",
+      "change_percent": 1.95,
+      "market_cap": 33787.0,
+      "per": 10.76,
+      "pbr": 0.28
+    },
+    {
+      "code": "004990",
+      "name": "롯데지주",
+      "change_percent": 3.4,
+      "market_cap": 24218.0,
+      "per": -4.83,
+      "pbr": 0.28
+    },
+    {
+      "code": "000210",
+      "name": "DL",
+      "change_percent": 1.96,
+      "market_cap": 10876.0,
+      "per": -20.51,
+      "pbr": 0.28
+    },
+    {
+      "code": "051915",
+      "name": "LG화학우",
+      "change_percent": 1.77,
+      "market_cap": 9711.0,
+      "per": -4.8,
+      "pbr": 0.28
+    },
+    {
+      "code": "005880",
+      "name": "대한해운",
+      "change_percent": 2.21,
+      "market_cap": 6568.0,
+      "per": 3.77,
+      "pbr": 0.28
+    },
+    {
+      "code": "006650",
+      "name": "대한유화",
+      "change_percent": 3.28,
+      "market_cap": 5941.0,
+      "per": 7.14,
+      "pbr": 0.3
+    },
+    {
+      "code": "006120",
+      "name": "SK디스커버리",
+      "change_percent": 1.54,
+      "market_cap": 9177.0,
+      "per": 4.17,
+      "pbr": 0.31
+    },
+    {
+      "code": "383800",
+      "name": "LX홀딩스",
+      "change_percent": 2.73,
+      "market_cap": 6324.0,
+      "per": 6.28,
+      "pbr": 0.31
+    },
+    {
+      "code": "137310",
+      "name": "에스디바이오센서",
+      "change_percent": 0.61,
+      "market_cap": 7909.0,
+      "per": -1.69,
+      "pbr": 0.33
+    }
+  ],
+  "rise": [
+    {
+      "code": "001770",
+      "name": "SHD",
+      "change_percent": 29.95,
+      "market_cap": 118.0,
+      "per": 9.61
+    },
+    {
+      "code": "003010",
+      "name": "혜인",
+      "change_percent": 29.89,
+      "market_cap": 1232.0,
+      "per": 8.6
+    },
+    {
+      "code": "011155",
+      "name": "CJ씨푸드1우",
+      "change_percent": 29.89,
+      "market_cap": 16.0,
+      "per": 223.33
+    },
+    {
+      "code": "092200",
+      "name": "디아이씨",
+      "change_percent": 25.33,
+      "market_cap": 2559.0,
+      "per": -20.31
+    },
+    {
+      "code": "005180",
+      "name": "빙그레",
+      "change_percent": 19.94,
+      "market_cap": 7638.0,
+      "per": 14.34,
+      "pbr": 1.0
+    },
+    {
+      "code": "007340",
+      "name": "DN오토모티브",
+      "change_percent": 19.11,
+      "market_cap": 34463.0,
+      "per": 11.8,
+      "pbr": 1.43
+    },
+    {
+      "code": "285130",
+      "name": "SK케미칼",
+      "change_percent": 14.03,
+      "market_cap": 8649.0,
+      "per": 77.4,
+      "pbr": 0.43
+    },
+    {
+      "code": "475560",
+      "name": "더본코리아",
+      "change_percent": 12.78,
+      "market_cap": 2356.0,
+      "per": -9.04
+    },
+    {
+      "code": "004370",
+      "name": "농심",
+      "change_percent": 12.32,
+      "market_cap": 26612.0,
+      "per": 14.9,
+      "pbr": 0.87
+    },
+    {
+      "code": "181710",
+      "name": "NHN",
+      "change_percent": 11.99,
+      "market_cap": 24467.0,
+      "per": 41.97,
+      "pbr": 1.55
+    },
+    {
+      "code": "088350",
+      "name": "한화생명",
+      "change_percent": 11.93,
+      "market_cap": 48898.0,
+      "per": 6.61,
+      "pbr": 0.28
+    },
+    {
+      "code": "004415",
+      "name": "서울식품우",
+      "change_percent": 11.91,
+      "market_cap": 13.0,
+      "per": -173.64
+    },
+    {
+      "code": "009900",
+      "name": "명신산업",
+      "change_percent": 11.85,
+      "market_cap": 4261.0,
+      "per": 5.81
+    },
+    {
+      "code": "017670",
+      "name": "SK텔레콤",
+      "change_percent": 10.32,
+      "market_cap": 215864.0,
+      "per": 58.91,
+      "pbr": 1.61
+    },
+    {
+      "code": "014285",
+      "name": "금강공업우",
+      "change_percent": 9.98,
+      "market_cap": 34.0,
+      "per": -5.69
+    },
+    {
+      "code": "020120",
+      "name": "키다리스튜디오",
+      "change_percent": 9.4,
+      "market_cap": 1423.0,
+      "per": 12.97
+    },
+    {
+      "code": "009155",
+      "name": "삼성전기우",
+      "change_percent": 9.06,
+      "market_cap": 16105.0,
+      "per": 52.33,
+      "pbr": 4.26
+    },
+    {
+      "code": "000370",
+      "name": "한화손해보험",
+      "change_percent": 9.05,
+      "market_cap": 8160.0,
+      "per": 4.0,
+      "pbr": 0.38
+    },
+    {
+      "code": "307950",
+      "name": "현대오토에버",
+      "change_percent": 9.02,
+      "market_cap": 134240.0,
+      "per": 74.25,
+      "pbr": 7.37
+    },
+    {
+      "code": "006370",
+      "name": "대구백화점",
+      "change_percent": 8.98,
+      "market_cap": 532.0,
+      "per": -1.7
+    }
+  ],
+  "triple": [],
+  "per_pbr": [],
+  "per_rise": [],
+  "pbr_rise": [
+    {
+      "code": "088350",
+      "name": "한화생명",
+      "change_percent": 11.93,
+      "market_cap": 48898.0,
+      "per": 6.61,
+      "pbr": 0.28
+    }
+  ],
+  "generated_at": "2026-08-14T10:16:17+00:00"
+}
