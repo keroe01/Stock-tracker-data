@@ -1,4 +1,4 @@
-"""KOSPI 저PER/저PBR/상승률 TOP20 screener — ported from the desktop app's
+"""코스피200 저PER/저PBR/상승률 TOP20 screener — ported from the desktop app's
 app/services/kr_screener.py (+ the PBR bits of app/services/naver_finance.py)
 so it can run here on a GitHub Actions schedule instead of on the user's own
 PC. The runner has no GUI thread to starve, so this uses a higher worker
@@ -14,13 +14,17 @@ from bs4 import BeautifulSoup
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 MARKET_SUM_URL = "https://finance.naver.com/sise/sise_market_sum.naver"
 FUNDAMENTALS_URL = "https://finance.naver.com/item/main.naver"
+ENTRY_JONGMOK_URL = "https://finance.naver.com/sise/entryJongmok.naver"
 
 _MAX_WORKERS = 12
-PBR_CANDIDATE_POOL = 300
 TOP_N = 20
 COMBO_N = 5
 _MAX_PAGES_PER_MARKET = 65
 _MARKETS = (0,)  # sosok=0 is KOSPI
+
+# 코스피200 constituent codes, 10 per page, public/no-login. 22 pages
+# covers the real ~199-200 with a little margin.
+_KOSPI200_PAGES = 22
 
 
 def _to_float(text: str) -> float | None:
@@ -102,12 +106,32 @@ def _fetch_pbr(stock: dict) -> None:
     stock["pbr"] = _fetch_pbr_value(stock["code"])
 
 
+def _fetch_kospi200_page(page: int) -> set[str]:
+    try:
+        resp = requests.get(ENTRY_JONGMOK_URL, params={"type": "KPI200", "page": page}, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        resp.encoding = "euc-kr"
+        return set(re.findall(r"code=(\d{6})", resp.text))
+    except Exception:
+        print(f"failed to fetch kospi200 constituent page {page}")
+        return set()
+
+
+def _fetch_kospi200_codes() -> set[str]:
+    with ThreadPoolExecutor(max_workers=_MAX_WORKERS) as pool:
+        results = pool.map(_fetch_kospi200_page, range(1, _KOSPI200_PAGES + 1))
+        return {code for codes in results for code in codes}
+
+
 def screen_kr_market() -> dict:
-    """Same output shape as the desktop app's screen_kr_market(): TOP 20
-    lowest PER, TOP 20 lowest PBR (among the PBR_CANDIDATE_POOL largest by
-    market cap), TOP 20 highest daily % change, plus 4 short (COMBO_N)
+    """Same output shape as the desktop app's screen_kr_market(): scoped
+    to the 코스피200 universe (not the whole KOSPI market — narrowed per
+    request, since the full ~960-name market let thin/illiquid micro-caps
+    dominate the 저PER/상승률 lists). TOP 20 lowest PER, TOP 20 lowest
+    PBR, TOP 20 highest daily % change, plus 4 short (COMBO_N)
     overlap-highlight lists."""
-    all_stocks = _fetch_all_market_sum()
+    kospi200_codes = _fetch_kospi200_codes()
+    all_stocks = [s for s in _fetch_all_market_sum() if s["code"] in kospi200_codes]
 
     per_ranked = sorted(
         (s for s in all_stocks if s["per"] is not None and s["per"] > 0), key=lambda s: s["per"]
@@ -119,14 +143,12 @@ def screen_kr_market() -> dict:
         reverse=True,
     )[:TOP_N]
 
-    cap_ranked = sorted(
-        (s for s in all_stocks if s["market_cap"] is not None), key=lambda s: s["market_cap"], reverse=True
-    )
-    pbr_candidates = cap_ranked[:PBR_CANDIDATE_POOL]
+    # Every 코스피200 member gets a PBR lookup — the universe is already
+    # just ~200 large/liquid names, no need for a "top N by cap" pool.
     with ThreadPoolExecutor(max_workers=_MAX_WORKERS) as pool:
-        list(pool.map(_fetch_pbr, pbr_candidates))
+        list(pool.map(_fetch_pbr, all_stocks))
     pbr_ranked = sorted(
-        (s for s in pbr_candidates if s.get("pbr") is not None and s["pbr"] > 0), key=lambda s: s["pbr"]
+        (s for s in all_stocks if s.get("pbr") is not None and s["pbr"] > 0), key=lambda s: s["pbr"]
     )[:TOP_N]
 
     by_code = {s["code"]: s for s in all_stocks}
