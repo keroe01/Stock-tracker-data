@@ -22,7 +22,7 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": 0.0,
-      "market_cap": 10504812544
+      "market_cap": 10508951552
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.5929337,
       "pbr": 1.3888619,
       "change_percent": -2.74191,
-      "market_cap": 22184452096
+      "market_cap": 22134097920
     },
     {
       "code": "UHS",
@@ -51,10 +51,10 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.7237873,
+      "per": 7.6697745,
       "pbr": 1.4448608,
       "change_percent": 0.693666,
-      "market_cap": 33660108800
+      "market_cap": 33682726912
     },
     {
       "code": "EG",
@@ -70,7 +70,7 @@
       "per": 8.17069,
       "pbr": 1.1443405,
       "change_percent": 0.10561699999999999,
-      "market_cap": 22674110464
+      "market_cap": 21941929984
     },
     {
       "code": "CINF",
@@ -81,20 +81,20 @@
       "market_cap": 26577793024
     },
     {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.206687,
+      "pbr": 1.7339926,
+      "change_percent": 1.1488500000000001,
+      "market_cap": 26355038208
+    },
+    {
       "code": "T",
       "name": "AT+T INC",
       "per": 8.214521,
       "pbr": 1.5501993,
       "change_percent": 1.26119,
       "market_cap": 170555883520
-    },
-    {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.307693,
-      "pbr": 1.7339926,
-      "change_percent": 1.1488500000000001,
-      "market_cap": 26355038208
     },
     {
       "code": "CMCSA",
@@ -208,7 +208,7 @@
       "per": 338.00003,
       "pbr": 0.96571434,
       "change_percent": 1.70512,
-      "market_cap": 11348415488
+      "market_cap": 11376530432
     },
     {
       "code": "LEN",
@@ -230,7 +230,7 @@
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.217054,
-      "pbr": 0.9949798,
+      "pbr": 0.9996587,
       "change_percent": 0.07593190000000001,
       "market_cap": 29024403456
     },
@@ -280,7 +280,7 @@
       "per": 8.17069,
       "pbr": 1.1443405,
       "change_percent": 0.10561699999999999,
-      "market_cap": 22674110464
+      "market_cap": 21941929984
     },
     {
       "code": "APTV",
@@ -288,7 +288,7 @@
       "per": 22.425339,
       "pbr": 1.1797754,
       "change_percent": 0.793173,
-      "market_cap": 10487913472
+      "market_cap": 10290308096
     },
     {
       "code": "L",
@@ -330,7 +330,7 @@
       "per": 19.633541,
       "pbr": 3.3354437,
       "change_percent": 7.553590000000001,
-      "market_cap": 30450180096
+      "market_cap": 29264900096
     },
     {
       "code": "SNDK",
@@ -362,7 +362,7 @@
       "per": 69.93104,
       "pbr": 199.4754,
       "change_percent": 5.65137,
-      "market_cap": 220970876928
+      "market_cap": 220624830464
     },
     {
       "code": "FOXA",
@@ -394,7 +394,7 @@
       "per": 18.020943,
       "pbr": 2.607378,
       "change_percent": 4.8112,
-      "market_cap": 28754388992
+      "market_cap": 28676345856
     },
     {
       "code": "GLW",
@@ -402,15 +402,15 @@
       "per": 76.49309,
       "pbr": 11.973599,
       "change_percent": 4.69914,
-      "market_cap": 142691287040
+      "market_cap": 142981857280
     },
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 20.964153,
-      "pbr": 24.327036,
+      "per": 20.078926,
+      "pbr": null,
       "change_percent": 4.4142097,
-      "market_cap": 175374270464
+      "market_cap": null
     },
     {
       "code": "ALB",
@@ -509,7 +509,7 @@
       "per": 8.17069,
       "pbr": 1.1443405,
       "change_percent": 0.10561699999999999,
-      "market_cap": 22674110464
+      "market_cap": 21941929984
     },
     {
       "code": "CMCSA",
@@ -531,5 +531,5 @@
       "market_cap": 20464291840
     }
   ],
-  "generated_at": "2026-08-15T13:39:11+00:00"
+  "generated_at": "2026-08-15T14:51:17+00:00"
 }
