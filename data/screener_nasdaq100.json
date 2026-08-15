@@ -121,20 +121,20 @@
       "market_cap": 82722275328
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 20.078926,
-      "pbr": null,
-      "change_percent": 4.4142097,
-      "market_cap": null
-    },
-    {
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 20.842443,
       "pbr": 3.230984,
       "change_percent": 2.1752901000000002,
       "market_cap": 64345133056
+    },
+    {
+      "code": "WDC",
+      "name": "Western Digital",
+      "per": 20.964153,
+      "pbr": null,
+      "change_percent": 4.4142097,
+      "market_cap": null
     },
     {
       "code": "CCEP",
@@ -375,7 +375,7 @@
     {
       "code": "WDC",
       "name": "Western Digital",
-      "per": 20.078926,
+      "per": 20.964153,
       "pbr": null,
       "change_percent": 4.4142097,
       "market_cap": null
@@ -571,20 +571,20 @@
       "market_cap": 29264900096
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 20.078926,
-      "pbr": null,
-      "change_percent": 4.4142097,
-      "market_cap": null
-    },
-    {
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 20.842443,
       "pbr": 3.230984,
       "change_percent": 2.1752901000000002,
       "market_cap": 64345133056
+    },
+    {
+      "code": "WDC",
+      "name": "Western Digital",
+      "per": 20.964153,
+      "pbr": null,
+      "change_percent": 4.4142097,
+      "market_cap": null
     }
   ],
   "pbr_rise": [
@@ -629,5 +629,5 @@
       "market_cap": 64345133056
     }
   ],
-  "generated_at": "2026-08-15T14:51:18+00:00"
+  "generated_at": "2026-08-15T16:55:07+00:00"
 }

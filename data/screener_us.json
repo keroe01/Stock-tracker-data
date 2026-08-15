@@ -51,7 +51,7 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.6697745,
+      "per": 7.7237873,
       "pbr": 1.4448608,
       "change_percent": 0.693666,
       "market_cap": 33682726912
@@ -81,20 +81,20 @@
       "market_cap": 26577793024
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.206687,
-      "pbr": 1.7339926,
-      "change_percent": 1.1488500000000001,
-      "market_cap": 26355038208
-    },
-    {
       "code": "T",
       "name": "AT+T INC",
       "per": 8.214521,
       "pbr": 1.5501993,
       "change_percent": 1.26119,
       "market_cap": 170555883520
+    },
+    {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.307693,
+      "pbr": 1.7339926,
+      "change_percent": 1.1488500000000001,
+      "market_cap": 26355038208
     },
     {
       "code": "CMCSA",
@@ -407,7 +407,7 @@
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 20.078926,
+      "per": 20.964153,
       "pbr": null,
       "change_percent": 4.4142097,
       "market_cap": null
@@ -531,5 +531,5 @@
       "market_cap": 20464291840
     }
   ],
-  "generated_at": "2026-08-15T14:51:17+00:00"
+  "generated_at": "2026-08-15T16:55:07+00:00"
 }
