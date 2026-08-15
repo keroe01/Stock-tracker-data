@@ -22,20 +22,20 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": 0.0,
-      "market_cap": 10504812544
+      "market_cap": 10508951552
     },
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.780411,
+      "per": 6.5929337,
       "pbr": 1.3888619,
       "change_percent": -2.74191,
-      "market_cap": 22184452096
+      "market_cap": 22134097920
     },
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 6.988081,
+      "per": 6.939592,
       "pbr": 1.3335948,
       "change_percent": -0.695054,
       "market_cap": 10020386816
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.369454,
+      "per": 7.294178,
       "pbr": 1.5750238,
       "change_percent": 1.0328300000000001,
       "market_cap": 27479568384
@@ -51,10 +51,10 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.7237873,
+      "per": 7.6697745,
       "pbr": 1.4448608,
       "change_percent": 0.693666,
-      "market_cap": 33660108800
+      "market_cap": 33682726912
     },
     {
       "code": "EG",
@@ -70,7 +70,7 @@
       "per": 8.17069,
       "pbr": 1.1443405,
       "change_percent": 0.10561699999999999,
-      "market_cap": 22674110464
+      "market_cap": 21941929984
     },
     {
       "code": "CINF",
@@ -81,20 +81,20 @@
       "market_cap": 26577793024
     },
     {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.206687,
+      "pbr": 1.7339926,
+      "change_percent": 1.1488500000000001,
+      "market_cap": 26355038208
+    },
+    {
       "code": "T",
       "name": "AT+T INC",
       "per": 8.214521,
       "pbr": 1.5501993,
       "change_percent": 1.26119,
       "market_cap": 170555883520
-    },
-    {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.307693,
-      "pbr": 1.7339926,
-      "change_percent": 1.1488500000000001,
-      "market_cap": 26355038208
     },
     {
       "code": "CMCSA",
@@ -107,7 +107,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 8.43125,
+      "per": 8.537975,
       "pbr": 2.0212767,
       "change_percent": 1.175,
       "market_cap": 14178726912
@@ -139,7 +139,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.512061,
+      "per": 9.531769,
       "pbr": 1.9425483,
       "change_percent": 0.15238901,
       "market_cap": 37835538432
@@ -208,12 +208,12 @@
       "per": 338.00003,
       "pbr": 0.96571434,
       "change_percent": 1.70512,
-      "market_cap": 11348415488
+      "market_cap": 11376530432
     },
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 13.71722,
+      "per": 13.609718,
       "pbr": 0.96745443,
       "change_percent": -0.8110569999999999,
       "market_cap": 20916924416
@@ -230,7 +230,7 @@
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.217054,
-      "pbr": 0.9949798,
+      "pbr": 0.9996587,
       "change_percent": 0.07593190000000001,
       "market_cap": 29024403456
     },
@@ -245,7 +245,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 44.09953,
+      "per": 44.73558,
       "pbr": 1.069233,
       "change_percent": -1.87704,
       "market_cap": 24622741504
@@ -261,7 +261,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 12.206897,
+      "per": 12.178899,
       "pbr": 1.1053749,
       "change_percent": 1.2006801,
       "market_cap": 64868352000
@@ -269,7 +269,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 35.907406,
+      "per": 34.832336,
       "pbr": 1.1319323,
       "change_percent": 3.15659,
       "market_cap": 20464291840
@@ -280,15 +280,15 @@
       "per": 8.17069,
       "pbr": 1.1443405,
       "change_percent": 0.10561699999999999,
-      "market_cap": 22674110464
+      "market_cap": 21941929984
     },
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 22.425339,
+      "per": 22.224216,
       "pbr": 1.1797754,
       "change_percent": 0.793173,
-      "market_cap": 10487913472
+      "market_cap": 10290308096
     },
     {
       "code": "L",
@@ -301,7 +301,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 15.014009,
+      "per": 14.949572,
       "pbr": 1.2143319,
       "change_percent": 0.43249899999999997,
       "market_cap": 233717268480
@@ -317,7 +317,7 @@
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 13.671756,
+      "per": 13.776923,
       "pbr": 1.2166293,
       "change_percent": 0.7878411,
       "market_cap": 36185628672
@@ -330,12 +330,12 @@
       "per": 19.633541,
       "pbr": 3.3354437,
       "change_percent": 7.553590000000001,
-      "market_cap": 30450180096
+      "market_cap": 29264900096
     },
     {
       "code": "SNDK",
       "name": "SANDISK CORP",
-      "per": 22.270456,
+      "per": 20.70279,
       "pbr": 17.629663,
       "change_percent": 7.39476,
       "market_cap": 239602057216
@@ -351,7 +351,7 @@
     {
       "code": "FOX",
       "name": "FOX CORP   CLASS B",
-      "per": 15.9921875,
+      "per": 15.125616,
       "pbr": 2.2159276,
       "change_percent": 5.697080000000001,
       "market_cap": 25770715136
@@ -359,10 +359,10 @@
     {
       "code": "STX",
       "name": "SEAGATE TECHNOLOGY HOLDINGS",
-      "per": 69.98131,
+      "per": 69.93104,
       "pbr": 199.4754,
       "change_percent": 5.65137,
-      "market_cap": 220970876928
+      "market_cap": 220624830464
     },
     {
       "code": "FOXA",
@@ -394,7 +394,7 @@
       "per": 18.020943,
       "pbr": 2.607378,
       "change_percent": 4.8112,
-      "market_cap": 28754388992
+      "market_cap": 28676345856
     },
     {
       "code": "GLW",
@@ -402,20 +402,20 @@
       "per": 76.49309,
       "pbr": 11.973599,
       "change_percent": 4.69914,
-      "market_cap": 142691287040
+      "market_cap": 142981857280
     },
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 20.964153,
-      "pbr": 24.327036,
+      "per": 20.078926,
+      "pbr": null,
       "change_percent": 4.4142097,
-      "market_cap": 175374270464
+      "market_cap": null
     },
     {
       "code": "ALB",
       "name": "ALBEMARLE CORP",
-      "per": 504.25922,
+      "per": 469.48276,
       "pbr": 1.998092,
       "change_percent": 4.34549,
       "market_cap": 16066387968
@@ -431,7 +431,7 @@
     {
       "code": "TRGP",
       "name": "TARGA RESOURCES CORP",
-      "per": 26.366158,
+      "per": 26.391388,
       "pbr": 18.880674,
       "change_percent": 3.33858,
       "market_cap": 59137933312
@@ -439,7 +439,7 @@
     {
       "code": "TPL",
       "name": "TEXAS PACIFIC LAND CORP",
-      "per": 44.261726,
+      "per": 45.671337,
       "pbr": 15.893252,
       "change_percent": 3.3079699999999996,
       "market_cap": 24728801280
@@ -463,7 +463,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 35.907406,
+      "per": 34.832336,
       "pbr": 1.1319323,
       "change_percent": 3.15659,
       "market_cap": 20464291840
@@ -471,7 +471,7 @@
     {
       "code": "NEM",
       "name": "NEWMONT CORP",
-      "per": 14.868687,
+      "per": 14.413709,
       "pbr": 3.5384617,
       "change_percent": 3.1263698,
       "market_cap": 124082806784
@@ -479,7 +479,7 @@
     {
       "code": "URI",
       "name": "UNITED RENTALS INC",
-      "per": 26.952345,
+      "per": 27.776358,
       "pbr": 7.7978344,
       "change_percent": 2.9672101,
       "market_cap": 71817248768
@@ -509,7 +509,7 @@
       "per": 8.17069,
       "pbr": 1.1443405,
       "change_percent": 0.10561699999999999,
-      "market_cap": 22674110464
+      "market_cap": 21941929984
     },
     {
       "code": "CMCSA",
@@ -525,11 +525,11 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 35.907406,
+      "per": 34.832336,
       "pbr": 1.1319323,
       "change_percent": 3.15659,
       "market_cap": 20464291840
     }
   ],
-  "generated_at": "2026-08-15T10:09:51+00:00"
+  "generated_at": "2026-08-15T10:50:45+00:00"
 }
