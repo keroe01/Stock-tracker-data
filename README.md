@@ -16,7 +16,12 @@ or the PC it runs on is on.
   저PER/상승률 lists. Constituent codes come from Naver's public
   entryJongmok.naver listing — full KRX300 membership isn't available
   for free without a KRX data-portal login. Full-replace snapshot, not
-  history (`data/screener.json`).
+  history (`data/screener_kr.json`).
+- S&P500 counterpart (`us_screener.py`) — same ranking logic, sourced
+  from Yahoo Finance quoteSummary per ticker. Constituent list comes
+  from SPDR's public SPY holdings file (an ETF that tracks the S&P 500)
+  since there's no free bulk "whole index" listing endpoint the way
+  Naver provides for KOSPI. Full-replace snapshot (`data/screener_us.json`).
 
 This repo is public — it only ever holds market-data snapshots (prices,
 screener results), nothing account-specific — so the desktop app (and any
@@ -31,5 +36,6 @@ copy of it, even one without cached git credentials) can always pull it.
 - `.github/workflows/collect.yml` — the schedule (every 2 hours, UTC).
 
 The desktop app (separate repo) pulls this repo: merges new DRAM/NAND/
-target-price rows into its own Excel store, and uses `screener.json`
-directly in place of running its own local scan when available.
+target-price rows into its own Excel store, and uses `screener_kr.json`/
+`screener_us.json` directly in place of running its own local scan when
+available.
