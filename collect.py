@@ -294,6 +294,17 @@ def collect_us_screener():
     print(f"screener_us.json: {total} entries across {len(result) - 1} lists")
 
 
+def collect_nasdaq100_screener():
+    """나스닥100 counterpart — narrower/more tech-heavy than S&P500, added
+    per request since S&P500 alone let too many small-caps into the
+    lists."""
+    result = us_screener.screen_nasdaq100_market()
+    result["generated_at"] = now_iso()
+    _save("screener_nasdaq100.json", result)
+    total = sum(len(v) for k, v in result.items() if k != "generated_at")
+    print(f"screener_nasdaq100.json: {total} entries across {len(result) - 1} lists")
+
+
 def main():
     with open(ROOT / "watchlist.json", encoding="utf-8") as f:
         watchlist = json.load(f)
@@ -301,6 +312,7 @@ def main():
     collect_target_price(watchlist)
     collect_kr_screener()
     collect_us_screener()
+    collect_nasdaq100_screener()
     # collect_prepost(watchlist) — no longer collected; the desktop app's
     # 시간외 feature that consumed this was removed as not useful in
     # practice, so this is now dead weight rather than something worth

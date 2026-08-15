@@ -1,8 +1,12 @@
-"""S&P500 저PER/저PBR/상승률 TOP20 screener — same ranking logic as
-kr_screener.py, but sourced from Yahoo Finance for the US market.
-Constituent list comes from SPDR's public SPY holdings file (an ETF
-that tracks the S&P 500) since Yahoo/Nasdaq don't offer a free bulk
-"whole index" listing endpoint the way Naver does for KOSPI."""
+"""S&P500 / 나스닥100 저PER/저PBR/상승률 TOP20 screeners — same ranking
+logic as kr_screener.py, sourced from Yahoo Finance for the US market.
+Each index's constituent list comes from a different practical free
+source since neither Yahoo nor Nasdaq offer a free bulk "whole index"
+listing endpoint the way Naver does for KOSPI:
+- S&P500: SPDR's public SPY holdings file (an ETF that tracks it)
+- 나스닥100: Wikipedia's "List of NASDAQ-100 companies" table — Invesco's
+  own QQQ holdings download blocks plain requests (406), and there's no
+  other free official source"""
 
 import io
 import re
@@ -10,11 +14,13 @@ from concurrent.futures import ThreadPoolExecutor
 
 import openpyxl
 import requests
+from bs4 import BeautifulSoup
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 SPY_HOLDINGS_URL = (
     "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx"
 )
+NASDAQ100_WIKI_URL = "https://en.wikipedia.org/wiki/List_of_NASDAQ-100_companies"
 QUOTE_SUMMARY_URL = "https://query1.finance.yahoo.com/v10/finance/quoteSummary/{symbol}"
 
 _MAX_WORKERS = 12
@@ -42,6 +48,30 @@ def _fetch_sp500_tickers() -> list[tuple[str, str]]:
         return out
     except Exception:
         print("failed to fetch SPY holdings")
+        return []
+
+
+def _fetch_nasdaq100_tickers() -> list[tuple[str, str]]:
+    try:
+        resp = requests.get(NASDAQ100_WIKI_URL, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        table = soup.find("table", class_="wikitable")
+        if table is None:
+            return []
+        out = []
+        for row in table.find_all("tr")[1:]:
+            cells = row.find_all("td")
+            if len(cells) < 2:
+                continue
+            ticker = cells[0].get_text(strip=True)
+            name = cells[1].get_text(strip=True)
+            if not _TICKER_RE.match(ticker):
+                continue
+            out.append((ticker, name))
+        return out
+    except Exception:
+        print("failed to fetch Nasdaq-100 constituents")
         return []
 
 
@@ -104,18 +134,17 @@ def _fetch_stock(ticker: str, name: str) -> dict | None:
         return None
 
 
-def _fetch_all_sp500() -> list[dict]:
-    tickers = _fetch_sp500_tickers()
+def _fetch_all(tickers: list[tuple[str, str]]) -> list[dict]:
     with ThreadPoolExecutor(max_workers=_MAX_WORKERS) as pool:
         results = list(pool.map(lambda t: _fetch_stock(*t), tickers))
     return [r for r in results if r is not None]
 
 
-def screen_us_market() -> dict:
+def _screen(tickers: list[tuple[str, str]]) -> dict:
     """Same output shape as kr_screener.screen_kr_market(): TOP 20 lowest
-    PER, TOP 20 lowest PBR, TOP 20 highest daily % change (all among
-    S&P500 members), plus 4 short (COMBO_N) overlap-highlight lists."""
-    all_stocks = _fetch_all_sp500()
+    PER, TOP 20 lowest PBR, TOP 20 highest daily % change (among the
+    given tickers), plus 4 short (COMBO_N) overlap-highlight lists."""
+    all_stocks = _fetch_all(tickers)
 
     per_ranked = sorted(
         (s for s in all_stocks if s["per"] is not None and s["per"] > 0), key=lambda s: s["per"]
@@ -156,3 +185,11 @@ def screen_us_market() -> dict:
         "per_rise": per_rise,
         "pbr_rise": pbr_rise,
     }
+
+
+def screen_us_market() -> dict:
+    return _screen(_fetch_sp500_tickers())
+
+
+def screen_nasdaq100_market() -> dict:
+    return _screen(_fetch_nasdaq100_tickers())

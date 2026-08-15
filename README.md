@@ -17,11 +17,17 @@ or the PC it runs on is on.
   entryJongmok.naver listing — full KRX300 membership isn't available
   for free without a KRX data-portal login. Full-replace snapshot, not
   history (`data/screener_kr.json`).
-- S&P500 counterpart (`us_screener.py`) — same ranking logic, sourced
-  from Yahoo Finance quoteSummary per ticker. Constituent list comes
-  from SPDR's public SPY holdings file (an ETF that tracks the S&P 500)
-  since there's no free bulk "whole index" listing endpoint the way
-  Naver provides for KOSPI. Full-replace snapshot (`data/screener_us.json`).
+- S&P500 and 나스닥100 counterparts (`us_screener.py`) — same ranking
+  logic, sourced from Yahoo Finance quoteSummary per ticker. Neither
+  Yahoo nor Nasdaq offer a free bulk "whole index" listing endpoint the
+  way Naver provides for KOSPI, so each index's constituent list comes
+  from a different practical free source: S&P500 from SPDR's public SPY
+  holdings file (an ETF that tracks it), 나스닥100 from Wikipedia's
+  "List of NASDAQ-100 companies" table (Invesco's own QQQ holdings
+  download blocks plain requests with a 406). Full-replace snapshots
+  (`data/screener_us.json`, `data/screener_nasdaq100.json`). 나스닥100
+  was added alongside S&P500 per request — S&P500 alone let too many
+  small-caps into the 저PER/상승률 lists.
 
 This repo is public — it only ever holds market-data snapshots (prices,
 screener results), nothing account-specific — so the desktop app (and any
