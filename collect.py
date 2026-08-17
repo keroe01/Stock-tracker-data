@@ -266,6 +266,167 @@ def collect_prepost(watchlist: list[dict]):
     print(f"prepost.json: {changed} snapshots updated")
 
 
+# ---- Cloud/AI-infra tracked companies: revenue, FCF, RPO/backlog ----
+# Ported from the desktop app's app/services/cloud_data.py + sec_edgar.py —
+# this used to be a live fetch the app ran itself on every start (Yahoo
+# revenue + 5x SEC EDGAR XBRL round trips), which is what made the
+# 클라우드 tab visibly slow to populate. Same idea as DRAM/NAND/target
+# price above: collect it here on a schedule instead, so the desktop app
+# just reads an already-fresh JSON snapshot.
+
+SEC_HEADERS = {"User-Agent": "StockTrackerApp (personal project) contact@example.invalid"}
+_SEC_CONCEPT_URL = "https://data.sec.gov/api/xbrl/companyconcept/CIK{cik}/us-gaap/{concept}.json"
+
+# Meta was requested too, but excluded: it doesn't disclose a backlog/RPO
+# figure the way the other 5 do.
+CLOUD_TICKERS = [
+    {"symbol": "MSFT", "name": "Microsoft"},
+    {"symbol": "AMZN", "name": "Amazon"},
+    {"symbol": "GOOGL", "name": "Alphabet"},
+    {"symbol": "CRWV", "name": "CoreWeave"},
+    {"symbol": "NBIS", "name": "Nebius"},
+]
+
+CIK_BY_SYMBOL = {
+    "MSFT": "0000789019",
+    "AMZN": "0001018724",
+    "GOOGL": "0001652044",
+    "CRWV": "0001769628",
+    "NBIS": "0001513845",
+}
+
+# Amazon stopped tagging its RPO in structured XBRL data around 2020 and
+# has no dimensional/custom extension tag standing in for it either — its
+# current AWS-specific backlog is disclosed only as prose in the 10-Q, not
+# machine-readable, so it's excluded here and stays whatever was last
+# manually researched into the app's own CloudBacklog sheet.
+RPO_AUTO_SYMBOLS = ("MSFT", "GOOGL", "CRWV", "NBIS")
+
+_OCF_CONCEPT = "NetCashProvidedByUsedInOperatingActivities"
+_CAPEX_CONCEPTS = ("PaymentsToAcquirePropertyPlantAndEquipment", "PaymentsToAcquireProductiveAssets")
+_RPO_CONCEPT = "RevenueRemainingPerformanceObligation"
+
+
+def _fetch_sec_concept(cik: str, concept: str) -> list[dict]:
+    try:
+        resp = requests.get(_SEC_CONCEPT_URL.format(cik=cik, concept=concept), headers=SEC_HEADERS, timeout=15)
+        if resp.status_code == 404:
+            return []
+        resp.raise_for_status()
+        return resp.json().get("units", {}).get("USD", [])
+    except Exception:
+        print(f"failed to fetch SEC XBRL concept {concept} for CIK {cik}")
+        return []
+
+
+def _derive_quarterly_series(facts: list[dict]) -> list[dict]:
+    """Not every company tags a genuine standalone-quarter duration fact
+    for every quarter (Microsoft's 10-K never reports a lone Q4;
+    CoreWeave's 10-Qs report cumulative year-to-date figures). Grouping by
+    each fact's exact `start` date and differencing consecutive
+    cumulative end-of-period values recovers each standalone quarter
+    regardless of which reporting style a company uses."""
+    by_start: dict[str, dict[str, tuple[float, str]]] = {}
+    for f in facts:
+        start, end, val, filed = f.get("start"), f.get("end"), f.get("val"), f.get("filed", "")
+        if not start or not end or val is None:
+            continue
+        group = by_start.setdefault(start, {})
+        existing = group.get(end)
+        if existing is None or filed >= existing[1]:
+            group[end] = (val, filed)
+
+    out: dict[str, float] = {}
+    out_filed: dict[str, str] = {}
+    for start, ends in by_start.items():
+        prev_val = 0.0
+        for end, (val, filed) in sorted(ends.items(), key=lambda kv: kv[0]):
+            quarterly = val - prev_val
+            prev_val = val
+            if end not in out or filed >= out_filed[end]:
+                out[end] = quarterly
+                out_filed[end] = filed
+    return [{"end": end, "val": val} for end, val in sorted(out.items())]
+
+
+def fetch_quarterly_fcf(symbol: str, quarters: int = 4, max_age_days: int = 370) -> list[dict]:
+    """Single-quarter FCF points from roughly the last year:
+    [{"quarter_end", "fcf"}], computed as operating cash flow minus capex."""
+    cik = CIK_BY_SYMBOL.get(symbol)
+    if cik is None:
+        return []
+    ocf = _derive_quarterly_series(_fetch_sec_concept(cik, _OCF_CONCEPT))
+    capex_by_end: dict[str, float] = {}
+    for concept in _CAPEX_CONCEPTS:
+        for f in _derive_quarterly_series(_fetch_sec_concept(cik, concept)):
+            capex_by_end.setdefault(f["end"], f["val"])
+    out = []
+    for f in ocf:
+        end = f["end"]
+        if end not in capex_by_end:
+            continue
+        out.append({"quarter_end": end, "fcf": f["val"] - capex_by_end[end]})
+    out = out[-quarters:]
+    cutoff = datetime.date.today() - datetime.timedelta(days=max_age_days)
+    return [f for f in out if datetime.date.fromisoformat(f["quarter_end"]) >= cutoff]
+
+
+def fetch_rpo_history(symbol: str, quarters: int = 4) -> list[dict]:
+    """Last `quarters` disclosed RPO/backlog points: [{"quarter_end",
+    "rpo"}]. Amazon returns nothing (see RPO_AUTO_SYMBOLS)."""
+    cik = CIK_BY_SYMBOL.get(symbol)
+    if cik is None:
+        return []
+    facts = _fetch_sec_concept(cik, _RPO_CONCEPT)
+    by_end: dict[str, dict] = {}
+    for f in facts:
+        end = f.get("end")
+        if not end:
+            continue
+        existing = by_end.get(end)
+        if existing is None or f.get("filed", "") >= existing.get("filed", ""):
+            by_end[end] = f
+    points = sorted(by_end.values(), key=lambda f: f["end"])
+    return [{"quarter_end": f["end"], "rpo": f["val"]} for f in points[-quarters:]]
+
+
+def collect_cloud_growth():
+    """Full-replace snapshot (like the screeners below), not an
+    accumulating history — each run's result fully supersedes the last.
+    Revenue comes from Yahoo (same as before); FCF/RPO from SEC EDGAR XBRL,
+    the only source with genuine per-quarter history now that Yahoo's
+    quoteSummary dropped real quarterly cash-flow/balance-sheet data."""
+    rows = []
+    for t in CLOUD_TICKERS:
+        symbol = t["symbol"]
+        row = {
+            "symbol": symbol,
+            "name": t["name"],
+            "last_fy_revenue": None,
+            "last_fy_end": None,
+            "latest_q_revenue": None,
+            "latest_q_end": None,
+            "fcf_history": fetch_quarterly_fcf(symbol),
+            "rpo_history": fetch_rpo_history(symbol) if symbol in RPO_AUTO_SYMBOLS else [],
+        }
+        data = fetch_quote_summary(symbol, "incomeStatementHistory,incomeStatementHistoryQuarterly")
+        if data is not None:
+            ish = data.get("incomeStatementHistory", {}).get("incomeStatementHistory", [])
+            ishq = data.get("incomeStatementHistoryQuarterly", {}).get("incomeStatementHistory", [])
+            last_fy = ish[0] if ish else {}
+            last_q = ishq[0] if ishq else {}
+            row.update(
+                last_fy_revenue=_raw(last_fy.get("totalRevenue")),
+                last_fy_end=(last_fy.get("endDate") or {}).get("fmt"),
+                latest_q_revenue=_raw(last_q.get("totalRevenue")),
+                latest_q_end=(last_q.get("endDate") or {}).get("fmt"),
+            )
+        rows.append(row)
+        time.sleep(0.5)
+    _save("cloud_growth.json", {"rows": rows, "generated_at": now_iso()})
+    print(f"cloud_growth.json: {len(rows)} companies")
+
+
 # ---- 코스피200 / S&P500 저PER/저PBR/상승률 screeners ----
 
 
@@ -310,6 +471,7 @@ def main():
         watchlist = json.load(f)
     collect_memory_spot()
     collect_target_price(watchlist)
+    collect_cloud_growth()
     collect_kr_screener()
     collect_us_screener()
     collect_nasdaq100_screener()

@@ -1,0 +1,184 @@
+{
+  "rows": [
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "last_fy_revenue": 331839000000,
+      "last_fy_end": "2026-06-30",
+      "latest_q_revenue": 90007000000,
+      "latest_q_end": "2026-06-30",
+      "fcf_history": [
+        {
+          "quarter_end": "2025-09-30",
+          "fcf": 25663000000.0
+        },
+        {
+          "quarter_end": "2025-12-31",
+          "fcf": 5882000000.0
+        },
+        {
+          "quarter_end": "2026-03-31",
+          "fcf": 15803000000.0
+        },
+        {
+          "quarter_end": "2026-06-30",
+          "fcf": 19639000000
+        }
+      ],
+      "rpo_history": [
+        {
+          "quarter_end": "2025-09-30",
+          "rpo": 398000000000
+        },
+        {
+          "quarter_end": "2025-12-31",
+          "rpo": 631000000000
+        },
+        {
+          "quarter_end": "2026-03-31",
+          "rpo": 633000000000
+        },
+        {
+          "quarter_end": "2026-06-30",
+          "rpo": 684000000000
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "last_fy_revenue": 716924000000,
+      "last_fy_end": "2025-12-31",
+      "latest_q_revenue": 181519000000,
+      "latest_q_end": "2026-03-31",
+      "fcf_history": [
+        {
+          "quarter_end": "2025-09-30",
+          "fcf": 430000000.0
+        },
+        {
+          "quarter_end": "2025-12-31",
+          "fcf": 14937000000
+        },
+        {
+          "quarter_end": "2026-03-31",
+          "fcf": -18171000000.0
+        },
+        {
+          "quarter_end": "2026-06-30",
+          "fcf": -8821000000.0
+        }
+      ],
+      "rpo_history": []
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "last_fy_revenue": 402836000000,
+      "last_fy_end": "2025-12-31",
+      "latest_q_revenue": 119796000000,
+      "latest_q_end": "2026-06-30",
+      "fcf_history": [
+        {
+          "quarter_end": "2025-09-30",
+          "fcf": 24461000000
+        },
+        {
+          "quarter_end": "2025-12-31",
+          "fcf": 24551000000
+        },
+        {
+          "quarter_end": "2026-03-31",
+          "fcf": 10116000000.0
+        },
+        {
+          "quarter_end": "2026-06-30",
+          "fcf": -5855000000
+        }
+      ],
+      "rpo_history": [
+        {
+          "quarter_end": "2025-09-30",
+          "rpo": 157700000000
+        },
+        {
+          "quarter_end": "2025-12-31",
+          "rpo": 242800000000
+        },
+        {
+          "quarter_end": "2026-03-31",
+          "rpo": 467600000000
+        },
+        {
+          "quarter_end": "2026-06-30",
+          "rpo": 519500000000
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "last_fy_revenue": 5131000000,
+      "last_fy_end": "2025-12-31",
+      "latest_q_revenue": 2575000000,
+      "latest_q_end": "2026-06-30",
+      "fcf_history": [
+        {
+          "quarter_end": "2025-09-30",
+          "fcf": -700188000
+        },
+        {
+          "quarter_end": "2025-12-31",
+          "fcf": -2500812000
+        },
+        {
+          "quarter_end": "2026-03-31",
+          "fcf": -4711000000.0
+        },
+        {
+          "quarter_end": "2026-06-30",
+          "fcf": -5743000000
+        }
+      ],
+      "rpo_history": [
+        {
+          "quarter_end": "2025-09-30",
+          "rpo": 50000000000
+        },
+        {
+          "quarter_end": "2025-12-31",
+          "rpo": 60700000000
+        },
+        {
+          "quarter_end": "2026-03-31",
+          "rpo": 98800000000
+        },
+        {
+          "quarter_end": "2026-06-30",
+          "rpo": 103700000000
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "last_fy_revenue": 529800000,
+      "last_fy_end": "2025-12-31",
+      "latest_q_revenue": 582300000,
+      "latest_q_end": "2026-06-30",
+      "fcf_history": [
+        {
+          "quarter_end": "2025-12-31",
+          "fcf": -3681200000.0
+        }
+      ],
+      "rpo_history": [
+        {
+          "quarter_end": "2025-12-31",
+          "rpo": 21333000000
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-08-17T05:22:22+00:00"
+}
