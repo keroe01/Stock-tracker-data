@@ -30,7 +30,7 @@
       "per": 11.651253,
       "pbr": 2.629931,
       "change_percent": -1.9299400000000002,
-      "market_cap": 52125143040
+      "market_cap": 51729719296
     },
     {
       "code": "ADBE",
@@ -62,7 +62,7 @@
       "per": 16.988262,
       "pbr": 2.9784346,
       "change_percent": -1.7912899999999998,
-      "market_cap": 32920518656
+      "market_cap": 32688533504
     },
     {
       "code": "GOOG",
@@ -110,7 +110,7 @@
       "per": 19.689442,
       "pbr": 3.3449404,
       "change_percent": 0.28472,
-      "market_cap": 30536878080
+      "market_cap": 29348222976
     },
     {
       "code": "REGN",
@@ -132,7 +132,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 20.962456,
-      "pbr": 25.628017,
+      "pbr": null,
       "change_percent": 5.34788,
       "market_cap": 193253539840
     },
@@ -192,7 +192,7 @@
       "per": 38.631084,
       "pbr": 1.5271353,
       "change_percent": 1.8867001,
-      "market_cap": 58032119808
+      "market_cap": 57765277696
     },
     {
       "code": "EXC",
@@ -272,7 +272,7 @@
       "per": 11.651253,
       "pbr": 2.629931,
       "change_percent": -1.9299400000000002,
-      "market_cap": 52125143040
+      "market_cap": 51729719296
     },
     {
       "code": "GEHC",
@@ -280,7 +280,7 @@
       "per": 16.988262,
       "pbr": 2.9784346,
       "change_percent": -1.7912899999999998,
-      "market_cap": 32920518656
+      "market_cap": 32688533504
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 38.8625,
       "pbr": 2.988992,
       "change_percent": -2.24807,
-      "market_cap": 79817342976
+      "market_cap": 79360835584
     },
     {
       "code": "CEG",
@@ -312,7 +312,7 @@
       "per": 19.689442,
       "pbr": 3.3449404,
       "change_percent": 0.28472,
-      "market_cap": 30536878080
+      "market_cap": 29348222976
     },
     {
       "code": "PCAR",
@@ -336,7 +336,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 57.476006,
-      "pbr": 20.172989,
+      "pbr": 22.06543,
       "change_percent": 5.81437,
       "market_cap": 69280841728
     },
@@ -360,7 +360,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 20.962456,
-      "pbr": 25.628017,
+      "pbr": null,
       "change_percent": 5.34788,
       "market_cap": 193253539840
     },
@@ -386,7 +386,7 @@
       "per": null,
       "pbr": 15.143951,
       "change_percent": 4.4499997,
-      "market_cap": 1926461259776
+      "market_cap": 1927571570688
     },
     {
       "code": "MU",
@@ -394,7 +394,7 @@
       "per": 21.98023,
       "pbr": 11.340582,
       "change_percent": 4.12593,
-      "market_cap": 1142663544832
+      "market_cap": null
     },
     {
       "code": "LRCX",
@@ -426,7 +426,7 @@
       "per": 69.90794,
       "pbr": 203.8504,
       "change_percent": 2.19325,
-      "market_cap": 225817329664
+      "market_cap": 225463681024
     },
     {
       "code": "ASML",
@@ -442,7 +442,7 @@
       "per": 29.493708,
       "pbr": 6.450745,
       "change_percent": 1.9377101,
-      "market_cap": 130588811264
+      "market_cap": 130671779840
     },
     {
       "code": "FANG",
@@ -450,7 +450,7 @@
       "per": 38.631084,
       "pbr": 1.5271353,
       "change_percent": 1.8867001,
-      "market_cap": 58032119808
+      "market_cap": 57765277696
     },
     {
       "code": "MCHP",
@@ -482,7 +482,7 @@
       "per": 25.776276,
       "pbr": 19.39778,
       "change_percent": 1.0043099999999998,
-      "market_cap": 226342862848
+      "market_cap": 226884583424
     }
   ],
   "triple": [
@@ -518,7 +518,7 @@
       "per": 11.651253,
       "pbr": 2.629931,
       "change_percent": -1.9299400000000002,
-      "market_cap": 52125143040
+      "market_cap": 51729719296
     },
     {
       "code": "ROP",
@@ -550,7 +550,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 20.962456,
-      "pbr": 25.628017,
+      "pbr": null,
       "change_percent": 5.34788,
       "market_cap": 193253539840
     }
@@ -570,7 +570,7 @@
       "per": 38.631084,
       "pbr": 1.5271353,
       "change_percent": 1.8867001,
-      "market_cap": 58032119808
+      "market_cap": 57765277696
     },
     {
       "code": "PDD",
@@ -581,5 +581,5 @@
       "market_cap": 123750096896
     }
   ],
-  "generated_at": "2026-08-18T07:58:51+00:00"
+  "generated_at": "2026-08-18T09:18:57+00:00"
 }
