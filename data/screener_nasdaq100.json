@@ -3,18 +3,10 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.383607,
+      "per": 8.195513,
       "pbr": 1.0102327,
       "change_percent": -2.33003,
       "market_cap": 90738638848
-    },
-    {
-      "code": "PDD",
-      "name": "PDD Holdings",
-      "per": 8.862385,
-      "pbr": 1.9440147,
-      "change_percent": 2.5356801,
-      "market_cap": 123750096896
     },
     {
       "code": "HON",
@@ -23,6 +15,14 @@
       "pbr": 3.923094,
       "change_percent": -1.92768,
       "market_cap": 72721883136
+    },
+    {
+      "code": "PDD",
+      "name": "PDD Holdings",
+      "per": 9.094142,
+      "pbr": 1.9440147,
+      "change_percent": 2.5356801,
+      "market_cap": 123750096896
     },
     {
       "code": "PYPL",
@@ -35,7 +35,7 @@
     {
       "code": "ADBE",
       "name": "Adobe Inc.",
-      "per": 15.103448,
+      "per": 14.533181,
       "pbr": 8.80036,
       "change_percent": -3.78002,
       "market_cap": 100980899840
@@ -49,25 +49,25 @@
       "market_cap": 38542659584
     },
     {
-      "code": "EXC",
-      "name": "Exelon",
-      "per": 16.877777,
-      "pbr": 1.5839416,
-      "change_percent": -0.6323610000000001,
-      "market_cap": 46948671488
-    },
-    {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.988262,
+      "per": 16.675116,
       "pbr": 2.9784346,
       "change_percent": -1.7912899999999998,
       "market_cap": 32688533504
     },
     {
+      "code": "EXC",
+      "name": "Exelon",
+      "per": 16.753675,
+      "pbr": 1.5839416,
+      "change_percent": -0.6323610000000001,
+      "market_cap": 46948671488
+    },
+    {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 17.244951,
+      "per": 17.12387,
       "pbr": 6.708779,
       "change_percent": -0.608371,
       "market_cap": 4175911452672
@@ -75,7 +75,7 @@
     {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
-      "per": 17.364967,
+      "per": 17.269075,
       "pbr": 6.758881,
       "change_percent": -0.5492900000000001,
       "market_cap": 4207097675776
@@ -91,7 +91,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.94626,
+      "per": 18.513697,
       "pbr": 6.1978827,
       "change_percent": -2.1774499,
       "market_cap": 170326933504
@@ -99,7 +99,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 19.08051,
+      "per": 18.841003,
       "pbr": 3.440819,
       "change_percent": -1.3635599999999999,
       "market_cap": 193209614336
@@ -173,7 +173,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.383607,
+      "per": 8.195513,
       "pbr": 1.0102327,
       "change_percent": -2.33003,
       "market_cap": 90738638848
@@ -197,7 +197,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.877777,
+      "per": 16.753675,
       "pbr": 1.5839416,
       "change_percent": -0.6323610000000001,
       "market_cap": 46948671488
@@ -213,7 +213,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.862385,
+      "per": 9.094142,
       "pbr": 1.9440147,
       "change_percent": 2.5356801,
       "market_cap": 123750096896
@@ -277,7 +277,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.988262,
+      "per": 16.675116,
       "pbr": 2.9784346,
       "change_percent": -1.7912899999999998,
       "market_cap": 32688533504
@@ -327,7 +327,7 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 22.271593,
+      "per": 24.212059,
       "pbr": 19.195278,
       "change_percent": 8.8805705,
       "market_cap": 260880089088
@@ -343,7 +343,7 @@
     {
       "code": "AMAT",
       "name": "Applied Materials",
-      "per": 43.66313,
+      "per": 46.067986,
       "pbr": 16.585901,
       "change_percent": 5.54636,
       "market_cap": 425014427648
@@ -391,7 +391,7 @@
     {
       "code": "MU",
       "name": "Micron Technology",
-      "per": 21.98023,
+      "per": 22.885094,
       "pbr": 11.340582,
       "change_percent": 4.12593,
       "market_cap": null
@@ -407,7 +407,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.862385,
+      "per": 9.094142,
       "pbr": 1.9440147,
       "change_percent": 2.5356801,
       "market_cap": 123750096896
@@ -431,7 +431,7 @@
     {
       "code": "ASML",
       "name": "ASML Holding",
-      "per": 62.896458,
+      "per": 64.09531,
       "pbr": 1590.8455,
       "change_percent": 2.1170499,
       "market_cap": 723306414080
@@ -463,7 +463,7 @@
     {
       "code": "TXN",
       "name": "Texas Instruments",
-      "per": 42.54286,
+      "per": 42.9302,
       "pbr": 14.344167,
       "change_percent": 1.19108,
       "market_cap": 258366898176
@@ -471,7 +471,7 @@
     {
       "code": "CSCO",
       "name": "Cisco",
-      "per": 33.601192,
+      "per": 33.903904,
       "pbr": 8.866028,
       "change_percent": 1.09241,
       "market_cap": 444987965440
@@ -479,7 +479,7 @@
     {
       "code": "AMGN",
       "name": "Amgen",
-      "per": 25.776276,
+      "per": 26.048447,
       "pbr": 19.39778,
       "change_percent": 1.0043099999999998,
       "market_cap": 226884583424
@@ -489,7 +489,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.862385,
+      "per": 9.094142,
       "pbr": 1.9440147,
       "change_percent": 2.5356801,
       "market_cap": 123750096896
@@ -499,7 +499,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.383607,
+      "per": 8.195513,
       "pbr": 1.0102327,
       "change_percent": -2.33003,
       "market_cap": 90738638848
@@ -507,7 +507,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.862385,
+      "per": 9.094142,
       "pbr": 1.9440147,
       "change_percent": 2.5356801,
       "market_cap": 123750096896
@@ -529,19 +529,19 @@
       "market_cap": 38542659584
     },
     {
-      "code": "EXC",
-      "name": "Exelon",
-      "per": 16.877777,
-      "pbr": 1.5839416,
-      "change_percent": -0.6323610000000001,
-      "market_cap": 46948671488
+      "code": "GEHC",
+      "name": "GE HealthCare",
+      "per": 16.675116,
+      "pbr": 2.9784346,
+      "change_percent": -1.7912899999999998,
+      "market_cap": 32688533504
     }
   ],
   "per_rise": [
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.862385,
+      "per": 9.094142,
       "pbr": 1.9440147,
       "change_percent": 2.5356801,
       "market_cap": 123750096896
@@ -575,11 +575,11 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.862385,
+      "per": 9.094142,
       "pbr": 1.9440147,
       "change_percent": 2.5356801,
       "market_cap": 123750096896
     }
   ],
-  "generated_at": "2026-08-18T09:18:57+00:00"
+  "generated_at": "2026-08-18T11:00:41+00:00"
 }
