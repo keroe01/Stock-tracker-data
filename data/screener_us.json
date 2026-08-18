@@ -22,7 +22,7 @@
       "per": 5.5074625,
       "pbr": 2.1298702,
       "change_percent": 0.20367100000000002,
-      "market_cap": 10526208000
+      "market_cap": 10530355200
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.5871997,
       "pbr": 1.3322331,
       "change_percent": -4.07735,
-      "market_cap": 21279913984
+      "market_cap": 21231611904
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.7198105,
       "pbr": 1.4316871,
       "change_percent": -0.911763,
-      "market_cap": 33353209856
+      "market_cap": 33375619072
     },
     {
       "code": "EG",
@@ -70,15 +70,7 @@
       "per": 8.118534,
       "pbr": 1.137036,
       "change_percent": -0.63831597,
-      "market_cap": 22529378304
-    },
-    {
-      "code": "T",
-      "name": "AT+T INC",
-      "per": 8.145215,
-      "pbr": 1.5371201,
-      "change_percent": -0.8437089999999999,
-      "market_cap": 169116876800
+      "market_cap": 21801869312
     },
     {
       "code": "CINF",
@@ -87,6 +79,14 @@
       "pbr": 1.574022,
       "change_percent": -1.2184599,
       "market_cap": 26253955072
+    },
+    {
+      "code": "T",
+      "name": "AT+T INC",
+      "per": 8.226666,
+      "pbr": 1.5371201,
+      "change_percent": -0.8437089999999999,
+      "market_cap": 169116876800
     },
     {
       "code": "SYF",
@@ -121,20 +121,20 @@
       "market_cap": 17824604160
     },
     {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.975041,
-      "pbr": 2.0730207,
-      "change_percent": -1.3352799,
-      "market_cap": 14501852160
-    },
-    {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
       "per": 8.994512,
       "pbr": 3.923094,
       "change_percent": -1.92768,
       "market_cap": 72721883136
+    },
+    {
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 9.096122,
+      "pbr": 2.0730207,
+      "change_percent": -1.3352799,
+      "market_cap": 14501852160
     },
     {
       "code": "HIG",
@@ -216,7 +216,7 @@
       "per": 342.66666,
       "pbr": 0.9790476,
       "change_percent": 1.38066,
-      "market_cap": 11505099776
+      "market_cap": 11533601792
     },
     {
       "code": "AIG",
@@ -230,7 +230,7 @@
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.220472,
-      "pbr": 0.97988147,
+      "pbr": 0.9844893,
       "change_percent": -1.51746,
       "market_cap": 28583970816
     },
@@ -261,7 +261,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 12.075862,
+      "per": 12.216278,
       "pbr": 1.0935093,
       "change_percent": -1.0734499,
       "market_cap": 64172023808
@@ -272,7 +272,7 @@
       "per": 8.118534,
       "pbr": 1.137036,
       "change_percent": -0.63831597,
-      "market_cap": 22529378304
+      "market_cap": 21801869312
     },
     {
       "code": "TSN",
@@ -288,7 +288,7 @@
       "per": 22.439463,
       "pbr": 1.1912017,
       "change_percent": 0.968522,
-      "market_cap": 10589491200
+      "market_cap": 10389971968
     },
     {
       "code": "PCG",
@@ -309,7 +309,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.788958,
+      "per": 13.874073,
       "pbr": 1.2016938,
       "change_percent": -0.5750700400000001,
       "market_cap": 22973585408
@@ -336,7 +336,7 @@
       "code": "COHR",
       "name": "COHERENT CORP",
       "per": 79.28217,
-      "pbr": 6.4324827,
+      "pbr": 6.303868,
       "change_percent": 7.792409999999999,
       "market_cap": 68780195840
     },
@@ -351,8 +351,8 @@
     {
       "code": "TER",
       "name": "TERADYNE INC",
-      "per": 60.787384,
-      "pbr": 20.172989,
+      "per": 57.476006,
+      "pbr": 22.06543,
       "change_percent": 5.81437,
       "market_cap": 69280841728
     },
@@ -375,8 +375,8 @@
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 22.08529,
-      "pbr": 25.628017,
+      "per": 20.962456,
+      "pbr": null,
       "change_percent": 5.34788,
       "market_cap": 193253539840
     },
@@ -402,7 +402,7 @@
       "per": 76.30397,
       "pbr": 12.4944105,
       "change_percent": 4.3496597999999995,
-      "market_cap": 148897873920
+      "market_cap": 149201076224
     },
     {
       "code": "MU",
@@ -410,7 +410,7 @@
       "per": 21.98023,
       "pbr": 11.340582,
       "change_percent": 4.12593,
-      "market_cap": 1142663544832
+      "market_cap": null
     },
     {
       "code": "CIEN",
@@ -458,7 +458,7 @@
       "per": 13.334257,
       "pbr": 3.0465565,
       "change_percent": 2.9707601,
-      "market_cap": 95984484352
+      "market_cap": 96444915712
     },
     {
       "code": "CAT",
@@ -471,7 +471,7 @@
     {
       "code": "FCX",
       "name": "FREEPORT MCMORAN INC",
-      "per": 33.519608,
+      "per": 32.561905,
       "pbr": 4.883239,
       "change_percent": 2.84253,
       "market_cap": 95731998720
@@ -479,7 +479,7 @@
     {
       "code": "CASY",
       "name": "CASEY S GENERAL STORES INC",
-      "per": 45.478832,
+      "per": 44.2303,
       "pbr": 8.12486,
       "change_percent": 2.7833901,
       "market_cap": 32194643968
@@ -509,7 +509,7 @@
       "per": 8.118534,
       "pbr": 1.137036,
       "change_percent": -0.63831597,
-      "market_cap": 22529378304
+      "market_cap": 21801869312
     },
     {
       "code": "CMCSA",
@@ -522,5 +522,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-08-18T03:10:10+00:00"
+  "generated_at": "2026-08-18T05:16:48+00:00"
 }
