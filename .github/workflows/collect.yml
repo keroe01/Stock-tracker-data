@@ -31,5 +31,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "Update collected data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m "Update collected data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # The desktop app can also push to this same repo every 10
+          # minutes while it's running — if it lands between this job's
+          # checkout and this push, a plain `git push` would be rejected
+          # as non-fast-forward with no retry, silently dropping this
+          # run's data until the next 2h cycle. Rebase onto whatever's new
+          # first, same defensive move the app's own push already makes.
+          git pull --rebase --autostash
           git push
