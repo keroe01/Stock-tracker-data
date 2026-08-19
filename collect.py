@@ -145,7 +145,20 @@ def collect_memory_spot():
 # app's cloud_data.py.
 
 _ECOS_API_KEY = os.environ.get("ECOS_API_KEY", "sample")
-_BOND_HISTORY_DAYS = 400  # a bit over a year of trading days
+_BOND_HISTORY_YEARS = 3
+
+
+def _bond_cutoff_date() -> str:
+    """Same calendar cutoff for every country, so all three lines start at
+    the same point on a date-based x-axis — trimming each country to "the
+    last N rows" instead left them starting on different dates, since each
+    market has its own trading-day calendar (holidays, weekends)."""
+    d = datetime.date.today()
+    try:
+        cutoff = d.replace(year=d.year - _BOND_HISTORY_YEARS)
+    except ValueError:
+        cutoff = d.replace(month=2, day=28, year=d.year - _BOND_HISTORY_YEARS)
+    return cutoff.isoformat()
 
 
 def _fetch_us_treasury_year(year: int) -> list[dict]:
@@ -175,29 +188,24 @@ def _fetch_us_treasury_year(year: int) -> list[dict]:
 def fetch_us_treasury_yields() -> list[dict]:
     """US Treasury's own official daily par yield curve — 10 Yr/30 Yr
     columns directly. The CSV is served one calendar year per request, so
-    early in a year "this year alone" was only a few months deep — visibly
-    shorter than Japan's ~400-trading-day reach, making the US line look
-    like it started abruptly partway through the chart instead of running
-    the same length as everyone else's. Pulling the previous year too and
-    trimming to the same _BOND_HISTORY_DAYS window keeps every country's
-    line comparable in length regardless of what month it is."""
-    year = datetime.date.today().year
-    try:
-        rows = _fetch_us_treasury_year(year)
+    covering _BOND_HISTORY_YEARS back means fetching one request per
+    calendar year in that span, then filtering to the shared cutoff date
+    (see _bond_cutoff_date) so the US line starts on the same date as
+    Japan/Korea's rather than at some arbitrary trading-day count."""
+    cutoff = _bond_cutoff_date()
+    this_year = datetime.date.today().year
+    start_year = int(cutoff[:4])
+    rows: list[dict] = []
+    for year in range(start_year, this_year + 1):
         try:
-            rows = _fetch_us_treasury_year(year - 1) + rows
+            rows.extend(_fetch_us_treasury_year(year))
         except Exception:
-            pass  # this year's data alone is still useful even if last year's fetch fails
-        rows.sort(key=lambda r: r["date"])
-        # Trim per maturity, not the flat list, so both maturities keep a
-        # full window even though each date contributes 2 rows (10Y+30Y).
-        by_maturity: dict[str, list[dict]] = {}
-        for r in rows:
-            by_maturity.setdefault(r["maturity"], []).append(r)
-        return [r for rs in by_maturity.values() for r in rs[-_BOND_HISTORY_DAYS:]]
-    except Exception:
-        print("failed to fetch US Treasury yields")
+            print(f"failed to fetch US Treasury yields for {year}")
+    if not rows:
         return []
+    rows = [r for r in rows if r["date"] >= cutoff]
+    rows.sort(key=lambda r: r["date"])
+    return rows
 
 
 _JP_ERA_OFFSETS = {"M": 1867, "T": 1911, "S": 1925, "H": 1988, "R": 2018}
@@ -245,9 +253,10 @@ def fetch_japan_jgb_yields() -> list[dict]:
     jgbcm_all.csv (the full-history archive) turns out to lag ~3 weeks
     behind today — it's a batch-updated archive, not the live file. MOF
     also publishes jgbcm.csv, a short current-month-only file that's kept
-    current to within a day or two. Recent data matters more than a long
-    tail, so fetch both and let the current-month file's rows win on any
-    overlapping date, then trim to the usual _BOND_HISTORY_DAYS window."""
+    current to within a day or two. Fetch both and let the current-month
+    file's rows win on any overlapping date, then filter to the shared
+    cutoff date (see _bond_cutoff_date) so this line starts on the same
+    date as the US/Korea ones."""
     try:
         rows = _fetch_mof_csv("https://www.mof.go.jp/jgbs/reference/interest_rate/data/jgbcm_all.csv")
     except Exception:
@@ -261,11 +270,10 @@ def fetch_japan_jgb_yields() -> list[dict]:
         return []
     by_key = {(r["country"], r["maturity"], r["date"]): r for r in rows}
     by_key.update({(r["country"], r["maturity"], r["date"]): r for r in recent})
-    merged = sorted(by_key.values(), key=lambda r: r["date"])
-    by_maturity: dict[str, list[dict]] = {}
-    for r in merged:
-        by_maturity.setdefault(r["maturity"], []).append(r)
-    return [r for rs in by_maturity.values() for r in rs[-_BOND_HISTORY_DAYS:]]
+    cutoff = _bond_cutoff_date()
+    merged = [r for r in by_key.values() if r["date"] >= cutoff]
+    merged.sort(key=lambda r: r["date"])
+    return merged
 
 
 # Bank of Korea's own ECOS system, stat code 817Y002 (시장금리, 일별) —
@@ -278,17 +286,15 @@ def fetch_korea_bond_yields() -> list[dict]:
     than 10 rows per call — falls back to the public "sample" key, which
     works but is capped, for local testing without one configured.
 
-    ECOS is queried by calendar-day range, not trading-day count like the
-    US/JP CSVs, so requesting exactly _BOND_HISTORY_DAYS calendar days back
-    only nets ~270 trading days (KRX trades ~5/7 of the year plus holidays)
-    — visibly shorter than Japan's ~400-trading-day window. Query a wider
-    calendar range instead, then trim to the same _BOND_HISTORY_DAYS
-    trading-day count per maturity so all three countries cover comparable
-    real history."""
+    Queried directly by the shared cutoff date (see _bond_cutoff_date), so
+    this line starts on the same date as the US/JP ones. `count` is capped
+    well above _BOND_HISTORY_YEARS worth of KRX trading days so the date
+    range is never truncated by the row limit instead."""
     out = []
     today_str = today().replace("-", "")
-    start_str = (datetime.date.today() - datetime.timedelta(days=int(_BOND_HISTORY_DAYS * 1.6))).strftime("%Y%m%d")
-    count = 10 if _ECOS_API_KEY == "sample" else 500
+    cutoff = _bond_cutoff_date()
+    start_str = cutoff.replace("-", "")
+    count = 10 if _ECOS_API_KEY == "sample" else 2000
     for maturity, item_code in _ECOS_ITEM_CODES.items():
         try:
             resp = requests.get(
@@ -304,7 +310,7 @@ def fetch_korea_bond_yields() -> list[dict]:
                 iso_date = f"{date_raw[:4]}-{date_raw[4:6]}-{date_raw[6:]}"
                 rows.append({"country": "KR", "maturity": maturity, "date": iso_date, "yield": float(val)})
             rows.sort(key=lambda r: r["date"])
-            out.extend(rows[-_BOND_HISTORY_DAYS:])
+            out.extend(rows)
         except Exception:
             print(f"failed to fetch Korea {maturity} bond yield")
     return out
