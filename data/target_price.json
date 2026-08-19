@@ -958,5 +958,21 @@
     "sell": 0,
     "strong_sell": 0,
     "collected_at": "2026-08-19T03:13:45+00:00"
+  },
+  {
+    "symbol": "MRVL",
+    "date": "2026-08-19",
+    "target_mean_price": 256.9142,
+    "target_high_price": 400.0,
+    "target_low_price": 126.0,
+    "num_analysts": 40,
+    "recommendation_mean": 1.4186,
+    "recommendation_key": "strong_buy",
+    "strong_buy": 8,
+    "buy": 30,
+    "hold": 5,
+    "sell": 0,
+    "strong_sell": 0,
+    "collected_at": "2026-08-19T14:05:54+00:00"
   }
 ]
