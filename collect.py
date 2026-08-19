@@ -11,6 +11,7 @@ rows into its own Excel store separately.
 
 import datetime
 import json
+import os
 import re
 import time
 from pathlib import Path
@@ -135,6 +136,183 @@ def collect_memory_spot():
             added += 1
         _save(sheet, existing)
         print(f"{sheet}: +{added} rows")
+
+
+# ---- 10Y/30Y government bond yields (US/KR/JP/CN) ----
+# Each country's data comes straight from its own official source, not a
+# financial-data reseller — the same "primary source over aggregator"
+# reasoning as the DRAM/NAND scraper above and SEC EDGAR in the desktop
+# app's cloud_data.py.
+
+_ECOS_API_KEY = os.environ.get("ECOS_API_KEY", "sample")
+_BOND_HISTORY_DAYS = 400  # a bit over a year of trading days
+
+
+def _fetch_us_treasury_year(year: int) -> list[dict]:
+    resp = requests.get(
+        "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv"
+        f"/{year}/all",
+        params={"type": "daily_treasury_yield_curve", "field_tdr_date_value": year},
+        headers=HEADERS,
+        timeout=20,
+    )
+    resp.raise_for_status()
+    lines = resp.text.strip().splitlines()
+    header = [h.strip().strip('"') for h in lines[0].split(",")]
+    idx_10y, idx_30y = header.index("10 Yr"), header.index("30 Yr")
+    out = []
+    for line in lines[1:]:
+        cells = [c.strip().strip('"') for c in line.split(",")]
+        m, d, y = cells[0].split("/")
+        iso_date = f"{y}-{int(m):02d}-{int(d):02d}"
+        for maturity, idx in (("10Y", idx_10y), ("30Y", idx_30y)):
+            val = cells[idx]
+            if val:
+                out.append({"country": "US", "maturity": maturity, "date": iso_date, "yield": float(val)})
+    return out
+
+
+def fetch_us_treasury_yields() -> list[dict]:
+    """US Treasury's own official daily par yield curve — 10 Yr/30 Yr
+    columns directly. The CSV is served one calendar year per request, so
+    early in a year "this year alone" was only a few months deep — visibly
+    shorter than Japan's ~400-trading-day reach, making the US line look
+    like it started abruptly partway through the chart instead of running
+    the same length as everyone else's. Pulling the previous year too and
+    trimming to the same _BOND_HISTORY_DAYS window keeps every country's
+    line comparable in length regardless of what month it is."""
+    year = datetime.date.today().year
+    try:
+        rows = _fetch_us_treasury_year(year)
+        try:
+            rows = _fetch_us_treasury_year(year - 1) + rows
+        except Exception:
+            pass  # this year's data alone is still useful even if last year's fetch fails
+        rows.sort(key=lambda r: r["date"])
+        # Trim per maturity, not the flat list, so both maturities keep a
+        # full window even though each date contributes 2 rows (10Y+30Y).
+        by_maturity: dict[str, list[dict]] = {}
+        for r in rows:
+            by_maturity.setdefault(r["maturity"], []).append(r)
+        return [r for rs in by_maturity.values() for r in rs[-_BOND_HISTORY_DAYS:]]
+    except Exception:
+        print("failed to fetch US Treasury yields")
+        return []
+
+
+_JP_ERA_OFFSETS = {"M": 1867, "T": 1911, "S": 1925, "H": 1988, "R": 2018}
+
+
+def _parse_japanese_era_date(s: str) -> str | None:
+    """'R8.7.30' (令和8年7月30日) -> '2026-07-30'. Only the eras that can
+    actually appear in this file's most recent rows matter in practice,
+    but all five are handled since they're free to support."""
+    s = s.strip()
+    if not s or s[0] not in _JP_ERA_OFFSETS:
+        return None
+    try:
+        year_part, month, day = s[1:].split(".")
+        year = _JP_ERA_OFFSETS[s[0]] + int(year_part)
+        return f"{year:04d}-{int(month):02d}-{int(day):02d}"
+    except Exception:
+        return None
+
+
+def fetch_japan_jgb_yields() -> list[dict]:
+    """Japan's Ministry of Finance official daily JGB yield data — every
+    maturity from 1年 to 40年, back to 1974. Only the recent window is
+    kept; the file itself has 50+ years of history that would just bloat
+    the JSON for no benefit here."""
+    try:
+        resp = requests.get(
+            "https://www.mof.go.jp/jgbs/reference/interest_rate/data/jgbcm_all.csv", headers=HEADERS, timeout=30
+        )
+        resp.raise_for_status()
+        resp.encoding = "shift_jis"
+        lines = resp.text.strip().splitlines()
+        header = lines[1].split(",")
+        idx_10y, idx_30y = header.index("10年"), header.index("30年")
+        out = []
+        for line in lines[-_BOND_HISTORY_DAYS:]:
+            cells = line.split(",")
+            iso_date = _parse_japanese_era_date(cells[0])
+            if iso_date is None:
+                continue
+            for maturity, idx in (("10Y", idx_10y), ("30Y", idx_30y)):
+                val = cells[idx].strip()
+                if val and val != "-":
+                    out.append({"country": "JP", "maturity": maturity, "date": iso_date, "yield": float(val)})
+        return out
+    except Exception:
+        print("failed to fetch Japan JGB yields")
+        return []
+
+
+# Bank of Korea's own ECOS system, stat code 817Y002 (시장금리, 일별) —
+# 국고채(10년)/국고채(30년) are separate item codes under it.
+_ECOS_ITEM_CODES = {"10Y": "010210000", "30Y": "010230000"}
+
+
+def fetch_korea_bond_yields() -> list[dict]:
+    """Requires a real (free, self-registered) ECOS API key to pull more
+    than 10 rows per call — falls back to the public "sample" key, which
+    works but is capped, for local testing without one configured.
+
+    ECOS is queried by calendar-day range, not trading-day count like the
+    US/JP CSVs, so requesting exactly _BOND_HISTORY_DAYS calendar days back
+    only nets ~270 trading days (KRX trades ~5/7 of the year plus holidays)
+    — visibly shorter than Japan's ~400-trading-day window. Query a wider
+    calendar range instead, then trim to the same _BOND_HISTORY_DAYS
+    trading-day count per maturity so all three countries cover comparable
+    real history."""
+    out = []
+    today_str = today().replace("-", "")
+    start_str = (datetime.date.today() - datetime.timedelta(days=int(_BOND_HISTORY_DAYS * 1.6))).strftime("%Y%m%d")
+    count = 10 if _ECOS_API_KEY == "sample" else 500
+    for maturity, item_code in _ECOS_ITEM_CODES.items():
+        try:
+            resp = requests.get(
+                f"https://ecos.bok.or.kr/api/StatisticSearch/{_ECOS_API_KEY}/xml/kr/1/{count}/817Y002/D/"
+                f"{start_str}/{today_str}/{item_code}",
+                headers=HEADERS,
+                timeout=20,
+            )
+            resp.raise_for_status()
+            rows = []
+            for m in re.finditer(r"<TIME>(\d{8})</TIME>\s*<DATA_VALUE>([\d.]+)</DATA_VALUE>", resp.text):
+                date_raw, val = m.groups()
+                iso_date = f"{date_raw[:4]}-{date_raw[4:6]}-{date_raw[6:]}"
+                rows.append({"country": "KR", "maturity": maturity, "date": iso_date, "yield": float(val)})
+            rows.sort(key=lambda r: r["date"])
+            out.extend(rows[-_BOND_HISTORY_DAYS:])
+        except Exception:
+            print(f"failed to fetch Korea {maturity} bond yield")
+    return out
+
+
+def collect_bond_yields():
+    """Accumulating history (like DRAM/NAND), not a full-replace snapshot —
+    each run just adds whatever (country, maturity, date) points aren't
+    already recorded, from whichever countries actually returned new data.
+
+    China (ChinaBond's 中债 yield curve) was tried too but dropped — its
+    only free endpoint returns today's curve snapshot with no historical
+    range, so unlike the other three it could only ever add a single point
+    per run, which read as a lone dot rather than a real line for a long
+    time (per feedback, not worth keeping given how sparse that stayed)."""
+    existing = _load("bond_yields.json")
+    seen = {(r["country"], r["maturity"], r["date"]) for r in existing}
+    added = 0
+    for fetch in (fetch_us_treasury_yields, fetch_japan_jgb_yields, fetch_korea_bond_yields):
+        for row in fetch():
+            key = (row["country"], row["maturity"], row["date"])
+            if key in seen:
+                continue
+            existing.append({**row, "collected_at": now_iso()})
+            seen.add(key)
+            added += 1
+    _save("bond_yields.json", existing)
+    print(f"bond_yields.json: +{added} rows (total {len(existing)})")
 
 
 # ---- Yahoo Finance: target price / recommendation + pre/post market ----
@@ -470,6 +648,7 @@ def main():
     with open(ROOT / "watchlist.json", encoding="utf-8") as f:
         watchlist = json.load(f)
     collect_memory_spot()
+    collect_bond_yields()
     collect_target_price(watchlist)
     collect_cloud_growth()
     collect_kr_screener()

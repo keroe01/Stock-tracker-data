@@ -23,6 +23,8 @@ jobs:
       - run: pip install -r requirements.txt
 
       - run: python collect.py
+        env:
+          ECOS_API_KEY: ${{ secrets.ECOS_API_KEY }}
 
       - name: Commit and push if anything changed
         run: |
