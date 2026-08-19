@@ -30,7 +30,7 @@
       "per": 11.423441,
       "pbr": 2.6281912,
       "change_percent": -0.066150003,
-      "market_cap": 51695501312
+      "market_cap": 52090658816
     },
     {
       "code": "ADBE",
@@ -54,7 +54,7 @@
       "per": 16.658257,
       "pbr": 2.9891348,
       "change_percent": 0.359257,
-      "market_cap": 32805969920
+      "market_cap": 33038788608
     },
     {
       "code": "EXC",
@@ -83,7 +83,7 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 18.365662,
+      "per": 18.104652,
       "pbr": 8.662298,
       "change_percent": 1.3671900000000001,
       "market_cap": 191417581568
@@ -110,13 +110,13 @@
       "per": 19.69375,
       "pbr": 3.3248918,
       "change_percent": -0.5993710400000001,
-      "market_cap": 29172318208
+      "market_cap": 30353848320
     },
     {
       "code": "WDC",
       "name": "Western Digital",
       "per": 19.918106,
-      "pbr": null,
+      "pbr": 23.722687,
       "change_percent": -7.4345596,
       "market_cap": 178885984256
     },
@@ -192,7 +192,7 @@
       "per": 39.403378,
       "pbr": 1.5547479,
       "change_percent": 1.80814,
-      "market_cap": 58809753600
+      "market_cap": 59081424896
     },
     {
       "code": "EXC",
@@ -272,7 +272,7 @@
       "per": 11.423441,
       "pbr": 2.6281912,
       "change_percent": -0.066150003,
-      "market_cap": 51695501312
+      "market_cap": 52090658816
     },
     {
       "code": "CEG",
@@ -288,7 +288,7 @@
       "per": 16.658257,
       "pbr": 2.9891348,
       "change_percent": 0.359257,
-      "market_cap": 32805969920
+      "market_cap": 33038788608
     },
     {
       "code": "MDLZ",
@@ -296,7 +296,7 @@
       "per": 37.975758,
       "pbr": 3.0120656,
       "change_percent": 0.7719519499999999,
-      "market_cap": 79973466112
+      "market_cap": 80433496064
     },
     {
       "code": "BKR",
@@ -320,7 +320,7 @@
       "per": 19.69375,
       "pbr": 3.3248918,
       "change_percent": -0.5993710400000001,
-      "market_cap": 29172318208
+      "market_cap": 30353848320
     }
   ],
   "rise": [
@@ -378,7 +378,7 @@
       "per": 30.027857,
       "pbr": 6.6089015,
       "change_percent": 2.45175,
-      "market_cap": 133875531776
+      "market_cap": 133790531584
     },
     {
       "code": "NFLX",
@@ -434,7 +434,7 @@
       "per": 39.403378,
       "pbr": 1.5547479,
       "change_percent": 1.80814,
-      "market_cap": 58809753600
+      "market_cap": 59081424896
     },
     {
       "code": "ALNY",
@@ -450,7 +450,7 @@
       "per": 110.948715,
       "pbr": 9.448011,
       "change_percent": 1.70647,
-      "market_cap": 94267744256
+      "market_cap": 93743513600
     },
     {
       "code": "BKNG",
@@ -458,7 +458,7 @@
       "per": 22.734716,
       "pbr": null,
       "change_percent": 1.7044400000000002,
-      "market_cap": 156474982400
+      "market_cap": 161368440832
     },
     {
       "code": "KDP",
@@ -518,7 +518,7 @@
       "per": 11.423441,
       "pbr": 2.6281912,
       "change_percent": -0.066150003,
-      "market_cap": 51695501312
+      "market_cap": 52090658816
     },
     {
       "code": "ROP",
@@ -534,7 +534,7 @@
       "per": 16.658257,
       "pbr": 2.9891348,
       "change_percent": 0.359257,
-      "market_cap": 32805969920
+      "market_cap": 33038788608
     }
   ],
   "per_rise": [
@@ -594,7 +594,7 @@
       "per": 39.403378,
       "pbr": 1.5547479,
       "change_percent": 1.80814,
-      "market_cap": 58809753600
+      "market_cap": 59081424896
     },
     {
       "code": "KDP",
@@ -613,5 +613,5 @@
       "market_cap": 71403257856
     }
   ],
-  "generated_at": "2026-08-19T07:58:45+00:00"
+  "generated_at": "2026-08-19T09:27:18+00:00"
 }
