@@ -218,34 +218,54 @@ def _parse_japanese_era_date(s: str) -> str | None:
         return None
 
 
+def _fetch_mof_csv(url: str) -> list[dict]:
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    resp.encoding = "shift_jis"
+    lines = resp.text.strip().splitlines()
+    header = lines[1].split(",")
+    idx_10y, idx_30y = header.index("10年"), header.index("30年")
+    out = []
+    for line in lines[2:]:
+        cells = line.split(",")
+        iso_date = _parse_japanese_era_date(cells[0])
+        if iso_date is None:
+            continue
+        for maturity, idx in (("10Y", idx_10y), ("30Y", idx_30y)):
+            val = cells[idx].strip()
+            if val and val != "-":
+                out.append({"country": "JP", "maturity": maturity, "date": iso_date, "yield": float(val)})
+    return out
+
+
 def fetch_japan_jgb_yields() -> list[dict]:
     """Japan's Ministry of Finance official daily JGB yield data — every
-    maturity from 1年 to 40年, back to 1974. Only the recent window is
-    kept; the file itself has 50+ years of history that would just bloat
-    the JSON for no benefit here."""
+    maturity from 1年 to 40年, back to 1974.
+
+    jgbcm_all.csv (the full-history archive) turns out to lag ~3 weeks
+    behind today — it's a batch-updated archive, not the live file. MOF
+    also publishes jgbcm.csv, a short current-month-only file that's kept
+    current to within a day or two. Recent data matters more than a long
+    tail, so fetch both and let the current-month file's rows win on any
+    overlapping date, then trim to the usual _BOND_HISTORY_DAYS window."""
     try:
-        resp = requests.get(
-            "https://www.mof.go.jp/jgbs/reference/interest_rate/data/jgbcm_all.csv", headers=HEADERS, timeout=30
-        )
-        resp.raise_for_status()
-        resp.encoding = "shift_jis"
-        lines = resp.text.strip().splitlines()
-        header = lines[1].split(",")
-        idx_10y, idx_30y = header.index("10年"), header.index("30年")
-        out = []
-        for line in lines[-_BOND_HISTORY_DAYS:]:
-            cells = line.split(",")
-            iso_date = _parse_japanese_era_date(cells[0])
-            if iso_date is None:
-                continue
-            for maturity, idx in (("10Y", idx_10y), ("30Y", idx_30y)):
-                val = cells[idx].strip()
-                if val and val != "-":
-                    out.append({"country": "JP", "maturity": maturity, "date": iso_date, "yield": float(val)})
-        return out
+        rows = _fetch_mof_csv("https://www.mof.go.jp/jgbs/reference/interest_rate/data/jgbcm_all.csv")
     except Exception:
-        print("failed to fetch Japan JGB yields")
+        print("failed to fetch Japan JGB yields (all-history file)")
+        rows = []
+    try:
+        recent = _fetch_mof_csv("https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv")
+    except Exception:
+        recent = []
+    if not rows and not recent:
         return []
+    by_key = {(r["country"], r["maturity"], r["date"]): r for r in rows}
+    by_key.update({(r["country"], r["maturity"], r["date"]): r for r in recent})
+    merged = sorted(by_key.values(), key=lambda r: r["date"])
+    by_maturity: dict[str, list[dict]] = {}
+    for r in merged:
+        by_maturity.setdefault(r["maturity"], []).append(r)
+    return [r for rs in by_maturity.values() for r in rs[-_BOND_HISTORY_DAYS:]]
 
 
 # Bank of Korea's own ECOS system, stat code 817Y002 (시장금리, 일별) —
