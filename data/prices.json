@@ -102,18 +102,5 @@
     "open": 220.52000427246094,
     "high": 225.00999450683594,
     "low": 211.10000610351562
-  },
-  {
-    "symbol": "__TEST__",
-    "date": "1999-01-01",
-    "price": 1,
-    "change": 0,
-    "change_percent": 0,
-    "volume": 0,
-    "currency": "USD",
-    "collected_at": "test",
-    "open": 1,
-    "high": 1,
-    "low": 1
   }
 ]
