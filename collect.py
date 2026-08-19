@@ -1,8 +1,8 @@
 """Runs on a schedule via GitHub Actions, independent of whether the local
 app/PC is on — captures point-in-time-only data (DRAM/NAND spot prices,
-analyst target price/recommendation, pre/post-market snapshots) that has
-no free historical backfill, so a PC that's off when this data window
-passes would otherwise lose it permanently.
+analyst target price/recommendation) that has no free historical backfill,
+so a PC that's off when this data window passes would otherwise lose it
+permanently.
 
 Reads watchlist.json for the symbol list, writes/merges into the JSON
 files under data/. The local desktop app pulls this repo and merges new
@@ -383,6 +383,231 @@ def fetch_quote_summary(symbol: str, modules: str) -> dict | None:
         return None
 
 
+def _fetch_chart(symbol: str, range_: str) -> dict | None:
+    try:
+        resp = requests.get(
+            CHART_URL.format(symbol=symbol), headers=HEADERS, params={"interval": "1d", "range": range_}, timeout=15
+        )
+        resp.raise_for_status()
+        result = resp.json()["chart"]["result"]
+        return result[0] if result else None
+    except Exception:
+        print(f"failed to fetch chart for {symbol}")
+        return None
+
+
+def fetch_quote(symbol: str) -> dict | None:
+    """Ported from the desktop app's app/services/yahoo.py — latest
+    price/change/volume for a symbol, no crumb needed."""
+    chart = _fetch_chart(symbol, "5d")
+    if chart is None:
+        return None
+    closes = [c for c in chart["indicators"]["quote"][0]["close"] if c is not None]
+    volumes = chart["indicators"]["quote"][0]["volume"]
+    if not closes:
+        return None
+    price = closes[-1]
+    prev_close = closes[-2] if len(closes) > 1 else chart["meta"].get("chartPreviousClose", price)
+    change = price - prev_close
+    change_percent = (change / prev_close * 100) if prev_close else 0.0
+    return {
+        "price": float(price),
+        "change": float(change),
+        "change_percent": float(change_percent),
+        "volume": int((volumes and volumes[-1]) or 0),
+        "currency": chart["meta"].get("currency", ""),
+    }
+
+
+def fetch_ohlc_last(symbol: str) -> dict | None:
+    """Just today's open/high/low, to pair with fetch_quote()'s close —
+    same chart endpoint the app's fetch_ohlc_history() uses, trimmed to
+    the single most recent candle since the cloud snapshot only needs
+    "today", not a full year (the app keeps its own full local history)."""
+    chart = _fetch_chart(symbol, "5d")
+    if chart is None:
+        return None
+    q = chart["indicators"]["quote"][0]
+    for i in range(len(chart["timestamp"]) - 1, -1, -1):
+        if q["close"][i] is not None:
+            return {"open": q["open"][i], "high": q["high"][i], "low": q["low"][i]}
+    return None
+
+
+_BUNDLE_MODULES = "defaultKeyStatistics,summaryDetail,earningsTrend,financialData"
+
+
+def fetch_bundle(symbol: str) -> dict:
+    """Trimmed port of the app's yahoo.fetch_bundle() — just the fields
+    financials.json/quarterly_eps.json need (per/pbr/eps/forward figures/
+    market cap/roe/fcf/shares outstanding). Target price + recommendation
+    trend are deliberately left to the existing collect_target_price()
+    above rather than duplicated here."""
+    out = {
+        "eps": None, "forward_eps": None, "per": None, "forward_pe": None, "pbr": None,
+        "market_cap": None, "shares_outstanding": None, "roe": None, "fcf": None,
+        "forward_eps_revisions": [],
+    }
+    data = fetch_quote_summary(symbol, _BUNDLE_MODULES)
+    if data is None:
+        return out
+    dks = data.get("defaultKeyStatistics", {})
+    sd = data.get("summaryDetail", {})
+    fd = data.get("financialData", {})
+    out.update(
+        eps=_raw(dks.get("trailingEps")),
+        forward_eps=_raw(dks.get("forwardEps")),
+        per=_raw(sd.get("trailingPE")),
+        forward_pe=_raw(sd.get("forwardPE")),
+        pbr=_raw(dks.get("priceToBook")),
+        market_cap=_raw(sd.get("marketCap")),
+        shares_outstanding=_raw(dks.get("sharesOutstanding")),
+        roe=_raw(fd.get("returnOnEquity")),
+        fcf=_raw(fd.get("freeCashflow")),
+    )
+    trend = data.get("earningsTrend", {}).get("trend", [])
+    next_year = next((t for t in trend if t.get("period") == "+1y"), None)
+    if next_year:
+        eps_trend = next_year.get("epsTrend", {})
+        for key, days_ago in {"current": 0, "7daysAgo": 7, "30daysAgo": 30, "60daysAgo": 60, "90daysAgo": 90}.items():
+            value = _raw(eps_trend.get(key))
+            if value is not None:
+                out["forward_eps_revisions"].append({"days_ago": days_ago, "eps_estimate": value})
+    return out
+
+
+TIMESERIES_URL = "https://query2.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/{symbol}"
+
+
+def fetch_fundamentals_timeseries(symbol: str, types: str, years: int = 2) -> dict[str, list]:
+    """Direct port of yahoo.fetch_fundamentals_timeseries() — real quarterly
+    FCF/net income/stockholders' equity, an unauthenticated endpoint
+    separate from quoteSummary."""
+    now = int(time.time())
+    try:
+        resp = requests.get(
+            TIMESERIES_URL.format(symbol=symbol),
+            params={"type": types, "period1": str(now - years * 365 * 86400), "period2": str(now), "merge": "false"},
+            headers=HEADERS,
+            timeout=15,
+        )
+        resp.raise_for_status()
+        results = resp.json().get("timeseries", {}).get("result", [])
+    except Exception:
+        print(f"failed to fetch fundamentals timeseries for {symbol}")
+        return {}
+    out: dict[str, list] = {}
+    for item in results:
+        type_names = item.get("meta", {}).get("type") or []
+        if not type_names:
+            continue
+        type_name = type_names[0]
+        points = []
+        for e in item.get(type_name) or []:
+            if e is None:
+                continue
+            date = e.get("asOfDate")
+            value = (e.get("reportedValue") or {}).get("raw")
+            if date is not None and value is not None:
+                points.append((date, float(value)))
+        out[type_name] = points
+    return out
+
+
+# ---- Naver Finance: KR fundamentals + investor flow ----
+# Ported from the desktop app's app/services/naver_finance.py. The real
+# weighted-average-share EPS divisor (WiseReport scrape) is deliberately
+# NOT ported here — it's a fragile multi-step AJAX scrape and the payoff
+# (a few % EPS precision) isn't worth the extra maintenance surface in a
+# second codebase; quarterly_eps.json here uses Yahoo's shares_outstanding
+# divisor, same fallback the desktop app itself uses when the real divisor
+# isn't available. The app's own live collection still gets full precision
+# when it's running.
+
+NAVER_MAIN_URL = "https://finance.naver.com/item/main.naver"
+FRGN_URL = "https://finance.naver.com/item/frgn.naver"
+
+
+def _code_from_symbol(symbol: str) -> str | None:
+    m = re.match(r"(\d{6})\.(KS|KQ)$", symbol)
+    return m.group(1) if m else None
+
+
+def _to_float(text: str) -> float | None:
+    text = text.replace(",", "").strip()
+    if not text or text in ("N/A", "-"):
+        return None
+    try:
+        return float(text)
+    except ValueError:
+        return None
+
+
+def fetch_kr_fundamentals(code: str) -> dict | None:
+    try:
+        resp = requests.get(NAVER_MAIN_URL, params={"code": code}, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        resp.encoding = "utf-8"
+        soup = BeautifulSoup(resp.text, "html.parser")
+        table = soup.select_one("table.per_table")
+        if table is None:
+            return None
+        by_id = {em["id"]: _to_float(em.get_text()) for em in table.select("em") if em.get("id")}
+        return {
+            "per": by_id.get("_per"), "eps": by_id.get("_eps"),
+            "forward_pe": by_id.get("_cns_per"), "forward_eps": by_id.get("_cns_eps"),
+            "pbr": by_id.get("_pbr"),
+        }
+    except Exception:
+        print(f"failed to fetch naver fundamentals for {code}")
+        return None
+
+
+def _wise_or_frgn_num(text: str) -> float | None:
+    text = text.replace(",", "").replace("+", "").replace("%", "").strip()
+    if not text or text == "-":
+        return None
+    try:
+        return float(text)
+    except ValueError:
+        return None
+
+
+def fetch_kr_investor_flow(code: str, max_pages: int = 4) -> list[dict]:
+    by_date: dict[str, dict] = {}
+    try:
+        for page in range(1, max_pages + 1):
+            resp = requests.get(FRGN_URL, params={"code": code, "page": page}, headers=HEADERS, timeout=15)
+            resp.raise_for_status()
+            resp.encoding = "euc-kr"
+            soup = BeautifulSoup(resp.text, "html.parser")
+            tables = soup.select("table")
+            if len(tables) < 4:
+                break
+            got_any = False
+            for tr in tables[3].select("tr"):
+                cells = [td.get_text(strip=True) for td in tr.select("td")]
+                if len(cells) < 9 or not re.match(r"^\d{4}\.\d{2}\.\d{2}$", cells[0]):
+                    continue
+                date = cells[0].replace(".", "-")
+                got_any = True
+                if date in by_date:
+                    continue
+                by_date[date] = {
+                    "date": date,
+                    "volume": _wise_or_frgn_num(cells[4]),
+                    "institution_net": _wise_or_frgn_num(cells[5]),
+                    "foreign_net": _wise_or_frgn_num(cells[6]),
+                    "foreign_shares": _wise_or_frgn_num(cells[7]),
+                    "foreign_ratio": _wise_or_frgn_num(cells[8]),
+                }
+            if not got_any:
+                break
+    except Exception:
+        print(f"failed to fetch naver investor flow for {code}")
+    return sorted(by_date.values(), key=lambda r: r["date"])
+
+
 def collect_target_price(watchlist: list[dict]):
     existing = _load("target_price.json")
     seen = {(r["symbol"], r["date"]) for r in existing}
@@ -427,47 +652,361 @@ def collect_target_price(watchlist: list[dict]):
     print(f"target_price.json: +{added} rows")
 
 
-def collect_prepost(watchlist: list[dict]):
-    """Pre/post-market snapshots — only meaningful for US-listed tickers;
-    Yahoo doesn't track this for KRX names (confirmed empty)."""
-    existing = _load("prepost.json")
-    # Keep at most one row per (symbol, date, market_state) — overwrite
-    # with the freshest snapshot for that state instead of piling up near-
-    # duplicate rows every run.
-    by_key = {(r["symbol"], r["date"], r["market_state"]): r for r in existing}
-    changed = 0
+# ---- 시세/재무/분기재무/투자자수급/Forward PE·PBR 캐시 ----
+# Everything below mirrors a desktop-app Excel sheet 1:1 (see app/storage/
+# excel_store.py's SHEETS), so the app's own merge_*() functions can drop
+# these straight into the matching sheet with the same dedup keys it
+# already uses for target_price.json above.
+
+
+def collect_prices(watchlist: list[dict]):
+    """One row per (symbol, date) — mirrors the Prices sheet. Only today's
+    snapshot; the app's own local collection already backfills a full
+    year on a symbol's first run, so the cloud side doesn't need to."""
+    existing = _load("prices.json")
+    seen = {(r["symbol"], r["date"]) for r in existing}
+    added = 0
     for stock in watchlist:
-        if stock.get("market") != "US":
-            continue
         symbol = stock["symbol"]
-        data = fetch_quote_summary(symbol, "price")
-        if data is None:
+        key = (symbol, today())
+        if key in seen:
             continue
-        price = data.get("price", {})
-        market_state = price.get("marketState", "")
-        pre_price = _raw(price.get("preMarketPrice"))
-        post_price = _raw(price.get("postMarketPrice"))
-        if pre_price is None and post_price is None:
+        quote = fetch_quote(symbol)
+        if quote is None:
             continue
-        row = {
-            "symbol": symbol,
-            "date": today(),
-            "market_state": market_state,
-            "regular_open": _raw(price.get("regularMarketOpen")),
-            "regular_high": _raw(price.get("regularMarketDayHigh")),
-            "regular_low": _raw(price.get("regularMarketDayLow")),
-            "regular_price": _raw(price.get("regularMarketPrice")),
-            "pre_market_price": pre_price,
-            "pre_market_change_percent": _raw(price.get("preMarketChangePercent")),
-            "post_market_price": post_price,
-            "post_market_change_percent": _raw(price.get("postMarketChangePercent")),
-            "collected_at": now_iso(),
-        }
-        by_key[(symbol, today(), market_state)] = row
-        changed += 1
-        time.sleep(0.5)
-    _save("prepost.json", list(by_key.values()))
-    print(f"prepost.json: {changed} snapshots updated")
+        ohlc = fetch_ohlc_last(symbol) or {}
+        existing.append(
+            {
+                "symbol": symbol,
+                "date": today(),
+                "price": quote["price"],
+                "change": quote["change"],
+                "change_percent": quote["change_percent"],
+                "volume": quote["volume"],
+                "currency": quote["currency"],
+                "collected_at": now_iso(),
+                "open": ohlc.get("open"),
+                "high": ohlc.get("high"),
+                "low": ohlc.get("low"),
+            }
+        )
+        seen.add(key)
+        added += 1
+        time.sleep(0.3)
+    _save("prices.json", existing)
+    print(f"prices.json: +{added} rows")
+
+
+def collect_financials(watchlist: list[dict]):
+    """One row per (symbol, date) — the per/pbr/eps/market-cap/roe/fcf
+    subset of the Financials sheet (target price/recommendation fields
+    stay in collect_target_price()/target_price.json above; the app's
+    merge_financials() and merge_cloud_data()'s existing target_price
+    branch both backfill into the same Financials row independently, same
+    pattern already used for that row today)."""
+    existing = _load("financials.json")
+    seen = {(r["symbol"], r["date"]) for r in existing}
+    added = 0
+    for stock in watchlist:
+        symbol, market = stock["symbol"], stock.get("market")
+        key = (symbol, today())
+        if key in seen:
+            continue
+        bundle = fetch_bundle(symbol)
+        per, pbr, eps, forward_eps, forward_pe = (
+            bundle["per"], bundle["pbr"], bundle["eps"], bundle["forward_eps"], bundle["forward_pe"],
+        )
+        if market == "KR":
+            code = _code_from_symbol(symbol)
+            fund = fetch_kr_fundamentals(code) if code else None
+            if fund:
+                per, pbr, eps, forward_eps, forward_pe = (
+                    fund["per"], fund["pbr"], fund["eps"], fund["forward_eps"], fund["forward_pe"],
+                )
+        if per is None and pbr is None and eps is None and bundle["market_cap"] is None:
+            continue
+        existing.append(
+            {
+                "symbol": symbol,
+                "date": today(),
+                "per": per,
+                "pbr": pbr,
+                "eps": eps,
+                "forward_eps": forward_eps,
+                "forward_pe": forward_pe,
+                "market_cap": bundle["market_cap"],
+                "roe": bundle["roe"],
+                "fcf": bundle["fcf"],
+                "collected_at": now_iso(),
+            }
+        )
+        seen.add(key)
+        added += 1
+        time.sleep(0.3)
+    _save("financials.json", existing)
+    print(f"financials.json: +{added} rows")
+
+
+def collect_quarterly(watchlist: list[dict]):
+    """quarterly_eps.json + quarterly_financials.json together, since both
+    come off the same per-symbol Yahoo calls. Upserted by (symbol,
+    quarter_end_date) rather than skip-if-exists — Yahoo can restate a
+    recent quarter between runs, same reasoning as the app's own
+    QuarterlyEPS/QuarterlyFinancials "revise each cycle" handling."""
+    eps_by_key = {(r["symbol"], r["quarter_end_date"]): r for r in _load("quarterly_eps.json")}
+    fin_by_key = {(r["symbol"], r["quarter_end_date"]): r for r in _load("quarterly_financials.json")}
+    for stock in watchlist:
+        symbol = stock["symbol"]
+        data = fetch_quote_summary(symbol, "incomeStatementHistoryQuarterly")
+        shares = None
+        bundle_for_shares = fetch_bundle(symbol)
+        shares = bundle_for_shares["shares_outstanding"]
+        if data and shares:
+            statements = data.get("incomeStatementHistoryQuarterly", {}).get("incomeStatementHistory", [])
+            for stmt in statements[:4]:
+                net_income = _raw(stmt.get("netIncome"))
+                end_date = _raw(stmt.get("endDate"))
+                if net_income is None or end_date is None:
+                    continue
+                q_date = datetime.datetime.utcfromtimestamp(int(end_date)).date().isoformat()
+                eps_by_key[(symbol, q_date)] = {
+                    "symbol": symbol,
+                    "quarter_end_date": q_date,
+                    "net_income": net_income,
+                    "eps": round(net_income / shares, 4),
+                    "collected_at": now_iso(),
+                }
+
+        ts_data = fetch_fundamentals_timeseries(
+            symbol, "quarterlyFreeCashFlow,quarterlyNetIncome,quarterlyStockholdersEquity"
+        )
+        fcf_by_date = dict(ts_data.get("quarterlyFreeCashFlow", []))
+        income_by_date = dict(ts_data.get("quarterlyNetIncome", []))
+        equity_by_date = dict(ts_data.get("quarterlyStockholdersEquity", []))
+        for d in sorted(set(fcf_by_date) | set(income_by_date) | set(equity_by_date)):
+            fin_by_key[(symbol, d)] = {
+                "symbol": symbol,
+                "quarter_end_date": d,
+                "net_income": income_by_date.get(d),
+                "stockholders_equity": equity_by_date.get(d),
+                "free_cash_flow": fcf_by_date.get(d),
+                "collected_at": now_iso(),
+            }
+        time.sleep(0.3)
+    _save("quarterly_eps.json", list(eps_by_key.values()))
+    _save("quarterly_financials.json", list(fin_by_key.values()))
+    print(f"quarterly_eps.json: {len(eps_by_key)} rows, quarterly_financials.json: {len(fin_by_key)} rows")
+
+
+def collect_investor_flow(watchlist: list[dict]):
+    """InvestorFlow sheet counterpart — KR symbols only, no US equivalent
+    (same as the app's own naver_finance.fetch_kr_investor_flow)."""
+    existing = _load("investor_flow.json")
+    by_key = {(r["symbol"], r["date"]): r for r in existing}
+    added = 0
+    for stock in watchlist:
+        if stock.get("market") != "KR":
+            continue
+        code = _code_from_symbol(stock["symbol"])
+        if not code:
+            continue
+        for row in fetch_kr_investor_flow(code):
+            key = (stock["symbol"], row["date"])
+            if key in by_key:
+                continue
+            by_key[key] = {
+                "symbol": stock["symbol"],
+                "date": row["date"],
+                "institution_net": row["institution_net"],
+                "foreign_net": row["foreign_net"],
+                "foreign_shares": row["foreign_shares"],
+                "foreign_ratio": row["foreign_ratio"],
+                "volume": row.get("volume"),
+                "collected_at": now_iso(),
+            }
+            added += 1
+        time.sleep(0.3)
+    _save("investor_flow.json", list(by_key.values()))
+    print(f"investor_flow.json: +{added} rows")
+
+
+def collect_chart_cache(watchlist: list[dict]):
+    """ChartCache sheet counterpart (forward_pe_quarterly/pbr_quarterly) —
+    a full-replace snapshot per (symbol, chart), same semantics as the
+    app's own replace_sheet_where() call for this sheet, not an
+    accumulating history."""
+    by_key = {(r["symbol"], r["chart"], r["label"]): r for r in _load("chart_cache.json")}
+    for stock in watchlist:
+        symbol = stock["symbol"]
+        bundle = fetch_bundle(symbol)
+        if stock.get("market") == "KR":
+            # Yahoo's own PBR coverage for KRX tickers is frequently empty
+            # (same gap collect_financials() works around) — without this,
+            # bps_estimate below silently comes out None and every KR
+            # symbol loses its pbr chart entirely.
+            code = _code_from_symbol(symbol)
+            fund = fetch_kr_fundamentals(code) if code else None
+            if fund and fund.get("pbr"):
+                bundle["pbr"] = fund["pbr"]
+        quote = fetch_quote(symbol)
+        chart = _fetch_chart(symbol, "1y")
+        price_history = []
+        if chart:
+            q = chart["indicators"]["quote"][0]
+            for i, ts in enumerate(chart["timestamp"]):
+                c = q["close"][i]
+                if c is not None:
+                    price_history.append((ts, float(c)))
+
+        def _nearest_price(ts_target):
+            if not price_history:
+                return None
+            return min(price_history, key=lambda p: abs(p[0] - ts_target))[1]
+
+        now = now_iso()
+        for k in list(by_key):
+            if k[0] == symbol and k[1] in ("forward_pe", "pbr"):
+                del by_key[k]
+
+        for rev in sorted(bundle.get("forward_eps_revisions", []), key=lambda r: -r["days_ago"]):
+            target_ts = int(time.time()) - rev["days_ago"] * 86400
+            price_then = _nearest_price(target_ts)
+            if price_then is None or not rev["eps_estimate"]:
+                continue
+            label = datetime.datetime.utcfromtimestamp(target_ts).strftime("%y.%m.%d")
+            by_key[(symbol, "forward_pe", label)] = {
+                "symbol": symbol, "chart": "forward_pe", "label": label,
+                "value": round(price_then / rev["eps_estimate"], 2), "collected_at": now,
+            }
+
+        price_now = quote["price"] if quote else None
+        bps_estimate = (price_now / bundle["pbr"]) if price_now and bundle["pbr"] else None
+        if bps_estimate:
+            data = fetch_quote_summary(symbol, "incomeStatementHistoryQuarterly")
+            statements = (
+                data.get("incomeStatementHistoryQuarterly", {}).get("incomeStatementHistory", []) if data else []
+            )
+            for stmt in statements[:4]:
+                end_date = _raw(stmt.get("endDate"))
+                if end_date is None:
+                    continue
+                price_then = _nearest_price(int(end_date))
+                if price_then is None:
+                    continue
+                dt = datetime.datetime.utcfromtimestamp(int(end_date))
+                label = f"{dt.year % 100:02d}.Q{(dt.month - 1) // 3 + 1}"
+                by_key[(symbol, "pbr", label)] = {
+                    "symbol": symbol, "chart": "pbr", "label": label,
+                    "value": round(price_then / bps_estimate, 2), "collected_at": now,
+                }
+        time.sleep(0.3)
+    _save("chart_cache.json", list(by_key.values()))
+    print(f"chart_cache.json: {len(by_key)} rows")
+
+
+def collect_dram_index():
+    """DRAM_Index sheet counterpart — a manually curated, one-off
+    historical page (see app/services/memory_index.py), not a live feed,
+    so this only actually fetches once (skipped on every run after the
+    file already has rows), same as the app's own excel_store check."""
+    if _load("dram_index.json"):
+        print("dram_index.json: already populated, skipping")
+        return
+    try:
+        resp = requests.get(
+            "https://agenticsciences.github.io/memory-price-tracker/", headers=HEADERS, timeout=15
+        )
+        resp.raise_for_status()
+        m = re.search(r"const hist\s*=\s*\[(.*?)\];", resp.text, re.S)
+        if not m:
+            print("dram_index.json: source page format not matched, skipping")
+            return
+        entry_re = re.compile(r"\{x:'([^']+)',\s*v:([\d.]+)(,\s*verified:true)?,\s*src:'([^']*)'\}")
+        quarter_month = {"Q1": "01", "Q2": "04", "Q3": "07", "Q4": "10"}
+        out = []
+        for label, value, verified_flag, source in entry_re.findall(m.group(1)):
+            date = None
+            qm = re.match(r"(\d{4}) (Q[1-4])", label)
+            ym = re.match(r"(\d{4})-(\d{2})", label)
+            if qm:
+                date = f"{qm.group(1)}-{quarter_month[qm.group(2)]}-01"
+            elif ym:
+                date = f"{ym.group(1)}-{ym.group(2)}-01"
+            if date is None:
+                continue
+            out.append(
+                {
+                    "date": date, "period_label": label, "value": float(value),
+                    "verified": bool(verified_flag), "source": source, "collected_at": now_iso(),
+                }
+            )
+        out.sort(key=lambda r: r["date"])
+        _save("dram_index.json", out)
+        print(f"dram_index.json: {len(out)} rows")
+    except Exception:
+        print("failed to fetch DRAM index history")
+
+
+FX_TICKERS = [
+    {"symbol": "KRW=X", "name": "원/달러"},
+    {"symbol": "JPY=X", "name": "엔/달러"},
+    {"symbol": "EURKRW=X", "name": "원/유로"},
+    {"symbol": "CNY=X", "name": "위안화/달러"},
+]
+
+INDEX_TICKERS = [
+    {"symbol": "^KS11", "name": "KOSPI", "group": "main"},
+    {"symbol": "^IXIC", "name": "NASDAQ", "group": "main"},
+    {"symbol": "^KS200", "name": "코스피200 (선물 기초지수)", "group": "futures"},
+    {"symbol": "^GSPC", "name": "S&P 500", "group": "main"},
+    {"symbol": "^DJI", "name": "DOW", "group": "main"},
+    {"symbol": "ES=F", "name": "S&P500 선물", "group": "futures"},
+    {"symbol": "YM=F", "name": "다우 선물", "group": "futures"},
+    {"symbol": "NQ=F", "name": "나스닥100 선물", "group": "futures"},
+]
+
+
+def collect_fx():
+    """FXRates sheet counterpart — full-replace snapshot (current quote
+    only, no embedded OHLC history; the app already gets real history
+    straight from Yahoo on demand, same reasoning as index_data.py/
+    fx_data.py's own "no local accumulation needed" note)."""
+    out = []
+    for t in FX_TICKERS:
+        quote = fetch_quote(t["symbol"])
+        out.append(
+            {
+                "symbol": t["symbol"], "name": t["name"],
+                "price": quote["price"] if quote else None,
+                "change": quote["change"] if quote else None,
+                "change_percent": quote["change_percent"] if quote else None,
+                "collected_at": now_iso(),
+            }
+        )
+        time.sleep(0.2)
+    _save("fx.json", out)
+    print(f"fx.json: {len(out)} pairs")
+
+
+def collect_index():
+    """IndexQuotes sheet counterpart — same snapshot approach as
+    collect_fx()."""
+    out = []
+    for t in INDEX_TICKERS:
+        quote = fetch_quote(t["symbol"])
+        out.append(
+            {
+                "symbol": t["symbol"], "name": t["name"], "group": t["group"],
+                "price": quote["price"] if quote else None,
+                "change": quote["change"] if quote else None,
+                "change_percent": quote["change_percent"] if quote else None,
+                "currency": quote["currency"] if quote else None,
+                "collected_at": now_iso(),
+            }
+        )
+        time.sleep(0.2)
+    _save("index.json", out)
+    print(f"index.json: {len(out)} tickers")
 
 
 # ---- Cloud/AI-infra tracked companies: revenue, FCF, RPO/backlog ----
@@ -676,14 +1215,18 @@ def main():
     collect_memory_spot()
     collect_bond_yields()
     collect_target_price(watchlist)
+    collect_prices(watchlist)
+    collect_financials(watchlist)
+    collect_quarterly(watchlist)
+    collect_investor_flow(watchlist)
+    collect_chart_cache(watchlist)
+    collect_dram_index()
+    collect_fx()
+    collect_index()
     collect_cloud_growth()
     collect_kr_screener()
     collect_us_screener()
     collect_nasdaq100_screener()
-    # collect_prepost(watchlist) — no longer collected; the desktop app's
-    # 시간외 feature that consumed this was removed as not useful in
-    # practice, so this is now dead weight rather than something worth
-    # spending API calls to keep growing.
 
 
 if __name__ == "__main__":

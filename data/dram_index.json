@@ -1,0 +1,482 @@
+[
+  {
+    "date": "2016-01-01",
+    "period_label": "2016 Q1",
+    "value": 2.8,
+    "verified": false,
+    "source": "TrendForce press / interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2016-04-01",
+    "period_label": "2016 Q2",
+    "value": 2.62,
+    "verified": true,
+    "source": "The Memory Guy, Jun 2016",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2016-07-01",
+    "period_label": "2016 Q3",
+    "value": 2.9,
+    "verified": false,
+    "source": "TrendForce 4GB module $14.5 → $3.63/GB, Sep 2016",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2016-10-01",
+    "period_label": "2016 Q4",
+    "value": 3.8,
+    "verified": false,
+    "source": "TrendForce 4GB module $17.5 → $4.38/GB, Oct 2016",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2017-01-01",
+    "period_label": "2017 Q1",
+    "value": 5.2,
+    "verified": false,
+    "source": "TrendForce press",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2017-04-01",
+    "period_label": "2017 Q2",
+    "value": 6.4,
+    "verified": false,
+    "source": "TrendForce press",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2017-07-01",
+    "period_label": "2017 Q3",
+    "value": 7.2,
+    "verified": false,
+    "source": "TrendForce press",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2017-10-01",
+    "period_label": "2017 Q4",
+    "value": 7.8,
+    "verified": false,
+    "source": "Near-peak climb",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2018-01-01",
+    "period_label": "2018 Q1",
+    "value": 8.1,
+    "verified": false,
+    "source": "Prior all-time peak per Jukan/TrendForce",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2018-04-01",
+    "period_label": "2018 Q2",
+    "value": 7.9,
+    "verified": false,
+    "source": "Peak plateau",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2018-07-01",
+    "period_label": "2018 Q3",
+    "value": 6.8,
+    "verified": false,
+    "source": "Decline begins",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2018-10-01",
+    "period_label": "2018 Q4",
+    "value": 5.4,
+    "verified": false,
+    "source": "Contract slide, per TrendForce",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2019-01-01",
+    "period_label": "2019 Q1",
+    "value": 4.0,
+    "verified": false,
+    "source": "Oversupply, TrendForce",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2019-04-01",
+    "period_label": "2019 Q2",
+    "value": 3.2,
+    "verified": false,
+    "source": "Continued decline",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2019-07-01",
+    "period_label": "2019 Q3",
+    "value": 2.62,
+    "verified": true,
+    "source": "The Memory Guy, Jul 2019",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2019-10-01",
+    "period_label": "2019 Q4",
+    "value": 2.59,
+    "verified": true,
+    "source": "The Memory Guy, Nov 2019",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2020-01-01",
+    "period_label": "2020 Q1",
+    "value": 2.7,
+    "verified": false,
+    "source": "Stable",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2020-04-01",
+    "period_label": "2020 Q2",
+    "value": 3.1,
+    "verified": false,
+    "source": "COVID digital buildout",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2020-07-01",
+    "period_label": "2020 Q3",
+    "value": 2.9,
+    "verified": false,
+    "source": "Easing",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2020-10-01",
+    "period_label": "2020 Q4",
+    "value": 2.7,
+    "verified": false,
+    "source": "Flat",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2021-01-01",
+    "period_label": "2021 Q1",
+    "value": 3.2,
+    "verified": false,
+    "source": "PC / datacenter surge",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2021-04-01",
+    "period_label": "2021 Q2",
+    "value": 4.2,
+    "verified": false,
+    "source": "COVID-era secondary peak",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2021-07-01",
+    "period_label": "2021 Q3",
+    "value": 4.0,
+    "verified": false,
+    "source": "Plateau",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2021-10-01",
+    "period_label": "2021 Q4",
+    "value": 3.5,
+    "verified": false,
+    "source": "Decline begins",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2022-01-01",
+    "period_label": "2022 Q1",
+    "value": 3.2,
+    "verified": false,
+    "source": "Softening",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2022-04-01",
+    "period_label": "2022 Q2",
+    "value": 2.9,
+    "verified": false,
+    "source": "Continued decline",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2022-07-01",
+    "period_label": "2022 Q3",
+    "value": 2.6,
+    "verified": false,
+    "source": "Inventory overhang",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2022-10-01",
+    "period_label": "2022 Q4",
+    "value": 2.3,
+    "verified": false,
+    "source": "Trough approach",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2023-01-01",
+    "period_label": "2023 Q1",
+    "value": 2.1,
+    "verified": false,
+    "source": "Bottoming",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2023-04-01",
+    "period_label": "2023 Q2",
+    "value": 1.9,
+    "verified": false,
+    "source": "Near trough",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2023-07-01",
+    "period_label": "2023 Q3",
+    "value": 1.8,
+    "verified": false,
+    "source": "Cycle trough per TrendForce",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2023-10-01",
+    "period_label": "2023 Q4",
+    "value": 1.95,
+    "verified": false,
+    "source": "Turn signal",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-01-01",
+    "period_label": "2024-01",
+    "value": 2.1,
+    "verified": false,
+    "source": "Recovery",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-02-01",
+    "period_label": "2024-02",
+    "value": 2.0,
+    "verified": false,
+    "source": "Mild consolidation",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-03-01",
+    "period_label": "2024-03",
+    "value": 1.8,
+    "verified": true,
+    "source": "Memory Guy: DDR4 $1.50/GB, DDR5 $2.00/GB",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-04-01",
+    "period_label": "2024-04",
+    "value": 1.75,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-05-01",
+    "period_label": "2024-05",
+    "value": 1.7,
+    "verified": false,
+    "source": "CXMT market entry drives DDR4 down",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-06-01",
+    "period_label": "2024-06",
+    "value": 1.65,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-07-01",
+    "period_label": "2024-07",
+    "value": 1.6,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-08-01",
+    "period_label": "2024-08",
+    "value": 1.55,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-09-01",
+    "period_label": "2024-09",
+    "value": 1.5,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-10-01",
+    "period_label": "2024-10",
+    "value": 1.45,
+    "verified": false,
+    "source": "Inventory ~12 weeks, per IntuitionLabs",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-11-01",
+    "period_label": "2024-11",
+    "value": 1.4,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2024-12-01",
+    "period_label": "2024-12",
+    "value": 1.35,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-01-01",
+    "period_label": "2025-01",
+    "value": 1.25,
+    "verified": false,
+    "source": "Continued compression",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-02-01",
+    "period_label": "2025-02",
+    "value": 1.15,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-03-01",
+    "period_label": "2025-03",
+    "value": 1.0,
+    "verified": true,
+    "source": "Memory Guy: DDR4 $1.00/GB trough",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-04-01",
+    "period_label": "2025-04",
+    "value": 1.3,
+    "verified": false,
+    "source": "CXMT shifts to DDR5",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-05-01",
+    "period_label": "2025-05",
+    "value": 2.0,
+    "verified": true,
+    "source": "Memory Guy: DDR4 matches DDR5 $2.00/GB",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-06-01",
+    "period_label": "2025-06",
+    "value": 2.28,
+    "verified": true,
+    "source": "Memory Guy: DDR5 peak $2.28/GB",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-07-01",
+    "period_label": "2025-07",
+    "value": 2.8,
+    "verified": false,
+    "source": "AI demand surge",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-08-01",
+    "period_label": "2025-08",
+    "value": 3.4,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-09-01",
+    "period_label": "2025-09",
+    "value": 3.42,
+    "verified": true,
+    "source": "IntuitionLabs: DDR5 16Gb contract $6.84 = $3.42/GB",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-10-01",
+    "period_label": "2025-10",
+    "value": 5.8,
+    "verified": false,
+    "source": "Supercycle breakout · inventory 2-4 wks",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-11-01",
+    "period_label": "2025-11",
+    "value": 10.2,
+    "verified": false,
+    "source": "+187% YoY, contracts surge",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2025-12-01",
+    "period_label": "2025-12",
+    "value": 13.6,
+    "verified": true,
+    "source": "IntuitionLabs: DDR5 16Gb contract $27.20 = $13.60/GB",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2026-01-01",
+    "period_label": "2026-01",
+    "value": 14.8,
+    "verified": false,
+    "source": "Q1 contracts +60-70% QoQ, TrendForce",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2026-02-01",
+    "period_label": "2026-02",
+    "value": 15.4,
+    "verified": false,
+    "source": "Interp",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2026-03-01",
+    "period_label": "2026-03",
+    "value": 15.8,
+    "verified": false,
+    "source": "Retail pullback but contracts climb",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  },
+  {
+    "date": "2026-04-01",
+    "period_label": "2026-04",
+    "value": 15.6,
+    "verified": true,
+    "source": "TrendForce Apr 14 spot softening, contracts stable",
+    "collected_at": "2026-08-19T12:22:31+00:00"
+  }
+]
