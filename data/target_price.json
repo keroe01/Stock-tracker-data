@@ -1086,5 +1086,21 @@
     "sell": 0,
     "strong_sell": 0,
     "collected_at": "2026-08-20T03:12:59+00:00"
+  },
+  {
+    "symbol": "TEM",
+    "date": "2026-08-20",
+    "target_mean_price": 62.64286,
+    "target_high_price": 100.0,
+    "target_low_price": 35.0,
+    "num_analysts": 14,
+    "recommendation_mean": 2.1875,
+    "recommendation_key": "buy",
+    "strong_buy": 1,
+    "buy": 7,
+    "hold": 7,
+    "sell": 1,
+    "strong_sell": 0,
+    "collected_at": "2026-08-20T14:09:08+00:00"
   }
 ]
