@@ -81,6 +81,14 @@
       "market_cap": 4215903354880
     },
     {
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 18.31561,
+      "pbr": 6.187565,
+      "change_percent": 1.07373,
+      "market_cap": 170043375616
+    },
+    {
       "code": "PEP",
       "name": "PepsiCo",
       "per": 18.37371,
@@ -97,20 +105,28 @@
       "market_cap": 166602358784
     },
     {
-      "code": "QCOM",
-      "name": "Qualcomm",
-      "per": 18.504,
-      "pbr": 6.187565,
-      "change_percent": 1.07373,
-      "market_cap": 170043375616
-    },
-    {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 19.075314,
+      "per": 19.115305,
       "pbr": 3.4836097,
       "change_percent": -0.213406,
       "market_cap": 195612393472
+    },
+    {
+      "code": "CPRT",
+      "name": "Copart",
+      "per": 19.566473,
+      "pbr": 3.5718052,
+      "change_percent": 7.426209999999999,
+      "market_cap": 32607987712
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 20.039085,
+      "pbr": 2.659952,
+      "change_percent": 3.7766599999999997,
+      "market_cap": 86568681472
     },
     {
       "code": "META",
@@ -129,14 +145,6 @@
       "market_cap": 64007626752
     },
     {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 20.797428,
-      "pbr": 2.659952,
-      "change_percent": 3.7766599999999997,
-      "market_cap": 86568681472
-    },
-    {
       "code": "AMZN",
       "name": "Amazon",
       "per": 20.882954,
@@ -151,14 +159,6 @@
       "pbr": 4.930995,
       "change_percent": -0.76279,
       "market_cap": 47117991936
-    },
-    {
-      "code": "CPRT",
-      "name": "Copart",
-      "per": 21.024843,
-      "pbr": 3.5718052,
-      "change_percent": 7.426209999999999,
-      "market_cap": 32607987712
     }
   ],
   "pbr": [
@@ -205,7 +205,7 @@
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 31.373737,
+      "per": 31.06,
       "pbr": 1.6885022,
       "change_percent": 0.8769030000000001,
       "market_cap": 42267254784
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.797428,
+      "per": 20.039085,
       "pbr": 2.659952,
       "change_percent": 3.7766599999999997,
       "market_cap": 86568681472
@@ -277,7 +277,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 26.82681,
+      "per": 26.11143,
       "pbr": 3.0463674,
       "change_percent": 2.75083,
       "market_cap": 97140465664
@@ -317,7 +317,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 19.075314,
+      "per": 19.115305,
       "pbr": 3.4836097,
       "change_percent": -0.213406,
       "market_cap": 195612393472
@@ -343,7 +343,7 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 21.024843,
+      "per": 19.566473,
       "pbr": 3.5718052,
       "change_percent": 7.426209999999999,
       "market_cap": 32607987712
@@ -391,7 +391,7 @@
     {
       "code": "TSLA",
       "name": "Tesla, Inc.",
-      "per": 325.11108,
+      "per": 313.5,
       "pbr": 15.963627,
       "change_percent": 4.230119999999999,
       "market_cap": 1386765090816
@@ -399,7 +399,7 @@
     {
       "code": "AXON",
       "name": "Axon Enterprise",
-      "per": 266.82642,
+      "per": 256.2381,
       "pbr": 14.275417,
       "change_percent": 4.1735902,
       "market_cap": 52456620032
@@ -423,7 +423,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.797428,
+      "per": 20.039085,
       "pbr": 2.659952,
       "change_percent": 3.7766599999999997,
       "market_cap": 86568681472
@@ -479,7 +479,7 @@
     {
       "code": "ADP",
       "name": "Automatic Data Processing",
-      "per": 25.36322,
+      "per": 24.619892,
       "pbr": 18.285074,
       "change_percent": 2.93714,
       "market_cap": 110129176576
@@ -505,7 +505,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.797428,
+      "per": 20.039085,
       "pbr": 2.659952,
       "change_percent": 3.7766599999999997,
       "market_cap": 86568681472
@@ -579,20 +579,20 @@
       "market_cap": 40284303360
     },
     {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 20.797428,
-      "pbr": 2.659952,
-      "change_percent": 3.7766599999999997,
-      "market_cap": 86568681472
-    },
-    {
       "code": "CPRT",
       "name": "Copart",
-      "per": 21.024843,
+      "per": 19.566473,
       "pbr": 3.5718052,
       "change_percent": 7.426209999999999,
       "market_cap": 32607987712
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 20.039085,
+      "pbr": 2.659952,
+      "change_percent": 3.7766599999999997,
+      "market_cap": 86568681472
     }
   ],
   "pbr_rise": [
@@ -631,11 +631,11 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.797428,
+      "per": 20.039085,
       "pbr": 2.659952,
       "change_percent": 3.7766599999999997,
       "market_cap": 86568681472
     }
   ],
-  "generated_at": "2026-08-20T03:14:12+00:00"
+  "generated_at": "2026-08-20T05:19:19+00:00"
 }
