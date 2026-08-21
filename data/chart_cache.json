@@ -1,1045 +1,1297 @@
 [
   {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 5.04,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 6.13,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 4.25,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 3.62,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 3.78,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 0.94,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 1.76,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 2.18,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 7.15,
-    "collected_at": "2026-08-21T22:10:33"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 13.62,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 13.66,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 14.71,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 15.45,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 15.05,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 1.35,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 1.22,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 1.02,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "035420.KS",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 1.0,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 5.63,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 5.4,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 4.13,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 4.06,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 4.18,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 0.97,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 1.39,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 1.94,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "005930.KS",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 3.88,
-    "collected_at": "2026-08-21T22:10:52"
-  },
-  {
-    "symbol": "MU",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 7.31,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 10.28,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 6.26,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 6.27,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 6.26,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 1.33,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 2.65,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 4.62,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "MU",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 10.88,
-    "collected_at": "2026-08-21T22:11:09"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 5.04,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 6.13,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 4.25,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 3.62,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 3.78,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 0.94,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 1.76,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 2.18,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
-    "symbol": "000660.KS",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 7.15,
-    "collected_at": "2026-08-21T22:11:38"
-  },
-  {
     "symbol": "SNDK",
     "chart": "forward_pe",
     "label": "26.05.23",
     "value": 8.09,
-    "collected_at": "2026-08-21T22:11:47"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "forward_pe",
     "label": "26.06.22",
     "value": 11.47,
-    "collected_at": "2026-08-21T22:11:47"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "forward_pe",
     "label": "26.07.22",
     "value": 6.44,
-    "collected_at": "2026-08-21T22:11:47"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "forward_pe",
     "label": "26.08.14",
     "value": 6.19,
-    "collected_at": "2026-08-21T22:11:47"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "forward_pe",
     "label": "26.08.21",
-    "value": 6.05,
-    "collected_at": "2026-08-21T22:11:47"
+    "value": 5.95,
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "pbr",
     "label": "25.Q3",
     "value": 1.22,
-    "collected_at": "2026-08-21T22:11:47"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "pbr",
     "label": "25.Q4",
     "value": 2.58,
-    "collected_at": "2026-08-21T22:11:47"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "pbr",
     "label": "26.Q1",
     "value": 6.15,
-    "collected_at": "2026-08-21T22:11:47"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "SNDK",
     "chart": "pbr",
     "label": "26.Q2",
     "value": 22.03,
-    "collected_at": "2026-08-21T22:11:47"
-  },
-  {
-    "symbol": "SKHY",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 4.08,
-    "collected_at": "2026-08-21T22:12:01"
-  },
-  {
-    "symbol": "SKHY",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 5.18,
-    "collected_at": "2026-08-21T22:12:01"
-  },
-  {
-    "symbol": "SKHY",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 4.84,
-    "collected_at": "2026-08-21T22:12:01"
-  },
-  {
-    "symbol": "SKHY",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 6.4,
-    "collected_at": "2026-08-21T22:12:01"
-  },
-  {
-    "symbol": "SKHY",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 6.4,
-    "collected_at": "2026-08-21T22:12:01"
-  },
-  {
-    "symbol": "SKHY",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 6.4,
-    "collected_at": "2026-08-21T22:12:01"
-  },
-  {
-    "symbol": "SKHY",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 6.4,
-    "collected_at": "2026-08-21T22:12:01"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 35.99,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 49.86,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 33.91,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 35.57,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 40.17,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 3.42,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 4.26,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 3.79,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 7.53,
-    "collected_at": "2026-08-21T22:12:26"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": -339.98,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": -448.58,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": -450.8,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": -1381.96,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": -4384.87,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 31.8,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 24.44,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 17.15,
-    "collected_at": "2026-08-21T22:12:29"
-  },
-  {
-    "symbol": "TEM",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 23.6,
-    "collected_at": "2026-08-21T22:12:29"
+    "collected_at": "2026-08-21T22:39:47"
   },
   {
     "symbol": "005930.KS",
     "chart": "forward_pe",
     "label": "26.05.23",
     "value": 5.63,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "forward_pe",
     "label": "26.06.22",
     "value": 5.4,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "forward_pe",
     "label": "26.07.22",
     "value": 4.13,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "forward_pe",
     "label": "26.08.14",
     "value": 4.06,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "forward_pe",
     "label": "26.08.21",
     "value": 4.18,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "pbr",
     "label": "25.Q3",
     "value": 0.97,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "pbr",
     "label": "25.Q4",
     "value": 1.39,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "pbr",
     "label": "26.Q1",
     "value": 1.94,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "005930.KS",
     "chart": "pbr",
     "label": "26.Q2",
     "value": 3.88,
-    "collected_at": "2026-08-21T22:20:49"
+    "collected_at": "2026-08-21T22:40:09"
   },
   {
     "symbol": "000660.KS",
     "chart": "forward_pe",
     "label": "26.05.23",
     "value": 5.04,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "forward_pe",
     "label": "26.06.22",
     "value": 6.13,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "forward_pe",
     "label": "26.07.22",
     "value": 4.25,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "forward_pe",
     "label": "26.08.14",
     "value": 3.62,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "forward_pe",
     "label": "26.08.21",
     "value": 3.78,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "pbr",
     "label": "25.Q3",
     "value": 0.94,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "pbr",
     "label": "25.Q4",
     "value": 1.76,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "pbr",
     "label": "26.Q1",
     "value": 2.18,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "000660.KS",
     "chart": "pbr",
     "label": "26.Q2",
     "value": 7.15,
-    "collected_at": "2026-08-21T22:20:53"
+    "collected_at": "2026-08-21T22:40:13"
   },
   {
     "symbol": "035420.KS",
     "chart": "forward_pe",
     "label": "26.05.23",
     "value": 13.62,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "forward_pe",
     "label": "26.06.22",
     "value": 13.66,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "forward_pe",
     "label": "26.07.22",
     "value": 14.71,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "forward_pe",
     "label": "26.08.14",
     "value": 15.45,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "forward_pe",
     "label": "26.08.21",
     "value": 15.05,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "pbr",
     "label": "25.Q3",
     "value": 1.35,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "pbr",
     "label": "25.Q4",
     "value": 1.22,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "pbr",
     "label": "26.Q1",
     "value": 1.02,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
   },
   {
     "symbol": "035420.KS",
     "chart": "pbr",
     "label": "26.Q2",
     "value": 1.0,
-    "collected_at": "2026-08-21T22:21:07"
+    "collected_at": "2026-08-21T22:40:18"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 5.04,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 6.13,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 4.25,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 3.62,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 3.78,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 0.94,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 1.76,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 2.18,
+    "collected_at": "2026-08-21T22:40:55"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 7.15,
+    "collected_at": "2026-08-21T22:40:55"
   },
   {
     "symbol": "MU",
     "chart": "forward_pe",
     "label": "26.05.23",
     "value": 7.31,
-    "collected_at": "2026-08-21T22:21:35"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "forward_pe",
     "label": "26.06.22",
     "value": 10.28,
-    "collected_at": "2026-08-21T22:21:35"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "forward_pe",
     "label": "26.07.22",
     "value": 6.26,
-    "collected_at": "2026-08-21T22:21:35"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "forward_pe",
     "label": "26.08.14",
     "value": 6.27,
-    "collected_at": "2026-08-21T22:21:35"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "forward_pe",
     "label": "26.08.21",
-    "value": 6.26,
-    "collected_at": "2026-08-21T22:21:35"
+    "value": 6.28,
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "pbr",
     "label": "25.Q3",
     "value": 1.33,
-    "collected_at": "2026-08-21T22:21:35"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "pbr",
     "label": "25.Q4",
     "value": 2.65,
-    "collected_at": "2026-08-21T22:21:35"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "pbr",
     "label": "26.Q1",
     "value": 4.62,
-    "collected_at": "2026-08-21T22:21:35"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "MU",
     "chart": "pbr",
     "label": "26.Q2",
     "value": 10.88,
-    "collected_at": "2026-08-21T22:21:35"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 8.09,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 11.47,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 6.44,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 6.19,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 6.05,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 1.22,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 2.58,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 6.15,
-    "collected_at": "2026-08-21T22:21:52"
-  },
-  {
-    "symbol": "SNDK",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 22.03,
-    "collected_at": "2026-08-21T22:21:52"
+    "collected_at": "2026-08-21T22:41:08"
   },
   {
     "symbol": "SKHY",
     "chart": "forward_pe",
     "label": "26.07.22",
     "value": 4.08,
-    "collected_at": "2026-08-21T22:22:07"
+    "collected_at": "2026-08-21T22:41:27"
   },
   {
     "symbol": "SKHY",
     "chart": "forward_pe",
     "label": "26.08.14",
     "value": 5.18,
-    "collected_at": "2026-08-21T22:22:07"
+    "collected_at": "2026-08-21T22:41:27"
   },
   {
     "symbol": "SKHY",
     "chart": "forward_pe",
     "label": "26.08.21",
-    "value": 4.84,
-    "collected_at": "2026-08-21T22:22:07"
+    "value": 4.92,
+    "collected_at": "2026-08-21T22:41:27"
   },
   {
     "symbol": "SKHY",
     "chart": "pbr",
     "label": "25.Q3",
     "value": 6.4,
-    "collected_at": "2026-08-21T22:22:07"
+    "collected_at": "2026-08-21T22:41:27"
   },
   {
     "symbol": "SKHY",
     "chart": "pbr",
     "label": "25.Q4",
     "value": 6.4,
-    "collected_at": "2026-08-21T22:22:07"
+    "collected_at": "2026-08-21T22:41:27"
   },
   {
     "symbol": "SKHY",
     "chart": "pbr",
     "label": "26.Q1",
     "value": 6.4,
-    "collected_at": "2026-08-21T22:22:07"
+    "collected_at": "2026-08-21T22:41:27"
   },
   {
     "symbol": "SKHY",
     "chart": "pbr",
     "label": "26.Q2",
     "value": 6.4,
-    "collected_at": "2026-08-21T22:22:07"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.05.23",
-    "value": 35.99,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.06.22",
-    "value": 49.86,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.07.22",
-    "value": 33.91,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.08.14",
-    "value": 35.57,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "forward_pe",
-    "label": "26.08.21",
-    "value": 40.17,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "25.Q3",
-    "value": 3.42,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "25.Q4",
-    "value": 4.26,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "26.Q1",
-    "value": 3.79,
-    "collected_at": "2026-08-21T22:22:19"
-  },
-  {
-    "symbol": "MRVL",
-    "chart": "pbr",
-    "label": "26.Q2",
-    "value": 7.53,
-    "collected_at": "2026-08-21T22:22:19"
+    "collected_at": "2026-08-21T22:41:27"
   },
   {
     "symbol": "TEM",
     "chart": "forward_pe",
     "label": "26.05.23",
     "value": -339.98,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "forward_pe",
     "label": "26.06.22",
     "value": -448.58,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "forward_pe",
     "label": "26.07.22",
     "value": -450.8,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "forward_pe",
     "label": "26.08.14",
     "value": -1381.96,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "forward_pe",
     "label": "26.08.21",
-    "value": -4384.87,
-    "collected_at": "2026-08-21T22:22:34"
+    "value": -4352.63,
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "pbr",
     "label": "25.Q3",
     "value": 31.8,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "pbr",
     "label": "25.Q4",
     "value": 24.44,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "pbr",
     "label": "26.Q1",
     "value": 17.15,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
   },
   {
     "symbol": "TEM",
     "chart": "pbr",
     "label": "26.Q2",
     "value": 23.6,
-    "collected_at": "2026-08-21T22:22:34"
+    "collected_at": "2026-08-21T22:41:38"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 35.99,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 49.86,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 33.91,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 35.57,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 39.57,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 3.42,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 4.26,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 3.79,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 7.53,
+    "collected_at": "2026-08-21T22:41:46"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": -339.98,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": -448.58,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": -450.8,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": -1381.96,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": -4338.82,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 31.8,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 24.44,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 17.15,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 23.6,
+    "collected_at": "2026-08-21T22:42:13"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 8.09,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 11.47,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 6.44,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 6.19,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 5.99,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 1.22,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 2.58,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 6.15,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 22.03,
+    "collected_at": "2026-08-21T22:43:38"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 5.63,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 5.4,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 4.13,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 4.06,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 4.18,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 0.97,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 1.39,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 1.94,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 3.88,
+    "collected_at": "2026-08-21T22:43:54"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 35.99,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 49.86,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 33.91,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 35.57,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 39.41,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 3.42,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 4.26,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 3.79,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 7.53,
+    "collected_at": "2026-08-21T22:44:15"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 5.63,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 5.4,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 4.13,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 4.06,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 4.18,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 0.97,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 1.39,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 1.94,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "005930.KS",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 3.88,
+    "collected_at": "2026-08-21T22:50:02"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 5.04,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 6.13,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 4.25,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 3.62,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 3.78,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 0.94,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 1.76,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 2.18,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "000660.KS",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 7.15,
+    "collected_at": "2026-08-21T22:50:07"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 13.62,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 13.66,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 14.71,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 15.45,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 15.05,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 1.35,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 1.22,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 1.02,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "035420.KS",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 1.0,
+    "collected_at": "2026-08-21T22:50:23"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 8.09,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 11.47,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 6.44,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 6.19,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 6.05,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 1.22,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 2.58,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 6.15,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "SNDK",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 22.03,
+    "collected_at": "2026-08-21T22:51:06"
+  },
+  {
+    "symbol": "MU",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 7.31,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 10.28,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 6.26,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 6.27,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 6.33,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 1.33,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 2.65,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 4.63,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "MU",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 10.89,
+    "collected_at": "2026-08-21T22:51:03"
+  },
+  {
+    "symbol": "SKHY",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 4.08,
+    "collected_at": "2026-08-21T22:51:18"
+  },
+  {
+    "symbol": "SKHY",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 5.18,
+    "collected_at": "2026-08-21T22:51:18"
+  },
+  {
+    "symbol": "SKHY",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 4.96,
+    "collected_at": "2026-08-21T22:51:18"
+  },
+  {
+    "symbol": "SKHY",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 6.4,
+    "collected_at": "2026-08-21T22:51:18"
+  },
+  {
+    "symbol": "SKHY",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 6.4,
+    "collected_at": "2026-08-21T22:51:18"
+  },
+  {
+    "symbol": "SKHY",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 6.4,
+    "collected_at": "2026-08-21T22:51:18"
+  },
+  {
+    "symbol": "SKHY",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 6.4,
+    "collected_at": "2026-08-21T22:51:18"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": -339.98,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": -448.58,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": -450.8,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": -1381.96,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": -4415.13,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 31.8,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 24.44,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 17.15,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "TEM",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 23.6,
+    "collected_at": "2026-08-21T22:51:47"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.05.23",
+    "value": 35.99,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.06.22",
+    "value": 49.86,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.07.22",
+    "value": 33.91,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.08.14",
+    "value": 35.57,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "forward_pe",
+    "label": "26.08.21",
+    "value": 39.67,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "25.Q3",
+    "value": 3.42,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "25.Q4",
+    "value": 4.26,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "26.Q1",
+    "value": 3.79,
+    "collected_at": "2026-08-21T22:51:45"
+  },
+  {
+    "symbol": "MRVL",
+    "chart": "pbr",
+    "label": "26.Q2",
+    "value": 7.52,
+    "collected_at": "2026-08-21T22:51:45"
   }
 ]
