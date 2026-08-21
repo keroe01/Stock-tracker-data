@@ -1209,6 +1209,172 @@ def collect_nasdaq100_screener():
     print(f"screener_nasdaq100.json: {total} entries across {len(result) - 1} lists")
 
 
+# ---- 자기주식(자사주) 취득 현황 — KRX KIND, 직접취득 방식만 ----
+# DART의 구조화 API(자기주식 취득 및 처분 현황, DS002)는 분기 단위라 일별
+# 데이터가 없다는 걸 확인한 뒤, KRX가 운영하는 별도 공시채널 KIND
+# (kind.krx.co.kr)에 이 정확한 데이터가 있는 걸 찾음: 직접취득(신탁이 아닌
+# 방식)은 매매 전날 저녁 그 다음 거래일의 신청수량을 미리 공시하고, 거래
+# 당일 실제 체결수량/체결율을 공시하는 구조. 회사별 5자리 KIND 코드로
+# 필터링 가능 (예: SK하이닉스 = "00066", 종목코드 000660과는 다른 값).
+KIND_TREASURY_URL = "https://kind.krx.co.kr/corpgeneral/treasurystk.do"
+
+_TREASURY_BUYBACK_TARGETS = [
+    {"symbol": "000660.KS", "name": "SK하이닉스", "kind_code": "00066"},
+]
+
+
+def _kind_treasury_post(method: str, search_gubun: str, kind_code: str, from_date: str, to_date: str) -> str:
+    resp = requests.post(
+        KIND_TREASURY_URL,
+        data={
+            "method": method, "pageIndex": "1", "currentPageSize": "100",
+            "orderMode": "0", "orderStat": "D", "searchGubun": search_gubun,
+            "marketType": "all", "trstkGubun": "all", "acqDispGubun": "all",
+            "fromDate": from_date, "toDate": to_date,
+            "isurCd": kind_code, "repIsuSrtCd": "", "repIsuCd": "", "corpName": "", "comAbbrv": "",
+        },
+        headers=HEADERS, timeout=20,
+    )
+    resp.raise_for_status()
+    return resp.text
+
+
+def _kind_num(text: str) -> float | None:
+    text = text.strip().replace(",", "").replace("%", "")
+    if not text or text == "-":
+        return None
+    try:
+        return float(text)
+    except ValueError:
+        return None
+
+
+def _parse_treasury_decl(html: str) -> list[dict]:
+    """신고내역 — the board-resolution declaration: total declared quantity
+    and the program's trading period, plus a live "as of now" cumulative
+    executed total (not tied to the declaration date itself — this updates
+    on its own as the exchange processes each trading day)."""
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for tr in soup.select("table.list tbody tr"):
+        tds = tr.find_all("td")
+        if len(tds) < 8:
+            continue
+        method_disp = " ".join(tds[2].get_text(" ", strip=True).split())
+        method, _, acq_disp = method_disp.partition("/")
+        period = tds[3].get_text(" ", strip=True).split("~")
+        out.append(
+            {
+                "decl_date": tds[0].get_text(strip=True),
+                "method": method.strip(),
+                "acq_disp": acq_disp.strip(),
+                "period_start": period[0].strip() if period else None,
+                "period_end": period[1].strip() if len(period) > 1 else None,
+                "declared_qty": _kind_num(tds[4].get_text(strip=True)),
+                "cum_executed_qty": _kind_num(tds[5].get_text(strip=True)),
+                "cum_executed_pct": _kind_num(tds[6].get_text(strip=True)),
+                "cum_executed_amount": _kind_num(tds[7].get_text(strip=True)),
+            }
+        )
+    return out
+
+
+def _parse_treasury_appl(html: str) -> list[dict]:
+    """신청내역 — filed the trading day BEFORE the day it applies to (this
+    is the "tomorrow's planned volume" disclosure): requested quantity for
+    that upcoming day, and the program's remaining eligible balance after
+    it."""
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for tr in soup.select("table.list tbody tr"):
+        tds = tr.find_all("td")
+        if len(tds) < 6:
+            continue
+        out.append(
+            {
+                "date": tds[0].get_text(strip=True),
+                "requested_qty": _kind_num(tds[4].get_text(strip=True)),
+                "remaining_qty": _kind_num(tds[5].get_text(strip=True)),
+            }
+        )
+    return out
+
+
+def _parse_treasury_trd(html: str) -> list[dict]:
+    """체결내역 — the actual trading day's requested vs. executed quantity
+    and fill rate, published once that day's trading concludes (so the
+    most recent trading day can lag a day behind the newest 신청내역 row
+    until the exchange updates this table)."""
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for tr in soup.select("table.list tbody tr"):
+        tds = tr.find_all("td")
+        if len(tds) < 6:
+            continue
+        out.append(
+            {
+                "date": tds[0].get_text(strip=True),
+                "requested_qty": _kind_num(tds[3].get_text(strip=True)),
+                "executed_qty": _kind_num(tds[4].get_text(strip=True)),
+                "fill_rate": _kind_num(tds[5].get_text(strip=True)),
+            }
+        )
+    return out
+
+
+def collect_treasury_buyback():
+    programs = []
+    applications = {(r["symbol"], r["date"]): r for r in _load("treasury_buyback_applications.json")}
+    executions = {(r["symbol"], r["date"]): r for r in _load("treasury_buyback_executions.json")}
+    today_str = today()
+    # A year back covers this program comfortably and any future one of
+    # similar length without needing to know the exact start date ahead of
+    # time — these tables are small (one company, a few rows/day) so the
+    # wider window costs nothing.
+    from_str = (datetime.date.today() - datetime.timedelta(days=365)).strftime("%Y-%m-%d")
+
+    for target in _TREASURY_BUYBACK_TARGETS:
+        symbol, name, code = target["symbol"], target["name"], target["kind_code"]
+        try:
+            decl_rows = _parse_treasury_decl(
+                _kind_treasury_post("searchDeclOfTreasuryStkAcqDisp", "decl", code, from_str, today_str)
+            )
+            for r in decl_rows:
+                programs.append({"symbol": symbol, "name": name, "collected_at": now_iso(), **r})
+        except Exception:
+            print(f"failed to fetch treasury buyback declaration for {symbol}")
+
+        try:
+            appl_rows = _parse_treasury_appl(
+                _kind_treasury_post("searchApplOfTreasuryStkAcqDisp", "appl", code, from_str, today_str)
+            )
+            for r in appl_rows:
+                key = (symbol, r["date"])
+                applications[key] = {"symbol": symbol, "collected_at": now_iso(), **r}
+        except Exception:
+            print(f"failed to fetch treasury buyback applications for {symbol}")
+
+        try:
+            trd_rows = _parse_treasury_trd(
+                _kind_treasury_post("searchTrdOfTreasuryStkAcqDisp", "trd", code, from_str, today_str)
+            )
+            for r in trd_rows:
+                key = (symbol, r["date"])
+                executions[key] = {"symbol": symbol, "collected_at": now_iso(), **r}
+        except Exception:
+            print(f"failed to fetch treasury buyback executions for {symbol}")
+
+        time.sleep(0.3)
+
+    _save("treasury_buyback_programs.json", programs)
+    _save("treasury_buyback_applications.json", list(applications.values()))
+    _save("treasury_buyback_executions.json", list(executions.values()))
+    print(
+        f"treasury_buyback: {len(programs)} program(s), {len(applications)} application row(s), "
+        f"{len(executions)} execution row(s)"
+    )
+
+
 def main():
     with open(ROOT / "watchlist.json", encoding="utf-8") as f:
         watchlist = json.load(f)
@@ -1223,6 +1389,7 @@ def main():
     collect_dram_index()
     collect_fx()
     collect_index()
+    collect_treasury_buyback()
     collect_cloud_growth()
     collect_kr_screener()
     collect_us_screener()
