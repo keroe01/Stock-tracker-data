@@ -2428,5 +2428,35 @@
     "foreign_ratio": 35.27,
     "volume": 961900.0,
     "collected_at": "2026-08-20T11:02:19+00:00"
+  },
+  {
+    "symbol": "005930.KS",
+    "date": "2026-08-21",
+    "institution_net": 1306652.0,
+    "foreign_net": 1567349.0,
+    "foreign_shares": 2740909784.0,
+    "foreign_ratio": 46.88,
+    "volume": 27672192.0,
+    "collected_at": "2026-08-21T11:02:02+00:00"
+  },
+  {
+    "symbol": "000660.KS",
+    "date": "2026-08-21",
+    "institution_net": 66258.0,
+    "foreign_net": 6014.0,
+    "foreign_shares": 372921472.0,
+    "foreign_ratio": 51.05,
+    "volume": 4247418.0,
+    "collected_at": "2026-08-21T11:02:06+00:00"
+  },
+  {
+    "symbol": "035420.KS",
+    "date": "2026-08-21",
+    "institution_net": 100510.0,
+    "foreign_net": -21771.0,
+    "foreign_shares": 55439602.0,
+    "foreign_ratio": 35.32,
+    "volume": 987136.0,
+    "collected_at": "2026-08-21T11:02:09+00:00"
   }
 ]
