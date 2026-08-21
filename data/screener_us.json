@@ -22,7 +22,7 @@
       "per": 5.511194,
       "pbr": 2.1313133,
       "change_percent": 0.476195,
-      "market_cap": 10533339136
+      "market_cap": 10537489408
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.233487,
       "pbr": 1.3131412,
       "change_percent": -0.196749,
-      "market_cap": 20974956544
+      "market_cap": 20927346688
     },
     {
       "code": "UHS",
@@ -62,12 +62,12 @@
       "per": 7.7104034,
       "pbr": 1.4536432,
       "change_percent": 0.7916360000000001,
-      "market_cap": 33864710144
+      "market_cap": 33887463424
     },
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 7.940982,
+      "per": 7.956008,
       "pbr": 1.5476136,
       "change_percent": -0.17805400999999998,
       "market_cap": 25813473280
@@ -86,7 +86,7 @@
       "per": 8.274763,
       "pbr": 1.1599156,
       "change_percent": 0.0416546,
-      "market_cap": 22982715392
+      "market_cap": 22240569344
     },
     {
       "code": "T",
@@ -131,7 +131,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 9.18802,
+      "per": 9.391156,
       "pbr": 2.1222136,
       "change_percent": -2.23088,
       "market_cap": 14845982720
@@ -224,13 +224,13 @@
       "per": 343.0,
       "pbr": 0.98,
       "change_percent": -2.92453,
-      "market_cap": 11516291072
+      "market_cap": 11544821760
     },
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.219231,
-      "pbr": 1.0029064,
+      "pbr": 1.0076226,
       "change_percent": 0.75843297,
       "market_cap": 29255628800
     },
@@ -272,7 +272,7 @@
       "per": 22.079811,
       "pbr": 1.1195487,
       "change_percent": -3.8634500000000003,
-      "market_cap": 9952513024
+      "market_cap": 9764995072
     },
     {
       "code": "C",
@@ -304,7 +304,7 @@
       "per": 8.274763,
       "pbr": 1.1599156,
       "change_percent": 0.0416546,
-      "market_cap": 22982715392
+      "market_cap": 22240569344
     },
     {
       "code": "L",
@@ -346,7 +346,7 @@
       "per": 35.180737,
       "pbr": 6.1160088,
       "change_percent": 6.9424600000000005,
-      "market_cap": 167720419328
+      "market_cap": 167614955520
     },
     {
       "code": "LITE",
@@ -362,7 +362,7 @@
       "per": 45.10811,
       "pbr": 3.850502,
       "change_percent": 5.934629999999999,
-      "market_cap": 27950970880
+      "market_cap": 27933526016
     },
     {
       "code": "MRVL",
@@ -418,7 +418,7 @@
       "per": 21.185692,
       "pbr": 10.921146,
       "change_percent": 3.97234,
-      "market_cap": 1100401606656
+      "market_cap": null
     },
     {
       "code": "RVTY",
@@ -509,7 +509,7 @@
       "per": 8.274763,
       "pbr": 1.1599156,
       "change_percent": 0.0416546,
-      "market_cap": 22982715392
+      "market_cap": 22240569344
     },
     {
       "code": "CMCSA",
@@ -548,5 +548,5 @@
       "market_cap": 7422863360
     }
   ],
-  "generated_at": "2026-08-21T03:32:15+00:00"
+  "generated_at": "2026-08-21T05:21:09+00:00"
 }
