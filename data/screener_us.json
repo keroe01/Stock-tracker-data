@@ -22,15 +22,15 @@
       "per": 5.511194,
       "pbr": 2.1313133,
       "change_percent": 0.476195,
-      "market_cap": 10537489408
+      "market_cap": 10533339136
     },
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.233487,
+      "per": 6.2430773,
       "pbr": 1.3131412,
       "change_percent": -0.196749,
-      "market_cap": 20927346688
+      "market_cap": 20974956544
     },
     {
       "code": "UHS",
@@ -62,7 +62,7 @@
       "per": 7.7104034,
       "pbr": 1.4536432,
       "change_percent": 0.7916360000000001,
-      "market_cap": 33887463424
+      "market_cap": 33864710144
     },
     {
       "code": "CINF",
@@ -86,7 +86,7 @@
       "per": 8.274763,
       "pbr": 1.1599156,
       "change_percent": 0.0416546,
-      "market_cap": 22240569344
+      "market_cap": 22982715392
     },
     {
       "code": "T",
@@ -224,13 +224,13 @@
       "per": 343.0,
       "pbr": 0.98,
       "change_percent": -2.92453,
-      "market_cap": 11544821760
+      "market_cap": 11516291072
     },
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.219231,
-      "pbr": 1.0076226,
+      "pbr": 1.0029064,
       "change_percent": 0.75843297,
       "market_cap": 29255628800
     },
@@ -253,7 +253,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 11.547127,
+      "per": 11.735981,
       "pbr": 1.0456306,
       "change_percent": -1.4518401,
       "market_cap": 61362286592
@@ -272,7 +272,7 @@
       "per": 22.079811,
       "pbr": 1.1195487,
       "change_percent": -3.8634500000000003,
-      "market_cap": 9764995072
+      "market_cap": 9952513024
     },
     {
       "code": "C",
@@ -304,7 +304,7 @@
       "per": 8.274763,
       "pbr": 1.1599156,
       "change_percent": 0.0416546,
-      "market_cap": 22240569344
+      "market_cap": 22982715392
     },
     {
       "code": "L",
@@ -346,7 +346,7 @@
       "per": 35.180737,
       "pbr": 6.1160088,
       "change_percent": 6.9424600000000005,
-      "market_cap": 167614955520
+      "market_cap": 167720419328
     },
     {
       "code": "LITE",
@@ -362,7 +362,7 @@
       "per": 45.10811,
       "pbr": 3.850502,
       "change_percent": 5.934629999999999,
-      "market_cap": 27933526016
+      "market_cap": 27950970880
     },
     {
       "code": "MRVL",
@@ -418,12 +418,12 @@
       "per": 21.185692,
       "pbr": 10.921146,
       "change_percent": 3.97234,
-      "market_cap": null
+      "market_cap": 1100401606656
     },
     {
       "code": "RVTY",
       "name": "REVVITY INC",
-      "per": 59.677887,
+      "per": 57.46759,
       "pbr": 1.9160892,
       "change_percent": 3.9179600000000003,
       "market_cap": 13851219968
@@ -509,7 +509,7 @@
       "per": 8.274763,
       "pbr": 1.1599156,
       "change_percent": 0.0416546,
-      "market_cap": 22240569344
+      "market_cap": 22982715392
     },
     {
       "code": "CMCSA",
@@ -548,5 +548,5 @@
       "market_cap": 7422863360
     }
   ],
-  "generated_at": "2026-08-21T05:21:09+00:00"
+  "generated_at": "2026-08-21T08:05:16+00:00"
 }

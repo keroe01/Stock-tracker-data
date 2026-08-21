@@ -30,7 +30,7 @@
       "per": 11.579926,
       "pbr": 2.7095203,
       "change_percent": 1.71428,
-      "market_cap": 53295210496
+      "market_cap": 53702598656
     },
     {
       "code": "ADBE",
@@ -60,7 +60,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.149908,
-      "pbr": null,
+      "pbr": 22.426487,
       "change_percent": 1.5062,
       "market_cap": 169111715840
     },
@@ -78,7 +78,7 @@
       "per": 17.183294,
       "pbr": 3.0479875,
       "change_percent": -0.75046597,
-      "market_cap": 33451882496
+      "market_cap": 33689284608
     },
     {
       "code": "GOOGL",
@@ -91,7 +91,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.391306,
+      "per": 18.518433,
       "pbr": 6.142852,
       "change_percent": -0.722623,
       "market_cap": 168814608384
@@ -145,20 +145,20 @@
       "market_cap": 85106712576
     },
     {
-      "code": "AMZN",
-      "name": "Amazon",
-      "per": 20.909164,
-      "pbr": 5.084643,
-      "change_percent": -2.1554401,
-      "market_cap": 2805627879424
-    },
-    {
       "code": "CPRT",
       "name": "Copart",
       "per": 21.061352,
       "pbr": 3.6224544,
       "change_percent": 1.41802,
-      "market_cap": 31783108608
+      "market_cap": 33070379008
+    },
+    {
+      "code": "MU",
+      "name": "Micron Technology",
+      "per": 21.185692,
+      "pbr": 10.921146,
+      "change_percent": 3.97234,
+      "market_cap": 1100401606656
     }
   ],
   "pbr": [
@@ -192,7 +192,7 @@
       "per": 39.665413,
       "pbr": 1.5621508,
       "change_percent": 1.1843700000000001,
-      "market_cap": 59089772544
+      "market_cap": 59362738176
     },
     {
       "code": "EXC",
@@ -221,7 +221,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.564383,
+      "per": 21.743093,
       "pbr": 2.0636585,
       "change_percent": -0.881497,
       "market_cap": 49164963840
@@ -272,7 +272,7 @@
       "per": 11.579926,
       "pbr": 2.7095203,
       "change_percent": 1.71428,
-      "market_cap": 53295210496
+      "market_cap": 53702598656
     },
     {
       "code": "CEG",
@@ -288,7 +288,7 @@
       "per": 17.183294,
       "pbr": 3.0479875,
       "change_percent": -0.75046597,
-      "market_cap": 33451882496
+      "market_cap": 33689284608
     },
     {
       "code": "MDLZ",
@@ -296,7 +296,7 @@
       "per": 39.109756,
       "pbr": 3.0832093,
       "change_percent": -0.0311668,
-      "market_cap": 81862402048
+      "market_cap": 82333294592
     },
     {
       "code": "BKR",
@@ -354,7 +354,7 @@
       "per": 21.185692,
       "pbr": 10.921146,
       "change_percent": 3.97234,
-      "market_cap": null
+      "market_cap": 1100401606656
     },
     {
       "code": "STX",
@@ -362,7 +362,7 @@
       "per": 59.876057,
       "pbr": 174.2295,
       "change_percent": 2.1235699,
-      "market_cap": 192702234624
+      "market_cap": 193004470272
     },
     {
       "code": "SNDK",
@@ -386,13 +386,13 @@
       "per": 11.579926,
       "pbr": 2.7095203,
       "change_percent": 1.71428,
-      "market_cap": 53295210496
+      "market_cap": 53702598656
     },
     {
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.149908,
-      "pbr": null,
+      "pbr": 22.426487,
       "change_percent": 1.5062,
       "market_cap": 169111715840
     },
@@ -402,7 +402,7 @@
       "per": 21.061352,
       "pbr": 3.6224544,
       "change_percent": 1.41802,
-      "market_cap": 31783108608
+      "market_cap": 33070379008
     },
     {
       "code": "TTWO",
@@ -418,7 +418,7 @@
       "per": 39.665413,
       "pbr": 1.5621508,
       "change_percent": 1.1843700000000001,
-      "market_cap": 59089772544
+      "market_cap": 59362738176
     },
     {
       "code": "PCAR",
@@ -442,13 +442,13 @@
       "per": 115.21244,
       "pbr": 9.710467,
       "change_percent": 0.971755,
-      "market_cap": 96886415360
+      "market_cap": 96347619328
     },
     {
       "code": "TER",
       "name": "Teradyne",
       "per": 52.058422,
-      "pbr": 19.078325,
+      "pbr": 17.442072,
       "change_percent": 0.921902,
       "market_cap": 59901960192
     },
@@ -492,7 +492,7 @@
       "per": 11.579926,
       "pbr": 2.7095203,
       "change_percent": 1.71428,
-      "market_cap": 53295210496
+      "market_cap": 53702598656
     },
     {
       "code": "ROP",
@@ -526,7 +526,7 @@
       "per": 11.579926,
       "pbr": 2.7095203,
       "change_percent": 1.71428,
-      "market_cap": 53295210496
+      "market_cap": 53702598656
     },
     {
       "code": "EXC",
@@ -552,7 +552,7 @@
       "per": 11.579926,
       "pbr": 2.7095203,
       "change_percent": 1.71428,
-      "market_cap": 53295210496
+      "market_cap": 53702598656
     },
     {
       "code": "ROP",
@@ -566,7 +566,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.149908,
-      "pbr": null,
+      "pbr": 22.426487,
       "change_percent": 1.5062,
       "market_cap": 169111715840
     },
@@ -576,7 +576,15 @@
       "per": 21.061352,
       "pbr": 3.6224544,
       "change_percent": 1.41802,
-      "market_cap": 31783108608
+      "market_cap": 33070379008
+    },
+    {
+      "code": "MU",
+      "name": "Micron Technology",
+      "per": 21.185692,
+      "pbr": 10.921146,
+      "change_percent": 3.97234,
+      "market_cap": 1100401606656
     }
   ],
   "pbr_rise": [
@@ -594,7 +602,7 @@
       "per": 39.665413,
       "pbr": 1.5621508,
       "change_percent": 1.1843700000000001,
-      "market_cap": 59089772544
+      "market_cap": 59362738176
     },
     {
       "code": "KDP",
@@ -618,8 +626,8 @@
       "per": 11.579926,
       "pbr": 2.7095203,
       "change_percent": 1.71428,
-      "market_cap": 53295210496
+      "market_cap": 53702598656
     }
   ],
-  "generated_at": "2026-08-21T05:21:10+00:00"
+  "generated_at": "2026-08-21T08:05:17+00:00"
 }
