@@ -311,7 +311,7 @@
       "name": "LOEWS CORP",
       "per": 13.476074,
       "pbr": 1.1744263,
-      "change_percent": -0.7859029999999999,
+      "change_percent": -0.7859034,
       "market_cap": 22452295680
     },
     {
@@ -383,7 +383,7 @@
     {
       "code": "TSLA",
       "name": "TESLA INC",
-      "per": 323.98212,
+      "per": 332.89905,
       "pbr": 16.497385,
       "change_percent": 5.1371899999999995,
       "market_cap": 1433132728320
@@ -407,8 +407,8 @@
     {
       "code": "TGT",
       "name": "TARGET CORP",
-      "per": 16.412699,
-      "pbr": 4.5830793,
+      "per": 17.144043,
+      "pbr": 4.2121344,
       "change_percent": 4.5434497,
       "market_cap": null
     },
@@ -441,7 +441,7 @@
       "name": "ROSS STORES INC",
       "per": 27.698725,
       "pbr": 12.17108,
-      "change_percent": 4.38883,
+      "change_percent": 4.3888327,
       "market_cap": 76679512064
     },
     {
@@ -548,5 +548,5 @@
       "market_cap": 7759832576
     }
   ],
-  "generated_at": "2026-08-22T14:51:52+00:00"
+  "generated_at": "2026-08-22T16:55:46+00:00"
 }
