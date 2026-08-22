@@ -57,12 +57,12 @@
       "market_cap": 4179580420096
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 17.066864,
-      "pbr": null,
-      "change_percent": -2.04882,
-      "market_cap": 165646925824
+      "code": "GEHC",
+      "name": "GE HealthCare",
+      "per": 17.082191,
+      "pbr": 3.0792658,
+      "change_percent": 1.0262,
+      "market_cap": 33795164160
     },
     {
       "code": "ROP",
@@ -81,12 +81,12 @@
       "market_cap": 4217126256640
     },
     {
-      "code": "GEHC",
-      "name": "GE HealthCare",
-      "per": 17.23963,
-      "pbr": 3.0792658,
-      "change_percent": 1.0262,
-      "market_cap": 33795164160
+      "code": "WDC",
+      "name": "Western Digital",
+      "per": 17.422829,
+      "pbr": null,
+      "change_percent": -2.04882,
+      "market_cap": 165646925824
     },
     {
       "code": "QCOM",
@@ -99,7 +99,7 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 18.804718,
+      "per": 18.633766,
       "pbr": 8.869382,
       "change_percent": 0.9853560000000001,
       "market_cap": 195993681920
@@ -285,7 +285,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 17.23963,
+      "per": 17.082191,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
       "market_cap": 33795164160
@@ -309,7 +309,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 27.643461,
+      "per": 27.184647,
       "pbr": 3.3939443,
       "change_percent": 1.6209101,
       "market_cap": 68969603072
@@ -375,7 +375,7 @@
     {
       "code": "PANW",
       "name": "Palo Alto Networks",
-      "per": 311.1913,
+      "per": 303.27966,
       "pbr": 10.515691,
       "change_percent": 2.37727,
       "market_cap": 291664035840
@@ -455,7 +455,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 27.643461,
+      "per": 27.184647,
       "pbr": 3.3939443,
       "change_percent": 1.6209101,
       "market_cap": 68969603072
@@ -529,12 +529,12 @@
       "market_cap": 45104517120
     },
     {
-      "code": "ROP",
-      "name": "Roper Technologies",
-      "per": 17.093815,
-      "pbr": 2.177827,
-      "change_percent": 0.32646998,
-      "market_cap": 40726392832
+      "code": "GEHC",
+      "name": "GE HealthCare",
+      "per": 17.082191,
+      "pbr": 3.0792658,
+      "change_percent": 1.0262,
+      "market_cap": 33795164160
     }
   ],
   "per_rise": [
@@ -567,11 +567,11 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 27.643461,
+      "per": 27.184647,
       "pbr": 3.3939443,
       "change_percent": 1.6209101,
       "market_cap": 68969603072
     }
   ],
-  "generated_at": "2026-08-22T03:10:06+00:00"
+  "generated_at": "2026-08-22T05:05:28+00:00"
 }
