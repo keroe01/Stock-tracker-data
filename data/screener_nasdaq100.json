@@ -30,7 +30,7 @@
       "per": 11.63516,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 53056098304
+      "market_cap": 52653617152
     },
     {
       "code": "ADBE",
@@ -52,7 +52,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.066864,
-      "pbr": 21.967009,
+      "pbr": null,
       "change_percent": -2.04882,
       "market_cap": 165646925824
     },
@@ -78,7 +78,7 @@
       "per": 17.23963,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
-      "market_cap": 34035003392
+      "market_cap": 33795164160
     },
     {
       "code": "GOOGL",
@@ -99,7 +99,7 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 18.633766,
+      "per": 18.804718,
       "pbr": 8.869382,
       "change_percent": 0.9853560000000001,
       "market_cap": 195993681920
@@ -200,7 +200,7 @@
       "per": 40.137142,
       "pbr": 1.55993,
       "change_percent": -0.14216800000000002,
-      "market_cap": 59278340096
+      "market_cap": 59005767680
     },
     {
       "code": "KDP",
@@ -272,7 +272,7 @@
       "per": 11.63516,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 53056098304
+      "market_cap": 52653617152
     },
     {
       "code": "CEG",
@@ -288,7 +288,7 @@
       "per": 17.23963,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
-      "market_cap": 34035003392
+      "market_cap": 33795164160
     },
     {
       "code": "MDLZ",
@@ -296,7 +296,7 @@
       "per": 23.608057,
       "pbr": 3.0981107,
       "change_percent": 0.48331399999999997,
-      "market_cap": 82731229184
+      "market_cap": 82258051072
     },
     {
       "code": "BKR",
@@ -343,7 +343,7 @@
     {
       "code": "ROST",
       "name": "Ross Stores",
-      "per": 28.904472,
+      "per": 27.698725,
       "pbr": 12.17108,
       "change_percent": 4.38883,
       "market_cap": 76679512064
@@ -394,7 +394,7 @@
       "per": null,
       "pbr": 14.184962,
       "change_percent": 2.21642,
-      "market_cap": 1804468355072
+      "market_cap": 1805508411392
     },
     {
       "code": "AXON",
@@ -410,7 +410,7 @@
       "per": 39.055397,
       "pbr": 27.2404,
       "change_percent": 2.0279901,
-      "market_cap": 43932307456
+      "market_cap": 43875569664
     },
     {
       "code": "AMGN",
@@ -442,7 +442,7 @@
       "per": 63.29762,
       "pbr": 12.811019,
       "change_percent": 1.73156,
-      "market_cap": 87990820864
+      "market_cap": 87855865856
     },
     {
       "code": "CMCSA",
@@ -471,10 +471,10 @@
     {
       "code": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "per": 31.442913,
+      "per": 31.956268,
       "pbr": 6.8573966,
       "change_percent": 1.4418900000000001,
-      "market_cap": 138821058560
+      "market_cap": 138909253632
     },
     {
       "code": "INTU",
@@ -518,7 +518,7 @@
       "per": 11.63516,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 53056098304
+      "market_cap": 52653617152
     },
     {
       "code": "EXC",
@@ -573,5 +573,5 @@
       "market_cap": 68969603072
     }
   ],
-  "generated_at": "2026-08-22T13:44:28+00:00"
+  "generated_at": "2026-08-22T14:51:53+00:00"
 }
