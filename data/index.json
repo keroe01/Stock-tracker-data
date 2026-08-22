@@ -3,11 +3,11 @@
     "symbol": "^KS11",
     "name": "KOSPI",
     "group": "main",
-    "price": 6852.580078125,
-    "change": 381.41015625,
-    "change_percent": 5.893990744404494,
+    "price": 6912.9501953125,
+    "change": 60.3701171875,
+    "change_percent": 0.8809837535531353,
     "currency": "KRW",
-    "collected_at": "2026-08-21T22:55:20+00:00"
+    "collected_at": "2026-08-22T09:56:28"
   },
   {
     "symbol": "^IXIC",
@@ -17,7 +17,7 @@
     "change": 113.28515625,
     "change_percent": 0.43458939574001687,
     "currency": "USD",
-    "collected_at": "2026-08-21T22:55:20+00:00"
+    "collected_at": "2026-08-22T09:56:28"
   },
   {
     "symbol": "^KS200",
@@ -27,7 +27,7 @@
     "change": 15.269999999999982,
     "change_percent": 1.4126070787618625,
     "currency": "KRW",
-    "collected_at": "2026-08-21T22:55:21+00:00"
+    "collected_at": "2026-08-22T09:56:28"
   },
   {
     "symbol": "^GSPC",
@@ -37,7 +37,7 @@
     "change": 33.2099609375,
     "change_percent": 0.4346193543703738,
     "currency": "USD",
-    "collected_at": "2026-08-21T22:55:21+00:00"
+    "collected_at": "2026-08-22T09:56:28"
   },
   {
     "symbol": "^DJI",
@@ -47,7 +47,7 @@
     "change": 517.80078125,
     "change_percent": 0.9814414811157827,
     "currency": "USD",
-    "collected_at": "2026-08-21T22:55:21+00:00"
+    "collected_at": "2026-08-22T09:56:28"
   },
   {
     "symbol": "ES=F",
@@ -57,7 +57,7 @@
     "change": 25.25,
     "change_percent": 0.32952691680261015,
     "currency": "USD",
-    "collected_at": "2026-08-21T22:55:21+00:00"
+    "collected_at": "2026-08-22T09:56:28"
   },
   {
     "symbol": "YM=F",
@@ -67,7 +67,7 @@
     "change": 481.0,
     "change_percent": 0.9101402107892297,
     "currency": "USD",
-    "collected_at": "2026-08-21T22:55:22+00:00"
+    "collected_at": "2026-08-22T09:56:28"
   },
   {
     "symbol": "NQ=F",
@@ -77,6 +77,86 @@
     "change": 73.5,
     "change_percent": 0.25084896162181536,
     "currency": "USD",
-    "collected_at": "2026-08-21T22:55:22+00:00"
+    "collected_at": "2026-08-22T09:56:28"
+  },
+  {
+    "symbol": "^KS11",
+    "name": "KOSPI",
+    "group": "main",
+    "price": 6912.9501953125,
+    "change": 60.3701171875,
+    "change_percent": 0.8809837535531353,
+    "currency": "KRW",
+    "collected_at": "2026-08-22T10:56:25"
+  },
+  {
+    "symbol": "^IXIC",
+    "name": "NASDAQ",
+    "group": "main",
+    "price": 26180.455078125,
+    "change": 113.28515625,
+    "change_percent": 0.43458939574001687,
+    "currency": "USD",
+    "collected_at": "2026-08-22T10:56:25"
+  },
+  {
+    "symbol": "^KS200",
+    "name": "코스피200 (선물 기초지수)",
+    "group": "futures",
+    "price": 1096.25,
+    "change": 15.269999999999982,
+    "change_percent": 1.4126070787618625,
+    "currency": "KRW",
+    "collected_at": "2026-08-22T10:56:25"
+  },
+  {
+    "symbol": "^GSPC",
+    "name": "S&P 500",
+    "group": "main",
+    "price": 7674.3701171875,
+    "change": 33.2099609375,
+    "change_percent": 0.4346193543703738,
+    "currency": "USD",
+    "collected_at": "2026-08-22T10:56:25"
+  },
+  {
+    "symbol": "^DJI",
+    "name": "DOW",
+    "group": "main",
+    "price": 53277.01171875,
+    "change": 517.80078125,
+    "change_percent": 0.9814414811157827,
+    "currency": "USD",
+    "collected_at": "2026-08-22T10:56:25"
+  },
+  {
+    "symbol": "ES=F",
+    "name": "S&P500 선물",
+    "group": "futures",
+    "price": 7687.75,
+    "change": 25.25,
+    "change_percent": 0.32952691680261015,
+    "currency": "USD",
+    "collected_at": "2026-08-22T10:56:25"
+  },
+  {
+    "symbol": "YM=F",
+    "name": "다우 선물",
+    "group": "futures",
+    "price": 53330.0,
+    "change": 481.0,
+    "change_percent": 0.9101402107892297,
+    "currency": "USD",
+    "collected_at": "2026-08-22T10:56:25"
+  },
+  {
+    "symbol": "NQ=F",
+    "name": "나스닥100 선물",
+    "group": "futures",
+    "price": 29374.0,
+    "change": 73.5,
+    "change_percent": 0.25084896162181536,
+    "currency": "USD",
+    "collected_at": "2026-08-22T10:56:25"
   }
 ]
