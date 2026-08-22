@@ -30,7 +30,7 @@
       "per": 11.768642,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 52653617152
+      "market_cap": 53056098304
     },
     {
       "code": "ADBE",
@@ -62,7 +62,7 @@
       "per": 17.082191,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
-      "market_cap": 33795164160
+      "market_cap": 34035003392
     },
     {
       "code": "ROP",
@@ -84,7 +84,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.422829,
-      "pbr": null,
+      "pbr": 21.967009,
       "change_percent": -2.04882,
       "market_cap": 165646925824
     },
@@ -200,7 +200,7 @@
       "per": 40.137142,
       "pbr": 1.55993,
       "change_percent": -0.14216800000000002,
-      "market_cap": 59005767680
+      "market_cap": 59278340096
     },
     {
       "code": "KDP",
@@ -272,7 +272,7 @@
       "per": 11.768642,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 52653617152
+      "market_cap": 53056098304
     },
     {
       "code": "CEG",
@@ -288,7 +288,7 @@
       "per": 17.082191,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
-      "market_cap": 33795164160
+      "market_cap": 34035003392
     },
     {
       "code": "MDLZ",
@@ -296,7 +296,7 @@
       "per": 23.436363,
       "pbr": 3.0981107,
       "change_percent": 0.48331399999999997,
-      "market_cap": 82258051072
+      "market_cap": 82731229184
     },
     {
       "code": "BKR",
@@ -309,7 +309,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 27.184647,
+      "per": 27.643461,
       "pbr": 3.3939443,
       "change_percent": 1.6209101,
       "market_cap": 68969603072
@@ -394,7 +394,7 @@
       "per": null,
       "pbr": 14.184962,
       "change_percent": 2.21642,
-      "market_cap": 1805508411392
+      "market_cap": 1804468355072
     },
     {
       "code": "AXON",
@@ -410,7 +410,7 @@
       "per": 38.3033,
       "pbr": 27.2404,
       "change_percent": 2.0279901,
-      "market_cap": 43875569664
+      "market_cap": 43932307456
     },
     {
       "code": "AMGN",
@@ -442,7 +442,7 @@
       "per": 62.55294,
       "pbr": 12.811019,
       "change_percent": 1.73156,
-      "market_cap": 87855865856
+      "market_cap": 87990820864
     },
     {
       "code": "CMCSA",
@@ -455,7 +455,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 27.184647,
+      "per": 27.643461,
       "pbr": 3.3939443,
       "change_percent": 1.6209101,
       "market_cap": 68969603072
@@ -474,7 +474,7 @@
       "per": 31.442913,
       "pbr": 6.8573966,
       "change_percent": 1.4418900000000001,
-      "market_cap": 138909253632
+      "market_cap": 138821058560
     },
     {
       "code": "INTU",
@@ -518,7 +518,7 @@
       "per": 11.768642,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 52653617152
+      "market_cap": 53056098304
     },
     {
       "code": "EXC",
@@ -534,7 +534,7 @@
       "per": 17.082191,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
-      "market_cap": 33795164160
+      "market_cap": 34035003392
     }
   ],
   "per_rise": [
@@ -567,11 +567,11 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 27.184647,
+      "per": 27.643461,
       "pbr": 3.3939443,
       "change_percent": 1.6209101,
       "market_cap": 68969603072
     }
   ],
-  "generated_at": "2026-08-22T07:47:03+00:00"
+  "generated_at": "2026-08-22T09:03:54+00:00"
 }
