@@ -3,7 +3,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 8.303846,
+      "per": 8.206005,
       "pbr": 3.6914186,
       "change_percent": -1.1084699999999998,
       "market_cap": 68427345920
@@ -11,7 +11,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.470032,
+      "per": 8.60577,
       "pbr": 1.0608035,
       "change_percent": 1.6275600000000001,
       "market_cap": 95280898048
@@ -30,7 +30,7 @@
       "per": 11.63516,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 52653617152
+      "market_cap": 53056098304
     },
     {
       "code": "ADBE",
@@ -52,7 +52,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.066864,
-      "pbr": null,
+      "pbr": 21.967009,
       "change_percent": -2.04882,
       "market_cap": 165646925824
     },
@@ -78,7 +78,7 @@
       "per": 17.23963,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
-      "market_cap": 33795164160
+      "market_cap": 34035003392
     },
     {
       "code": "GOOGL",
@@ -131,7 +131,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.452183,
+      "per": 20.619036,
       "pbr": 2.6384404,
       "change_percent": 0.8951860500000001,
       "market_cap": 85868576768
@@ -139,7 +139,7 @@
     {
       "code": "META",
       "name": "Meta Platforms",
-      "per": 20.572392,
+      "per": 20.704067,
       "pbr": 5.363832,
       "change_percent": 0.7456550000000001,
       "market_cap": 1400873680896
@@ -173,7 +173,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.470032,
+      "per": 8.60577,
       "pbr": 1.0608035,
       "change_percent": 1.6275600000000001,
       "market_cap": 95280898048
@@ -200,12 +200,12 @@
       "per": 40.137142,
       "pbr": 1.55993,
       "change_percent": -0.14216800000000002,
-      "market_cap": 59005767680
+      "market_cap": 59278340096
     },
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 32.04,
+      "per": 32.363636,
       "pbr": 1.7417777,
       "change_percent": 1.20026,
       "market_cap": 43600867328
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.452183,
+      "per": 20.619036,
       "pbr": 2.6384404,
       "change_percent": 0.8951860500000001,
       "market_cap": 85868576768
@@ -272,7 +272,7 @@
       "per": 11.63516,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 52653617152
+      "market_cap": 53056098304
     },
     {
       "code": "CEG",
@@ -288,15 +288,15 @@
       "per": 17.23963,
       "pbr": 3.0792658,
       "change_percent": 1.0262,
-      "market_cap": 33795164160
+      "market_cap": 34035003392
     },
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 23.436363,
+      "per": 23.608057,
       "pbr": 3.0981107,
       "change_percent": 0.48331399999999997,
-      "market_cap": 82258051072
+      "market_cap": 82731229184
     },
     {
       "code": "BKR",
@@ -343,7 +343,7 @@
     {
       "code": "ROST",
       "name": "Ross Stores",
-      "per": 27.698725,
+      "per": 28.904472,
       "pbr": 12.17108,
       "change_percent": 4.38883,
       "market_cap": 76679512064
@@ -351,7 +351,7 @@
     {
       "code": "PLTR",
       "name": "Palantir Technologies",
-      "per": 148.71074,
+      "per": 153.79488,
       "pbr": 44.23304,
       "change_percent": 3.43757,
       "market_cap": 432406331392
@@ -375,7 +375,7 @@
     {
       "code": "PANW",
       "name": "Palo Alto Networks",
-      "per": 303.27966,
+      "per": 311.1913,
       "pbr": 10.515691,
       "change_percent": 2.37727,
       "market_cap": 291664035840
@@ -394,7 +394,7 @@
       "per": null,
       "pbr": 14.184962,
       "change_percent": 2.21642,
-      "market_cap": 1805508411392
+      "market_cap": 1804468355072
     },
     {
       "code": "AXON",
@@ -410,12 +410,12 @@
       "per": 39.055397,
       "pbr": 27.2404,
       "change_percent": 2.0279901,
-      "market_cap": 43875569664
+      "market_cap": 43932307456
     },
     {
       "code": "AMGN",
       "name": "Amgen",
-      "per": 26.95276,
+      "per": 27.321516,
       "pbr": 20.320536,
       "change_percent": 1.8830699999999998,
       "market_cap": 237515849728
@@ -439,15 +439,15 @@
     {
       "code": "CDNS",
       "name": "Cadence Design Systems",
-      "per": 62.55294,
+      "per": 63.29762,
       "pbr": 12.811019,
       "change_percent": 1.73156,
-      "market_cap": 87855865856
+      "market_cap": 87990820864
     },
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.470032,
+      "per": 8.60577,
       "pbr": 1.0608035,
       "change_percent": 1.6275600000000001,
       "market_cap": 95280898048
@@ -471,15 +471,15 @@
     {
       "code": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "per": 31.956268,
+      "per": 31.442913,
       "pbr": 6.8573966,
       "change_percent": 1.4418900000000001,
-      "market_cap": 138909253632
+      "market_cap": 138821058560
     },
     {
       "code": "INTU",
       "name": "Intuit",
-      "per": 22.068552,
+      "per": 22.37805,
       "pbr": 4.879346,
       "change_percent": 1.4176399,
       "market_cap": 100388077568
@@ -489,7 +489,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.470032,
+      "per": 8.60577,
       "pbr": 1.0608035,
       "change_percent": 1.6275600000000001,
       "market_cap": 95280898048
@@ -499,7 +499,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.470032,
+      "per": 8.60577,
       "pbr": 1.0608035,
       "change_percent": 1.6275600000000001,
       "market_cap": 95280898048
@@ -518,7 +518,7 @@
       "per": 11.63516,
       "pbr": 2.6769016,
       "change_percent": -1.20385,
-      "market_cap": 52653617152
+      "market_cap": 53056098304
     },
     {
       "code": "EXC",
@@ -541,7 +541,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.470032,
+      "per": 8.60577,
       "pbr": 1.0608035,
       "change_percent": 1.6275600000000001,
       "market_cap": 95280898048
@@ -551,7 +551,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.470032,
+      "per": 8.60577,
       "pbr": 1.0608035,
       "change_percent": 1.6275600000000001,
       "market_cap": 95280898048
@@ -573,5 +573,5 @@
       "market_cap": 68969603072
     }
   ],
-  "generated_at": "2026-08-22T10:54:58+00:00"
+  "generated_at": "2026-08-22T13:44:28+00:00"
 }
