@@ -22,7 +22,7 @@
       "per": 5.531835,
       "pbr": 2.1313133,
       "change_percent": 0.0,
-      "market_cap": 10533339136
+      "market_cap": 10537489408
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.35023,
       "pbr": 1.3377342,
       "change_percent": 1.8728399999999998,
-      "market_cap": 21367783424
+      "market_cap": 21319282688
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.776995,
       "pbr": 1.4548142,
       "change_percent": 0.08055770000000001,
-      "market_cap": 33891989504
+      "market_cap": 33914761216
     },
     {
       "code": "EG",
@@ -86,7 +86,7 @@
       "per": 8.28362,
       "pbr": 1.160157,
       "change_percent": 0.0208147,
-      "market_cap": 22987499520
+      "market_cap": 22245197824
     },
     {
       "code": "HON",
@@ -224,13 +224,13 @@
       "per": 345.00003,
       "pbr": 0.9857143,
       "change_percent": 0.583094,
-      "market_cap": 11583441920
+      "market_cap": 11612138496
     },
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.275194,
-      "pbr": 1.0006417,
+      "pbr": 1.0053473,
       "change_percent": -0.225817,
       "market_cap": 29189564416
     },
@@ -288,7 +288,7 @@
       "per": 21.846153,
       "pbr": 1.1493049,
       "change_percent": 2.65788,
-      "market_cap": 10217038848
+      "market_cap": 10024537088
     },
     {
       "code": "HBAN",
@@ -304,7 +304,7 @@
       "per": 8.28362,
       "pbr": 1.160157,
       "change_percent": 0.0208147,
-      "market_cap": 22987499520
+      "market_cap": 22245197824
     },
     {
       "code": "L",
@@ -370,7 +370,7 @@
       "per": 203.88,
       "pbr": 9.690114,
       "change_percent": 6.02184,
-      "market_cap": 36881375232
+      "market_cap": null
     },
     {
       "code": "HCA",
@@ -378,7 +378,7 @@
       "per": 14.387865,
       "pbr": null,
       "change_percent": 5.64157,
-      "market_cap": 95211429888
+      "market_cap": 92920283136
     },
     {
       "code": "TSLA",
@@ -408,9 +408,9 @@
       "code": "TGT",
       "name": "TARGET CORP",
       "per": 17.144043,
-      "pbr": 4.5830793,
+      "pbr": 4.2121344,
       "change_percent": 4.5434497,
-      "market_cap": 75141373952
+      "market_cap": null
     },
     {
       "code": "MOS",
@@ -448,9 +448,9 @@
       "code": "DE",
       "name": "DEERE + CO",
       "per": 35.970554,
-      "pbr": 6.377318,
+      "pbr": 6.241035,
       "change_percent": 4.27255,
-      "market_cap": 174886354944
+      "market_cap": 174776385536
     },
     {
       "code": "TPL",
@@ -472,7 +472,7 @@
       "code": "ZTS",
       "name": "ZOETIS INC",
       "per": 12.680262,
-      "pbr": 9.915806,
+      "pbr": null,
       "change_percent": 3.61238,
       "market_cap": 32119873536
     },
@@ -509,7 +509,7 @@
       "per": 8.28362,
       "pbr": 1.160157,
       "change_percent": 0.0208147,
-      "market_cap": 22987499520
+      "market_cap": 22245197824
     },
     {
       "code": "CMCSA",
@@ -548,5 +548,5 @@
       "market_cap": 7759832576
     }
   ],
-  "generated_at": "2026-08-23T03:31:47+00:00"
+  "generated_at": "2026-08-23T05:17:28+00:00"
 }
