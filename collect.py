@@ -1323,7 +1323,16 @@ def _parse_treasury_trd(html: str) -> list[dict]:
 
 
 def collect_treasury_buyback():
-    programs = []
+    # Keyed by (symbol, decl_date) and seeded from the existing file —
+    # same pattern as applications/executions below — so an entry is only
+    # replaced when this run's KIND scrape actually returns it again.
+    # Previously this list started empty and got saved unconditionally,
+    # so a single transient KIND failure (network hiccup, timeout)
+    # silently wiped the whole file to [] instead of just leaving that
+    # symbol's entries untouched for this run — confirmed happening for
+    # real (SK하이닉스's program vanished for one cycle despite the
+    # underlying KIND data being fine both before and after).
+    programs = {(r["symbol"], r["decl_date"]): r for r in _load("treasury_buyback_programs.json")}
     applications = {(r["symbol"], r["date"]): r for r in _load("treasury_buyback_applications.json")}
     executions = {(r["symbol"], r["date"]): r for r in _load("treasury_buyback_executions.json")}
     today_str = today()
@@ -1340,7 +1349,7 @@ def collect_treasury_buyback():
                 _kind_treasury_post("searchDeclOfTreasuryStkAcqDisp", "decl", code, from_str, today_str)
             )
             for r in decl_rows:
-                programs.append({"symbol": symbol, "name": name, "collected_at": now_iso(), **r})
+                programs[(symbol, r["decl_date"])] = {"symbol": symbol, "name": name, "collected_at": now_iso(), **r}
         except Exception:
             print(f"failed to fetch treasury buyback declaration for {symbol}")
 
@@ -1366,7 +1375,7 @@ def collect_treasury_buyback():
 
         time.sleep(0.3)
 
-    _save("treasury_buyback_programs.json", programs)
+    _save("treasury_buyback_programs.json", list(programs.values()))
     _save("treasury_buyback_applications.json", list(applications.values()))
     _save("treasury_buyback_executions.json", list(executions.values()))
     print(
