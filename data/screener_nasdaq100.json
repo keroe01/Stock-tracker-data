@@ -27,7 +27,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.659736,
+      "per": 11.637735,
       "pbr": 2.6825557,
       "change_percent": 0.21121199999999998,
       "market_cap": 52764827648
@@ -129,14 +129,6 @@
       "market_cap": 61530902528
     },
     {
-      "code": "MU",
-      "name": "Micron Technology",
-      "per": 20.560751,
-      "pbr": 10.204899,
-      "change_percent": -5.8286298,
-      "market_cap": null
-    },
-    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 20.61971,
@@ -159,6 +151,14 @@
       "pbr": 5.1229577,
       "change_percent": 1.33009,
       "market_cap": 2826769268736
+    },
+    {
+      "code": "CCEP",
+      "name": "Coca-Cola Europacific Partners",
+      "per": 20.85606,
+      "pbr": 5.046905,
+      "change_percent": 1.9629699999999999,
+      "market_cap": 48604610560
     }
   ],
   "pbr": [
@@ -221,7 +221,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.186302,
+      "per": 20.9,
       "pbr": 2.027477,
       "change_percent": 1.3499301,
       "market_cap": 48302972928
@@ -269,7 +269,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.659736,
+      "per": 11.637735,
       "pbr": 2.6825557,
       "change_percent": 0.21121199999999998,
       "market_cap": 52764827648
@@ -277,7 +277,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 26.72825,
+      "per": 26.676096,
       "pbr": 3.0381448,
       "change_percent": 0.20154898999999998,
       "market_cap": 96878264320
@@ -431,7 +431,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.186302,
+      "per": 20.9,
       "pbr": 2.027477,
       "change_percent": 1.3499301,
       "market_cap": 48302972928
@@ -515,7 +515,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.659736,
+      "per": 11.637735,
       "pbr": 2.6825557,
       "change_percent": 0.21121199999999998,
       "market_cap": 52764827648
@@ -561,6 +561,14 @@
       "pbr": 5.1229577,
       "change_percent": 1.33009,
       "market_cap": 2826769268736
+    },
+    {
+      "code": "CCEP",
+      "name": "Coca-Cola Europacific Partners",
+      "per": 20.85606,
+      "pbr": 5.046905,
+      "change_percent": 1.9629699999999999,
+      "market_cap": 48604610560
     }
   ],
   "pbr_rise": [
@@ -591,11 +599,11 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.186302,
+      "per": 20.9,
       "pbr": 2.027477,
       "change_percent": 1.3499301,
       "market_cap": 48302972928
     }
   ],
-  "generated_at": "2026-08-25T03:17:09+00:00"
+  "generated_at": "2026-08-25T05:50:13+00:00"
 }

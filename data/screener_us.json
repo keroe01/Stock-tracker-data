@@ -131,7 +131,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.598066,
+      "per": 9.39689,
       "pbr": 1.9560596,
       "change_percent": 2.11608,
       "market_cap": 37645791232
@@ -145,20 +145,20 @@
       "market_cap": 19558940672
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 9.9417,
-      "pbr": 2.9113414,
-      "change_percent": 1.41241,
-      "market_cap": 13942150144
-    },
-    {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
-      "per": 9.9637,
+      "per": 9.774466,
       "pbr": 2.3337615,
       "change_percent": 1.91705,
       "market_cap": 77287473152
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 9.806708,
+      "pbr": 2.9113414,
+      "change_percent": 1.41241,
+      "market_cap": 13942150144
     }
   ],
   "pbr": [
@@ -375,7 +375,7 @@
     {
       "code": "CVNA",
       "name": "CARVANA CO",
-      "per": 38.269844,
+      "per": 37.092308,
       "pbr": 12.91146,
       "change_percent": 3.4615899999999997,
       "market_cap": 107632271360
@@ -391,7 +391,7 @@
     {
       "code": "TSCO",
       "name": "TRACTOR SUPPLY COMPANY",
-      "per": 18.708332,
+      "per": 18.233501,
       "pbr": 7.148258,
       "change_percent": 3.3966499999999997,
       "market_cap": 18715760640
@@ -415,7 +415,7 @@
     {
       "code": "ULTA",
       "name": "ULTA BEAUTY INC",
-      "per": 20.178276,
+      "per": 19.534445,
       "pbr": 8.487751,
       "change_percent": 3.31761,
       "market_cap": 23160922112
@@ -455,7 +455,7 @@
     {
       "code": "CMG",
       "name": "CHIPOTLE MEXICAN GRILL INC",
-      "per": 35.2037,
+      "per": 34.25225,
       "pbr": 21.913546,
       "change_percent": 3.03523,
       "market_cap": 48111194112
@@ -471,7 +471,7 @@
     {
       "code": "YUM",
       "name": "YUM  BRANDS INC",
-      "per": 19.81738,
+      "per": 19.259487,
       "pbr": null,
       "change_percent": 2.84986,
       "market_cap": 42940989440
@@ -531,5 +531,5 @@
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-08-25T03:17:08+00:00"
+  "generated_at": "2026-08-25T05:50:12+00:00"
 }
