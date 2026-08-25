@@ -7,7 +7,7 @@
     "change": -215.990234375,
     "change_percent": -3.1244291984261308,
     "currency": "KRW",
-    "collected_at": "2026-08-25T21:01:34+00:00"
+    "collected_at": "2026-08-25T23:00:20+00:00"
   },
   {
     "symbol": "^IXIC",
@@ -17,7 +17,7 @@
     "change": 171.109375,
     "change_percent": 0.6586148084436632,
     "currency": "USD",
-    "collected_at": "2026-08-25T21:01:35+00:00"
+    "collected_at": "2026-08-25T23:00:20+00:00"
   },
   {
     "symbol": "^KS200",
@@ -27,7 +27,7 @@
     "change": 6.670053710937509,
     "change_percent": 0.6328264163468571,
     "currency": null,
-    "collected_at": "2026-08-25T21:01:35+00:00"
+    "collected_at": "2026-08-25T23:00:20+00:00"
   },
   {
     "symbol": "^GSPC",
@@ -37,7 +37,7 @@
     "change": 24.419921875,
     "change_percent": 0.31909537494823126,
     "currency": "USD",
-    "collected_at": "2026-08-25T21:01:35+00:00"
+    "collected_at": "2026-08-25T23:00:21+00:00"
   },
   {
     "symbol": "^DJI",
@@ -47,36 +47,36 @@
     "change": 160.23828125,
     "change_percent": 0.29997529030238335,
     "currency": "USD",
-    "collected_at": "2026-08-25T21:01:36+00:00"
+    "collected_at": "2026-08-25T23:00:21+00:00"
   },
   {
     "symbol": "ES=F",
     "name": "S&P500 선물",
     "group": "futures",
-    "price": 7689.75,
-    "change": 20.0,
-    "change_percent": 0.2607646924606408,
+    "price": 7692.0,
+    "change": 22.25,
+    "change_percent": 0.2901007203624629,
     "currency": "USD",
-    "collected_at": "2026-08-25T21:01:36+00:00"
+    "collected_at": "2026-08-25T23:00:21+00:00"
   },
   {
     "symbol": "YM=F",
     "name": "다우 선물",
     "group": "futures",
-    "price": 53637.0,
-    "change": 148.0,
-    "change_percent": 0.2766924040456917,
+    "price": 53641.0,
+    "change": 152.0,
+    "change_percent": 0.28417057712800764,
     "currency": "USD",
-    "collected_at": "2026-08-25T21:01:36+00:00"
+    "collected_at": "2026-08-25T23:00:22+00:00"
   },
   {
     "symbol": "NQ=F",
     "name": "나스닥100 선물",
     "group": "futures",
-    "price": 29269.75,
-    "change": 164.0,
-    "change_percent": 0.5634625460604863,
+    "price": 29282.25,
+    "change": 176.5,
+    "change_percent": 0.606409386461438,
     "currency": "USD",
-    "collected_at": "2026-08-25T21:01:36+00:00"
+    "collected_at": "2026-08-25T23:00:22+00:00"
   }
 ]
