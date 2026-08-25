@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 5.083822,
+      "per": 5.2110953,
       "pbr": 2.0850062,
       "change_percent": 2.5056100000000003,
       "market_cap": 65791111168
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.3822355,
+      "per": 7.633643,
       "pbr": 1.6314873,
       "change_percent": 3.32449,
       "market_cap": 28464691200
@@ -51,18 +51,10 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.7740197,
+      "per": 7.913928,
       "pbr": 1.4804298,
       "change_percent": 1.76074,
       "market_cap": 34511912960
-    },
-    {
-      "code": "EG",
-      "name": "EVEREST GROUP LTD",
-      "per": 7.8188424,
-      "pbr": 0.9450275,
-      "change_percent": 1.81863,
-      "market_cap": 14447160320
     },
     {
       "code": "CINF",
@@ -73,9 +65,17 @@
       "market_cap": 26276976640
     },
     {
+      "code": "EG",
+      "name": "EVEREST GROUP LTD",
+      "per": 7.9625955,
+      "pbr": 0.9450275,
+      "change_percent": 1.81863,
+      "market_cap": 14447160320
+    },
+    {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 8.148676,
+      "per": 8.207179,
       "pbr": 1.7130134,
       "change_percent": 0.69207903,
       "market_cap": 26036174848
@@ -107,7 +107,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.605096,
+      "per": 8.660257,
       "pbr": 1.06752,
       "change_percent": 0.633147,
       "market_cap": 95884165120
@@ -145,20 +145,20 @@
       "market_cap": 19558940672
     },
     {
-      "code": "TRV",
-      "name": "TRAVELERS COS INC/THE",
-      "per": 9.774466,
-      "pbr": 2.3337615,
-      "change_percent": 1.91705,
-      "market_cap": 77287473152
-    },
-    {
       "code": "LULU",
       "name": "LULULEMON ATHLETICA INC",
       "per": 9.806708,
       "pbr": 2.9113414,
       "change_percent": 1.41241,
       "market_cap": 13942150144
+    },
+    {
+      "code": "TRV",
+      "name": "TRAVELERS COS INC/THE",
+      "per": 9.961021,
+      "pbr": 2.3337615,
+      "change_percent": 1.91705,
+      "market_cap": 77287473152
     }
   ],
   "pbr": [
@@ -197,7 +197,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.8188424,
+      "per": 7.9625955,
       "pbr": 0.9450275,
       "change_percent": 1.81863,
       "market_cap": 14447160320
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.89228,
+      "per": 14.120438,
       "pbr": 0.9999224,
       "change_percent": 1.65527,
       "market_cap": 40461471744
@@ -229,7 +229,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 10.260537,
+      "per": 10.379846,
       "pbr": 1.0155865,
       "change_percent": 1.0184900000000001,
       "market_cap": 29486856192
@@ -245,7 +245,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 11.600456,
+      "per": 11.68046,
       "pbr": 1.0577043,
       "change_percent": 0.7735090299999999,
       "market_cap": 62070829056
@@ -253,7 +253,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.605096,
+      "per": 8.660257,
       "pbr": 1.06752,
       "change_percent": 0.633147,
       "market_cap": 95884165120
@@ -269,7 +269,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 36.168747,
+      "per": 35.72222,
       "pbr": 1.1260946,
       "change_percent": -1.0430899,
       "market_cap": 20358752256
@@ -317,7 +317,7 @@
     {
       "code": "GM",
       "name": "GENERAL MOTORS CO",
-      "per": 39.18018,
+      "per": 38.830357,
       "pbr": 1.2303385,
       "change_percent": -1.0804,
       "market_cap": 78669193216
@@ -327,7 +327,7 @@
     {
       "code": "EXPE",
       "name": "EXPEDIA GROUP INC",
-      "per": 20.24627,
+      "per": 21.328617,
       "pbr": 33.66005,
       "change_percent": 5.4394796,
       "market_cap": 40702488576
@@ -335,7 +335,7 @@
     {
       "code": "DLTR",
       "name": "DOLLAR TREE INC",
-      "per": 21.103395,
+      "per": 21.915066,
       "pbr": 7.541083,
       "change_percent": 4.00822,
       "market_cap": 26279874560
@@ -343,7 +343,7 @@
     {
       "code": "CHD",
       "name": "CHURCH + DWIGHT CO INC",
-      "per": 31.645061,
+      "per": 32.86218,
       "pbr": 5.592037,
       "change_percent": 3.7753,
       "market_cap": 24320516096
@@ -351,7 +351,7 @@
     {
       "code": "MO",
       "name": "ALTRIA GROUP INC",
-      "per": 13.916667,
+      "per": 14.414737,
       "pbr": null,
       "change_percent": 3.6011599999999997,
       "market_cap": 114327363584
@@ -359,7 +359,7 @@
     {
       "code": "GDDY",
       "name": "GODADDY INC   CLASS A",
-      "per": 14.421807,
+      "per": 14.936107,
       "pbr": 1896.6038,
       "change_percent": 3.55413,
       "market_cap": 12730627072
@@ -383,7 +383,7 @@
     {
       "code": "BXP",
       "name": "BXP INC",
-      "per": 36.453125,
+      "per": 37.629032,
       "pbr": 2.1658,
       "change_percent": 3.4284000000000003,
       "market_cap": 12659610624
@@ -391,7 +391,7 @@
     {
       "code": "TSCO",
       "name": "TRACTOR SUPPLY COMPANY",
-      "per": 18.233501,
+      "per": 18.708332,
       "pbr": 7.148258,
       "change_percent": 3.3966499999999997,
       "market_cap": 18715760640
@@ -407,7 +407,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.3822355,
+      "per": 7.633643,
       "pbr": 1.6314873,
       "change_percent": 3.32449,
       "market_cap": 28464691200
@@ -439,7 +439,7 @@
     {
       "code": "AJG",
       "name": "ARTHUR J GALLAGHER + CO",
-      "per": 43.658104,
+      "per": 45.031456,
       "pbr": 2.9392884,
       "change_percent": 3.10071,
       "market_cap": 69722185728
@@ -447,7 +447,7 @@
     {
       "code": "V",
       "name": "VISA INC CLASS A SHARES",
-      "per": 31.551981,
+      "per": 32.573254,
       "pbr": 20.265501,
       "change_percent": 3.06436,
       "market_cap": 713977561088
@@ -479,7 +479,7 @@
     {
       "code": "EBAY",
       "name": "EBAY INC",
-      "per": 21.89775,
+      "per": 22.448637,
       "pbr": 10.418369,
       "change_percent": 2.833,
       "market_cap": 47650598912
@@ -498,7 +498,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.8188424,
+      "per": 7.9625955,
       "pbr": 0.9450275,
       "change_percent": 1.81863,
       "market_cap": 14447160320
@@ -514,7 +514,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.605096,
+      "per": 8.660257,
       "pbr": 1.06752,
       "change_percent": 0.633147,
       "market_cap": 95884165120
@@ -524,12 +524,12 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.3822355,
+      "per": 7.633643,
       "pbr": 1.6314873,
       "change_percent": 3.32449,
       "market_cap": 28464691200
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-08-25T08:08:33+00:00"
+  "generated_at": "2026-08-25T11:05:26+00:00"
 }
