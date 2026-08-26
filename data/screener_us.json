@@ -22,7 +22,7 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": -0.135596,
-      "market_cap": 10508951552
+      "market_cap": 10504812544
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.363208,
       "pbr": 1.3020817,
       "change_percent": -2.24638,
-      "market_cap": 20870619136
+      "market_cap": 20918099968
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.91188,
       "pbr": 1.47194,
       "change_percent": -0.57346397,
-      "market_cap": 34314000384
+      "market_cap": 34290958336
     },
     {
       "code": "EG",
@@ -94,7 +94,7 @@
       "per": 8.30351,
       "pbr": 1.1428918,
       "change_percent": -1.73362,
-      "market_cap": 21914148864
+      "market_cap": 22645403648
     },
     {
       "code": "T",
@@ -131,7 +131,7 @@
     {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 9.440653,
+      "per": 9.590053,
       "pbr": 3.3562782,
       "change_percent": -1.53204,
       "market_cap": 19259289600
@@ -222,7 +222,7 @@
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.391305,
-      "pbr": 0.9970041,
+      "pbr": 0.99233764,
       "change_percent": -1.8297200999999998,
       "market_cap": 28947329024
     },
@@ -232,12 +232,12 @@
       "per": 355.6667,
       "pbr": 1.0161905,
       "change_percent": 3.09178,
-      "market_cap": 11971161088
+      "market_cap": 11941577728
     },
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 11.563218,
+      "per": 11.670533,
       "pbr": 1.0470878,
       "change_percent": -1.00374,
       "market_cap": 61447798784
@@ -269,15 +269,15 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 21.099548,
+      "per": 21.389908,
       "pbr": 1.1100267,
       "change_percent": -1.49978995,
-      "market_cap": 9681942528
+      "market_cap": 9867865088
     },
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 35.290123,
+      "per": 35.731247,
       "pbr": 1.1124732,
       "change_percent": -1.20961,
       "market_cap": 20112490496
@@ -288,7 +288,7 @@
       "per": 8.30351,
       "pbr": 1.1428918,
       "change_percent": -1.73362,
-      "market_cap": 21914148864
+      "market_cap": 22645403648
     },
     {
       "code": "HBAN",
@@ -386,7 +386,7 @@
       "per": 62.859844,
       "pbr": 13.328246,
       "change_percent": 5.0582398,
-      "market_cap": 91402936320
+      "market_cap": 91543330816
     },
     {
       "code": "AMD",
@@ -399,7 +399,7 @@
     {
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
-      "per": 82.60481,
+      "per": 78.81312,
       "pbr": 11.554508,
       "change_percent": 4.83667,
       "market_cap": 216030625792
@@ -450,7 +450,7 @@
       "per": 22.935009,
       "pbr": 32.91711,
       "change_percent": 4.00215,
-      "market_cap": 104322662400
+      "market_cap": 103922376704
     },
     {
       "code": "MRK",
@@ -480,7 +480,7 @@
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
       "per": 16.17911,
-      "pbr": null,
+      "pbr": 21.551517,
       "change_percent": 3.53025,
       "market_cap": 162513829888
     }
@@ -509,7 +509,7 @@
       "per": 8.30351,
       "pbr": 1.1428918,
       "change_percent": -1.73362,
-      "market_cap": 21914148864
+      "market_cap": 22645403648
     },
     {
       "code": "CMCSA",
@@ -522,5 +522,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-08-26T05:21:26+00:00"
+  "generated_at": "2026-08-26T08:10:26+00:00"
 }
