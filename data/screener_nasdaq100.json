@@ -3,7 +3,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 8.257274,
+      "per": 8.292195,
       "pbr": 3.6876569,
       "change_percent": 0.423704,
       "market_cap": 68357615616
@@ -27,7 +27,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.661049,
+      "per": 11.771267,
       "pbr": 2.7082155,
       "change_percent": 0.9565499999999999,
       "market_cap": 53676740608
@@ -67,7 +67,7 @@
     {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 17.296724,
+      "per": 17.2446,
       "pbr": 6.745913,
       "change_percent": -0.36275,
       "market_cap": 4199025999872
@@ -83,7 +83,7 @@
     {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
-      "per": 17.452717,
+      "per": 17.41767,
       "pbr": 6.8170385,
       "change_percent": -0.316039,
       "market_cap": 4243298189312
@@ -91,7 +91,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.121897,
+      "per": 18.349714,
       "pbr": 6.135973,
       "change_percent": 1.28051,
       "market_cap": 171487789056
@@ -123,7 +123,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 19.941936,
+      "per": 19.877813,
       "pbr": 3.0814474,
       "change_percent": -0.266195,
       "market_cap": 61367107584
@@ -131,18 +131,10 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 20.242926,
+      "per": 20.080961,
       "pbr": 15.907207,
       "change_percent": -0.8271250000000001,
       "market_cap": 216812879872
-    },
-    {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 20.490658,
-      "pbr": 2.636922,
-      "change_percent": 0.61074197,
-      "market_cap": 85819162624
     },
     {
       "code": "MU",
@@ -151,6 +143,14 @@
       "pbr": 10.457546,
       "change_percent": 2.4757499,
       "market_cap": 1053689905152
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 20.617363,
+      "pbr": 2.636922,
+      "change_percent": 0.61074197,
+      "market_cap": 85819162624
     },
     {
       "code": "CPRT",
@@ -229,7 +229,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 21.130808,
+      "per": 21.277296,
       "pbr": 2.0833545,
       "change_percent": 0.647642,
       "market_cap": 66835664896
@@ -253,7 +253,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 90.041855,
+      "per": 93.544624,
       "pbr": 2.5677602,
       "change_percent": 3.6196798,
       "market_cap": 78274838528
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.490658,
+      "per": 20.617363,
       "pbr": 2.636922,
       "change_percent": 0.61074197,
       "market_cap": 85819162624
@@ -269,7 +269,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.661049,
+      "per": 11.771267,
       "pbr": 2.7082155,
       "change_percent": 0.9565499999999999,
       "market_cap": 53676740608
@@ -277,7 +277,7 @@
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 23.68045,
+      "per": 23.073261,
       "pbr": 3.0279288,
       "change_percent": -2.6429601000000003,
       "market_cap": 80857104384
@@ -293,7 +293,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 19.941936,
+      "per": 19.877813,
       "pbr": 3.0814474,
       "change_percent": -0.266195,
       "market_cap": 61367107584
@@ -309,7 +309,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 27.147058,
+      "per": 27.319239,
       "pbr": 3.3470616,
       "change_percent": -0.55410303,
       "market_cap": 68016881664
@@ -343,7 +343,7 @@
     {
       "code": "CDNS",
       "name": "Cadence Design Systems",
-      "per": 62.859844,
+      "per": 65.85317,
       "pbr": 13.328246,
       "change_percent": 5.0582398,
       "market_cap": 91543330816
@@ -359,7 +359,7 @@
     {
       "code": "MRVL",
       "name": "Marvell Technology",
-      "per": 78.81312,
+      "per": 82.60481,
       "pbr": 11.554508,
       "change_percent": 4.83667,
       "market_cap": 216030625792
@@ -367,7 +367,7 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 22.935009,
+      "per": 23.869331,
       "pbr": 32.91711,
       "change_percent": 4.00215,
       "market_cap": 103922376704
@@ -375,7 +375,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 90.041855,
+      "per": 93.544624,
       "pbr": 2.5677602,
       "change_percent": 3.6196798,
       "market_cap": 78274838528
@@ -423,7 +423,7 @@
     {
       "code": "AXON",
       "name": "Axon Enterprise",
-      "per": 250.3102,
+      "per": 256.59415,
       "pbr": 13.5578,
       "change_percent": 2.6222,
       "market_cap": 49819660288
@@ -431,7 +431,7 @@
     {
       "code": "MELI",
       "name": "Mercado Libre",
-      "per": 52.914677,
+      "per": 54.354923,
       "pbr": 12.923308,
       "change_percent": 2.52066,
       "market_cap": 101241511936
@@ -506,7 +506,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.661049,
+      "per": 11.771267,
       "pbr": 2.7082155,
       "change_percent": 0.9565499999999999,
       "market_cap": 53676740608
@@ -558,11 +558,11 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 90.041855,
+      "per": 93.544624,
       "pbr": 2.5677602,
       "change_percent": 3.6196798,
       "market_cap": 78274838528
     }
   ],
-  "generated_at": "2026-08-26T08:10:27+00:00"
+  "generated_at": "2026-08-26T11:16:43+00:00"
 }
