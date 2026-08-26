@@ -30,7 +30,7 @@
       "per": 11.661049,
       "pbr": 2.7082155,
       "change_percent": 0.9565499999999999,
-      "market_cap": 53676740608
+      "market_cap": 53269549056
     },
     {
       "code": "ADBE",
@@ -44,7 +44,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.17911,
-      "pbr": 21.551517,
+      "pbr": null,
       "change_percent": 3.53025,
       "market_cap": 162513829888
     },
@@ -62,7 +62,7 @@
       "per": 17.108797,
       "pbr": 3.0418143,
       "change_percent": -0.377408,
-      "market_cap": 33621053440
+      "market_cap": 33384132608
     },
     {
       "code": "GOOG",
@@ -132,9 +132,17 @@
       "code": "SNDK",
       "name": "Sandisk",
       "per": 20.242926,
-      "pbr": 15.907207,
+      "pbr": 14.020983,
       "change_percent": -0.8271250000000001,
       "market_cap": 216812879872
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 20.490658,
+      "pbr": 2.636922,
+      "change_percent": 0.61074197,
+      "market_cap": 85819162624
     },
     {
       "code": "MU",
@@ -142,15 +150,7 @@
       "per": 20.577194,
       "pbr": 10.457546,
       "change_percent": 2.4757499,
-      "market_cap": 1053689905152
-    },
-    {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 20.617363,
-      "pbr": 2.636922,
-      "change_percent": 0.61074197,
-      "market_cap": 85819162624
+      "market_cap": null
     },
     {
       "code": "CPRT",
@@ -158,7 +158,7 @@
       "per": 20.701864,
       "pbr": 3.5169358,
       "change_percent": 0.210474,
-      "market_cap": 32107071488
+      "market_cap": 30857297920
     }
   ],
   "pbr": [
@@ -184,7 +184,7 @@
       "per": 39.19412,
       "pbr": 1.479757,
       "change_percent": -2.77724,
-      "market_cap": 56231718912
+      "market_cap": 55973154816
     },
     {
       "code": "MSTR",
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.617363,
+      "per": 20.490658,
       "pbr": 2.636922,
       "change_percent": 0.61074197,
       "market_cap": 85819162624
@@ -272,15 +272,15 @@
       "per": 11.661049,
       "pbr": 2.7082155,
       "change_percent": 0.9565499999999999,
-      "market_cap": 53676740608
+      "market_cap": 53269549056
     },
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 23.073261,
+      "per": 23.68045,
       "pbr": 3.0279288,
       "change_percent": -2.6429601000000003,
-      "market_cap": 80857104384
+      "market_cap": 80394649600
     },
     {
       "code": "GEHC",
@@ -288,7 +288,7 @@
       "per": 17.108797,
       "pbr": 3.0418143,
       "change_percent": -0.377408,
-      "market_cap": 33621053440
+      "market_cap": 33384132608
     },
     {
       "code": "BKR",
@@ -338,7 +338,7 @@
       "per": null,
       "pbr": 5.8843646,
       "change_percent": 5.243939999999999,
-      "market_cap": 56357781504
+      "market_cap": 60343705600
     },
     {
       "code": "CDNS",
@@ -346,7 +346,7 @@
       "per": 62.859844,
       "pbr": 13.328246,
       "change_percent": 5.0582398,
-      "market_cap": 91543330816
+      "market_cap": 91402936320
     },
     {
       "code": "AMD",
@@ -367,10 +367,10 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 23.850998,
+      "per": 22.935009,
       "pbr": 32.91711,
       "change_percent": 4.00215,
-      "market_cap": 103922376704
+      "market_cap": 104322662400
     },
     {
       "code": "SNPS",
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.17911,
-      "pbr": 21.551517,
+      "pbr": null,
       "change_percent": 3.53025,
       "market_cap": 162513829888
     },
@@ -402,7 +402,7 @@
       "per": 57.139774,
       "pbr": 168.375,
       "change_percent": 3.40023,
-      "market_cap": 186519093248
+      "market_cap": 186226999296
     },
     {
       "code": "NFLX",
@@ -416,9 +416,9 @@
       "code": "SHOP",
       "name": "Shopify",
       "per": 101.23685,
-      "pbr": 15.639802,
+      "pbr": 16.012487,
       "change_percent": 2.72363,
-      "market_cap": 197988777984
+      "market_cap": 199683112960
     },
     {
       "code": "AXON",
@@ -442,7 +442,7 @@
       "per": 20.577194,
       "pbr": 10.457546,
       "change_percent": 2.4757499,
-      "market_cap": 1053689905152
+      "market_cap": null
     },
     {
       "code": "NVDA",
@@ -458,7 +458,7 @@
       "per": null,
       "pbr": 14.286453,
       "change_percent": 2.18518,
-      "market_cap": 1817379078144
+      "market_cap": 1818426474496
     },
     {
       "code": "CRWV",
@@ -479,10 +479,10 @@
     {
       "code": "DASH",
       "name": "DoorDash",
-      "per": 122.89474,
+      "per": 120.360825,
       "pbr": 10.196952,
       "change_percent": 1.93836,
-      "market_cap": 101174534144
+      "market_cap": 101740322816
     }
   ],
   "triple": [],
@@ -509,7 +509,7 @@
       "per": 11.661049,
       "pbr": 2.7082155,
       "change_percent": 0.9565499999999999,
-      "market_cap": 53676740608
+      "market_cap": 53269549056
     },
     {
       "code": "EXC",
@@ -525,7 +525,7 @@
       "per": 17.108797,
       "pbr": 3.0418143,
       "change_percent": -0.377408,
-      "market_cap": 33621053440
+      "market_cap": 33384132608
     }
   ],
   "per_rise": [
@@ -533,7 +533,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.17911,
-      "pbr": 21.551517,
+      "pbr": null,
       "change_percent": 3.53025,
       "market_cap": 162513829888
     },
@@ -543,7 +543,7 @@
       "per": 20.577194,
       "pbr": 10.457546,
       "change_percent": 2.4757499,
-      "market_cap": 1053689905152
+      "market_cap": null
     }
   ],
   "pbr_rise": [
@@ -564,5 +564,5 @@
       "market_cap": 78274838528
     }
   ],
-  "generated_at": "2026-08-26T03:36:03+00:00"
+  "generated_at": "2026-08-26T05:21:27+00:00"
 }

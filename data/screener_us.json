@@ -22,15 +22,15 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": -0.135596,
-      "market_cap": 10504812544
+      "market_cap": 10508951552
     },
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.21659,
+      "per": 6.363208,
       "pbr": 1.3020817,
       "change_percent": -2.24638,
-      "market_cap": 20918099968
+      "market_cap": 20870619136
     },
     {
       "code": "UHS",
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.7172346,
+      "per": 7.630612,
       "pbr": 1.6493526,
       "change_percent": 1.09504,
       "market_cap": 28776388608
@@ -51,10 +51,10 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.8685446,
+      "per": 7.91188,
       "pbr": 1.47194,
       "change_percent": -0.57346397,
-      "market_cap": 34290958336
+      "market_cap": 34314000384
     },
     {
       "code": "EG",
@@ -94,7 +94,7 @@
       "per": 8.30351,
       "pbr": 1.1428918,
       "change_percent": -1.73362,
-      "market_cap": 22645403648
+      "market_cap": 21914148864
     },
     {
       "code": "T",
@@ -137,20 +137,20 @@
       "market_cap": 19259289600
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 9.581376,
-      "pbr": 2.8058236,
-      "change_percent": -3.62437,
-      "market_cap": 13436835840
-    },
-    {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
       "per": 9.598612,
       "pbr": 1.9453632,
       "change_percent": -0.546837,
       "market_cap": 37439926272
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 9.943698,
+      "pbr": 2.8058236,
+      "change_percent": -3.62437,
+      "market_cap": 13436835840
     },
     {
       "code": "TRV",
@@ -222,7 +222,7 @@
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 10.391305,
-      "pbr": 0.99233764,
+      "pbr": 0.9970041,
       "change_percent": -1.8297200999999998,
       "market_cap": 28947329024
     },
@@ -232,7 +232,7 @@
       "per": 355.6667,
       "pbr": 1.0161905,
       "change_percent": 3.09178,
-      "market_cap": 11941577728
+      "market_cap": 11971161088
     },
     {
       "code": "TFC",
@@ -272,7 +272,7 @@
       "per": 21.099548,
       "pbr": 1.1100267,
       "change_percent": -1.49978995,
-      "market_cap": 9867865088
+      "market_cap": 9681942528
     },
     {
       "code": "TSN",
@@ -288,7 +288,7 @@
       "per": 8.30351,
       "pbr": 1.1428918,
       "change_percent": -1.73362,
-      "market_cap": 22645403648
+      "market_cap": 21914148864
     },
     {
       "code": "HBAN",
@@ -317,7 +317,7 @@
     {
       "code": "GM",
       "name": "GENERAL MOTORS CO",
-      "per": 38.308033,
+      "per": 38.828053,
       "pbr": 1.2137886,
       "change_percent": -1.34514,
       "market_cap": 77610983424
@@ -335,7 +335,7 @@
     {
       "code": "SMCI",
       "name": "SUPER MICRO COMPUTER INC",
-      "per": 11.797545,
+      "per": 10.773109,
       "pbr": 2.3012028,
       "change_percent": 9.354570500000001,
       "market_cap": 24878735360
@@ -367,7 +367,7 @@
     {
       "code": "RDDT",
       "name": "REDDIT INC CL A",
-      "per": 37.691414,
+      "per": 35.469433,
       "pbr": 9.508897,
       "change_percent": 6.38507,
       "market_cap": 31254812672
@@ -386,7 +386,7 @@
       "per": 62.859844,
       "pbr": 13.328246,
       "change_percent": 5.0582398,
-      "market_cap": 91543330816
+      "market_cap": 91402936320
     },
     {
       "code": "AMD",
@@ -431,7 +431,7 @@
     {
       "code": "DELL",
       "name": "DELL TECHNOLOGIES  C",
-      "per": 35.947453,
+      "per": 34.491978,
       "pbr": null,
       "change_percent": 4.22678,
       "market_cap": 291733307392
@@ -447,10 +447,10 @@
     {
       "code": "APP",
       "name": "APPLOVIN CORP CLASS A",
-      "per": 23.850998,
+      "per": 22.935009,
       "pbr": 32.91711,
       "change_percent": 4.00215,
-      "market_cap": 103922376704
+      "market_cap": 104322662400
     },
     {
       "code": "MRK",
@@ -480,7 +480,7 @@
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
       "per": 16.17911,
-      "pbr": 21.551517,
+      "pbr": null,
       "change_percent": 3.53025,
       "market_cap": 162513829888
     }
@@ -509,7 +509,7 @@
       "per": 8.30351,
       "pbr": 1.1428918,
       "change_percent": -1.73362,
-      "market_cap": 22645403648
+      "market_cap": 21914148864
     },
     {
       "code": "CMCSA",
@@ -522,5 +522,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-08-26T03:36:02+00:00"
+  "generated_at": "2026-08-26T05:21:26+00:00"
 }
