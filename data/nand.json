@@ -574,5 +574,41 @@
     "change_percent": 2.87,
     "date": "2026-08-25",
     "collected_at": "2026-08-25T03:15:33+00:00"
+  },
+  {
+    "item": "SLC 2Gb 256MBx8",
+    "daily_high": 4.65,
+    "daily_low": 4.0,
+    "session_avg": 4.283,
+    "change_percent": -0.4,
+    "date": "2026-08-26",
+    "collected_at": "2026-08-26T03:34:22+00:00"
+  },
+  {
+    "item": "SLC 1Gb 128MBx8",
+    "daily_high": 3.75,
+    "daily_low": 3.13,
+    "session_avg": 3.48,
+    "change_percent": -0.43,
+    "date": "2026-08-26",
+    "collected_at": "2026-08-26T03:34:22+00:00"
+  },
+  {
+    "item": "MLC 64Gb 8GBx8",
+    "daily_high": 55.0,
+    "daily_low": 32.0,
+    "session_avg": 36.587,
+    "change_percent": 2.34,
+    "date": "2026-08-26",
+    "collected_at": "2026-08-26T03:34:22+00:00"
+  },
+  {
+    "item": "MLC 32Gb 4GBx8",
+    "daily_high": 19.5,
+    "daily_low": 17.0,
+    "session_avg": 17.938,
+    "change_percent": 2.87,
+    "date": "2026-08-26",
+    "collected_at": "2026-08-26T03:34:22+00:00"
   }
 ]

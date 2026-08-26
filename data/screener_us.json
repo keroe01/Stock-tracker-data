@@ -3,15 +3,15 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 4.03695,
+      "per": 3.910764,
       "pbr": 1.0915974,
-      "change_percent": 3.2202236,
+      "change_percent": 3.22022,
       "market_cap": 20909379584
     },
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 5.159623,
+      "per": 5.2107606,
       "pbr": 2.0644116,
       "change_percent": -0.9877429999999999,
       "market_cap": 65141264384
@@ -22,7 +22,7 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": -0.135596,
-      "market_cap": 10508951552
+      "market_cap": 10504812544
     },
     {
       "code": "FIS",
@@ -30,12 +30,12 @@
       "per": 6.21659,
       "pbr": 1.3020817,
       "change_percent": -2.24638,
-      "market_cap": 20870619136
+      "market_cap": 20918099968
     },
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.1738772,
+      "per": 7.2003274,
       "pbr": 1.3786179,
       "change_percent": -0.362811,
       "market_cap": 10358681600
@@ -53,13 +53,13 @@
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.8685446,
       "pbr": 1.47194,
-      "change_percent": -0.57346434,
-      "market_cap": 34314000384
+      "change_percent": -0.57346397,
+      "market_cap": 34290958336
     },
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.9330096,
+      "per": 7.9616117,
       "pbr": 0.9415161,
       "change_percent": -0.371558,
       "market_cap": 14393480192
@@ -67,23 +67,15 @@
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.093484,
+      "per": 8.085849,
       "pbr": 1.5773346,
-      "change_percent": 0.12265138999999999,
+      "change_percent": 0.12265100000000001,
       "market_cap": 26309206016
-    },
-    {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.160345,
-      "pbr": 1.1428918,
-      "change_percent": -1.7336220999999998,
-      "market_cap": 21914148864
     },
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 8.284102,
+      "per": 8.208333,
       "pbr": 1.7290689,
       "change_percent": 0.9372659999999999,
       "market_cap": 26280202240
@@ -91,15 +83,23 @@
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 8.292195,
+      "per": 8.257274,
       "pbr": 3.6876569,
-      "change_percent": 0.42370367000000003,
+      "change_percent": 0.423704,
       "market_cap": 68357615616
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.30351,
+      "pbr": 1.1428918,
+      "change_percent": -1.73362,
+      "market_cap": 22645403648
     },
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.504951,
+      "per": 8.476974,
       "pbr": 1.6050075,
       "change_percent": 0.31140500000000004,
       "market_cap": 176585981952
@@ -107,23 +107,23 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.685898,
+      "per": 8.658147,
       "pbr": 1.0706807,
-      "change_percent": 0.2960767,
+      "change_percent": 0.29607701999999997,
       "market_cap": 96168058880
     },
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 8.723629,
+      "per": 9.067983,
       "pbr": 2.0652282,
-      "change_percent": -3.7476737000000004,
+      "change_percent": -3.7476700000000003,
       "market_cap": 14487034880
     },
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 9.064892,
+      "per": 9.360825,
       "pbr": 2.093774,
       "change_percent": -3.0605,
       "market_cap": 14647032832
@@ -137,25 +137,25 @@
       "market_cap": 19259289600
     },
     {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 9.581376,
+      "pbr": 2.8058236,
+      "change_percent": -3.62437,
+      "market_cap": 13436835840
+    },
+    {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.545581,
+      "per": 9.598612,
       "pbr": 1.9453632,
       "change_percent": -0.546837,
       "market_cap": 37439926272
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 9.581376,
-      "pbr": 2.8058236,
-      "change_percent": -3.6243662000000003,
-      "market_cap": 13436835840
-    },
-    {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
-      "per": 9.937097,
+      "per": 9.961196,
       "pbr": 2.3281562,
       "change_percent": -0.240179,
       "market_cap": 77101842432
@@ -191,13 +191,13 @@
       "name": "KRAFT HEINZ CO/THE",
       "per": null,
       "pbr": 0.8340196,
-      "change_percent": -1.3634608,
+      "change_percent": -1.3634600000000001,
       "market_cap": 30025056256
     },
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.9330096,
+      "per": 7.9616117,
       "pbr": 0.9415161,
       "change_percent": -0.371558,
       "market_cap": 14393480192
@@ -205,7 +205,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 13.742947,
+      "per": 13.807875,
       "pbr": 0.9769251,
       "change_percent": -0.5444680000000001,
       "market_cap": 21121685504
@@ -213,7 +213,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.937956,
+      "per": 14.1182995,
       "pbr": 0.98700017,
       "change_percent": -1.29232,
       "market_cap": 39938580480
@@ -221,8 +221,8 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 10.189923,
-      "pbr": 0.9970041,
+      "per": 10.391305,
+      "pbr": 0.99233764,
       "change_percent": -1.8297200999999998,
       "market_cap": 28947329024
     },
@@ -231,8 +231,8 @@
       "name": "PARAMOUNT SKYDANCE CL B",
       "per": 355.6667,
       "pbr": 1.0161905,
-      "change_percent": 3.0917846,
-      "market_cap": 11971161088
+      "change_percent": 3.09178,
+      "market_cap": 11941577728
     },
     {
       "code": "TFC",
@@ -245,15 +245,15 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.685898,
+      "per": 8.658147,
       "pbr": 1.0706807,
-      "change_percent": 0.2960767,
+      "change_percent": 0.29607701999999997,
       "market_cap": 96168058880
     },
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 44.46446,
+      "per": 44.676193,
       "pbr": 1.0790854,
       "change_percent": -0.5090169999999999,
       "market_cap": 24826497024
@@ -261,9 +261,9 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 4.03695,
+      "per": 3.910764,
       "pbr": 1.0915974,
-      "change_percent": 3.2202236,
+      "change_percent": 3.22022,
       "market_cap": 20909379584
     },
     {
@@ -272,7 +272,7 @@
       "per": 21.099548,
       "pbr": 1.1100267,
       "change_percent": -1.49978995,
-      "market_cap": 9681942528
+      "market_cap": 9867865088
     },
     {
       "code": "TSN",
@@ -285,23 +285,23 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.160345,
+      "per": 8.30351,
       "pbr": 1.1428918,
-      "change_percent": -1.7336220999999998,
-      "market_cap": 21914148864
+      "change_percent": -1.73362,
+      "market_cap": 22645403648
     },
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 13.038463,
+      "per": 13.139536,
       "pbr": 1.1514164,
-      "change_percent": -0.5281699,
+      "change_percent": -0.52817,
       "market_cap": 34246033408
     },
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.34338,
+      "per": 14.190628,
       "pbr": 1.1613415,
       "change_percent": 1.1615501,
       "market_cap": 223518457856
@@ -309,7 +309,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.596319,
+      "per": 13.680246,
       "pbr": 1.1849055,
       "change_percent": -0.574248,
       "market_cap": 22652635136
@@ -329,7 +329,7 @@
       "name": "MODERNA INC",
       "per": null,
       "pbr": 9.373267,
-      "change_percent": 14.356688,
+      "change_percent": 14.3567,
       "market_cap": 63410638848
     },
     {
@@ -337,21 +337,21 @@
       "name": "SUPER MICRO COMPUTER INC",
       "per": 11.797545,
       "pbr": 2.3012028,
-      "change_percent": 9.354567,
+      "change_percent": 9.354570500000001,
       "market_cap": 24878735360
     },
     {
       "code": "HOOD",
       "name": "ROBINHOOD MARKETS INC   A",
-      "per": 49.597343,
+      "per": 45.938522,
       "pbr": 10.629682,
-      "change_percent": 8.1740916,
+      "change_percent": 8.17409,
       "market_cap": 100778131456
     },
     {
       "code": "CDW",
       "name": "CDW CORP/DE",
-      "per": 17.078125,
+      "per": 15.929372,
       "pbr": 7.2904053,
       "change_percent": 7.741879999999999,
       "market_cap": 17763725312
@@ -361,7 +361,7 @@
       "name": "LUMENTUM HOLDINGS INC",
       "per": null,
       "pbr": 16.89558,
-      "change_percent": 6.6727325,
+      "change_percent": 6.6727300000000005,
       "market_cap": 79435177984
     },
     {
@@ -375,25 +375,25 @@
     {
       "code": "IBKR",
       "name": "INTERACTIVE BROKERS GRO CL A",
-      "per": 38.964287,
+      "per": 36.913532,
       "pbr": 7.4937043,
-      "change_percent": 5.523911,
+      "change_percent": 5.52391,
       "market_cap": 167297646592
     },
     {
       "code": "CDNS",
       "name": "CADENCE DESIGN SYS INC",
-      "per": 66.11554,
+      "per": 62.859844,
       "pbr": 13.328246,
-      "change_percent": 5.058236,
-      "market_cap": 91402936320
+      "change_percent": 5.0582398,
+      "market_cap": 91543330816
     },
     {
       "code": "AMD",
       "name": "ADVANCED MICRO DEVICES",
-      "per": 121.92875,
+      "per": 116.305824,
       "pbr": 11.633123,
-      "change_percent": 4.911931,
+      "change_percent": 4.91193,
       "market_cap": 782249361408
     },
     {
@@ -401,13 +401,13 @@
       "name": "MARVELL TECHNOLOGY INC",
       "per": 82.60481,
       "pbr": 11.554508,
-      "change_percent": 4.8366748,
+      "change_percent": 4.83667,
       "market_cap": 216030625792
     },
     {
       "code": "CVNA",
       "name": "CARVANA CO",
-      "per": 40.089947,
+      "per": 38.267673,
       "pbr": 13.525525,
       "change_percent": 4.7559700000000005,
       "market_cap": 112751230976
@@ -415,7 +415,7 @@
     {
       "code": "COHR",
       "name": "COHERENT CORP",
-      "per": 69.767555,
+      "per": 66.69907,
       "pbr": 5.1730704,
       "change_percent": 4.5918297,
       "market_cap": 56427106304
@@ -425,7 +425,7 @@
       "name": "COINBASE GLOBAL INC  CLASS A",
       "per": null,
       "pbr": 3.7745287,
-      "change_percent": 4.2790327,
+      "change_percent": 4.2790297,
       "market_cap": 49379721216
     },
     {
@@ -439,7 +439,7 @@
     {
       "code": "CIEN",
       "name": "CIENA CORP",
-      "per": 128.7907,
+      "per": 123.458595,
       "pbr": 18.978752,
       "change_percent": 4.22368,
       "market_cap": 54874406912
@@ -449,13 +449,13 @@
       "name": "APPLOVIN CORP CLASS A",
       "per": 23.850998,
       "pbr": 32.91711,
-      "change_percent": 4.0021475,
-      "market_cap": 104322662400
+      "change_percent": 4.00215,
+      "market_cap": 103922376704
     },
     {
       "code": "MRK",
       "name": "MERCK + CO. INC.",
-      "per": 125.159996,
+      "per": 120.34615,
       "pbr": 9.210526,
       "change_percent": 3.8430899999999997,
       "market_cap": 385988984832
@@ -463,7 +463,7 @@
     {
       "code": "SNPS",
       "name": "SYNOPSYS INC",
-      "per": 93.33105,
+      "per": 90.041855,
       "pbr": 2.5677602,
       "change_percent": 3.6196798,
       "market_cap": 78274838528
@@ -471,7 +471,7 @@
     {
       "code": "MCK",
       "name": "MCKESSON CORP",
-      "per": 24.258644,
+      "per": 23.417593,
       "pbr": null,
       "change_percent": 3.5821,
       "market_cap": 105524772864
@@ -479,9 +479,9 @@
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 16.750278,
-      "pbr": null,
-      "change_percent": 3.5302483000000002,
+      "per": 16.17911,
+      "pbr": 21.551517,
+      "change_percent": 3.53025,
       "market_cap": 162513829888
     }
   ],
@@ -490,15 +490,15 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 4.03695,
+      "per": 3.910764,
       "pbr": 1.0915974,
-      "change_percent": 3.2202236,
+      "change_percent": 3.22022,
       "market_cap": 20909379584
     },
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.9330096,
+      "per": 7.9616117,
       "pbr": 0.9415161,
       "change_percent": -0.371558,
       "market_cap": 14393480192
@@ -506,21 +506,21 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.160345,
+      "per": 8.30351,
       "pbr": 1.1428918,
-      "change_percent": -1.7336220999999998,
-      "market_cap": 21914148864
+      "change_percent": -1.73362,
+      "market_cap": 22645403648
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.685898,
+      "per": 8.658147,
       "pbr": 1.0706807,
-      "change_percent": 0.2960767,
+      "change_percent": 0.29607701999999997,
       "market_cap": 96168058880
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-08-25T23:01:02+00:00"
+  "generated_at": "2026-08-26T03:36:02+00:00"
 }
