@@ -31148,5 +31148,75 @@
     "date": "2026-08-26",
     "yield": 4.595,
     "collected_at": "2026-08-26T08:09:13+00:00"
+  },
+  {
+    "country": "US",
+    "maturity": "10Y",
+    "date": "2026-08-26",
+    "yield": 4.66,
+    "collected_at": "2026-08-28T01:10:05+00:00"
+  },
+  {
+    "country": "US",
+    "maturity": "30Y",
+    "date": "2026-08-26",
+    "yield": 5.18,
+    "collected_at": "2026-08-28T01:10:05+00:00"
+  },
+  {
+    "country": "US",
+    "maturity": "10Y",
+    "date": "2026-08-27",
+    "yield": 4.67,
+    "collected_at": "2026-08-28T01:10:05+00:00"
+  },
+  {
+    "country": "US",
+    "maturity": "30Y",
+    "date": "2026-08-27",
+    "yield": 5.19,
+    "collected_at": "2026-08-28T01:10:05+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "10Y",
+    "date": "2026-08-26",
+    "yield": 2.892,
+    "collected_at": "2026-08-28T01:10:15+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "30Y",
+    "date": "2026-08-26",
+    "yield": 4.039,
+    "collected_at": "2026-08-28T01:10:15+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "10Y",
+    "date": "2026-08-27",
+    "yield": 2.897,
+    "collected_at": "2026-08-28T01:10:15+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "30Y",
+    "date": "2026-08-27",
+    "yield": 4.038,
+    "collected_at": "2026-08-28T01:10:15+00:00"
+  },
+  {
+    "country": "KR",
+    "maturity": "10Y",
+    "date": "2026-08-27",
+    "yield": 4.238,
+    "collected_at": "2026-08-28T01:10:20+00:00"
+  },
+  {
+    "country": "KR",
+    "maturity": "30Y",
+    "date": "2026-08-27",
+    "yield": 4.51,
+    "collected_at": "2026-08-28T01:10:20+00:00"
   }
 ]
