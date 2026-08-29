@@ -22,7 +22,7 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": -0.135596,
-      "market_cap": 10504812544
+      "market_cap": 10508951552
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.231579,
       "pbr": 1.3332905,
       "change_percent": 2.19482,
-      "market_cap": 21419470848
+      "market_cap": 21370853376
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.727912,
       "pbr": 1.4467636,
       "change_percent": 0.08099859699999999,
-      "market_cap": 33704437760
+      "market_cap": 33727084544
     },
     {
       "code": "EG",
@@ -65,14 +65,6 @@
       "market_cap": 14478600192
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.005129,
-      "pbr": 1.6708411,
-      "change_percent": -2.3520501,
-      "market_cap": 25395195904
-    },
-    {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 8.150237,
@@ -81,12 +73,20 @@
       "market_cap": 26393620480
     },
     {
-      "code": "HON",
-      "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 8.359477,
-      "pbr": 3.7175782,
-      "change_percent": -1.34308,
-      "market_cap": 68912259072
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.198529,
+      "pbr": 1.6708411,
+      "change_percent": -2.3520501,
+      "market_cap": 25395195904
+    },
+    {
+      "code": "T",
+      "name": "AT+T INC",
+      "per": 8.390323,
+      "pbr": 1.6199552,
+      "change_percent": 2.28077,
+      "market_cap": 178230558720
     },
     {
       "code": "EXE",
@@ -94,7 +94,7 @@
       "per": 8.447505,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
-      "market_cap": 23482703872
+      "market_cap": 22724413440
     },
     {
       "code": "CMCSA",
@@ -105,12 +105,12 @@
       "market_cap": 96026107904
     },
     {
-      "code": "T",
-      "name": "AT+T INC",
-      "per": 8.584159,
-      "pbr": 1.6199552,
-      "change_percent": 2.28077,
-      "market_cap": 178230558720
+      "code": "HON",
+      "name": "HONEYWELL INTERNATIONAL INC",
+      "per": 8.473499,
+      "pbr": 3.7175782,
+      "change_percent": -1.34308,
+      "market_cap": 68912259072
     },
     {
       "code": "APA",
@@ -123,7 +123,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 9.070492,
+      "per": 9.206323,
       "pbr": 2.1264412,
       "change_percent": 1.44848,
       "market_cap": 14875556864
@@ -147,7 +147,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.515797,
+      "per": 9.568371,
       "pbr": 1.9500077,
       "change_percent": 0.5442670000000001,
       "market_cap": 37529317376
@@ -213,7 +213,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 10.027132,
+      "per": 9.988418,
       "pbr": 0.97648436,
       "change_percent": 0.38804998999999996,
       "market_cap": 28484876288
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.987273,
+      "per": 14.0383215,
       "pbr": 0.9941074,
       "change_percent": 0.391496,
       "market_cap": 40226172928
@@ -232,7 +232,7 @@
       "per": 362.6667,
       "pbr": 1.0361905,
       "change_percent": 0.74074,
-      "market_cap": 12176604160
+      "market_cap": 12206769152
     },
     {
       "code": "TFC",
@@ -280,7 +280,7 @@
       "per": 20.608109,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
-      "market_cap": 9681639424
+      "market_cap": 9499225088
     },
     {
       "code": "PCG",
@@ -320,7 +320,7 @@
       "per": 8.447505,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
-      "market_cap": 23482703872
+      "market_cap": 22724413440
     }
   ],
   "rise": [
@@ -399,16 +399,16 @@
     {
       "code": "EXPE",
       "name": "EXPEDIA GROUP INC",
-      "per": 20.706474,
+      "per": 20.038929,
       "pbr": 32.69876,
       "change_percent": 3.29863,
-      "market_cap": 39539171328
+      "market_cap": 39540072448
     },
     {
       "code": "ZTS",
       "name": "ZOETIS INC",
-      "per": 12.616638,
-      "pbr": 9.866054,
+      "per": 12.237341,
+      "pbr": null,
       "change_percent": 3.09251,
       "market_cap": 31958712320
     },
@@ -418,7 +418,7 @@
       "per": 21.571428,
       "pbr": 1.667246,
       "change_percent": 3.0847099,
-      "market_cap": 39298736128
+      "market_cap": 39298985984
     },
     {
       "code": "NKE",
@@ -426,7 +426,7 @@
       "per": 18.333332,
       "pbr": 3.9505186,
       "change_percent": 3.01769,
-      "market_cap": 58643124224
+      "market_cap": 58746548224
     },
     {
       "code": "HPQ",
@@ -439,7 +439,7 @@
     {
       "code": "INTU",
       "name": "INTUIT INC",
-      "per": 21.136953,
+      "per": 21.753342,
       "pbr": 4.7604866,
       "change_percent": 2.8908,
       "market_cap": 97942650880
@@ -518,7 +518,7 @@
       "per": 8.447505,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
-      "market_cap": 23482703872
+      "market_cap": 22724413440
     },
     {
       "code": "CMCSA",
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-29T18:03:55+00:00"
+  "generated_at": "2026-08-29T20:04:17+00:00"
 }

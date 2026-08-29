@@ -1,20 +1,20 @@
 {
   "per": [
     {
-      "code": "HON",
-      "name": "Honeywell Technologies",
-      "per": 8.359477,
-      "pbr": 3.7175782,
-      "change_percent": -1.34308,
-      "market_cap": 68912259072
-    },
-    {
       "code": "CMCSA",
       "name": "Comcast",
       "per": 8.456249,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
+    },
+    {
+      "code": "HON",
+      "name": "Honeywell Technologies",
+      "per": 8.473499,
+      "pbr": 3.7175782,
+      "change_percent": -1.34308,
+      "market_cap": 68912259072
     },
     {
       "code": "PDD",
@@ -30,7 +30,7 @@
       "per": 11.614718,
       "pbr": 2.3337538,
       "change_percent": -12.705400000000001,
-      "market_cap": 46254919680
+      "market_cap": 45904031744
     },
     {
       "code": "EXC",
@@ -54,7 +54,7 @@
       "per": 16.680231,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
-      "market_cap": 32627111936
+      "market_cap": 32397195264
     },
     {
       "code": "GOOG",
@@ -65,20 +65,20 @@
       "market_cap": 4193400127488
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 17.0609,
-      "pbr": 21.967487,
-      "change_percent": -0.55194497,
-      "market_cap": 165650530304
-    },
-    {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
       "per": 17.090237,
       "pbr": 6.8097687,
       "change_percent": 1.74373,
       "market_cap": 4238773059584
+    },
+    {
+      "code": "WDC",
+      "name": "Western Digital",
+      "per": 17.150055,
+      "pbr": null,
+      "change_percent": -0.55194497,
+      "market_cap": 165650530304
     },
     {
       "code": "ROP",
@@ -97,20 +97,20 @@
       "market_cap": 192701628416
     },
     {
-      "code": "TMUS",
-      "name": "T-Mobile US",
-      "per": 18.58299,
-      "pbr": 3.4646978,
-      "change_percent": 2.6254699,
-      "market_cap": 194550448128
-    },
-    {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.829128,
+      "per": 18.764572,
       "pbr": 6.2746973,
       "change_percent": -0.358051,
       "market_cap": 175364849664
+    },
+    {
+      "code": "TMUS",
+      "name": "T-Mobile US",
+      "per": 18.971756,
+      "pbr": 3.4646978,
+      "change_percent": 2.6254699,
+      "market_cap": 194550448128
     },
     {
       "code": "NXPI",
@@ -121,20 +121,20 @@
       "market_cap": 56378867712
     },
     {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 19.939297,
-      "pbr": 3.1108563,
-      "change_percent": 0.483013,
-      "market_cap": 61952786432
-    },
-    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 19.999748,
       "pbr": 2.512377,
       "change_percent": -1.67387,
       "market_cap": 81765826560
+    },
+    {
+      "code": "BKR",
+      "name": "Baker Hughes",
+      "per": 20.067524,
+      "pbr": 3.1108563,
+      "change_percent": 0.483013,
+      "market_cap": 61952786432
     },
     {
       "code": "SNDK",
@@ -147,10 +147,10 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 20.490685,
+      "per": 20.364199,
       "pbr": 3.4810596,
       "change_percent": 0.70208595,
-      "market_cap": 31779547136
+      "market_cap": 30542522368
     },
     {
       "code": "AMZN",
@@ -184,7 +184,7 @@
       "per": 38.160233,
       "pbr": 1.4633226,
       "change_percent": -1.4213099,
-      "market_cap": 55607201792
+      "market_cap": 55351508992
     },
     {
       "code": "EXC",
@@ -256,7 +256,7 @@
       "per": 11.614718,
       "pbr": 2.3337538,
       "change_percent": -12.705400000000001,
-      "market_cap": 46254919680
+      "market_cap": 45904031744
     },
     {
       "code": "REGN",
@@ -269,7 +269,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 81.36213,
+      "per": 77.37937,
       "pbr": 2.9060955,
       "change_percent": -4.79254,
       "market_cap": 84820287488
@@ -280,7 +280,7 @@
       "per": 16.680231,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
-      "market_cap": 32627111936
+      "market_cap": 32397195264
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.842491,
       "pbr": 2.9976447,
       "change_percent": -0.112125,
-      "market_cap": 80048398336
+      "market_cap": 79590572032
     },
     {
       "code": "CEG",
@@ -301,7 +301,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 19.939297,
+      "per": 20.067524,
       "pbr": 3.1108563,
       "change_percent": 0.483013,
       "market_cap": 61952786432
@@ -317,7 +317,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -343,7 +343,7 @@
     {
       "code": "INTU",
       "name": "Intuit",
-      "per": 21.136953,
+      "per": 21.753342,
       "pbr": 4.7604866,
       "change_percent": 2.8908,
       "market_cap": 97942650880
@@ -359,7 +359,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -407,10 +407,10 @@
     {
       "code": "IDXX",
       "name": "Idexx Laboratories",
-      "per": 38.301586,
+      "per": 39.001408,
       "pbr": 27.145512,
       "change_percent": 1.8180799,
-      "market_cap": 43779276800
+      "market_cap": 43722731520
     },
     {
       "code": "GOOGL",
@@ -450,7 +450,7 @@
       "per": 24.036308,
       "pbr": 33.682426,
       "change_percent": 1.64092,
-      "market_cap": 106338557952
+      "market_cap": 106748141568
     },
     {
       "code": "AAPL",
@@ -474,7 +474,7 @@
       "per": 22.522453,
       "pbr": null,
       "change_percent": 1.5155999999999998,
-      "market_cap": 159338266624
+      "market_cap": 154506379264
     },
     {
       "code": "ISRG",
@@ -497,7 +497,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -526,7 +526,7 @@
       "per": 11.614718,
       "pbr": 2.3337538,
       "change_percent": -12.705400000000001,
-      "market_cap": 46254919680
+      "market_cap": 45904031744
     },
     {
       "code": "EXC",
@@ -542,7 +542,7 @@
       "per": 16.680231,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
-      "market_cap": 32627111936
+      "market_cap": 32397195264
     }
   ],
   "per_rise": [
@@ -573,7 +573,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -607,11 +607,11 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
     }
   ],
-  "generated_at": "2026-08-29T18:03:56+00:00"
+  "generated_at": "2026-08-29T20:04:18+00:00"
 }
