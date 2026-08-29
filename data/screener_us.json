@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 5.156936,
+      "per": 5.2168164,
       "pbr": 2.0881312,
       "change_percent": 1.14898,
       "market_cap": 65889722368
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.6023836,
+      "per": 7.241486,
       "pbr": 1.5476742,
       "change_percent": -4.7638502,
       "market_cap": 27002396672
@@ -97,20 +97,20 @@
       "market_cap": 178230558720
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.447505,
-      "pbr": 1.1851496,
-      "change_percent": 0.163269,
-      "market_cap": 22724413440
-    },
-    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 8.456249,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.462069,
+      "pbr": 1.1851496,
+      "change_percent": 0.163269,
+      "market_cap": 22724413440
     },
     {
       "code": "APA",
@@ -213,7 +213,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.988418,
+      "per": 10.027132,
       "pbr": 0.97648436,
       "change_percent": 0.38804998999999996,
       "market_cap": 28484876288
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.987273,
+      "per": 14.0383215,
       "pbr": 0.9941074,
       "change_percent": 0.391496,
       "market_cap": 40226172928
@@ -277,7 +277,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 20.608109,
+      "per": 20.701357,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
       "market_cap": 9499225088
@@ -317,7 +317,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.447505,
+      "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
       "market_cap": 22724413440
@@ -335,7 +335,7 @@
     {
       "code": "DPZ",
       "name": "DOMINO S PIZZA INC",
-      "per": 18.827326,
+      "per": 19.852526,
       "pbr": null,
       "change_percent": 5.4042302,
       "market_cap": 11578607616
@@ -359,7 +359,7 @@
     {
       "code": "SLB",
       "name": "SLB LTD",
-      "per": 26.789719,
+      "per": 27.965855,
       "pbr": 3.2633197,
       "change_percent": 4.217420000000001,
       "market_cap": 85085937664
@@ -367,7 +367,7 @@
     {
       "code": "AMZN",
       "name": "AMAZON.COM INC",
-      "per": 20.621517,
+      "per": 21.434431,
       "pbr": 5.2081866,
       "change_percent": 3.9686199999999996,
       "market_cap": 2873797378048
@@ -391,7 +391,7 @@
     {
       "code": "BG",
       "name": "BUNGE GLOBAL SA",
-      "per": 24.058332,
+      "per": 24.887932,
       "pbr": 1.3906217,
       "change_percent": 3.50453,
       "market_cap": 22185916416
@@ -439,7 +439,7 @@
     {
       "code": "INTU",
       "name": "INTUIT INC",
-      "per": 21.136953,
+      "per": 21.753342,
       "pbr": 4.7604866,
       "change_percent": 2.8908,
       "market_cap": 97942650880
@@ -447,7 +447,7 @@
     {
       "code": "AJG",
       "name": "ARTHUR J GALLAGHER + CO",
-      "per": 43.085346,
+      "per": 44.29801,
       "pbr": 2.891415,
       "change_percent": 2.8483601000000003,
       "market_cap": 68586594304
@@ -513,20 +513,20 @@
       "market_cap": 14478600192
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.447505,
-      "pbr": 1.1851496,
-      "change_percent": 0.163269,
-      "market_cap": 22724413440
-    },
-    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 8.456249,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.462069,
+      "pbr": 1.1851496,
+      "change_percent": 0.163269,
+      "market_cap": 22724413440
     }
   ],
   "per_rise": [
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-29T14:04:14+00:00"
+  "generated_at": "2026-08-29T16:04:17+00:00"
 }
