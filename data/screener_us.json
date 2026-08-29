@@ -22,7 +22,7 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": -0.135596,
-      "market_cap": 10508951552
+      "market_cap": 10504812544
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.231579,
       "pbr": 1.3332905,
       "change_percent": 2.19482,
-      "market_cap": 21370853376
+      "market_cap": 21419470848
     },
     {
       "code": "UHS",
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.241486,
+      "per": 7.6023836,
       "pbr": 1.5476742,
       "change_percent": -4.7638502,
       "market_cap": 27002396672
@@ -51,18 +51,26 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.733959,
+      "per": 7.727912,
       "pbr": 1.4467636,
       "change_percent": 0.08099859699999999,
-      "market_cap": 33727084544
+      "market_cap": 33704437760
     },
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.9799237,
+      "per": 7.9816103,
       "pbr": 0.947084,
       "change_percent": -0.013244299999999999,
       "market_cap": 14478600192
+    },
+    {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.005129,
+      "pbr": 1.6708411,
+      "change_percent": -2.3520501,
+      "market_cap": 25395195904
     },
     {
       "code": "CINF",
@@ -73,14 +81,6 @@
       "market_cap": 26393620480
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.198529,
-      "pbr": 1.6708411,
-      "change_percent": -2.3520501,
-      "market_cap": 25395195904
-    },
-    {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
       "per": 8.359477,
@@ -89,12 +89,12 @@
       "market_cap": 68912259072
     },
     {
-      "code": "T",
-      "name": "AT+T INC",
-      "per": 8.390323,
-      "pbr": 1.6199552,
-      "change_percent": 2.28077,
-      "market_cap": 178230558720
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.447505,
+      "pbr": 1.1851496,
+      "change_percent": 0.163269,
+      "market_cap": 23482703872
     },
     {
       "code": "CMCSA",
@@ -105,12 +105,12 @@
       "market_cap": 96026107904
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.462069,
-      "pbr": 1.1851496,
-      "change_percent": 0.163269,
-      "market_cap": 22724413440
+      "code": "T",
+      "name": "AT+T INC",
+      "per": 8.584159,
+      "pbr": 1.6199552,
+      "change_percent": 2.28077,
+      "market_cap": 178230558720
     },
     {
       "code": "APA",
@@ -129,6 +129,14 @@
       "market_cap": 14875556864
     },
     {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 9.314571,
+      "pbr": 2.864629,
+      "change_percent": 5.0521698,
+      "market_cap": 13718449152
+    },
+    {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
       "per": 9.331603,
@@ -143,14 +151,6 @@
       "pbr": 1.9500077,
       "change_percent": 0.5442670000000001,
       "market_cap": 37529317376
-    },
-    {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 9.782186,
-      "pbr": 2.864629,
-      "change_percent": 5.0521698,
-      "market_cap": 13718449152
     },
     {
       "code": "TRV",
@@ -197,7 +197,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.9799237,
+      "per": 7.9816103,
       "pbr": 0.947084,
       "change_percent": -0.013244299999999999,
       "market_cap": 14478600192
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 14.0383215,
+      "per": 13.987273,
       "pbr": 0.9941074,
       "change_percent": 0.391496,
       "market_cap": 40226172928
@@ -232,7 +232,7 @@
       "per": 362.6667,
       "pbr": 1.0361905,
       "change_percent": 0.74074,
-      "market_cap": 12206769152
+      "market_cap": 12176604160
     },
     {
       "code": "TFC",
@@ -277,15 +277,15 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 20.701357,
+      "per": 20.608109,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
-      "market_cap": 9499225088
+      "market_cap": 9681639424
     },
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 11.942447,
+      "per": 12.968751,
       "pbr": 1.1310984,
       "change_percent": -7.52089,
       "market_cap": 36559294464
@@ -301,7 +301,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.336568,
+      "per": 14.305704,
       "pbr": 1.158291,
       "change_percent": 0.16581300000000002,
       "market_cap": 222931337216
@@ -317,10 +317,10 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.462069,
+      "per": 8.447505,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
-      "market_cap": 22724413440
+      "market_cap": 23482703872
     }
   ],
   "rise": [
@@ -330,12 +330,12 @@
       "per": 39.369232,
       "pbr": 7.6277056,
       "change_percent": 5.76019,
-      "market_cap": 50560409600
+      "market_cap": 49337520128
     },
     {
       "code": "DPZ",
       "name": "DOMINO S PIZZA INC",
-      "per": 19.852526,
+      "per": 18.827326,
       "pbr": null,
       "change_percent": 5.4042302,
       "market_cap": 11578607616
@@ -343,7 +343,7 @@
     {
       "code": "LULU",
       "name": "LULULEMON ATHLETICA INC",
-      "per": 9.782186,
+      "per": 9.314571,
       "pbr": 2.864629,
       "change_percent": 5.0521698,
       "market_cap": 13718449152
@@ -359,7 +359,7 @@
     {
       "code": "SLB",
       "name": "SLB LTD",
-      "per": 27.965855,
+      "per": 26.789719,
       "pbr": 3.2633197,
       "change_percent": 4.217420000000001,
       "market_cap": 85085937664
@@ -367,7 +367,7 @@
     {
       "code": "AMZN",
       "name": "AMAZON.COM INC",
-      "per": 21.434431,
+      "per": 20.621517,
       "pbr": 5.2081866,
       "change_percent": 3.9686199999999996,
       "market_cap": 2873797378048
@@ -391,7 +391,7 @@
     {
       "code": "BG",
       "name": "BUNGE GLOBAL SA",
-      "per": 24.887932,
+      "per": 24.058332,
       "pbr": 1.3906217,
       "change_percent": 3.50453,
       "market_cap": 22185916416
@@ -402,13 +402,13 @@
       "per": 20.706474,
       "pbr": 32.69876,
       "change_percent": 3.29863,
-      "market_cap": 39540072448
+      "market_cap": 39539171328
     },
     {
       "code": "ZTS",
       "name": "ZOETIS INC",
       "per": 12.616638,
-      "pbr": null,
+      "pbr": 9.866054,
       "change_percent": 3.09251,
       "market_cap": 31958712320
     },
@@ -418,7 +418,7 @@
       "per": 21.571428,
       "pbr": 1.667246,
       "change_percent": 3.0847099,
-      "market_cap": 39298985984
+      "market_cap": 39298736128
     },
     {
       "code": "NKE",
@@ -426,7 +426,7 @@
       "per": 18.333332,
       "pbr": 3.9505186,
       "change_percent": 3.01769,
-      "market_cap": 58746548224
+      "market_cap": 58643124224
     },
     {
       "code": "HPQ",
@@ -439,7 +439,7 @@
     {
       "code": "INTU",
       "name": "INTUIT INC",
-      "per": 21.753342,
+      "per": 21.136953,
       "pbr": 4.7604866,
       "change_percent": 2.8908,
       "market_cap": 97942650880
@@ -447,7 +447,7 @@
     {
       "code": "AJG",
       "name": "ARTHUR J GALLAGHER + CO",
-      "per": 44.29801,
+      "per": 43.085346,
       "pbr": 2.891415,
       "change_percent": 2.8483601000000003,
       "market_cap": 68586594304
@@ -507,10 +507,18 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.9799237,
+      "per": 7.9816103,
       "pbr": 0.947084,
       "change_percent": -0.013244299999999999,
       "market_cap": 14478600192
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.447505,
+      "pbr": 1.1851496,
+      "change_percent": 0.163269,
+      "market_cap": 23482703872
     },
     {
       "code": "CMCSA",
@@ -519,14 +527,6 @@
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
-    },
-    {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.462069,
-      "pbr": 1.1851496,
-      "change_percent": 0.163269,
-      "market_cap": 22724413440
     }
   ],
   "per_rise": [
@@ -541,7 +541,7 @@
     {
       "code": "LULU",
       "name": "LULULEMON ATHLETICA INC",
-      "per": 9.782186,
+      "per": 9.314571,
       "pbr": 2.864629,
       "change_percent": 5.0521698,
       "market_cap": 13718449152
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-29T16:04:17+00:00"
+  "generated_at": "2026-08-29T18:03:55+00:00"
 }
