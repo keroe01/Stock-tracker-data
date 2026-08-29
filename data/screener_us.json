@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9973977,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 5.2168164,
+      "per": 5.156936,
       "pbr": 2.0881312,
       "change_percent": 1.14898,
       "market_cap": 65889722368
@@ -27,7 +27,7 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.365591,
+      "per": 6.231579,
       "pbr": 1.3332905,
       "change_percent": 2.19482,
       "market_cap": 21370853376
@@ -35,7 +35,7 @@
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.003672,
+      "per": 7.0410175,
       "pbr": 1.3464586,
       "change_percent": -0.533085,
       "market_cap": 10117042176
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.241486,
+      "per": 7.6023836,
       "pbr": 1.5476742,
       "change_percent": -4.7638502,
       "market_cap": 27002396672
@@ -65,20 +65,20 @@
       "market_cap": 14478600192
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.005129,
-      "pbr": 1.6708411,
-      "change_percent": -2.3520501,
-      "market_cap": 25395195904
-    },
-    {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.119452,
+      "per": 8.150237,
       "pbr": 1.5823956,
       "change_percent": -0.31880501,
       "market_cap": 26393620480
+    },
+    {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.198529,
+      "pbr": 1.6708411,
+      "change_percent": -2.3520501,
+      "market_cap": 25395195904
     },
     {
       "code": "HON",
@@ -89,25 +89,25 @@
       "market_cap": 68912259072
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.462069,
-      "pbr": 1.1851496,
-      "change_percent": 0.163269,
-      "market_cap": 22724413440
-    },
-    {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.584159,
+      "per": 8.390323,
       "pbr": 1.6199552,
       "change_percent": 2.28077,
       "market_cap": 178230558720
     },
     {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.447505,
+      "pbr": 1.1851496,
+      "change_percent": 0.163269,
+      "market_cap": 22724413440
+    },
+    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.673077,
+      "per": 8.456249,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -115,7 +115,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 8.974684,
+      "per": 8.936975,
       "pbr": 2.1246629,
       "change_percent": 0.37753600000000004,
       "market_cap": 14903954432
@@ -123,7 +123,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 9.206323,
+      "per": 9.070492,
       "pbr": 2.1264412,
       "change_percent": 1.44848,
       "market_cap": 14875556864
@@ -139,7 +139,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.568371,
+      "per": 9.515797,
       "pbr": 1.9500077,
       "change_percent": 0.5442670000000001,
       "market_cap": 37529317376
@@ -155,7 +155,7 @@
     {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
-      "per": 9.935535,
+      "per": 9.919549,
       "pbr": 2.3296678,
       "change_percent": 0.154335,
       "market_cap": 77151903744
@@ -205,7 +205,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 13.531348,
+      "per": 13.3431225,
       "pbr": 0.9618835,
       "change_percent": 1.4334399,
       "market_cap": 20796477440
@@ -213,7 +213,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 10.027132,
+      "per": 9.988418,
       "pbr": 0.97648436,
       "change_percent": 0.38804998999999996,
       "market_cap": 28484876288
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 14.0383215,
+      "per": 13.987273,
       "pbr": 0.9941074,
       "change_percent": 0.391496,
       "market_cap": 40226172928
@@ -245,7 +245,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 43.51659,
+      "per": 43.933018,
       "pbr": 1.056082,
       "change_percent": -0.9920190000000001,
       "market_cap": 24297259008
@@ -253,7 +253,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.673077,
+      "per": 8.456249,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -269,7 +269,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9973977,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -277,7 +277,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 20.701357,
+      "per": 20.608109,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
       "market_cap": 9499225088
@@ -309,7 +309,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.462578,
+      "per": 13.4791155,
       "pbr": 1.1732501,
       "change_percent": -0.091056695,
       "market_cap": 22429808640
@@ -317,7 +317,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.462069,
+      "per": 8.447505,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
       "market_cap": 22724413440
@@ -327,7 +327,7 @@
     {
       "code": "WDAY",
       "name": "WORKDAY INC CLASS A",
-      "per": 41.609756,
+      "per": 39.369232,
       "pbr": 7.6277056,
       "change_percent": 5.76019,
       "market_cap": 50560409600
@@ -335,7 +335,7 @@
     {
       "code": "DPZ",
       "name": "DOMINO S PIZZA INC",
-      "per": 19.852526,
+      "per": 18.827326,
       "pbr": null,
       "change_percent": 5.4042302,
       "market_cap": 11578607616
@@ -351,7 +351,7 @@
     {
       "code": "NOW",
       "name": "SERVICENOW INC",
-      "per": 89.88199,
+      "per": 86.13691,
       "pbr": 11.953577,
       "change_percent": 4.5366,
       "market_cap": 149610184704
@@ -359,7 +359,7 @@
     {
       "code": "SLB",
       "name": "SLB LTD",
-      "per": 27.965855,
+      "per": 26.789719,
       "pbr": 3.2633197,
       "change_percent": 4.217420000000001,
       "market_cap": 85085937664
@@ -367,7 +367,7 @@
     {
       "code": "AMZN",
       "name": "AMAZON.COM INC",
-      "per": 21.434431,
+      "per": 20.621517,
       "pbr": 5.2081866,
       "change_percent": 3.9686199999999996,
       "market_cap": 2873797378048
@@ -375,7 +375,7 @@
     {
       "code": "EBAY",
       "name": "EBAY INC",
-      "per": 22.189075,
+      "per": 21.511204,
       "pbr": 10.07536,
       "change_percent": 3.58965,
       "market_cap": 47000899584
@@ -383,7 +383,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9973977,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -391,7 +391,7 @@
     {
       "code": "BG",
       "name": "BUNGE GLOBAL SA",
-      "per": 24.887932,
+      "per": 24.058332,
       "pbr": 1.3906217,
       "change_percent": 3.50453,
       "market_cap": 22185916416
@@ -415,7 +415,7 @@
     {
       "code": "ADM",
       "name": "ARCHER DANIELS MIDLAND CO",
-      "per": 22.278688,
+      "per": 21.571428,
       "pbr": 1.667246,
       "change_percent": 3.0847099,
       "market_cap": 39298985984
@@ -423,7 +423,7 @@
     {
       "code": "NKE",
       "name": "NIKE INC  CL B",
-      "per": 18.857143,
+      "per": 18.333332,
       "pbr": 3.9505186,
       "change_percent": 3.01769,
       "market_cap": 58746548224
@@ -431,7 +431,7 @@
     {
       "code": "HPQ",
       "name": "HP INC",
-      "per": 11.648855,
+      "per": 11.303703,
       "pbr": null,
       "change_percent": 3.00372,
       "market_cap": 27522660352
@@ -439,7 +439,7 @@
     {
       "code": "INTU",
       "name": "INTUIT INC",
-      "per": 21.753342,
+      "per": 21.136953,
       "pbr": 4.7604866,
       "change_percent": 2.8908,
       "market_cap": 97942650880
@@ -447,7 +447,7 @@
     {
       "code": "AJG",
       "name": "ARTHUR J GALLAGHER + CO",
-      "per": 44.29801,
+      "per": 43.085346,
       "pbr": 2.891415,
       "change_percent": 2.8483601000000003,
       "market_cap": 68586594304
@@ -471,7 +471,7 @@
     {
       "code": "ABNB",
       "name": "AIRBNB INC CLASS A",
-      "per": 43.15034,
+      "per": 42.002213,
       "pbr": 14.330131,
       "change_percent": 2.72777,
       "market_cap": 113427963904
@@ -479,7 +479,7 @@
     {
       "code": "BRO",
       "name": "BROWN + BROWN INC",
-      "per": 23.421724,
+      "per": 22.838005,
       "pbr": 1.9226329,
       "change_percent": 2.68945,
       "market_cap": 24530284544
@@ -489,7 +489,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9973977,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -499,7 +499,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9973977,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -515,7 +515,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.462069,
+      "per": 8.447505,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
       "market_cap": 22724413440
@@ -523,7 +523,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.673077,
+      "per": 8.456249,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -533,7 +533,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9973977,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -551,11 +551,11 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9973977,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-29T12:04:42+00:00"
+  "generated_at": "2026-08-29T14:04:14+00:00"
 }
