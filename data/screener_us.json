@@ -22,7 +22,7 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": -0.135596,
-      "market_cap": 10504812544
+      "market_cap": 10508951552
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.365591,
       "pbr": 1.3332905,
       "change_percent": 2.19482,
-      "market_cap": 21419470848
+      "market_cap": 21370853376
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.733959,
       "pbr": 1.4467636,
       "change_percent": 0.08099859699999999,
-      "market_cap": 33704437760
+      "market_cap": 33727084544
     },
     {
       "code": "EG",
@@ -94,7 +94,7 @@
       "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
-      "market_cap": 23482703872
+      "market_cap": 22724413440
     },
     {
       "code": "T",
@@ -232,7 +232,7 @@
       "per": 362.6667,
       "pbr": 1.0361905,
       "change_percent": 0.74074,
-      "market_cap": 12176604160
+      "market_cap": 12206769152
     },
     {
       "code": "TFC",
@@ -280,7 +280,7 @@
       "per": 20.701357,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
-      "market_cap": 9681639424
+      "market_cap": 9499225088
     },
     {
       "code": "PCG",
@@ -320,7 +320,7 @@
       "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
-      "market_cap": 23482703872
+      "market_cap": 22724413440
     }
   ],
   "rise": [
@@ -402,13 +402,13 @@
       "per": 20.706474,
       "pbr": 32.69876,
       "change_percent": 3.29863,
-      "market_cap": 39539171328
+      "market_cap": 39540072448
     },
     {
       "code": "ZTS",
       "name": "ZOETIS INC",
       "per": 12.616638,
-      "pbr": 9.866054,
+      "pbr": null,
       "change_percent": 3.09251,
       "market_cap": 31958712320
     },
@@ -418,7 +418,7 @@
       "per": 22.278688,
       "pbr": 1.667246,
       "change_percent": 3.0847099,
-      "market_cap": 39298736128
+      "market_cap": 39298985984
     },
     {
       "code": "NKE",
@@ -426,7 +426,7 @@
       "per": 18.857143,
       "pbr": 3.9505186,
       "change_percent": 3.01769,
-      "market_cap": 58643124224
+      "market_cap": 58746548224
     },
     {
       "code": "HPQ",
@@ -518,7 +518,7 @@
       "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
-      "market_cap": 23482703872
+      "market_cap": 22724413440
     },
     {
       "code": "CMCSA",
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-29T02:04:11+00:00"
+  "generated_at": "2026-08-29T04:04:06+00:00"
 }
