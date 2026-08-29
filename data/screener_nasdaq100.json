@@ -205,7 +205,7 @@
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 32.50505,
+      "per": 32.18,
       "pbr": 1.7493883,
       "change_percent": 0.941032,
       "market_cap": 43791380480
@@ -394,7 +394,7 @@
       "per": 124.600006,
       "pbr": 10.338443,
       "change_percent": 2.09151,
-      "market_cap": 103152050176
+      "market_cap": 102578413568
     },
     {
       "code": "MELI",
@@ -447,7 +447,7 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 24.42429,
+      "per": 24.036308,
       "pbr": 33.682426,
       "change_percent": 1.64092,
       "market_cap": 106748141568
@@ -605,5 +605,5 @@
       "market_cap": 194550448128
     }
   ],
-  "generated_at": "2026-08-29T10:04:25+00:00"
+  "generated_at": "2026-08-29T12:04:43+00:00"
 }
