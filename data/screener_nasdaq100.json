@@ -3,7 +3,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 8.362692,
+      "per": 8.473499,
       "pbr": 3.7175782,
       "change_percent": -1.3430767,
       "market_cap": 68912259072
@@ -121,20 +121,20 @@
       "market_cap": 56378867712
     },
     {
+      "code": "BKR",
+      "name": "Baker Hughes",
+      "per": 19.939297,
+      "pbr": 3.1108563,
+      "change_percent": 0.48301276000000004,
+      "market_cap": 61952786432
+    },
+    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 19.999748,
       "pbr": 2.512377,
       "change_percent": -1.6738705,
       "market_cap": 81765826560
-    },
-    {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 20.067524,
-      "pbr": 3.1108563,
-      "change_percent": 0.48301276000000004,
-      "market_cap": 61952786432
     },
     {
       "code": "SNDK",
@@ -153,12 +153,12 @@
       "market_cap": 30542522368
     },
     {
-      "code": "XEL",
-      "name": "Xcel Energy",
-      "per": 20.945204,
-      "pbr": 2.0044048,
-      "change_percent": -0.92017455,
-      "market_cap": 47753289728
+      "code": "CCEP",
+      "name": "Coca-Cola Europacific Partners",
+      "per": 20.702087,
+      "pbr": 5.0116553,
+      "change_percent": 1.65859,
+      "market_cap": 48154402816
     }
   ],
   "pbr": [
@@ -301,7 +301,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 20.067524,
+      "per": 19.939297,
       "pbr": 3.1108563,
       "change_percent": 0.48301276000000004,
       "market_cap": 61952786432
@@ -431,7 +431,7 @@
     {
       "code": "MSFT",
       "name": "Microsoft",
-      "per": 28.577076,
+      "per": 28.169502,
       "pbr": 8.621339,
       "change_percent": 1.6770348000000002,
       "market_cap": 3813240733696
@@ -439,7 +439,7 @@
     {
       "code": "CCEP",
       "name": "Coca-Cola Europacific Partners",
-      "per": 21.102514,
+      "per": 20.702087,
       "pbr": 5.0116553,
       "change_percent": 1.65859,
       "market_cap": 48154402816
@@ -479,7 +479,7 @@
     {
       "code": "ISRG",
       "name": "Intuitive Surgical",
-      "per": 42.72936,
+      "per": 42.006767,
       "pbr": 7.2577815,
       "change_percent": 1.5065241999999999,
       "market_cap": 133494398976
@@ -577,6 +577,14 @@
       "pbr": 3.4646978,
       "change_percent": 2.6254736000000003,
       "market_cap": 194550448128
+    },
+    {
+      "code": "CCEP",
+      "name": "Coca-Cola Europacific Partners",
+      "per": 20.702087,
+      "pbr": 5.0116553,
+      "change_percent": 1.65859,
+      "market_cap": 48154402816
     }
   ],
   "pbr_rise": [
@@ -605,5 +613,5 @@
       "market_cap": 194550448128
     }
   ],
-  "generated_at": "2026-08-30T20:04:11+00:00"
+  "generated_at": "2026-08-30T22:04:27+00:00"
 }

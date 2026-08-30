@@ -75,18 +75,10 @@
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.115621,
+      "per": 8.150237,
       "pbr": 1.5823956,
       "change_percent": -0.3188054,
       "market_cap": 26393620480
-    },
-    {
-      "code": "HON",
-      "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 8.362692,
-      "pbr": 3.7175782,
-      "change_percent": -1.3430767,
-      "market_cap": 68912259072
     },
     {
       "code": "EXE",
@@ -95,6 +87,14 @@
       "pbr": 1.1851496,
       "change_percent": 0.16326904,
       "market_cap": 22724413440
+    },
+    {
+      "code": "HON",
+      "name": "HONEYWELL INTERNATIONAL INC",
+      "per": 8.473499,
+      "pbr": 3.7175782,
+      "change_percent": -1.3430767,
+      "market_cap": 68912259072
     },
     {
       "code": "T",
@@ -155,7 +155,7 @@
     {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
-      "per": 9.940876,
+      "per": 9.919549,
       "pbr": 2.3296678,
       "change_percent": 0.154335,
       "market_cap": 77151903744
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 14.0383215,
+      "per": 13.987273,
       "pbr": 0.9941074,
       "change_percent": 0.391496,
       "market_cap": 40226172928
@@ -245,7 +245,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 43.51659,
+      "per": 43.933018,
       "pbr": 1.056082,
       "change_percent": -0.9920190000000001,
       "market_cap": 24297259008
@@ -335,7 +335,7 @@
     {
       "code": "DPZ",
       "name": "DOMINO S PIZZA INC",
-      "per": 19.84127,
+      "per": 18.827326,
       "pbr": null,
       "change_percent": 5.4042276000000005,
       "market_cap": 11578607616
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-30T20:04:11+00:00"
+  "generated_at": "2026-08-30T22:04:26+00:00"
 }
