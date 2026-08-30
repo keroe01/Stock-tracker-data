@@ -420,16 +420,30 @@ def fetch_quote(symbol: str) -> dict | None:
 
 
 def fetch_ohlc_last(symbol: str) -> dict | None:
-    """Just today's open/high/low, to pair with fetch_quote()'s close —
-    same chart endpoint the app's fetch_ohlc_history() uses, trimmed to
-    the single most recent candle since the cloud snapshot only needs
-    "today", not a full year (the app keeps its own full local history)."""
+    """Today's confirmed open/high/low, to pair with fetch_quote()'s close —
+    same chart endpoint the app's fetch_ohlc_history() uses, trimmed to the
+    single most recent candle since the cloud snapshot only needs "today",
+    not a full year (the app keeps its own full local history).
+
+    Only returns a candle dated exactly today() — otherwise the exchange
+    hasn't settled a session for today yet (weekend/holiday, or a
+    just-closed US session Yahoo hasn't finalized), and fetch_quote()'s
+    price is provisional. Previously this returned whatever the chart's
+    last non-null candle was regardless of its date, which is the same bug
+    the desktop app's collector.py had (see its own today_candle fix,
+    2026-08) — confirmed for real: this script's Prices rows for weekends
+    and at least one KR holiday carried the prior trading day's OHLC
+    mislabeled as that day's."""
     chart = _fetch_chart(symbol, "5d")
     if chart is None:
         return None
+    ts_list = chart["timestamp"]
     q = chart["indicators"]["quote"][0]
-    for i in range(len(chart["timestamp"]) - 1, -1, -1):
+    for i in range(len(ts_list) - 1, -1, -1):
         if q["close"][i] is not None:
+            candle_date = datetime.datetime.utcfromtimestamp(ts_list[i]).date().isoformat()
+            if candle_date != today():
+                return None
             return {"open": q["open"][i], "high": q["high"][i], "low": q["low"][i]}
     return None
 
@@ -674,7 +688,14 @@ def collect_prices(watchlist: list[dict]):
         quote = fetch_quote(symbol)
         if quote is None:
             continue
-        ohlc = fetch_ohlc_last(symbol) or {}
+        # No real candle dated today yet -> either a non-trading day or an
+        # unsettled session; fetch_quote()'s price is provisional in that
+        # case, so skip writing anything for today rather than recording a
+        # value that may not match what's actually final (see
+        # fetch_ohlc_last's own comment).
+        ohlc = fetch_ohlc_last(symbol)
+        if ohlc is None:
+            continue
         existing.append(
             {
                 "symbol": symbol,
@@ -711,6 +732,11 @@ def collect_financials(watchlist: list[dict]):
         symbol, market = stock["symbol"], stock.get("market")
         key = (symbol, today())
         if key in seen:
+            continue
+        # Same gate as collect_prices() above: per/pbr/market_cap are all
+        # derived from Yahoo's own live (possibly still-provisional) price,
+        # so only record them for a day the exchange has actually settled.
+        if fetch_ohlc_last(symbol) is None:
             continue
         bundle = fetch_bundle(symbol)
         per, pbr, eps, forward_eps, forward_pe = (
