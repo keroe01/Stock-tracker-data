@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 5.2168164,
+      "per": 5.156936,
       "pbr": 2.0881312,
       "change_percent": 1.14898,
       "market_cap": 65889722368
@@ -123,7 +123,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 9.206323,
+      "per": 9.070492,
       "pbr": 2.1264412,
       "change_percent": 1.44848,
       "market_cap": 14875556864
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 14.0383215,
+      "per": 13.987273,
       "pbr": 0.9941074,
       "change_percent": 0.391496,
       "market_cap": 40226172928
@@ -237,7 +237,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 11.593103,
+      "per": 11.566513,
       "pbr": 1.049794,
       "change_percent": 0.25845103,
       "market_cap": 61606612992
@@ -439,7 +439,7 @@
     {
       "code": "INTU",
       "name": "INTUIT INC",
-      "per": 21.753342,
+      "per": 21.136953,
       "pbr": 4.7604866,
       "change_percent": 2.8908,
       "market_cap": 97942650880
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-30T00:05:01+00:00"
+  "generated_at": "2026-08-30T02:04:14+00:00"
 }

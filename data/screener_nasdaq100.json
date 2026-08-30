@@ -97,20 +97,20 @@
       "market_cap": 192701628416
     },
     {
+      "code": "TMUS",
+      "name": "T-Mobile US",
+      "per": 18.58299,
+      "pbr": 3.4646978,
+      "change_percent": 2.6254699,
+      "market_cap": 194550448128
+    },
+    {
       "code": "QCOM",
       "name": "Qualcomm",
       "per": 18.829128,
       "pbr": 6.2746973,
       "change_percent": -0.358051,
       "market_cap": 175364849664
-    },
-    {
-      "code": "TMUS",
-      "name": "T-Mobile US",
-      "per": 18.971756,
-      "pbr": 3.4646978,
-      "change_percent": 2.6254699,
-      "market_cap": 194550448128
     },
     {
       "code": "NXPI",
@@ -121,20 +121,20 @@
       "market_cap": 56378867712
     },
     {
+      "code": "BKR",
+      "name": "Baker Hughes",
+      "per": 19.939297,
+      "pbr": 3.1108563,
+      "change_percent": 0.483013,
+      "market_cap": 61952786432
+    },
+    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 19.999748,
       "pbr": 2.512377,
       "change_percent": -1.67387,
       "market_cap": 81765826560
-    },
-    {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 20.067524,
-      "pbr": 3.1108563,
-      "change_percent": 0.483013,
-      "market_cap": 61952786432
     },
     {
       "code": "SNDK",
@@ -269,8 +269,8 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 77.37937,
-      "pbr": 2.9060955,
+      "per": 81.36213,
+      "pbr": 2.7222962,
       "change_percent": -4.79254,
       "market_cap": 84820287488
     },
@@ -301,7 +301,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 20.067524,
+      "per": 19.939297,
       "pbr": 3.1108563,
       "change_percent": 0.483013,
       "market_cap": 61952786432
@@ -317,7 +317,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.971756,
+      "per": 18.58299,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -343,7 +343,7 @@
     {
       "code": "INTU",
       "name": "Intuit",
-      "per": 21.753342,
+      "per": 21.136953,
       "pbr": 4.7604866,
       "change_percent": 2.8908,
       "market_cap": 97942650880
@@ -359,7 +359,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.971756,
+      "per": 18.58299,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -497,7 +497,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.971756,
+      "per": 18.58299,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -573,7 +573,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.971756,
+      "per": 18.58299,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -607,11 +607,11 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.971756,
+      "per": 18.58299,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
     }
   ],
-  "generated_at": "2026-08-30T00:05:02+00:00"
+  "generated_at": "2026-08-30T02:04:15+00:00"
 }
