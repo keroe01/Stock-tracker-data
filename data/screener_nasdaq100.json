@@ -19,7 +19,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.145144,
+      "per": 9.263784,
       "pbr": 1.8091307,
       "change_percent": 1.18078,
       "market_cap": 121970851840
@@ -51,7 +51,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.680231,
+      "per": 16.526497,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
       "market_cap": 32397195264
@@ -65,6 +65,14 @@
       "market_cap": 4193400127488
     },
     {
+      "code": "WDC",
+      "name": "Western Digital",
+      "per": 17.067236,
+      "pbr": null,
+      "change_percent": -0.55194497,
+      "market_cap": 165650530304
+    },
+    {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
       "per": 17.090237,
@@ -73,17 +81,9 @@
       "market_cap": 4238773059584
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 17.150055,
-      "pbr": null,
-      "change_percent": -0.55194497,
-      "market_cap": 165650530304
-    },
-    {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.604298,
+      "per": 17.758333,
       "pbr": 2.2540367,
       "change_percent": 0.8303980000000001,
       "market_cap": 42151550976
@@ -91,7 +91,7 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 18.32078,
+      "per": 18.488861,
       "pbr": 8.720406,
       "change_percent": 0.9662219999999999,
       "market_cap": 192701628416
@@ -107,7 +107,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.829128,
+      "per": 18.764572,
       "pbr": 6.2746973,
       "change_percent": -0.358051,
       "market_cap": 175364849664
@@ -115,10 +115,18 @@
     {
       "code": "NXPI",
       "name": "NXP Semiconductors",
-      "per": 19.274137,
+      "per": 19.076792,
       "pbr": 4.947883,
       "change_percent": -1.0094699,
       "market_cap": 56378867712
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 19.648443,
+      "pbr": 2.512377,
+      "change_percent": -1.67387,
+      "market_cap": 81765826560
     },
     {
       "code": "BKR",
@@ -127,14 +135,6 @@
       "pbr": 3.1108563,
       "change_percent": 0.483013,
       "market_cap": 61952786432
-    },
-    {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 19.999748,
-      "pbr": 2.512377,
-      "change_percent": -1.67387,
-      "market_cap": 81765826560
     },
     {
       "code": "SNDK",
@@ -147,7 +147,7 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 20.364199,
+      "per": 20.490685,
       "pbr": 3.4810596,
       "change_percent": 0.70208595,
       "market_cap": 30542522368
@@ -205,7 +205,7 @@
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 32.18,
+      "per": 32.50505,
       "pbr": 1.7493883,
       "change_percent": 0.941032,
       "market_cap": 43791380480
@@ -213,7 +213,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.145144,
+      "per": 9.263784,
       "pbr": 1.8091307,
       "change_percent": 1.18078,
       "market_cap": 121970851840
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.604298,
+      "per": 17.758333,
       "pbr": 2.2540367,
       "change_percent": 0.8303980000000001,
       "market_cap": 42151550976
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.999748,
+      "per": 19.648443,
       "pbr": 2.512377,
       "change_percent": -1.67387,
       "market_cap": 81765826560
@@ -277,7 +277,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.680231,
+      "per": 16.526497,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
       "market_cap": 32397195264
@@ -309,7 +309,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 26.668085,
+      "per": 26.387367,
       "pbr": 3.2465615,
       "change_percent": -0.94832,
       "market_cap": 65974583296
@@ -375,7 +375,7 @@
     {
       "code": "NFLX",
       "name": "Netflix, Inc.",
-      "per": 25.144615,
+      "per": 25.698112,
       "pbr": 11.285734,
       "change_percent": 2.35472,
       "market_cap": 340277133312
@@ -391,7 +391,7 @@
     {
       "code": "DASH",
       "name": "DoorDash",
-      "per": 122.03093,
+      "per": 123.302086,
       "pbr": 10.338443,
       "change_percent": 2.09151,
       "market_cap": 102578962432
@@ -423,7 +423,7 @@
     {
       "code": "DXCM",
       "name": "DexCom",
-      "per": 35.338524,
+      "per": 35.897232,
       "pbr": 13.0751505,
       "change_percent": 1.7135201,
       "market_cap": 34271905792
@@ -455,7 +455,7 @@
     {
       "code": "AAPL",
       "name": "Apple Inc.",
-      "per": 36.083523,
+      "per": 36.62085,
       "pbr": 43.4375,
       "change_percent": 1.62758,
       "market_cap": 4665759498240
@@ -515,7 +515,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.145144,
+      "per": 9.263784,
       "pbr": 1.8091307,
       "change_percent": 1.18078,
       "market_cap": 121970851840
@@ -539,7 +539,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.680231,
+      "per": 16.526497,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
       "market_cap": 32397195264
@@ -613,5 +613,5 @@
       "market_cap": 194550448128
     }
   ],
-  "generated_at": "2026-08-30T08:04:05+00:00"
+  "generated_at": "2026-08-30T10:05:09+00:00"
 }

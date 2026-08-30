@@ -65,28 +65,20 @@
       "market_cap": 14478600192
     },
     {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.005129,
+      "pbr": 1.6708411,
+      "change_percent": -2.3520501,
+      "market_cap": 25395195904
+    },
+    {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 8.150237,
       "pbr": 1.5823956,
       "change_percent": -0.31880501,
       "market_cap": 26393620480
-    },
-    {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.198529,
-      "pbr": 1.6708411,
-      "change_percent": -2.3520501,
-      "market_cap": 25395195904
-    },
-    {
-      "code": "T",
-      "name": "AT+T INC",
-      "per": 8.390323,
-      "pbr": 1.6199552,
-      "change_percent": 2.28077,
-      "market_cap": 178230558720
     },
     {
       "code": "EXE",
@@ -111,6 +103,14 @@
       "pbr": 3.7175782,
       "change_percent": -1.34308,
       "market_cap": 68912259072
+    },
+    {
+      "code": "T",
+      "name": "AT+T INC",
+      "per": 8.584159,
+      "pbr": 1.6199552,
+      "change_percent": 2.28077,
+      "market_cap": 178230558720
     },
     {
       "code": "APA",
@@ -213,7 +213,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.988418,
+      "per": 10.027132,
       "pbr": 0.97648436,
       "change_percent": 0.38804998999999996,
       "market_cap": 28484876288
@@ -237,7 +237,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 11.566513,
+      "per": 11.593103,
       "pbr": 1.049794,
       "change_percent": 0.25845103,
       "market_cap": 61606612992
@@ -285,7 +285,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 12.968751,
+      "per": 11.942447,
       "pbr": 1.1310984,
       "change_percent": -7.52089,
       "market_cap": 36559294464
@@ -301,7 +301,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.305704,
+      "per": 14.32112,
       "pbr": 1.158291,
       "change_percent": 0.16581300000000002,
       "market_cap": 222931337216
@@ -309,7 +309,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.4791155,
+      "per": 13.462578,
       "pbr": 1.1732501,
       "change_percent": -0.091056695,
       "market_cap": 22429808640
@@ -375,7 +375,7 @@
     {
       "code": "EBAY",
       "name": "EBAY INC",
-      "per": 21.511204,
+      "per": 22.189075,
       "pbr": 10.07536,
       "change_percent": 3.58965,
       "market_cap": 47000899584
@@ -399,7 +399,7 @@
     {
       "code": "EXPE",
       "name": "EXPEDIA GROUP INC",
-      "per": 20.038929,
+      "per": 20.706474,
       "pbr": 32.69876,
       "change_percent": 3.29863,
       "market_cap": 39540072448
@@ -479,7 +479,7 @@
     {
       "code": "BRO",
       "name": "BROWN + BROWN INC",
-      "per": 22.838005,
+      "per": 23.421724,
       "pbr": 1.9226329,
       "change_percent": 2.68945,
       "market_cap": 24530284544
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-30T08:04:04+00:00"
+  "generated_at": "2026-08-30T10:05:09+00:00"
 }
