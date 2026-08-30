@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.996358,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -51,7 +51,7 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.727912,
+      "per": 7.733959,
       "pbr": 1.4467636,
       "change_percent": 0.08099859699999999,
       "market_cap": 33727084544
@@ -65,6 +65,14 @@
       "market_cap": 14478600192
     },
     {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.005129,
+      "pbr": 1.6708411,
+      "change_percent": -2.3520501,
+      "market_cap": 25395195904
+    },
+    {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 8.115621,
@@ -73,28 +81,12 @@
       "market_cap": 26393620480
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.198529,
-      "pbr": 1.6708411,
-      "change_percent": -2.3520501,
-      "market_cap": 25395195904
-    },
-    {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
       "per": 8.362692,
       "pbr": 3.7175782,
       "change_percent": -1.34308,
       "market_cap": 68912259072
-    },
-    {
-      "code": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
-      "per": 8.456249,
-      "pbr": 1.0691004,
-      "change_percent": 2.4611899999999998,
-      "market_cap": 96026107904
     },
     {
       "code": "EXE",
@@ -111,6 +103,14 @@
       "pbr": 1.6199552,
       "change_percent": 2.28077,
       "market_cap": 178230558720
+    },
+    {
+      "code": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "per": 8.673077,
+      "pbr": 1.0691004,
+      "change_percent": 2.4611899999999998,
+      "market_cap": 96026107904
     },
     {
       "code": "APA",
@@ -155,7 +155,7 @@
     {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
-      "per": 9.919549,
+      "per": 9.940876,
       "pbr": 2.3296678,
       "change_percent": 0.154335,
       "market_cap": 77151903744
@@ -213,7 +213,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 10.027132,
+      "per": 9.988418,
       "pbr": 0.97648436,
       "change_percent": 0.38804998999999996,
       "market_cap": 28484876288
@@ -253,7 +253,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -269,7 +269,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.996358,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -277,7 +277,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 20.608109,
+      "per": 20.701357,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
       "market_cap": 9499225088
@@ -285,7 +285,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 11.942447,
+      "per": 12.968751,
       "pbr": 1.1310984,
       "change_percent": -7.52089,
       "market_cap": 36559294464
@@ -301,7 +301,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.32112,
+      "per": 14.305704,
       "pbr": 1.158291,
       "change_percent": 0.16581300000000002,
       "market_cap": 222931337216
@@ -375,7 +375,7 @@
     {
       "code": "EBAY",
       "name": "EBAY INC",
-      "per": 21.511204,
+      "per": 22.189075,
       "pbr": 10.07536,
       "change_percent": 3.58965,
       "market_cap": 47000899584
@@ -383,7 +383,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.996358,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -415,7 +415,7 @@
     {
       "code": "ADM",
       "name": "ARCHER DANIELS MIDLAND CO",
-      "per": 21.571428,
+      "per": 22.278688,
       "pbr": 1.667246,
       "change_percent": 3.0847099,
       "market_cap": 39298985984
@@ -423,7 +423,7 @@
     {
       "code": "NKE",
       "name": "NIKE INC  CL B",
-      "per": 18.333332,
+      "per": 18.857143,
       "pbr": 3.9505186,
       "change_percent": 3.01769,
       "market_cap": 58746548224
@@ -471,7 +471,7 @@
     {
       "code": "ABNB",
       "name": "AIRBNB INC CLASS A",
-      "per": 42.002213,
+      "per": 43.248856,
       "pbr": 14.330131,
       "change_percent": 2.72777,
       "market_cap": 113427963904
@@ -479,7 +479,7 @@
     {
       "code": "BRO",
       "name": "BROWN + BROWN INC",
-      "per": 22.838005,
+      "per": 23.421724,
       "pbr": 1.9226329,
       "change_percent": 2.68945,
       "market_cap": 24530284544
@@ -489,7 +489,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.996358,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -499,7 +499,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.996358,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -513,27 +513,27 @@
       "market_cap": 14478600192
     },
     {
-      "code": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
-      "per": 8.456249,
-      "pbr": 1.0691004,
-      "change_percent": 2.4611899999999998,
-      "market_cap": 96026107904
-    },
-    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.163269,
       "market_cap": 22724413440
+    },
+    {
+      "code": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "per": 8.673077,
+      "pbr": 1.0691004,
+      "change_percent": 2.4611899999999998,
+      "market_cap": 96026107904
     }
   ],
   "per_rise": [
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.996358,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
@@ -551,11 +551,11 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.996358,
+      "per": 3.859799,
       "pbr": 1.0809023,
       "change_percent": 3.57335,
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-30T12:04:25+00:00"
+  "generated_at": "2026-08-30T14:03:59+00:00"
 }

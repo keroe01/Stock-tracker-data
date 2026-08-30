@@ -11,7 +11,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -51,7 +51,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.680231,
+      "per": 16.526497,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
       "market_cap": 32397195264
@@ -65,20 +65,20 @@
       "market_cap": 165650530304
     },
     {
+      "code": "GOOGL",
+      "name": "Alphabet Inc.(Class A)",
+      "per": 17.090237,
+      "pbr": 6.8097687,
+      "change_percent": 1.74373,
+      "market_cap": 4238773059584
+    },
+    {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
       "per": 17.212852,
       "pbr": 6.7368755,
       "change_percent": 1.5309,
       "market_cap": 4193400127488
-    },
-    {
-      "code": "GOOGL",
-      "name": "Alphabet Inc.(Class A)",
-      "per": 17.390366,
-      "pbr": 6.8097687,
-      "change_percent": 1.74373,
-      "market_cap": 4238773059584
     },
     {
       "code": "ROP",
@@ -97,20 +97,20 @@
       "market_cap": 192701628416
     },
     {
-      "code": "TMUS",
-      "name": "T-Mobile US",
-      "per": 18.58299,
-      "pbr": 3.4646978,
-      "change_percent": 2.6254699,
-      "market_cap": 194550448128
-    },
-    {
       "code": "QCOM",
       "name": "Qualcomm",
       "per": 18.764572,
       "pbr": 6.2746973,
       "change_percent": -0.358051,
       "market_cap": 175364849664
+    },
+    {
+      "code": "TMUS",
+      "name": "T-Mobile US",
+      "per": 18.971756,
+      "pbr": 3.4646978,
+      "change_percent": 2.6254699,
+      "market_cap": 194550448128
     },
     {
       "code": "NXPI",
@@ -123,7 +123,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.648443,
+      "per": 19.999748,
       "pbr": 2.512377,
       "change_percent": -1.67387,
       "market_cap": 81765826560
@@ -147,7 +147,7 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 20.364199,
+      "per": 20.490685,
       "pbr": 3.4810596,
       "change_percent": 0.70208595,
       "market_cap": 30542522368
@@ -173,7 +173,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.648443,
+      "per": 19.999748,
       "pbr": 2.512377,
       "change_percent": -1.67387,
       "market_cap": 81765826560
@@ -277,7 +277,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.680231,
+      "per": 16.526497,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
       "market_cap": 32397195264
@@ -293,7 +293,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 27.619759,
+      "per": 27.026367,
       "pbr": 3.0750341,
       "change_percent": -2.00418,
       "market_cap": 98054569984
@@ -317,7 +317,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -351,7 +351,7 @@
     {
       "code": "ABNB",
       "name": "Airbnb",
-      "per": 42.002213,
+      "per": 43.248856,
       "pbr": 14.330131,
       "change_percent": 2.72777,
       "market_cap": 113427963904
@@ -359,7 +359,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -367,7 +367,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -399,7 +399,7 @@
     {
       "code": "MELI",
       "name": "Mercado Libre",
-      "per": 52.629818,
+      "per": 53.4743,
       "pbr": 12.724314,
       "change_percent": 1.83866,
       "market_cap": 99682582528
@@ -415,7 +415,7 @@
     {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
-      "per": 17.390366,
+      "per": 17.090237,
       "pbr": 6.8097687,
       "change_percent": 1.74373,
       "market_cap": 4238773059584
@@ -447,7 +447,7 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 24.036308,
+      "per": 24.443077,
       "pbr": 33.682426,
       "change_percent": 1.64092,
       "market_cap": 106748141568
@@ -471,7 +471,7 @@
     {
       "code": "BKNG",
       "name": "Booking Holdings",
-      "per": 22.522453,
+      "per": 22.82242,
       "pbr": null,
       "change_percent": 1.5155999999999998,
       "market_cap": 154506379264
@@ -479,7 +479,7 @@
     {
       "code": "ISRG",
       "name": "Intuitive Surgical",
-      "per": 42.006767,
+      "per": 42.72936,
       "pbr": 7.2577815,
       "change_percent": 1.5065201,
       "market_cap": 133494398976
@@ -489,7 +489,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -497,7 +497,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -507,7 +507,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -539,7 +539,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.680231,
+      "per": 16.526497,
       "pbr": 2.951889,
       "change_percent": -1.0416699999999999,
       "market_cap": 32397195264
@@ -549,10 +549,18 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
+    },
+    {
+      "code": "GOOGL",
+      "name": "Alphabet Inc.(Class A)",
+      "per": 17.090237,
+      "pbr": 6.8097687,
+      "change_percent": 1.74373,
+      "market_cap": 4238773059584
     },
     {
       "code": "GOOG",
@@ -563,17 +571,9 @@
       "market_cap": 4193400127488
     },
     {
-      "code": "GOOGL",
-      "name": "Alphabet Inc.(Class A)",
-      "per": 17.390366,
-      "pbr": 6.8097687,
-      "change_percent": 1.74373,
-      "market_cap": 4238773059584
-    },
-    {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
@@ -591,7 +591,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.456249,
+      "per": 8.673077,
       "pbr": 1.0691004,
       "change_percent": 2.4611899999999998,
       "market_cap": 96026107904
@@ -599,11 +599,11 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.58299,
+      "per": 18.971756,
       "pbr": 3.4646978,
       "change_percent": 2.6254699,
       "market_cap": 194550448128
     }
   ],
-  "generated_at": "2026-08-30T12:04:26+00:00"
+  "generated_at": "2026-08-30T14:03:59+00:00"
 }
