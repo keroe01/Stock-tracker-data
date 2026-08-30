@@ -5,7 +5,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.859799,
       "pbr": 1.0809023,
-      "change_percent": 3.57335,
+      "change_percent": 3.5733465,
       "market_cap": 20704516096
     },
     {
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.241486,
+      "per": 7.6023836,
       "pbr": 1.5476742,
       "change_percent": -4.7638502,
       "market_cap": 27002396672
@@ -53,7 +53,7 @@
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.727912,
       "pbr": 1.4467636,
-      "change_percent": 0.08099859699999999,
+      "change_percent": 0.08099858,
       "market_cap": 33704437760
     },
     {
@@ -67,9 +67,9 @@
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.115621,
+      "per": 8.150237,
       "pbr": 1.5823956,
-      "change_percent": -0.31880501,
+      "change_percent": -0.3188054,
       "market_cap": 26393620480
     },
     {
@@ -79,14 +79,6 @@
       "pbr": 1.6708411,
       "change_percent": -2.3520501,
       "market_cap": 25395195904
-    },
-    {
-      "code": "HON",
-      "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 8.362692,
-      "pbr": 3.7175782,
-      "change_percent": -1.34308,
-      "market_cap": 68912259072
     },
     {
       "code": "T",
@@ -101,7 +93,7 @@
       "name": "EXPAND ENERGY CORP",
       "per": 8.447505,
       "pbr": 1.1851496,
-      "change_percent": 0.163269,
+      "change_percent": 0.16326904,
       "market_cap": 23482703872
     },
     {
@@ -109,15 +101,23 @@
       "name": "COMCAST CORP CLASS A",
       "per": 8.456249,
       "pbr": 1.0691004,
-      "change_percent": 2.4611899999999998,
+      "change_percent": 2.4611875,
       "market_cap": 96026107904
+    },
+    {
+      "code": "HON",
+      "name": "HONEYWELL INTERNATIONAL INC",
+      "per": 8.473499,
+      "pbr": 3.7175782,
+      "change_percent": -1.3430767,
+      "market_cap": 68912259072
     },
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 8.974684,
+      "per": 8.936975,
       "pbr": 2.1246629,
-      "change_percent": 0.37753600000000004,
+      "change_percent": 0.37753622,
       "market_cap": 14903954432
     },
     {
@@ -133,7 +133,7 @@
       "name": "LULULEMON ATHLETICA INC",
       "per": 9.314571,
       "pbr": 2.864629,
-      "change_percent": 5.0521698,
+      "change_percent": 5.0521716,
       "market_cap": 13718449152
     },
     {
@@ -155,7 +155,7 @@
     {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
-      "per": 9.940876,
+      "per": 9.919549,
       "pbr": 2.3296678,
       "change_percent": 0.154335,
       "market_cap": 77151903744
@@ -191,7 +191,7 @@
       "name": "KRAFT HEINZ CO/THE",
       "per": null,
       "pbr": 0.8465365,
-      "change_percent": 2.2682099,
+      "change_percent": 2.268212,
       "market_cap": 30475671552
     },
     {
@@ -221,7 +221,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 14.0383215,
+      "per": 13.987273,
       "pbr": 0.9941074,
       "change_percent": 0.391496,
       "market_cap": 40226172928
@@ -245,7 +245,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 43.51659,
+      "per": 43.933018,
       "pbr": 1.056082,
       "change_percent": -0.9920190000000001,
       "market_cap": 24297259008
@@ -255,7 +255,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 8.456249,
       "pbr": 1.0691004,
-      "change_percent": 2.4611899999999998,
+      "change_percent": 2.4611875,
       "market_cap": 96026107904
     },
     {
@@ -271,13 +271,13 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.859799,
       "pbr": 1.0809023,
-      "change_percent": 3.57335,
+      "change_percent": 3.5733465,
       "market_cap": 20704516096
     },
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 20.701357,
+      "per": 20.608109,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
       "market_cap": 9681639424
@@ -295,7 +295,7 @@
       "name": "HUNTINGTON BANCSHARES INC",
       "per": 13.015386,
       "pbr": 1.1493784,
-      "change_percent": 0.35586900000000005,
+      "change_percent": 0.35586872,
       "market_cap": 34185418752
     },
     {
@@ -319,7 +319,7 @@
       "name": "EXPAND ENERGY CORP",
       "per": 8.447505,
       "pbr": 1.1851496,
-      "change_percent": 0.163269,
+      "change_percent": 0.16326904,
       "market_cap": 23482703872
     }
   ],
@@ -329,7 +329,7 @@
       "name": "WORKDAY INC CLASS A",
       "per": 39.369232,
       "pbr": 7.6277056,
-      "change_percent": 5.76019,
+      "change_percent": 5.7601873,
       "market_cap": 49337520128
     },
     {
@@ -337,7 +337,7 @@
       "name": "DOMINO S PIZZA INC",
       "per": 18.827326,
       "pbr": null,
-      "change_percent": 5.4042302,
+      "change_percent": 5.4042276000000005,
       "market_cap": 11578607616
     },
     {
@@ -345,13 +345,13 @@
       "name": "LULULEMON ATHLETICA INC",
       "per": 9.314571,
       "pbr": 2.864629,
-      "change_percent": 5.0521698,
+      "change_percent": 5.0521716,
       "market_cap": 13718449152
     },
     {
       "code": "NOW",
       "name": "SERVICENOW INC",
-      "per": 89.88199,
+      "per": 86.13691,
       "pbr": 11.953577,
       "change_percent": 4.5366,
       "market_cap": 149610184704
@@ -359,7 +359,7 @@
     {
       "code": "SLB",
       "name": "SLB LTD",
-      "per": 27.965855,
+      "per": 26.789719,
       "pbr": 3.2633197,
       "change_percent": 4.217420000000001,
       "market_cap": 85085937664
@@ -369,7 +369,7 @@
       "name": "AMAZON.COM INC",
       "per": 20.621517,
       "pbr": 5.2081866,
-      "change_percent": 3.9686199999999996,
+      "change_percent": 3.9686188,
       "market_cap": 2873797378048
     },
     {
@@ -377,7 +377,7 @@
       "name": "EBAY INC",
       "per": 22.189075,
       "pbr": 10.07536,
-      "change_percent": 3.58965,
+      "change_percent": 3.5896465,
       "market_cap": 47000899584
     },
     {
@@ -385,13 +385,13 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.859799,
       "pbr": 1.0809023,
-      "change_percent": 3.57335,
+      "change_percent": 3.5733465,
       "market_cap": 20704516096
     },
     {
       "code": "BG",
       "name": "BUNGE GLOBAL SA",
-      "per": 24.887932,
+      "per": 24.058332,
       "pbr": 1.3906217,
       "change_percent": 3.50453,
       "market_cap": 22185916416
@@ -401,13 +401,13 @@
       "name": "EXPEDIA GROUP INC",
       "per": 20.038929,
       "pbr": 32.69876,
-      "change_percent": 3.29863,
+      "change_percent": 3.2986294,
       "market_cap": 39539171328
     },
     {
       "code": "ZTS",
       "name": "ZOETIS INC",
-      "per": 12.616638,
+      "per": 12.237341,
       "pbr": 9.866054,
       "change_percent": 3.09251,
       "market_cap": 31958712320
@@ -423,7 +423,7 @@
     {
       "code": "NKE",
       "name": "NIKE INC  CL B",
-      "per": 18.857143,
+      "per": 18.333332,
       "pbr": 3.9505186,
       "change_percent": 3.01769,
       "market_cap": 58643124224
@@ -441,7 +441,7 @@
       "name": "INTUIT INC",
       "per": 21.136953,
       "pbr": 4.7604866,
-      "change_percent": 2.8908,
+      "change_percent": 2.8908039,
       "market_cap": 97942650880
     },
     {
@@ -457,7 +457,7 @@
       "name": "COSTAR GROUP INC",
       "per": 179.0,
       "pbr": 1.6442971,
-      "change_percent": 2.8079199999999997,
+      "change_percent": 2.8079163,
       "market_cap": 13055467520
     },
     {
@@ -473,7 +473,7 @@
       "name": "AIRBNB INC CLASS A",
       "per": 42.002213,
       "pbr": 14.330131,
-      "change_percent": 2.72777,
+      "change_percent": 2.7277654,
       "market_cap": 113427963904
     },
     {
@@ -491,7 +491,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.859799,
       "pbr": 1.0809023,
-      "change_percent": 3.57335,
+      "change_percent": 3.5733465,
       "market_cap": 20704516096
     }
   ],
@@ -501,7 +501,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.859799,
       "pbr": 1.0809023,
-      "change_percent": 3.57335,
+      "change_percent": 3.5733465,
       "market_cap": 20704516096
     },
     {
@@ -517,7 +517,7 @@
       "name": "EXPAND ENERGY CORP",
       "per": 8.447505,
       "pbr": 1.1851496,
-      "change_percent": 0.163269,
+      "change_percent": 0.16326904,
       "market_cap": 23482703872
     },
     {
@@ -525,7 +525,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 8.456249,
       "pbr": 1.0691004,
-      "change_percent": 2.4611899999999998,
+      "change_percent": 2.4611875,
       "market_cap": 96026107904
     }
   ],
@@ -535,7 +535,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.859799,
       "pbr": 1.0809023,
-      "change_percent": 3.57335,
+      "change_percent": 3.5733465,
       "market_cap": 20704516096
     },
     {
@@ -543,7 +543,7 @@
       "name": "LULULEMON ATHLETICA INC",
       "per": 9.314571,
       "pbr": 2.864629,
-      "change_percent": 5.0521698,
+      "change_percent": 5.0521716,
       "market_cap": 13718449152
     }
   ],
@@ -553,9 +553,9 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.859799,
       "pbr": 1.0809023,
-      "change_percent": 3.57335,
+      "change_percent": 3.5733465,
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-30T16:04:04+00:00"
+  "generated_at": "2026-08-30T18:04:05+00:00"
 }
