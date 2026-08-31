@@ -22,7 +22,7 @@
       "per": 5.516854,
       "pbr": 2.1255412,
       "change_percent": -0.135596,
-      "market_cap": 10508951552
+      "market_cap": 10504812544
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 6.365591,
       "pbr": 1.3332905,
       "change_percent": 2.19482,
-      "market_cap": 21370853376
+      "market_cap": 21419470848
     },
     {
       "code": "UHS",
@@ -43,7 +43,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 7.6023836,
+      "per": 7.241486,
       "pbr": 1.5476742,
       "change_percent": -4.7638502,
       "market_cap": 27002396672
@@ -54,7 +54,7 @@
       "per": 7.733959,
       "pbr": 1.4467636,
       "change_percent": 0.08099858,
-      "market_cap": 33727084544
+      "market_cap": 33704437760
     },
     {
       "code": "EG",
@@ -75,7 +75,7 @@
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.150237,
+      "per": 8.115621,
       "pbr": 1.5823956,
       "change_percent": -0.3188054,
       "market_cap": 26393620480
@@ -94,7 +94,7 @@
       "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.16326904,
-      "market_cap": 22724413440
+      "market_cap": 23482703872
     },
     {
       "code": "T",
@@ -232,7 +232,7 @@
       "per": 362.6667,
       "pbr": 1.0361905,
       "change_percent": 0.74074,
-      "market_cap": 12206769152
+      "market_cap": 12176604160
     },
     {
       "code": "TFC",
@@ -280,7 +280,7 @@
       "per": 20.701357,
       "pbr": 1.0890783,
       "change_percent": 0.6822210000000001,
-      "market_cap": 9499225088
+      "market_cap": 9681639424
     },
     {
       "code": "PCG",
@@ -320,7 +320,7 @@
       "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.16326904,
-      "market_cap": 22724413440
+      "market_cap": 23482703872
     }
   ],
   "rise": [
@@ -402,13 +402,13 @@
       "per": 20.706474,
       "pbr": 32.69876,
       "change_percent": 3.2986294,
-      "market_cap": 39540072448
+      "market_cap": 39539171328
     },
     {
       "code": "ZTS",
       "name": "ZOETIS INC",
       "per": 12.616638,
-      "pbr": null,
+      "pbr": 9.866054,
       "change_percent": 3.09251,
       "market_cap": 31958712320
     },
@@ -418,7 +418,7 @@
       "per": 22.278688,
       "pbr": 1.667246,
       "change_percent": 3.0847099,
-      "market_cap": 39298985984
+      "market_cap": 39298736128
     },
     {
       "code": "NKE",
@@ -426,7 +426,7 @@
       "per": 18.857143,
       "pbr": 3.9505186,
       "change_percent": 3.01769,
-      "market_cap": 58746548224
+      "market_cap": 58643124224
     },
     {
       "code": "HPQ",
@@ -439,7 +439,7 @@
     {
       "code": "INTU",
       "name": "INTUIT INC",
-      "per": 21.136953,
+      "per": 21.740135,
       "pbr": 4.7604866,
       "change_percent": 2.8908039,
       "market_cap": 97942650880
@@ -447,7 +447,7 @@
     {
       "code": "AJG",
       "name": "ARTHUR J GALLAGHER + CO",
-      "per": 43.085346,
+      "per": 44.445183,
       "pbr": 2.891415,
       "change_percent": 2.8483601000000003,
       "market_cap": 68586594304
@@ -518,7 +518,7 @@
       "per": 8.462069,
       "pbr": 1.1851496,
       "change_percent": 0.16326904,
-      "market_cap": 22724413440
+      "market_cap": 23482703872
     },
     {
       "code": "CMCSA",
@@ -557,5 +557,5 @@
       "market_cap": 20704516096
     }
   ],
-  "generated_at": "2026-08-31T02:04:16+00:00"
+  "generated_at": "2026-08-31T04:04:09+00:00"
 }
