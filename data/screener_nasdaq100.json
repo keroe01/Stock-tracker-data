@@ -30,7 +30,7 @@
       "per": 9.955577,
       "pbr": 2.2904797,
       "change_percent": -1.8542657,
-      "market_cap": 45397229568
+      "market_cap": 45052846080
     },
     {
       "code": "EXC",
@@ -46,13 +46,13 @@
       "per": 16.412443,
       "pbr": 2.9315171,
       "change_percent": -0.6901291,
-      "market_cap": 32401942528
+      "market_cap": 32173613056
     },
     {
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.736626,
-      "pbr": 21.541954,
+      "pbr": null,
       "change_percent": -1.937104,
       "market_cap": 162441707520
     },
@@ -142,7 +142,7 @@
       "per": 20.490685,
       "pbr": 3.4810596,
       "change_percent": 0.0,
-      "market_cap": 31779547136
+      "market_cap": 30542522368
     },
     {
       "code": "XEL",
@@ -184,7 +184,7 @@
       "per": 38.114067,
       "pbr": 1.4841247,
       "change_percent": 1.42156,
-      "market_cap": 56397692928
+      "market_cap": 56138362880
     },
     {
       "code": "EXC",
@@ -256,7 +256,7 @@
       "per": 9.955577,
       "pbr": 2.2904797,
       "change_percent": -1.8542657,
-      "market_cap": 45397229568
+      "market_cap": 45052846080
     },
     {
       "code": "REGN",
@@ -280,7 +280,7 @@
       "per": 16.412443,
       "pbr": 2.9315171,
       "change_percent": -0.6901291,
-      "market_cap": 32401942528
+      "market_cap": 32173613056
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.736263,
       "pbr": 2.9837043,
       "change_percent": -0.46504317,
-      "market_cap": 79676145664
+      "market_cap": 79220441088
     },
     {
       "code": "CEG",
@@ -426,7 +426,7 @@
       "per": null,
       "pbr": 14.880903,
       "change_percent": 1.5477049,
-      "market_cap": 1892998971392
+      "market_cap": 1894090014720
     },
     {
       "code": "ALNY",
@@ -437,20 +437,20 @@
       "market_cap": 32206518272
     },
     {
+      "code": "NVDA",
+      "name": "Nvidia",
+      "per": 27.876263,
+      "pbr": 27.358118,
+      "change_percent": 1.4847142,
+      "market_cap": 5331174293504
+    },
+    {
       "code": "FANG",
       "name": "Diamondback Energy",
       "per": 38.114067,
       "pbr": 1.4841247,
       "change_percent": 1.42156,
-      "market_cap": 56397692928
-    },
-    {
-      "code": "NVDA",
-      "name": "Nvidia",
-      "per": 27.840908,
-      "pbr": 27.323421,
-      "change_percent": 1.3560086500000001,
-      "market_cap": 5324413599744
+      "market_cap": 56138362880
     },
     {
       "code": "ARM",
@@ -518,7 +518,7 @@
       "per": 9.955577,
       "pbr": 2.2904797,
       "change_percent": -1.8542657,
-      "market_cap": 45397229568
+      "market_cap": 45052846080
     },
     {
       "code": "EXC",
@@ -534,7 +534,7 @@
       "per": 16.412443,
       "pbr": 2.9315171,
       "change_percent": -0.6901291,
-      "market_cap": 32401942528
+      "market_cap": 32173613056
     }
   ],
   "per_rise": [
@@ -562,7 +562,7 @@
       "per": 38.114067,
       "pbr": 1.4841247,
       "change_percent": 1.42156,
-      "market_cap": 56397692928
+      "market_cap": 56138362880
     },
     {
       "code": "MSTR",
@@ -581,5 +581,5 @@
       "market_cap": 63084433408
     }
   ],
-  "generated_at": "2026-08-31T20:04:15+00:00"
+  "generated_at": "2026-08-31T22:04:18+00:00"
 }
