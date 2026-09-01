@@ -11,7 +11,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.532052,
+      "per": 8.67101,
       "pbr": 1.0517167,
       "change_percent": -1.6260099000000001,
       "market_cap": 94464712704
@@ -35,7 +35,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.07353,
+      "per": 16.132841,
       "pbr": 1.5196385,
       "change_percent": -0.47803100000000004,
       "market_cap": 45042704384
@@ -51,18 +51,10 @@
     {
       "code": "ADBE",
       "name": "Adobe Inc.",
-      "per": 16.740423,
+      "per": 16.664202,
       "pbr": 10.142724,
       "change_percent": 0.43565403,
       "market_cap": 116384030720
-    },
-    {
-      "code": "GOOGL",
-      "name": "Alphabet Inc.(Class A)",
-      "per": 17.027096,
-      "pbr": 6.667518,
-      "change_percent": -2.08892,
-      "market_cap": 4150228680704
     },
     {
       "code": "WDC",
@@ -81,6 +73,14 @@
       "market_cap": 4102042681344
     },
     {
+      "code": "GOOGL",
+      "name": "Alphabet Inc.(Class A)",
+      "per": 17.393644,
+      "pbr": 6.667518,
+      "change_percent": -2.08892,
+      "market_cap": 4150228680704
+    },
+    {
       "code": "ROP",
       "name": "Roper Technologies",
       "per": 17.693335,
@@ -95,14 +95,6 @@
       "pbr": 8.67528,
       "change_percent": -0.517481,
       "market_cap": 191704432640
-    },
-    {
-      "code": "QCOM",
-      "name": "Qualcomm",
-      "per": 18.754675,
-      "pbr": 6.515076,
-      "change_percent": 3.8309200000000003,
-      "market_cap": 182082945024
     },
     {
       "code": "TMUS",
@@ -121,9 +113,17 @@
       "market_cap": 56646160384
     },
     {
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 19.483429,
+      "pbr": 6.515076,
+      "change_percent": 3.8309200000000003,
+      "market_cap": 182082945024
+    },
+    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.6479,
+      "per": 19.769423,
       "pbr": 2.5278463,
       "change_percent": 0.6157240399999999,
       "market_cap": 82269274112
@@ -173,7 +173,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.532052,
+      "per": 8.67101,
       "pbr": 1.0517167,
       "change_percent": -1.6260099000000001,
       "market_cap": 94464712704
@@ -189,7 +189,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.07353,
+      "per": 16.132841,
       "pbr": 1.5196385,
       "change_percent": -0.47803100000000004,
       "market_cap": 45042704384
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.6479,
+      "per": 19.769423,
       "pbr": 2.5278463,
       "change_percent": 0.6157240399999999,
       "market_cap": 82269274112
@@ -327,7 +327,7 @@
     {
       "code": "CRWD",
       "name": "CrowdStrike",
-      "per": 4620.0,
+      "per": 5775.0,
       "pbr": 50.758076,
       "change_percent": 5.76923,
       "market_cap": 236528943104
@@ -359,7 +359,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.754675,
+      "per": 19.483429,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -431,7 +431,7 @@
     {
       "code": "ALNY",
       "name": "Alnylam Pharmaceuticals",
-      "per": 41.35567,
+      "per": 41.932056,
       "pbr": 23.771852,
       "change_percent": 1.51413,
       "market_cap": 32206518272
@@ -499,7 +499,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.532052,
+      "per": 8.67101,
       "pbr": 1.0517167,
       "change_percent": -1.6260099000000001,
       "market_cap": 94464712704
@@ -523,7 +523,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.07353,
+      "per": 16.132841,
       "pbr": 1.5196385,
       "change_percent": -0.47803100000000004,
       "market_cap": 45042704384
@@ -541,7 +541,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.754675,
+      "per": 19.483429,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -589,5 +589,5 @@
       "market_cap": 63084433408
     }
   ],
-  "generated_at": "2026-09-01T04:06:46+00:00"
+  "generated_at": "2026-09-01T06:07:57+00:00"
 }

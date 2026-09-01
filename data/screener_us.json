@@ -97,20 +97,20 @@
       "market_cap": 22724413440
     },
     {
-      "code": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
-      "per": 8.532052,
-      "pbr": 1.0517167,
-      "change_percent": -1.6260099000000001,
-      "market_cap": 94464712704
-    },
-    {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.544555,
+      "per": 8.572847,
       "pbr": 1.6124814,
       "change_percent": -0.46136399999999994,
       "market_cap": 177408262144
+    },
+    {
+      "code": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "per": 8.67101,
+      "pbr": 1.0517167,
+      "change_percent": -1.6260099000000001,
+      "market_cap": 94464712704
     },
     {
       "code": "APA",
@@ -129,20 +129,20 @@
       "market_cap": 14577131520
     },
     {
+      "code": "CF",
+      "name": "CF INDUSTRIES HOLDINGS INC",
+      "per": 9.327834,
+      "pbr": 3.4293325,
+      "change_percent": 3.3707000000000003,
+      "market_cap": 19678496768
+    },
+    {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
       "per": 9.566853,
       "pbr": 1.9335407,
       "change_percent": -0.844459,
       "market_cap": 37212397568
-    },
-    {
-      "code": "CF",
-      "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 9.646143,
-      "pbr": 3.4293325,
-      "change_percent": 3.3707000000000003,
-      "market_cap": 19678496768
     },
     {
       "code": "LULU",
@@ -153,12 +153,12 @@
       "market_cap": 13655994368
     },
     {
-      "code": "NCLH",
-      "name": "NORWEGIAN CRUISE LINE HOLDIN",
-      "per": 9.781818,
-      "pbr": 2.8805995,
-      "change_percent": -3.06306,
-      "market_cap": 7411291648
+      "code": "TRV",
+      "name": "TRAVELERS COS INC/THE",
+      "per": 9.941048,
+      "pbr": 2.3046644,
+      "change_percent": -1.07325995,
+      "market_cap": 76323856384
     }
   ],
   "pbr": [
@@ -261,7 +261,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.532052,
+      "per": 8.67101,
       "pbr": 1.0517167,
       "change_percent": -1.6260099000000001,
       "market_cap": 94464712704
@@ -327,7 +327,7 @@
     {
       "code": "CRWD",
       "name": "CROWDSTRIKE HOLDINGS INC   A",
-      "per": 4620.0,
+      "per": 5775.0,
       "pbr": 50.758076,
       "change_percent": 5.76923,
       "market_cap": 236528943104
@@ -375,7 +375,7 @@
     {
       "code": "QCOM",
       "name": "QUALCOMM INC",
-      "per": 18.754675,
+      "per": 19.483429,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -391,7 +391,7 @@
     {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 9.646143,
+      "per": 9.327834,
       "pbr": 3.4293325,
       "change_percent": 3.3707000000000003,
       "market_cap": 19678496768
@@ -407,7 +407,7 @@
     {
       "code": "VEEV",
       "name": "VEEVA SYSTEMS INC CLASS A",
-      "per": 46.91133,
+      "per": 45.419716,
       "pbr": 6.373026,
       "change_percent": 3.2527399999999997,
       "market_cap": 46255738880
@@ -463,7 +463,7 @@
     {
       "code": "XOM",
       "name": "EXXONMOBIL HOLDINGS CORP",
-      "per": 20.169172,
+      "per": 20.714285,
       "pbr": 2.5515218,
       "change_percent": 2.7056301,
       "market_cap": 661812215808
@@ -514,7 +514,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.532052,
+      "per": 8.67101,
       "pbr": 1.0517167,
       "change_percent": -1.6260099000000001,
       "market_cap": 94464712704
@@ -524,12 +524,12 @@
     {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 9.646143,
+      "per": 9.327834,
       "pbr": 3.4293325,
       "change_percent": 3.3707000000000003,
       "market_cap": 19678496768
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-09-01T04:06:45+00:00"
+  "generated_at": "2026-09-01T06:07:56+00:00"
 }
