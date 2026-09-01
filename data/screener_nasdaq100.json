@@ -35,7 +35,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.132841,
+      "per": 16.07353,
       "pbr": 1.5196385,
       "change_percent": -0.47803100000000004,
       "market_cap": 45042704384
@@ -57,17 +57,9 @@
       "market_cap": 116384030720
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 17.066288,
-      "pbr": null,
-      "change_percent": -1.9371000999999999,
-      "market_cap": 162441707520
-    },
-    {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 17.20934,
+      "per": 16.837852,
       "pbr": 6.5901055,
       "change_percent": -2.1786100999999998,
       "market_cap": 4102042681344
@@ -75,10 +67,18 @@
     {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
-      "per": 17.393644,
+      "per": 17.027096,
       "pbr": 6.667518,
       "change_percent": -2.08892,
       "market_cap": 4150228680704
+    },
+    {
+      "code": "WDC",
+      "name": "Western Digital",
+      "per": 17.066288,
+      "pbr": null,
+      "change_percent": -1.9371000999999999,
+      "market_cap": 162441707520
     },
     {
       "code": "ROP",
@@ -97,14 +97,6 @@
       "market_cap": 191704432640
     },
     {
-      "code": "QCOM",
-      "name": "Qualcomm",
-      "per": 18.754675,
-      "pbr": 6.515076,
-      "change_percent": 3.8309200000000003,
-      "market_cap": 182082945024
-    },
-    {
       "code": "TMUS",
       "name": "T-Mobile US",
       "per": 18.973711,
@@ -115,15 +107,23 @@
     {
       "code": "NXPI",
       "name": "NXP Semiconductors",
-      "per": 19.08581,
+      "per": 19.167234,
       "pbr": 4.971341,
       "change_percent": 0.474102,
       "market_cap": 56646160384
     },
     {
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 19.483429,
+      "pbr": 6.515076,
+      "change_percent": 3.8309200000000003,
+      "market_cap": 182082945024
+    },
+    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.6479,
+      "per": 19.769423,
       "pbr": 2.5278463,
       "change_percent": 0.6157240399999999,
       "market_cap": 82269274112
@@ -135,14 +135,6 @@
       "pbr": 3.16768,
       "change_percent": 1.82663,
       "market_cap": 63084433408
-    },
-    {
-      "code": "SNDK",
-      "name": "Sandisk",
-      "per": 20.122013,
-      "pbr": 14.834628,
-      "change_percent": 5.503099799999999,
-      "market_cap": 229394644992
     },
     {
       "code": "CPRT",
@@ -159,6 +151,14 @@
       "pbr": 5.0779967,
       "change_percent": -2.49972,
       "market_cap": 2801960484864
+    },
+    {
+      "code": "XEL",
+      "name": "Xcel Energy",
+      "per": 20.96676,
+      "pbr": 1.9844787,
+      "change_percent": -0.994107,
+      "market_cap": 47278571520
     }
   ],
   "pbr": [
@@ -189,7 +189,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.132841,
+      "per": 16.07353,
       "pbr": 1.5196385,
       "change_percent": -0.47803100000000004,
       "market_cap": 45042704384
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.6479,
+      "per": 19.769423,
       "pbr": 2.5278463,
       "change_percent": 0.6157240399999999,
       "market_cap": 82269274112
@@ -335,7 +335,7 @@
     {
       "code": "TSLA",
       "name": "Tesla, Inc.",
-      "per": 322.76318,
+      "per": 340.69443,
       "pbr": 16.728802,
       "change_percent": 5.50538,
       "market_cap": 1453236027392
@@ -343,7 +343,7 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 20.122013,
+      "per": 21.228996,
       "pbr": 14.834628,
       "change_percent": 5.503099799999999,
       "market_cap": 229394644992
@@ -359,7 +359,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.754675,
+      "per": 19.483429,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -463,7 +463,7 @@
     {
       "code": "ISRG",
       "name": "Intuitive Surgical",
-      "per": 43.217888,
+      "per": 42.72789,
       "pbr": 7.3407607,
       "change_percent": 1.1433099,
       "market_cap": 135020658688
@@ -523,7 +523,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.132841,
+      "per": 16.07353,
       "pbr": 1.5196385,
       "change_percent": -0.47803100000000004,
       "market_cap": 45042704384
@@ -541,7 +541,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 18.754675,
+      "per": 19.483429,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -553,14 +553,6 @@
       "pbr": 3.16768,
       "change_percent": 1.82663,
       "market_cap": 63084433408
-    },
-    {
-      "code": "SNDK",
-      "name": "Sandisk",
-      "per": 20.122013,
-      "pbr": 14.834628,
-      "change_percent": 5.503099799999999,
-      "market_cap": 229394644992
     }
   ],
   "pbr_rise": [
@@ -589,5 +581,5 @@
       "market_cap": 63084433408
     }
   ],
-  "generated_at": "2026-09-01T08:06:43+00:00"
+  "generated_at": "2026-09-01T10:06:22+00:00"
 }
