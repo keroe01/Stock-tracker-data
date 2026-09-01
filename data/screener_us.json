@@ -25,14 +25,6 @@
       "market_cap": 10516085760
     },
     {
-      "code": "EIX",
-      "name": "EDISON INTERNATIONAL",
-      "per": 5.5706916,
-      "pbr": 1.1905864,
-      "change_percent": -23.0725,
-      "market_cap": 20772257792
-    },
-    {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
       "per": 6.2626724,
@@ -49,6 +41,14 @@
       "market_cap": 10038657024
     },
     {
+      "code": "EIX",
+      "name": "EDISON INTERNATIONAL",
+      "per": 7.245638,
+      "pbr": 1.1905864,
+      "change_percent": -23.0725,
+      "market_cap": 20772257792
+    },
+    {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.673709,
@@ -57,20 +57,20 @@
       "market_cap": 33464340480
     },
     {
-      "code": "EG",
-      "name": "EVEREST GROUP LTD",
-      "per": 7.919044,
-      "pbr": 0.9396601,
-      "change_percent": -0.783875,
-      "market_cap": 14365106176
-    },
-    {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 8.004154,
+      "per": 7.905641,
       "pbr": 1.650076,
       "change_percent": -1.24279,
       "market_cap": 25079584768
+    },
+    {
+      "code": "EG",
+      "name": "EVEREST GROUP LTD",
+      "per": 7.981466,
+      "pbr": 0.9396601,
+      "change_percent": -0.783875,
+      "market_cap": 14365106176
     },
     {
       "code": "CINF",
@@ -107,31 +107,31 @@
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.572847,
+      "per": 8.544555,
       "pbr": 1.6124814,
       "change_percent": -0.46136399999999994,
       "market_cap": 177408262144
     },
     {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 9.02163,
-      "pbr": 2.0837817,
-      "change_percent": -2.00615,
-      "market_cap": 14577131520
-    },
-    {
       "code": "APA",
       "name": "APA CORP",
-      "per": 9.103376,
+      "per": 8.970895,
       "pbr": 2.1551294,
       "change_percent": 1.4339499,
       "market_cap": 15117668352
     },
     {
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 9.205433,
+      "pbr": 2.0837817,
+      "change_percent": -2.00615,
+      "market_cap": 14577131520
+    },
+    {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.48757,
+      "per": 9.566853,
       "pbr": 1.9335407,
       "change_percent": -0.844459,
       "market_cap": 37212397568
@@ -145,20 +145,20 @@
       "market_cap": 19678496768
     },
     {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 9.737652,
+      "pbr": 2.8515875,
+      "change_percent": -0.45525699999999997,
+      "market_cap": 13655994368
+    },
+    {
       "code": "NCLH",
       "name": "NORWEGIAN CRUISE LINE HOLDIN",
       "per": 9.781818,
       "pbr": 2.8805995,
       "change_percent": -3.06306,
       "market_cap": 7411291648
-    },
-    {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 9.785192,
-      "pbr": 2.8515875,
-      "change_percent": -0.45525699999999997,
-      "market_cap": 13655994368
     }
   ],
   "pbr": [
@@ -213,7 +213,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.919044,
+      "per": 7.981466,
       "pbr": 0.9396601,
       "change_percent": -0.783875,
       "market_cap": 14365106176
@@ -229,7 +229,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.934307,
+      "per": 14.036765,
       "pbr": 0.9867418,
       "change_percent": -0.7409330000000001,
       "market_cap": 39928123392
@@ -237,7 +237,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 11.397702,
+      "per": 11.584112,
       "pbr": 1.0320997,
       "change_percent": -1.6854999999999998,
       "market_cap": 60568231936
@@ -269,7 +269,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 20.253393,
+      "per": 20.722221,
       "pbr": 1.0655113,
       "change_percent": -2.1639399999999998,
       "market_cap": 9293667328
@@ -285,7 +285,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 34.037037,
+      "per": 34.248447,
       "pbr": 1.0729713,
       "change_percent": -0.469318,
       "market_cap": 19398334464
@@ -423,7 +423,7 @@
     {
       "code": "BSX",
       "name": "BOSTON SCIENTIFIC CORP",
-      "per": 19.554655,
+      "per": 18.941177,
       "pbr": 2.8029246,
       "change_percent": 3.11699,
       "market_cap": 69997789184
@@ -439,7 +439,7 @@
     {
       "code": "PANW",
       "name": "PALO ALTO NETWORKS INC",
-      "per": 332.28696,
+      "per": 323.839,
       "pbr": 11.228549,
       "change_percent": 2.83646,
       "market_cap": 311435952128
@@ -447,7 +447,7 @@
     {
       "code": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "per": 21.098812,
+      "per": 21.680912,
       "pbr": 10.746287,
       "change_percent": 2.7731901,
       "market_cap": 1082783105024
@@ -463,7 +463,7 @@
     {
       "code": "XOM",
       "name": "EXXONMOBIL HOLDINGS CORP",
-      "per": 20.714285,
+      "per": 20.169172,
       "pbr": 2.5515218,
       "change_percent": 2.7056301,
       "market_cap": 661812215808
@@ -498,7 +498,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.919044,
+      "per": 7.981466,
       "pbr": 0.9396601,
       "change_percent": -0.783875,
       "market_cap": 14365106176
@@ -531,5 +531,5 @@
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-09-01T02:05:23+00:00"
+  "generated_at": "2026-09-01T04:06:45+00:00"
 }
