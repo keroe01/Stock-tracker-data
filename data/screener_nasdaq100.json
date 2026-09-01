@@ -19,7 +19,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.081081,
+      "per": 9.261301,
       "pbr": 1.7734505,
       "change_percent": -1.9722300000000001,
       "market_cap": 119565303808
@@ -43,7 +43,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.526684,
+      "per": 16.412443,
       "pbr": 2.9315171,
       "change_percent": -0.690129,
       "market_cap": 32173613056
@@ -51,7 +51,7 @@
     {
       "code": "ADBE",
       "name": "Adobe Inc.",
-      "per": 16.664202,
+      "per": 16.740423,
       "pbr": 10.142724,
       "change_percent": 0.43565403,
       "market_cap": 116384030720
@@ -83,7 +83,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.693335,
+      "per": 17.759933,
       "pbr": 2.2457864,
       "change_percent": -0.366025,
       "market_cap": 41997266944
@@ -97,6 +97,14 @@
       "market_cap": 191704432640
     },
     {
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 18.754675,
+      "pbr": 6.515076,
+      "change_percent": 3.8309200000000003,
+      "market_cap": 182082945024
+    },
+    {
       "code": "TMUS",
       "name": "T-Mobile US",
       "per": 18.973711,
@@ -107,23 +115,15 @@
     {
       "code": "NXPI",
       "name": "NXP Semiconductors",
-      "per": 19.167234,
+      "per": 19.08581,
       "pbr": 4.971341,
       "change_percent": 0.474102,
       "market_cap": 56646160384
     },
     {
-      "code": "QCOM",
-      "name": "Qualcomm",
-      "per": 19.483429,
-      "pbr": 6.515076,
-      "change_percent": 3.8309200000000003,
-      "market_cap": 182082945024
-    },
-    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.769423,
+      "per": 19.6479,
       "pbr": 2.5278463,
       "change_percent": 0.6157240399999999,
       "market_cap": 82269274112
@@ -213,7 +213,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.081081,
+      "per": 9.261301,
       "pbr": 1.7734505,
       "change_percent": -1.9722300000000001,
       "market_cap": 119565303808
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.693335,
+      "per": 17.759933,
       "pbr": 2.2457864,
       "change_percent": -0.366025,
       "market_cap": 41997266944
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.769423,
+      "per": 19.6479,
       "pbr": 2.5278463,
       "change_percent": 0.6157240399999999,
       "market_cap": 82269274112
@@ -277,7 +277,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.526684,
+      "per": 16.412443,
       "pbr": 2.9315171,
       "change_percent": -0.690129,
       "market_cap": 32173613056
@@ -327,7 +327,7 @@
     {
       "code": "CRWD",
       "name": "CrowdStrike",
-      "per": 5775.0,
+      "per": 4620.0,
       "pbr": 50.758076,
       "change_percent": 5.76923,
       "market_cap": 236528943104
@@ -359,7 +359,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 19.483429,
+      "per": 18.754675,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -431,7 +431,7 @@
     {
       "code": "ALNY",
       "name": "Alnylam Pharmaceuticals",
-      "per": 41.932056,
+      "per": 41.35567,
       "pbr": 23.771852,
       "change_percent": 1.51413,
       "market_cap": 32206518272
@@ -439,7 +439,7 @@
     {
       "code": "NVDA",
       "name": "Nvidia",
-      "per": 27.876263,
+      "per": 27.4602,
       "pbr": 27.358118,
       "change_percent": 1.48471,
       "market_cap": 5331174293504
@@ -507,7 +507,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.081081,
+      "per": 9.261301,
       "pbr": 1.7734505,
       "change_percent": -1.9722300000000001,
       "market_cap": 119565303808
@@ -531,7 +531,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.526684,
+      "per": 16.412443,
       "pbr": 2.9315171,
       "change_percent": -0.690129,
       "market_cap": 32173613056
@@ -541,7 +541,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 19.483429,
+      "per": 18.754675,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -589,5 +589,5 @@
       "market_cap": 63084433408
     }
   ],
-  "generated_at": "2026-09-01T06:07:57+00:00"
+  "generated_at": "2026-09-01T08:06:43+00:00"
 }

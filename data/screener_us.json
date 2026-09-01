@@ -27,7 +27,7 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.2626724,
+      "per": 6.3703127,
       "pbr": 1.3117338,
       "change_percent": -1.6167900999999998,
       "market_cap": 21025331200
@@ -57,20 +57,20 @@
       "market_cap": 33464340480
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 7.905641,
-      "pbr": 1.650076,
-      "change_percent": -1.24279,
-      "market_cap": 25079584768
-    },
-    {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
       "per": 7.981466,
       "pbr": 0.9396601,
       "change_percent": -0.783875,
       "market_cap": 14365106176
+    },
+    {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.004154,
+      "pbr": 1.650076,
+      "change_percent": -1.24279,
+      "market_cap": 25079584768
     },
     {
       "code": "CINF",
@@ -327,7 +327,7 @@
     {
       "code": "CRWD",
       "name": "CROWDSTRIKE HOLDINGS INC   A",
-      "per": 5775.0,
+      "per": 4620.0,
       "pbr": 50.758076,
       "change_percent": 5.76923,
       "market_cap": 236528943104
@@ -375,7 +375,7 @@
     {
       "code": "QCOM",
       "name": "QUALCOMM INC",
-      "per": 19.483429,
+      "per": 18.754675,
       "pbr": 6.515076,
       "change_percent": 3.8309200000000003,
       "market_cap": 182082945024
@@ -407,7 +407,7 @@
     {
       "code": "VEEV",
       "name": "VEEVA SYSTEMS INC CLASS A",
-      "per": 45.419716,
+      "per": 46.91133,
       "pbr": 6.373026,
       "change_percent": 3.2527399999999997,
       "market_cap": 46255738880
@@ -455,7 +455,7 @@
     {
       "code": "TPL",
       "name": "TEXAS PACIFIC LAND CORP",
-      "per": 47.80843,
+      "per": 46.50186,
       "pbr": 16.594555,
       "change_percent": 2.73341,
       "market_cap": 25819981824
@@ -531,5 +531,5 @@
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-09-01T06:07:56+00:00"
+  "generated_at": "2026-09-01T08:06:42+00:00"
 }
