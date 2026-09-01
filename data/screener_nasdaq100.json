@@ -30,7 +30,7 @@
       "per": 9.905482,
       "pbr": 2.2789545,
       "change_percent": -0.5031793,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "EXC",
@@ -46,12 +46,12 @@
       "per": 16.225805,
       "pbr": 2.8981807,
       "change_percent": -1.1371685,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     },
     {
       "code": "ADBE",
       "name": "Adobe Inc.",
-      "per": 16.356775,
+      "per": 16.366133,
       "pbr": 9.910277,
       "change_percent": -2.2917524,
       "market_cap": 113716797440
@@ -67,8 +67,8 @@
     {
       "code": "WDC",
       "name": "Western Digital",
-      "per": 16.73254,
-      "pbr": null,
+      "per": 16.744982,
+      "pbr": 21.536695,
       "change_percent": -0.024411354,
       "market_cap": 162402058240
     },
@@ -83,7 +83,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.429583,
+      "per": 17.43685,
       "pbr": 2.212309,
       "change_percent": -1.49067845,
       "market_cap": 41371222016
@@ -126,12 +126,12 @@
       "per": 20.164597,
       "pbr": 3.425662,
       "change_percent": -1.591396,
-      "market_cap": 30056468480
+      "market_cap": 31273807872
     },
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.381495,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.0960592,
       "market_cap": 84816379904
@@ -156,7 +156,7 @@
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 20.79178,
-      "pbr": 1.9897224,
+      "pbr": 1.9697363,
       "change_percent": 0.26423165000000004,
       "market_cap": 47403495424
     }
@@ -192,7 +192,7 @@
       "per": 38.697144,
       "pbr": 1.5039643,
       "change_percent": 1.33679565,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "EXC",
@@ -222,7 +222,7 @@
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 20.79178,
-      "pbr": 1.9897224,
+      "pbr": 1.9697363,
       "change_percent": 0.26423165000000004,
       "market_cap": 47403495424
     },
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.429583,
+      "per": 17.43685,
       "pbr": 2.212309,
       "change_percent": -1.49067845,
       "market_cap": 41371222016
@@ -256,7 +256,7 @@
       "per": 9.905482,
       "pbr": 2.2789545,
       "change_percent": -0.5031793,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "SNPS",
@@ -269,7 +269,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.381495,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.0960592,
       "market_cap": 84816379904
@@ -280,7 +280,7 @@
       "per": 16.225805,
       "pbr": 2.8981807,
       "change_percent": -1.1371685,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.567766,
       "pbr": 2.9615922,
       "change_percent": -0.7410973000000001,
-      "market_cap": 78633345024
+      "market_cap": 79085666304
     },
     {
       "code": "CEG",
@@ -320,14 +320,14 @@
       "per": 20.164597,
       "pbr": 3.425662,
       "change_percent": -1.591396,
-      "market_cap": 30056468480
+      "market_cap": 31273807872
     }
   ],
   "rise": [
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.381495,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.0960592,
       "market_cap": 84816379904
@@ -335,7 +335,7 @@
     {
       "code": "AAPL",
       "name": "Apple Inc.",
-      "per": 37.242844,
+      "per": 37.328358,
       "pbr": 44.17527,
       "change_percent": 2.6132235,
       "market_cap": 4745005629440
@@ -351,7 +351,7 @@
     {
       "code": "ALNY",
       "name": "Alnylam Pharmaceuticals",
-      "per": 42.87631,
+      "per": 42.951134,
       "pbr": 24.307161,
       "change_percent": 2.2518585,
       "market_cap": 32931762176
@@ -367,7 +367,7 @@
     {
       "code": "AMGN",
       "name": "Amgen",
-      "per": 27.229334,
+      "per": 27.178658,
       "pbr": 20.264568,
       "change_percent": 1.9168116,
       "market_cap": 236861685760
@@ -386,12 +386,12 @@
       "per": 38.697144,
       "pbr": 1.5039643,
       "change_percent": 1.33679565,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "META",
       "name": "Meta Platforms",
-      "per": 21.807009,
+      "per": 21.78238,
       "pbr": 5.6431913,
       "change_percent": 1.0832635,
       "market_cap": 1473834123264
@@ -402,7 +402,7 @@
       "per": 38.376812,
       "pbr": 8.939905,
       "change_percent": 1.0012353,
-      "market_cap": 842919706624
+      "market_cap": 840342372352
     },
     {
       "code": "TMUS",
@@ -426,7 +426,7 @@
       "per": 31.932947,
       "pbr": 6.852392,
       "change_percent": 0.57481905,
-      "market_cap": 138807885824
+      "market_cap": 138719756288
     },
     {
       "code": "WDAY",
@@ -448,7 +448,7 @@
       "code": "ROST",
       "name": "Ross Stores",
       "per": 27.719467,
-      "pbr": 10.799963,
+      "pbr": 11.672098,
       "change_percent": 0.3062975,
       "market_cap": 73535856640
     },
@@ -456,7 +456,7 @@
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 20.79178,
-      "pbr": 1.9897224,
+      "pbr": 1.9697363,
       "change_percent": 0.26423165000000004,
       "market_cap": 47403495424
     },
@@ -497,7 +497,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.381495,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.0960592,
       "market_cap": 84816379904
@@ -514,7 +514,7 @@
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 20.79178,
-      "pbr": 1.9897224,
+      "pbr": 1.9697363,
       "change_percent": 0.26423165000000004,
       "market_cap": 47403495424
     }
@@ -542,7 +542,7 @@
       "per": 9.905482,
       "pbr": 2.2789545,
       "change_percent": -0.5031793,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "EXC",
@@ -558,7 +558,7 @@
       "per": 16.225805,
       "pbr": 2.8981807,
       "change_percent": -1.1371685,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     }
   ],
   "per_rise": [
@@ -581,7 +581,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.381495,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.0960592,
       "market_cap": 84816379904
@@ -598,7 +598,7 @@
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 20.79178,
-      "pbr": 1.9897224,
+      "pbr": 1.9697363,
       "change_percent": 0.26423165000000004,
       "market_cap": 47403495424
     }
@@ -618,7 +618,7 @@
       "per": 38.697144,
       "pbr": 1.5039643,
       "change_percent": 1.33679565,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "EXC",
@@ -640,10 +640,10 @@
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 20.79178,
-      "pbr": 1.9897224,
+      "pbr": 1.9697363,
       "change_percent": 0.26423165000000004,
       "market_cap": 47403495424
     }
   ],
-  "generated_at": "2026-09-01T20:06:29+00:00"
+  "generated_at": "2026-09-01T22:05:58+00:00"
 }
