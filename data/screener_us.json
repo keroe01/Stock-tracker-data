@@ -22,7 +22,7 @@
       "per": 5.531835,
       "pbr": 2.1313133,
       "change_percent": 0.20353200000000002,
-      "market_cap": 10537489408
+      "market_cap": 10533339136
     },
     {
       "code": "EIX",
@@ -38,7 +38,7 @@
       "per": 6.2718897,
       "pbr": 1.3136644,
       "change_percent": 0.14717,
-      "market_cap": 21056274432
+      "market_cap": 21104175104
     },
     {
       "code": "UHS",
@@ -51,10 +51,10 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.715963,
+      "per": 7.6739297,
       "pbr": 1.443397,
       "change_percent": 0.550628,
-      "market_cap": 33648603136
+      "market_cap": 33626009600
     },
     {
       "code": "SYF",
@@ -89,6 +89,14 @@
       "market_cap": 66551058432
     },
     {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.458546,
+      "pbr": 1.2071235,
+      "change_percent": 1.85412,
+      "market_cap": 23918100480
+    },
+    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 8.538961,
@@ -103,14 +111,6 @@
       "pbr": 1.6193323,
       "change_percent": 0.424877,
       "market_cap": 178162024448
-    },
-    {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.618965,
-      "pbr": 1.2071235,
-      "change_percent": 1.85412,
-      "market_cap": 23145750528
     },
     {
       "code": "MKC",
@@ -137,6 +137,14 @@
       "market_cap": 37144678400
     },
     {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.564626,
+      "pbr": 0.95802677,
+      "change_percent": 5.9532799999999995,
+      "market_cap": 30965280768
+    },
+    {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
       "per": 9.6443815,
@@ -151,14 +159,6 @@
       "pbr": 2.7979987,
       "change_percent": -1.87926,
       "market_cap": 13399362560
-    },
-    {
-      "code": "NCLH",
-      "name": "NORWEGIAN CRUISE LINE HOLDIN",
-      "per": 9.765822,
-      "pbr": 2.753882,
-      "change_percent": -4.399,
-      "market_cap": 7085268480
     }
   ],
   "pbr": [
@@ -213,7 +213,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 10.1151085,
+      "per": 9.564626,
       "pbr": 0.95802677,
       "change_percent": 5.9532799999999995,
       "market_cap": 30965280768
@@ -229,7 +229,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.846715,
+      "per": 13.9229355,
       "pbr": 0.9805391,
       "change_percent": -0.62860604,
       "market_cap": 39677132800
@@ -240,7 +240,7 @@
       "per": 351.6667,
       "pbr": 1.0047619,
       "change_percent": -3.2997202000000003,
-      "market_cap": 11836527616
+      "market_cap": 11807277056
     },
     {
       "code": "CHTR",
@@ -280,7 +280,7 @@
       "per": 20.202702,
       "pbr": 1.0676538,
       "change_percent": 0.201073,
-      "market_cap": 9312354304
+      "market_cap": 9491180544
     },
     {
       "code": "TSN",
@@ -309,7 +309,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.273505,
+      "per": 13.338651,
       "pbr": 1.1624501,
       "change_percent": 0.38784599999999997,
       "market_cap": 22223335424
@@ -343,7 +343,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 10.1151085,
+      "per": 9.564626,
       "pbr": 0.95802677,
       "change_percent": 5.9532799999999995,
       "market_cap": 30965280768
@@ -383,7 +383,7 @@
     {
       "code": "DLTR",
       "name": "DOLLAR TREE INC",
-      "per": 16.121176,
+      "per": 15.495295,
       "pbr": 7.263152,
       "change_percent": 4.04456,
       "market_cap": 24712787968
@@ -391,10 +391,10 @@
     {
       "code": "ADM",
       "name": "ARCHER DANIELS MIDLAND CO",
-      "per": 23.101093,
+      "per": 22.250002,
       "pbr": 1.7287914,
       "change_percent": 4.0103402,
-      "market_cap": 40749682688
+      "market_cap": 40749424640
     },
     {
       "code": "CVS",
@@ -423,7 +423,7 @@
     {
       "code": "DE",
       "name": "DEERE + CO",
-      "per": 36.36794,
+      "per": 37.539146,
       "pbr": 6.5168104,
       "change_percent": 3.2325100000000004,
       "market_cap": 182288351232
@@ -485,7 +485,16 @@
       "market_cap": 7877454336
     }
   ],
-  "triple": [],
+  "triple": [
+    {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.564626,
+      "pbr": 0.95802677,
+      "change_percent": 5.9532799999999995,
+      "market_cap": 30965280768
+    }
+  ],
   "per_pbr": [
     {
       "code": "CHTR",
@@ -510,6 +519,14 @@
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
+    },
+    {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.564626,
+      "pbr": 0.95802677,
+      "change_percent": 5.9532799999999995,
+      "market_cap": 30965280768
     }
   ],
   "per_rise": [
@@ -520,6 +537,14 @@
       "pbr": 1.2968967,
       "change_percent": 8.9292295,
       "market_cap": 22627061760
+    },
+    {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.564626,
+      "pbr": 0.95802677,
+      "change_percent": 5.9532799999999995,
+      "market_cap": 30965280768
     },
     {
       "code": "CF",
@@ -542,11 +567,11 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 10.1151085,
+      "per": 9.564626,
       "pbr": 0.95802677,
       "change_percent": 5.9532799999999995,
       "market_cap": 30965280768
     }
   ],
-  "generated_at": "2026-09-02T06:07:43+00:00"
+  "generated_at": "2026-09-02T08:06:33+00:00"
 }

@@ -30,7 +30,7 @@
       "per": 9.961977,
       "pbr": 2.2789545,
       "change_percent": -0.503179,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "EXC",
@@ -46,7 +46,7 @@
       "per": 16.414919,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     },
     {
       "code": "ADBE",
@@ -60,7 +60,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.75121,
-      "pbr": null,
+      "pbr": 21.536695,
       "change_percent": -0.024411401,
       "market_cap": 162402058240
     },
@@ -142,7 +142,7 @@
       "per": 20.547468,
       "pbr": 3.425662,
       "change_percent": -1.5914000000000001,
-      "market_cap": 30056468480
+      "market_cap": 31273807872
     },
     {
       "code": "XEL",
@@ -192,7 +192,7 @@
       "per": 38.697144,
       "pbr": 1.5039643,
       "change_percent": 1.3367999,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "EXC",
@@ -256,7 +256,7 @@
       "per": 9.961977,
       "pbr": 2.2789545,
       "change_percent": -0.503179,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 16.414919,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.734318,
       "pbr": 2.9615922,
       "change_percent": -0.74109696,
-      "market_cap": 78633345024
+      "market_cap": 79085666304
     },
     {
       "code": "CEG",
@@ -320,7 +320,7 @@
       "per": 20.547468,
       "pbr": 3.425662,
       "change_percent": -1.5914000000000001,
-      "market_cap": 30056468480
+      "market_cap": 31273807872
     }
   ],
   "rise": [
@@ -386,7 +386,7 @@
       "per": 38.697144,
       "pbr": 1.5039643,
       "change_percent": 1.3367999,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "META",
@@ -402,7 +402,7 @@
       "per": 37.964157,
       "pbr": 8.939905,
       "change_percent": 1.00124,
-      "market_cap": 842919706624
+      "market_cap": 840342372352
     },
     {
       "code": "TMUS",
@@ -426,7 +426,7 @@
       "per": 31.747828,
       "pbr": 6.852392,
       "change_percent": 0.57481905,
-      "market_cap": 138807885824
+      "market_cap": 138719756288
     },
     {
       "code": "WDAY",
@@ -448,7 +448,7 @@
       "code": "ROST",
       "name": "Ross Stores",
       "per": 27.619278,
-      "pbr": 10.799963,
+      "pbr": 11.672098,
       "change_percent": 0.306297,
       "market_cap": 73535856640
     },
@@ -542,7 +542,7 @@
       "per": 9.961977,
       "pbr": 2.2789545,
       "change_percent": -0.503179,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "EXC",
@@ -558,7 +558,7 @@
       "per": 16.414919,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     }
   ],
   "per_rise": [
@@ -618,7 +618,7 @@
       "per": 38.697144,
       "pbr": 1.5039643,
       "change_percent": 1.3367999,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "EXC",
@@ -645,5 +645,5 @@
       "market_cap": 47403495424
     }
   ],
-  "generated_at": "2026-09-02T06:07:45+00:00"
+  "generated_at": "2026-09-02T08:06:34+00:00"
 }
