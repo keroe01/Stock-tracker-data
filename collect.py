@@ -1410,6 +1410,64 @@ def collect_treasury_buyback():
     )
 
 
+def collect_short_balance(watchlist: list[dict]):
+    """개별종목 공매도 잔고(KR만) — KRX가 이 데이터셋을 로그인 필수로
+    막아놔서(2026-08 확인: 익명 POST는 400 "LOGOUT"), pykrx의 세션 관리
+    (KRX_ID/KRX_PW 환경변수 -> 로그인 -> 쿠키 재사용, 1시간마다 자동 갱신)
+    를 그대로 빌려쓴다. 이 두 시크릿이 아직 등록 안 된 저장소에서도
+    워크플로우 전체가 죽지 않도록, pykrx를 부르기 전에 먼저 존재를 확인하고
+    없으면 조용히 스킵한다 (pykrx 자체도 내부적으로 실패를 삼키고 빈
+    DataFrame을 반환하긴 하지만, 매 사이클 3번의 헛된 로그인 시도 대신
+    한 줄 로그로 끝내는 게 더 명확하다).
+
+    이 "잔고"는 상장주식 0.01% 이상(또는 평가액 기준) 대량보유자 공시
+    기반 순보유잔고이고, 보고의무 발생일로부터 T+2일 지연된다 — 시가총액
+    전체 공매도가 아니라 그 부분집합이라는 걸 이 데이터를 쓰는 쪽(UI)에서
+    반드시 고지해야 한다."""
+    if not (os.getenv("KRX_ID") and os.getenv("KRX_PW")):
+        print("short_balance: KRX_ID/KRX_PW not set, skipping (see cloud_data setup docs)")
+        return
+
+    from pykrx import stock as krx_stock
+
+    existing = {(r["symbol"], r["date"]): r for r in _load("short_balance.json")}
+    today_dt = datetime.date.today()
+    # T+2 지연 공시라 지난 며칠은 매번 다시 물어봐야 최신값이 채워진다 -
+    # 넉넉히 14일을 매번 다시 조회해서, 실행이 하루이틀 비거나 공시가 늦게
+    # 올라와도 다음 성공한 실행에서 자연히 따라잡는다 (자사주매입의 365일
+    # 윈도우와 같은 이유, 폭만 이 데이터 특성에 맞게 좁힌 것).
+    from_str = (today_dt - datetime.timedelta(days=14)).strftime("%Y%m%d")
+    to_str = today_dt.strftime("%Y%m%d")
+
+    added = 0
+    for stock_row in watchlist:
+        symbol, market = stock_row["symbol"], stock_row.get("market")
+        if market != "KR":
+            continue
+        ticker = symbol.split(".")[0]
+        try:
+            df = krx_stock.get_shorting_balance_by_date(from_str, to_str, ticker)
+            for date_ts, row in df.iterrows():
+                date_str = date_ts.strftime("%Y-%m-%d")
+                key = (symbol, date_str)
+                existing[key] = {
+                    "symbol": symbol,
+                    "date": date_str,
+                    "balance_qty": int(row["공매도잔고"]),
+                    "listed_shares": int(row["상장주식수"]),
+                    "balance_amount": int(row["공매도금액"]),
+                    "balance_ratio": float(row["비중"]),
+                    "collected_at": now_iso(),
+                }
+                added += 1
+        except Exception:
+            print(f"failed to fetch short balance for {symbol}")
+        time.sleep(0.3)
+
+    _save("short_balance.json", list(existing.values()))
+    print(f"short_balance.json: {added} row(s) refreshed, {len(existing)} total")
+
+
 def main():
     with open(ROOT / "watchlist.json", encoding="utf-8") as f:
         watchlist = json.load(f)
@@ -1425,6 +1483,7 @@ def main():
     collect_fx()
     collect_index()
     collect_treasury_buyback()
+    collect_short_balance(watchlist)
     collect_cloud_growth()
     collect_kr_screener()
     collect_us_screener()
