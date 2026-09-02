@@ -27,7 +27,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 6.0681114,
+      "per": 5.5734596,
       "pbr": 1.2968967,
       "change_percent": 8.9292295,
       "market_cap": 22627061760
@@ -91,7 +91,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -99,7 +99,7 @@
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.580858,
+      "per": 8.552631,
       "pbr": 1.6193323,
       "change_percent": 0.424877,
       "market_cap": 178162024448
@@ -123,7 +123,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 9.345992,
+      "per": 9.115226,
       "pbr": 2.2125661,
       "change_percent": 2.6651198000000003,
       "market_cap": 15520572416
@@ -137,20 +137,20 @@
       "market_cap": 37144678400
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 9.554656,
-      "pbr": 2.7979987,
-      "change_percent": -1.87926,
-      "market_cap": 13399362560
-    },
-    {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
       "per": 9.6443815,
       "pbr": 3.5762324,
       "change_percent": 4.2836297000000005,
       "market_cap": 20521451520
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 9.735973,
+      "pbr": 2.7979987,
+      "change_percent": -1.87926,
+      "market_cap": 13399362560
     },
     {
       "code": "NCLH",
@@ -221,7 +221,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.899225,
+      "per": 9.937744,
       "pbr": 0.96402824,
       "change_percent": -0.42884500000000003,
       "market_cap": 28121520128
@@ -269,7 +269,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -301,7 +301,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.282328,
+      "per": 14.1905775,
       "pbr": 1.1551534,
       "change_percent": 0.69898097,
       "market_cap": 222327455744
@@ -317,7 +317,7 @@
     {
       "code": "CFG",
       "name": "CITIZENS FINANCIAL GROUP",
-      "per": 14.849673,
+      "per": 15.013217,
       "pbr": 1.1968184,
       "change_percent": -1.0309300000000001,
       "market_cap": 28707411968
@@ -335,7 +335,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 6.0681114,
+      "per": 5.5734596,
       "pbr": 1.2968967,
       "change_percent": 8.9292295,
       "market_cap": 22627061760
@@ -351,7 +351,7 @@
     {
       "code": "HPQ",
       "name": "HP INC",
-      "per": 11.954199,
+      "per": 11.4725275,
       "pbr": null,
       "change_percent": 4.33044,
       "market_cap": 28244092928
@@ -407,7 +407,7 @@
     {
       "code": "CTVA",
       "name": "CORTEVA INC",
-      "per": 53.1697,
+      "per": 51.304096,
       "pbr": 2.3258834,
       "change_percent": 3.88396,
       "market_cap": 58533109760
@@ -439,7 +439,7 @@
     {
       "code": "REGN",
       "name": "REGENERON PHARMACEUTICALS",
-      "per": 19.760614,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.09606,
       "market_cap": 84816379904
@@ -447,7 +447,7 @@
     {
       "code": "BBY",
       "name": "BEST BUY CO INC",
-      "per": 13.748751,
+      "per": 13.327419,
       "pbr": 5.485263,
       "change_percent": 3.0941898,
       "market_cap": 17415686144
@@ -463,7 +463,7 @@
     {
       "code": "APH",
       "name": "AMPHENOL CORP CL A",
-      "per": 40.795,
+      "per": 39.70316,
       "pbr": 12.9837675,
       "change_percent": 2.9202098,
       "market_cap": 201198223360
@@ -506,7 +506,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -516,7 +516,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 6.0681114,
+      "per": 5.5734596,
       "pbr": 1.2968967,
       "change_percent": 8.9292295,
       "market_cap": 22627061760
@@ -548,5 +548,5 @@
       "market_cap": 30965280768
     }
   ],
-  "generated_at": "2026-09-02T04:06:32+00:00"
+  "generated_at": "2026-09-02T06:07:43+00:00"
 }

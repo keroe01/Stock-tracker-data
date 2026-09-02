@@ -11,7 +11,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -35,18 +35,10 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
-    },
-    {
-      "code": "ADBE",
-      "name": "Adobe Inc.",
-      "per": 16.366133,
-      "pbr": 9.910277,
-      "change_percent": -2.29175,
-      "market_cap": 113716797440
     },
     {
       "code": "GEHC",
@@ -57,9 +49,17 @@
       "market_cap": 31807744000
     },
     {
+      "code": "ADBE",
+      "name": "Adobe Inc.",
+      "per": 16.749414,
+      "pbr": 9.910277,
+      "change_percent": -2.29175,
+      "market_cap": 113716797440
+    },
+    {
       "code": "WDC",
       "name": "Western Digital",
-      "per": 16.744982,
+      "per": 16.75121,
       "pbr": null,
       "change_percent": -0.024411401,
       "market_cap": 162402058240
@@ -91,7 +91,7 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 18.3211,
+      "per": 18.393421,
       "pbr": 8.64128,
       "change_percent": -0.39190800000000003,
       "market_cap": 190953127936
@@ -115,7 +115,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 19.041143,
+      "per": 19.48655,
       "pbr": 6.36718,
       "change_percent": -2.27006,
       "market_cap": 177949556736
@@ -123,18 +123,10 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.760614,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.09606,
       "market_cap": 84816379904
-    },
-    {
-      "code": "CPRT",
-      "name": "Copart",
-      "per": 20.164597,
-      "pbr": 3.425662,
-      "change_percent": -1.5914000000000001,
-      "market_cap": 30056468480
     },
     {
       "code": "BKR",
@@ -143,6 +135,14 @@
       "pbr": 3.1729138,
       "change_percent": 0.16522399999999998,
       "market_cap": 63188664320
+    },
+    {
+      "code": "CPRT",
+      "name": "Copart",
+      "per": 20.547468,
+      "pbr": 3.425662,
+      "change_percent": -1.5914000000000001,
+      "market_cap": 30056468480
     },
     {
       "code": "XEL",
@@ -173,7 +173,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -197,7 +197,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -269,7 +269,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.760614,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.09606,
       "market_cap": 84816379904
@@ -301,7 +301,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 25.778946,
+      "per": 26.108742,
       "pbr": 3.1717048,
       "change_percent": -1.35342,
       "market_cap": 64453386240
@@ -317,7 +317,7 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 20.164597,
+      "per": 20.547468,
       "pbr": 3.425662,
       "change_percent": -1.5914000000000001,
       "market_cap": 30056468480
@@ -327,7 +327,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.760614,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.09606,
       "market_cap": 84816379904
@@ -335,7 +335,7 @@
     {
       "code": "AAPL",
       "name": "Apple Inc.",
-      "per": 37.328358,
+      "per": 36.36801,
       "pbr": 44.17527,
       "change_percent": 2.61322,
       "market_cap": 4745005629440
@@ -351,7 +351,7 @@
     {
       "code": "ALNY",
       "name": "Alnylam Pharmaceuticals",
-      "per": 42.951134,
+      "per": 41.99829,
       "pbr": 24.307161,
       "change_percent": 2.2518599999999998,
       "market_cap": 32931762176
@@ -367,7 +367,7 @@
     {
       "code": "AMGN",
       "name": "Amgen",
-      "per": 27.229334,
+      "per": 26.665854,
       "pbr": 20.264568,
       "change_percent": 1.9168101,
       "market_cap": 236861685760
@@ -431,7 +431,7 @@
     {
       "code": "WDAY",
       "name": "Workday, Inc.",
-      "per": 40.32114,
+      "per": 40.157894,
       "pbr": 7.3914824,
       "change_percent": 0.471009,
       "market_cap": 47809581056
@@ -447,7 +447,7 @@
     {
       "code": "ROST",
       "name": "Ross Stores",
-      "per": 27.719467,
+      "per": 27.619278,
       "pbr": 10.799963,
       "change_percent": 0.306297,
       "market_cap": 73535856640
@@ -463,7 +463,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -489,7 +489,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -497,7 +497,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.760614,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.09606,
       "market_cap": 84816379904
@@ -523,7 +523,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -547,7 +547,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -565,7 +565,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -581,7 +581,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.760614,
+      "per": 20.376453,
       "pbr": 2.6061099,
       "change_percent": 3.09606,
       "market_cap": 84816379904
@@ -623,7 +623,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -645,5 +645,5 @@
       "market_cap": 47403495424
     }
   ],
-  "generated_at": "2026-09-02T04:06:33+00:00"
+  "generated_at": "2026-09-02T06:07:45+00:00"
 }
