@@ -11,7 +11,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -35,7 +35,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -43,18 +43,10 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.225805,
+      "per": 16.414919,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
       "market_cap": 31807744000
-    },
-    {
-      "code": "ADBE",
-      "name": "Adobe Inc.",
-      "per": 16.366133,
-      "pbr": 9.910277,
-      "change_percent": -2.29175,
-      "market_cap": 113716797440
     },
     {
       "code": "GOOG",
@@ -65,9 +57,17 @@
       "market_cap": 4060705456128
     },
     {
+      "code": "ADBE",
+      "name": "Adobe Inc.",
+      "per": 16.749414,
+      "pbr": 9.910277,
+      "change_percent": -2.29175,
+      "market_cap": 113716797440
+    },
+    {
       "code": "WDC",
       "name": "Western Digital",
-      "per": 16.744982,
+      "per": 16.75121,
       "pbr": null,
       "change_percent": -0.024411401,
       "market_cap": 162402058240
@@ -83,7 +83,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.429583,
+      "per": 17.702497,
       "pbr": 2.212309,
       "change_percent": -1.4906799,
       "market_cap": 41371222016
@@ -91,7 +91,7 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 18.3211,
+      "per": 18.393421,
       "pbr": 8.64128,
       "change_percent": -0.39190800000000003,
       "market_cap": 190953127936
@@ -173,7 +173,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -197,7 +197,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.429583,
+      "per": 17.702497,
       "pbr": 2.212309,
       "change_percent": -1.4906799,
       "market_cap": 41371222016
@@ -277,7 +277,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.225805,
+      "per": 16.414919,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
       "market_cap": 31807744000
@@ -301,7 +301,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 25.778946,
+      "per": 26.108742,
       "pbr": 3.1717048,
       "change_percent": -1.35342,
       "market_cap": 64453386240
@@ -463,7 +463,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -489,7 +489,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -523,7 +523,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.429487,
+      "per": 8.538961,
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
@@ -547,7 +547,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -555,7 +555,7 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 16.225805,
+      "per": 16.414919,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
       "market_cap": 31807744000
@@ -565,7 +565,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -623,7 +623,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.113972,
+      "per": 16.054945,
       "pbr": 1.5234619,
       "change_percent": 0.25160299999999997,
       "market_cap": 45156032512
@@ -645,5 +645,5 @@
       "market_cap": 47403495424
     }
   ],
-  "generated_at": "2026-09-02T00:09:02+00:00"
+  "generated_at": "2026-09-02T02:12:42+00:00"
 }
