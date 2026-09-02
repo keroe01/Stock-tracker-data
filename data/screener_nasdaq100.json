@@ -27,10 +27,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 9.961977,
+      "per": 9.905482,
       "pbr": 2.2789545,
       "change_percent": -0.503179,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "EXC",
@@ -46,7 +46,15 @@
       "per": 16.225805,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
+    },
+    {
+      "code": "ADBE",
+      "name": "Adobe Inc.",
+      "per": 16.366133,
+      "pbr": 9.910277,
+      "change_percent": -2.29175,
+      "market_cap": 113716797440
     },
     {
       "code": "GOOG",
@@ -60,17 +68,9 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.72012,
-      "pbr": null,
+      "pbr": 21.536695,
       "change_percent": -0.024411401,
       "market_cap": 162402058240
-    },
-    {
-      "code": "ADBE",
-      "name": "Adobe Inc.",
-      "per": 16.749414,
-      "pbr": 9.910277,
-      "change_percent": -2.29175,
-      "market_cap": 113716797440
     },
     {
       "code": "GOOGL",
@@ -83,7 +83,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.422323,
+      "per": 17.702497,
       "pbr": 2.212309,
       "change_percent": -1.4906799,
       "market_cap": 41371222016
@@ -105,6 +105,14 @@
       "market_cap": 56081309696
     },
     {
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 19.041143,
+      "pbr": 6.36718,
+      "change_percent": -2.27006,
+      "market_cap": 177949556736
+    },
+    {
       "code": "TMUS",
       "name": "T-Mobile US",
       "per": 19.054394,
@@ -113,20 +121,12 @@
       "market_cap": 195397861376
     },
     {
-      "code": "QCOM",
-      "name": "Qualcomm",
-      "per": 19.48655,
-      "pbr": 6.36718,
-      "change_percent": -2.27006,
-      "market_cap": 177949556736
-    },
-    {
       "code": "CPRT",
       "name": "Copart",
       "per": 20.164597,
       "pbr": 3.425662,
       "change_percent": -1.5914000000000001,
-      "market_cap": 30056468480
+      "market_cap": 31273807872
     },
     {
       "code": "REGN",
@@ -155,7 +155,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.734972,
+      "per": 20.79178,
       "pbr": 1.9697363,
       "change_percent": 0.264232,
       "market_cap": 47403495424
@@ -189,10 +189,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 38.697144,
+      "per": 38.770996,
       "pbr": 1.5039643,
       "change_percent": 1.3367999,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "EXC",
@@ -221,7 +221,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.734972,
+      "per": 20.79178,
       "pbr": 1.9697363,
       "change_percent": 0.264232,
       "market_cap": 47403495424
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.422323,
+      "per": 17.702497,
       "pbr": 2.212309,
       "change_percent": -1.4906799,
       "market_cap": 41371222016
@@ -253,10 +253,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 9.961977,
+      "per": 9.905482,
       "pbr": 2.2789545,
       "change_percent": -0.503179,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 16.225805,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.734318,
       "pbr": 2.9615922,
       "change_percent": -0.74109696,
-      "market_cap": 78633345024
+      "market_cap": 79085666304
     },
     {
       "code": "CEG",
@@ -320,7 +320,7 @@
       "per": 20.164597,
       "pbr": 3.425662,
       "change_percent": -1.5914000000000001,
-      "market_cap": 30056468480
+      "market_cap": 31273807872
     }
   ],
   "rise": [
@@ -383,10 +383,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 38.697144,
+      "per": 38.770996,
       "pbr": 1.5039643,
       "change_percent": 1.3367999,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "META",
@@ -402,7 +402,7 @@
       "per": 37.964157,
       "pbr": 8.939905,
       "change_percent": 1.00124,
-      "market_cap": 842919706624
+      "market_cap": 840342372352
     },
     {
       "code": "TMUS",
@@ -423,10 +423,10 @@
     {
       "code": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "per": 31.747828,
+      "per": 31.840117,
       "pbr": 6.852392,
       "change_percent": 0.57481905,
-      "market_cap": 138807885824
+      "market_cap": 138719756288
     },
     {
       "code": "WDAY",
@@ -448,14 +448,14 @@
       "code": "ROST",
       "name": "Ross Stores",
       "per": 27.685991,
-      "pbr": 10.799963,
+      "pbr": 11.672098,
       "change_percent": 0.306297,
       "market_cap": 73535856640
     },
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.734972,
+      "per": 20.79178,
       "pbr": 1.9697363,
       "change_percent": 0.264232,
       "market_cap": 47403495424
@@ -513,7 +513,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.734972,
+      "per": 20.79178,
       "pbr": 1.9697363,
       "change_percent": 0.264232,
       "market_cap": 47403495424
@@ -539,10 +539,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 9.961977,
+      "per": 9.905482,
       "pbr": 2.2789545,
       "change_percent": -0.503179,
-      "market_cap": 44826148864
+      "market_cap": 45168799744
     },
     {
       "code": "EXC",
@@ -558,7 +558,7 @@
       "per": 16.225805,
       "pbr": 2.8981807,
       "change_percent": -1.1371699000000002,
-      "market_cap": 31807744000
+      "market_cap": 32033478656
     }
   ],
   "per_rise": [
@@ -597,7 +597,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.734972,
+      "per": 20.79178,
       "pbr": 1.9697363,
       "change_percent": 0.264232,
       "market_cap": 47403495424
@@ -615,10 +615,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 38.697144,
+      "per": 38.770996,
       "pbr": 1.5039643,
       "change_percent": 1.3367999,
-      "market_cap": 56888819712
+      "market_cap": 57151614976
     },
     {
       "code": "EXC",
@@ -639,11 +639,11 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.734972,
+      "per": 20.79178,
       "pbr": 1.9697363,
       "change_percent": 0.264232,
       "market_cap": 47403495424
     }
   ],
-  "generated_at": "2026-09-02T12:07:40+00:00"
+  "generated_at": "2026-09-02T12:48:41+00:00"
 }

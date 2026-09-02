@@ -22,7 +22,7 @@
       "per": 5.531835,
       "pbr": 2.1313133,
       "change_percent": 0.20353200000000002,
-      "market_cap": 10537489408
+      "market_cap": 10533339136
     },
     {
       "code": "EIX",
@@ -35,15 +35,15 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.2622705,
+      "per": 6.2718897,
       "pbr": 1.3136644,
       "change_percent": 0.14717,
-      "market_cap": 21056274432
+      "market_cap": 21104175104
     },
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 6.9551935,
+      "per": 6.9693875,
       "pbr": 1.3393208,
       "change_percent": 0.36442399,
       "market_cap": 10063410176
@@ -54,7 +54,7 @@
       "per": 7.715963,
       "pbr": 1.443397,
       "change_percent": 0.550628,
-      "market_cap": 33648603136
+      "market_cap": 33626009600
     },
     {
       "code": "SYF",
@@ -75,7 +75,7 @@
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.0183525,
+      "per": 8.041057,
       "pbr": 1.567857,
       "change_percent": 0.28840802,
       "market_cap": 26151124992
@@ -110,7 +110,7 @@
       "per": 8.618965,
       "pbr": 1.2071235,
       "change_percent": 1.85412,
-      "market_cap": 23145750528
+      "market_cap": 23918100480
     },
     {
       "code": "MKC",
@@ -123,7 +123,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 9.115226,
+      "per": 9.345992,
       "pbr": 2.2125661,
       "change_percent": 2.6651198000000003,
       "market_cap": 15520572416
@@ -131,7 +131,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.489965,
+      "per": 9.4703045,
       "pbr": 1.9300221,
       "change_percent": 0.25589,
       "market_cap": 37144678400
@@ -145,20 +145,20 @@
       "market_cap": 13399362560
     },
     {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 9.564626,
-      "pbr": 0.95802677,
-      "change_percent": 5.9532799999999995,
-      "market_cap": 30965280768
-    },
-    {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
       "per": 9.6443815,
       "pbr": 3.5762324,
       "change_percent": 4.2836297000000005,
       "market_cap": 20521451520
+    },
+    {
+      "code": "NCLH",
+      "name": "NORWEGIAN CRUISE LINE HOLDIN",
+      "per": 9.765822,
+      "pbr": 2.753882,
+      "change_percent": -4.399,
+      "market_cap": 7085268480
     }
   ],
   "pbr": [
@@ -197,7 +197,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 13.176751,
+      "per": 12.97022,
       "pbr": 0.9219953,
       "change_percent": -1.6169300000000002,
       "market_cap": 19934072832
@@ -213,7 +213,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 9.564626,
+      "per": 10.1151085,
       "pbr": 0.95802677,
       "change_percent": 5.9532799999999995,
       "market_cap": 30965280768
@@ -221,7 +221,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.937744,
+      "per": 9.899225,
       "pbr": 0.96402824,
       "change_percent": -0.42884500000000003,
       "market_cap": 28121520128
@@ -240,7 +240,7 @@
       "per": 351.6667,
       "pbr": 1.0047619,
       "change_percent": -3.2997202000000003,
-      "market_cap": 11836527616
+      "market_cap": 11807277056
     },
     {
       "code": "CHTR",
@@ -261,7 +261,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 43.090908,
+      "per": 42.682465,
       "pbr": 1.0358391,
       "change_percent": -1.0873199,
       "market_cap": 23831531520
@@ -280,7 +280,7 @@
       "per": 20.294117,
       "pbr": 1.0676538,
       "change_percent": 0.201073,
-      "market_cap": 9312354304
+      "market_cap": 9491180544
     },
     {
       "code": "TSN",
@@ -293,7 +293,7 @@
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 12.828125,
+      "per": 12.63077,
       "pbr": 1.1154134,
       "change_percent": -1.5882500000000002,
       "market_cap": 33175212032
@@ -343,7 +343,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 9.564626,
+      "per": 10.1151085,
       "pbr": 0.95802677,
       "change_percent": 5.9532799999999995,
       "market_cap": 30965280768
@@ -394,7 +394,7 @@
       "per": 23.101093,
       "pbr": 1.7287914,
       "change_percent": 4.0103402,
-      "market_cap": 40749682688
+      "market_cap": 40749424640
     },
     {
       "code": "CVS",
@@ -407,7 +407,7 @@
     {
       "code": "CTVA",
       "name": "CORTEVA INC",
-      "per": 51.304096,
+      "per": 53.1697,
       "pbr": 2.3258834,
       "change_percent": 3.88396,
       "market_cap": 58533109760
@@ -455,7 +455,7 @@
     {
       "code": "HUM",
       "name": "HUMANA INC",
-      "per": 36.227524,
+      "per": 37.323254,
       "pbr": 2.4679844,
       "change_percent": 3.03995,
       "market_cap": 47417311232
@@ -485,16 +485,7 @@
       "market_cap": 7877454336
     }
   ],
-  "triple": [
-    {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 9.564626,
-      "pbr": 0.95802677,
-      "change_percent": 5.9532799999999995,
-      "market_cap": 30965280768
-    }
-  ],
+  "triple": [],
   "per_pbr": [
     {
       "code": "CHTR",
@@ -519,14 +510,6 @@
       "pbr": 1.0390738,
       "change_percent": -1.20211,
       "market_cap": 93329145856
-    },
-    {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 9.564626,
-      "pbr": 0.95802677,
-      "change_percent": 5.9532799999999995,
-      "market_cap": 30965280768
     }
   ],
   "per_rise": [
@@ -537,14 +520,6 @@
       "pbr": 1.2968967,
       "change_percent": 8.9292295,
       "market_cap": 22627061760
-    },
-    {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 9.564626,
-      "pbr": 0.95802677,
-      "change_percent": 5.9532799999999995,
-      "market_cap": 30965280768
     },
     {
       "code": "CF",
@@ -567,11 +542,11 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 9.564626,
+      "per": 10.1151085,
       "pbr": 0.95802677,
       "change_percent": 5.9532799999999995,
       "market_cap": 30965280768
     }
   ],
-  "generated_at": "2026-09-02T12:07:40+00:00"
+  "generated_at": "2026-09-02T12:48:40+00:00"
 }
