@@ -27,10 +27,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.334594,
+      "per": 9.903985,
       "pbr": 2.37768,
       "change_percent": 4.33205,
-      "market_cap": 47125536768
+      "market_cap": 46768041984
     },
     {
       "code": "EXC",
@@ -46,7 +46,7 @@
       "per": 16.22069,
       "pbr": 2.9039426,
       "change_percent": 0.19880599999999998,
-      "market_cap": 32097163264
+      "market_cap": 31870980096
     },
     {
       "code": "ADBE",
@@ -68,7 +68,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.725037,
-      "pbr": 21.463064,
+      "pbr": null,
       "change_percent": -0.34188999999999997,
       "market_cap": 161846820864
     },
@@ -83,7 +83,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.317368,
+      "per": 17.418936,
       "pbr": 2.1989815,
       "change_percent": -0.602421,
       "market_cap": 41121992704
@@ -91,10 +91,18 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 18.416777,
+      "per": 18.32073,
       "pbr": 8.686407,
       "change_percent": 0.52222,
       "market_cap": 191950323712
+    },
+    {
+      "code": "NXPI",
+      "name": "NXP Semiconductors",
+      "per": 18.978405,
+      "pbr": 5.056764,
+      "change_percent": 2.74281,
+      "market_cap": 57619513344
     },
     {
       "code": "QCOM",
@@ -105,17 +113,9 @@
       "market_cap": 181527560192
     },
     {
-      "code": "NXPI",
-      "name": "NXP Semiconductors",
-      "per": 19.496586,
-      "pbr": 5.056764,
-      "change_percent": 2.74281,
-      "market_cap": 57619513344
-    },
-    {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 19.59205,
+      "per": 19.053917,
       "pbr": 3.5779781,
       "change_percent": 2.82169,
       "market_cap": 200911405056
@@ -126,7 +126,7 @@
       "per": 20.1,
       "pbr": 3.3934789,
       "change_percent": -0.939474,
-      "market_cap": 30979997696
+      "market_cap": 29774096384
     },
     {
       "code": "REGN",
@@ -135,6 +135,14 @@
       "pbr": 2.695351,
       "change_percent": 3.42429,
       "market_cap": 87720747008
+    },
+    {
+      "code": "BKR",
+      "name": "Baker Hughes",
+      "per": 20.45253,
+      "pbr": 3.221513,
+      "change_percent": 1.53169,
+      "market_cap": 64156520448
     },
     {
       "code": "AMZN",
@@ -147,18 +155,10 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.687672,
+      "per": 20.801653,
       "pbr": 1.9598734,
       "change_percent": -0.50072097,
       "market_cap": 47166136320
-    },
-    {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 20.781351,
-      "pbr": 3.221513,
-      "change_percent": 1.53169,
-      "market_cap": 64156520448
     }
   ],
   "pbr": [
@@ -189,10 +189,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 38.820614,
+      "per": 38.746666,
       "pbr": 1.505889,
       "change_percent": 0.127975,
-      "market_cap": 57224753152
+      "market_cap": 56961622016
     },
     {
       "code": "EXC",
@@ -221,7 +221,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.687672,
+      "per": 20.801653,
       "pbr": 1.9598734,
       "change_percent": -0.50072097,
       "market_cap": 47166136320
@@ -229,7 +229,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 21.415945,
+      "per": 21.305172,
       "pbr": 2.0969303,
       "change_percent": 0.496097,
       "market_cap": 67271184384
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 17.317368,
+      "per": 17.418936,
       "pbr": 2.1989815,
       "change_percent": -0.602421,
       "market_cap": 41121992704
@@ -253,10 +253,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.334594,
+      "per": 9.903985,
       "pbr": 2.37768,
       "change_percent": 4.33205,
-      "market_cap": 47125536768
+      "market_cap": 46768041984
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 16.22069,
       "pbr": 2.9039426,
       "change_percent": 0.19880599999999998,
-      "market_cap": 32097163264
+      "market_cap": 31870980096
     },
     {
       "code": "MDLZ",
@@ -288,12 +288,12 @@
       "per": 22.545126,
       "pbr": 3.001971,
       "change_percent": 1.36342,
-      "market_cap": 80163930112
+      "market_cap": 79705440256
     },
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 25.711578,
+      "per": 25.765823,
       "pbr": 3.163416,
       "change_percent": -0.26133100000000004,
       "market_cap": 64284950528
@@ -301,7 +301,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 20.781351,
+      "per": 20.45253,
       "pbr": 3.221513,
       "change_percent": 1.53169,
       "market_cap": 64156520448
@@ -320,14 +320,14 @@
       "per": 20.1,
       "pbr": 3.3934789,
       "change_percent": -0.939474,
-      "market_cap": 30979997696
+      "market_cap": 29774096384
     }
   ],
   "rise": [
     {
       "code": "ALNY",
       "name": "Alnylam Pharmaceuticals",
-      "per": 46.666664,
+      "per": 42.92135,
       "pbr": 26.409876,
       "change_percent": 8.6506,
       "market_cap": 35780558848
@@ -335,10 +335,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.334594,
+      "per": 9.903985,
       "pbr": 2.37768,
       "change_percent": 4.33205,
-      "market_cap": 47125536768
+      "market_cap": 46768041984
     },
     {
       "code": "CEG",
@@ -359,7 +359,7 @@
     {
       "code": "NVDA",
       "name": "Nvidia",
-      "per": 28.370419,
+      "per": 27.467564,
       "pbr": 23.664454,
       "change_percent": 3.20548,
       "market_cap": 5418828431360
@@ -367,7 +367,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 19.59205,
+      "per": 19.053917,
       "pbr": 3.5779781,
       "change_percent": 2.82169,
       "market_cap": 200911405056
@@ -375,7 +375,7 @@
     {
       "code": "NXPI",
       "name": "NXP Semiconductors",
-      "per": 19.496586,
+      "per": 18.978405,
       "pbr": 5.056764,
       "change_percent": 2.74281,
       "market_cap": 57619513344
@@ -407,10 +407,10 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 24.542307,
+      "per": 23.98872,
       "pbr": 33.819164,
       "change_percent": 2.3448998,
-      "market_cap": 106770243584
+      "market_cap": 107181498368
     },
     {
       "code": "NBIS",
@@ -418,7 +418,7 @@
       "per": null,
       "pbr": 5.4103703,
       "change_percent": 2.28025,
-      "market_cap": 51818082304
+      "market_cap": 55482933248
     },
     {
       "code": "KDP",
@@ -431,7 +431,7 @@
     {
       "code": "MELI",
       "name": "Mercado Libre",
-      "per": 54.64542,
+      "per": 53.480274,
       "pbr": 12.985304,
       "change_percent": 2.1945601,
       "market_cap": 101727182848
@@ -447,10 +447,10 @@
     {
       "code": "BKNG",
       "name": "Booking Holdings",
-      "per": 22.177778,
+      "per": 21.74292,
       "pbr": null,
       "change_percent": 1.9980600000000002,
-      "market_cap": 154665746432
+      "market_cap": 149975547904
     },
     {
       "code": "CMCSA",
@@ -463,7 +463,7 @@
     {
       "code": "MCHP",
       "name": "Microchip Technology",
-      "per": 107.0,
+      "per": 105.44928,
       "pbr": 6.1245794,
       "change_percent": 1.8904899999999998,
       "market_cap": 39509315584
@@ -472,17 +472,17 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 46.102566,
-      "pbr": 15.55151,
+      "pbr": 17.010406,
       "change_percent": 1.8362900000000002,
       "market_cap": 53409128448
     },
     {
       "code": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "per": 32.369186,
+      "per": 31.850687,
       "pbr": 6.966254,
       "change_percent": 1.66164,
-      "market_cap": 141024772096
+      "market_cap": 141114376192
     }
   ],
   "triple": [
@@ -497,10 +497,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.334594,
+      "per": 9.903985,
       "pbr": 2.37768,
       "change_percent": 4.33205,
-      "market_cap": 47125536768
+      "market_cap": 46768041984
     },
     {
       "code": "REGN",
@@ -531,10 +531,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.334594,
+      "per": 9.903985,
       "pbr": 2.37768,
       "change_percent": 4.33205,
-      "market_cap": 47125536768
+      "market_cap": 46768041984
     },
     {
       "code": "EXC",
@@ -550,7 +550,7 @@
       "per": 16.22069,
       "pbr": 2.9039426,
       "change_percent": 0.19880599999999998,
-      "market_cap": 32097163264
+      "market_cap": 31870980096
     }
   ],
   "per_rise": [
@@ -565,10 +565,18 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.334594,
+      "per": 9.903985,
       "pbr": 2.37768,
       "change_percent": 4.33205,
-      "market_cap": 47125536768
+      "market_cap": 46768041984
+    },
+    {
+      "code": "NXPI",
+      "name": "NXP Semiconductors",
+      "per": 18.978405,
+      "pbr": 5.056764,
+      "change_percent": 2.74281,
+      "market_cap": 57619513344
     },
     {
       "code": "QCOM",
@@ -579,17 +587,9 @@
       "market_cap": 181527560192
     },
     {
-      "code": "NXPI",
-      "name": "NXP Semiconductors",
-      "per": 19.496586,
-      "pbr": 5.056764,
-      "change_percent": 2.74281,
-      "market_cap": 57619513344
-    },
-    {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 19.59205,
+      "per": 19.053917,
       "pbr": 3.5779781,
       "change_percent": 2.82169,
       "market_cap": 200911405056
@@ -615,10 +615,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.334594,
+      "per": 9.903985,
       "pbr": 2.37768,
       "change_percent": 4.33205,
-      "market_cap": 47125536768
+      "market_cap": 46768041984
     },
     {
       "code": "REGN",
@@ -637,5 +637,5 @@
       "market_cap": 102763315200
     }
   ],
-  "generated_at": "2026-09-03T02:10:54+00:00"
+  "generated_at": "2026-09-03T05:34:41+00:00"
 }
