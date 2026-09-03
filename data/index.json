@@ -7,17 +7,17 @@
     "change": -273.07958984375,
     "change_percent": -3.9948447533014595,
     "currency": "KRW",
-    "collected_at": "2026-09-03T18:06:25+00:00"
+    "collected_at": "2026-09-03T20:05:29+00:00"
   },
   {
     "symbol": "^IXIC",
     "name": "NASDAQ",
     "group": "main",
-    "price": 26632.283203125,
-    "change": 414.453125,
-    "change_percent": 1.5808063587451557,
+    "price": 26584.060546875,
+    "change": 366.23046875,
+    "change_percent": 1.3968755906140629,
     "currency": "USD",
-    "collected_at": "2026-09-03T18:06:25+00:00"
+    "collected_at": "2026-09-03T20:05:30+00:00"
   },
   {
     "symbol": "^KS200",
@@ -27,56 +27,56 @@
     "change": 1.2899462890625273,
     "change_percent": 0.12505174731345936,
     "currency": "KRW",
-    "collected_at": "2026-09-03T18:06:26+00:00"
+    "collected_at": "2026-09-03T20:05:30+00:00"
   },
   {
     "symbol": "^GSPC",
     "name": "S&P 500",
     "group": "main",
-    "price": 7754.77001953125,
-    "change": 88.169921875,
-    "change_percent": 1.1500524450460687,
+    "price": 7747.7099609375,
+    "change": 81.10986328125,
+    "change_percent": 1.0579639246612853,
     "currency": "USD",
-    "collected_at": "2026-09-03T18:06:26+00:00"
+    "collected_at": "2026-09-03T20:05:30+00:00"
   },
   {
     "symbol": "^DJI",
     "name": "DOW",
     "group": "main",
-    "price": 53680.76953125,
-    "change": 618.8203125,
-    "change_percent": 1.166222352573006,
+    "price": 53686.109375,
+    "change": 624.16015625,
+    "change_percent": 1.1762857668060307,
     "currency": "USD",
-    "collected_at": "2026-09-03T18:06:26+00:00"
+    "collected_at": "2026-09-03T20:05:31+00:00"
   },
   {
     "symbol": "ES=F",
     "name": "S&P500 선물",
     "group": "futures",
-    "price": 7760.5,
-    "change": 84.0,
-    "change_percent": 1.0942486810395362,
+    "price": 7754.25,
+    "change": 77.75,
+    "change_percent": 1.0128313684621897,
     "currency": "USD",
-    "collected_at": "2026-09-03T18:06:27+00:00"
+    "collected_at": "2026-09-03T20:05:31+00:00"
   },
   {
     "symbol": "YM=F",
     "name": "다우 선물",
     "group": "futures",
-    "price": 53765.0,
-    "change": 644.0,
-    "change_percent": 1.2123265751774253,
+    "price": 53740.0,
+    "change": 619.0,
+    "change_percent": 1.165264208128612,
     "currency": "USD",
-    "collected_at": "2026-09-03T18:06:27+00:00"
+    "collected_at": "2026-09-03T20:05:31+00:00"
   },
   {
     "symbol": "NQ=F",
     "name": "나스닥100 선물",
     "group": "futures",
-    "price": 29550.0,
-    "change": 363.75,
-    "change_percent": 1.2463060516510343,
+    "price": 29512.0,
+    "change": 325.75,
+    "change_percent": 1.1161077562208233,
     "currency": "USD",
-    "collected_at": "2026-09-03T18:06:28+00:00"
+    "collected_at": "2026-09-03T20:05:32+00:00"
   }
 ]
