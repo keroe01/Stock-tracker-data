@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9380856,
+      "per": 4.137196,
       "pbr": 1.0651413,
       "change_percent": -4.77448,
       "market_cap": 20402616320
@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 5.2685223,
+      "per": 5.192619,
       "pbr": 2.108405,
       "change_percent": 1.45369,
       "market_cap": 66529452032
@@ -22,7 +22,7 @@
       "per": 5.53558,
       "pbr": 2.1327562,
       "change_percent": -0.13513799999999998,
-      "market_cap": 10544623616
+      "market_cap": 10540470272
     },
     {
       "code": "EIX",
@@ -38,12 +38,12 @@
       "per": 6.435312,
       "pbr": 1.3603166,
       "change_percent": 0.9792210000000001,
-      "market_cap": 21804046336
+      "market_cap": 21853648896
     },
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 6.834007,
+      "per": 6.906531,
       "pbr": 1.3272414,
       "change_percent": 1.0269300000000001,
       "market_cap": 9972647936
@@ -51,10 +51,10 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.6851425,
+      "per": 7.8114243,
       "pbr": 1.4612547,
       "change_percent": 1.6495300000000002,
-      "market_cap": 34064904192
+      "market_cap": 34042030080
     },
     {
       "code": "HON",
@@ -65,12 +65,12 @@
       "market_cap": 65806254080
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 8.041288,
-      "pbr": 1.7093742,
-      "change_percent": 1.8624801,
-      "market_cap": 25980862464
+      "code": "EG",
+      "name": "EVEREST GROUP LTD",
+      "per": 7.9935846,
+      "pbr": 0.96875405,
+      "change_percent": 2.10691,
+      "market_cap": 14809881600
     },
     {
       "code": "CINF",
@@ -81,20 +81,12 @@
       "market_cap": 26815684608
     },
     {
-      "code": "EG",
-      "name": "EVEREST GROUP LTD",
-      "per": 8.162511,
-      "pbr": 0.96875405,
-      "change_percent": 2.10691,
-      "market_cap": 14809881600
-    },
-    {
-      "code": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
-      "per": 8.541667,
-      "pbr": 1.0529019,
-      "change_percent": -0.5967919700000001,
-      "market_cap": 94571167744
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 8.189743,
+      "pbr": 1.7093742,
+      "change_percent": 1.8624801,
+      "market_cap": 25980862464
     },
     {
       "code": "EXE",
@@ -102,7 +94,15 @@
       "per": 8.560934,
       "pbr": 1.1958951,
       "change_percent": -0.271845,
-      "market_cap": 22930450432
+      "market_cap": 23695618048
+    },
+    {
+      "code": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "per": 8.596774,
+      "pbr": 1.0529019,
+      "change_percent": -0.5967919700000001,
+      "market_cap": 94571167744
     },
     {
       "code": "T",
@@ -115,7 +115,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.748752,
+      "per": 8.957411,
       "pbr": 2.0207534,
       "change_percent": -2.2676499999999997,
       "market_cap": 14136215552
@@ -123,7 +123,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 9.420043,
+      "per": 9.320676,
       "pbr": 2.2065728,
       "change_percent": -1.1522500999999998,
       "market_cap": 15478530048
@@ -145,20 +145,20 @@
       "market_cap": 37922078720
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 9.718276,
-      "pbr": 2.8873923,
-      "change_percent": 1.4158400999999998,
-      "market_cap": 13827460096
-    },
-    {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
       "per": 9.843282,
       "pbr": 2.3576314,
       "change_percent": 2.2284100000000002,
       "market_cap": 78077976576
+    },
+    {
+      "code": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "per": 9.94186,
+      "pbr": 0.96818024,
+      "change_percent": 0.15618500000000002,
+      "market_cap": 28242636800
     }
   ],
   "pbr": [
@@ -221,7 +221,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.162511,
+      "per": 7.9935846,
       "pbr": 0.96875405,
       "change_percent": 2.10691,
       "market_cap": 14809881600
@@ -237,7 +237,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 34.506664,
+      "per": 31.950617,
       "pbr": 1.0071998,
       "change_percent": -7.2567699999999995,
       "market_cap": 18209245184
@@ -248,12 +248,12 @@
       "per": 368.0,
       "pbr": 1.0514286,
       "change_percent": 0.63810097,
-      "market_cap": 12386280448
+      "market_cap": 12355671040
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.541667,
+      "per": 8.596774,
       "pbr": 1.0529019,
       "change_percent": -0.5967919700000001,
       "market_cap": 94571167744
@@ -269,7 +269,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9380856,
+      "per": 4.137196,
       "pbr": 1.0651413,
       "change_percent": -4.77448,
       "market_cap": 20402616320
@@ -288,12 +288,12 @@
       "per": 20.407894,
       "pbr": 1.1076461,
       "change_percent": 3.3311100000000002,
-      "market_cap": 9661178880
+      "market_cap": 9846703104
     },
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 13.022901,
+      "per": 13.123077,
       "pbr": 1.1588887,
       "change_percent": 1.06635,
       "market_cap": 34468278272
@@ -312,7 +312,7 @@
       "per": 8.560934,
       "pbr": 1.1958951,
       "change_percent": -0.271845,
-      "market_cap": 22930450432
+      "market_cap": 23695618048
     },
     {
       "code": "C",
@@ -327,7 +327,7 @@
     {
       "code": "HOOD",
       "name": "ROBINHOOD MARKETS INC   A",
-      "per": 55.18584,
+      "per": 47.42205,
       "pbr": 11.827406,
       "change_percent": 16.571599,
       "market_cap": 112133545984
@@ -343,7 +343,7 @@
     {
       "code": "PLTR",
       "name": "PALANTIR TECHNOLOGIES INC A",
-      "per": 144.86508,
+      "per": 156.00854,
       "pbr": 44.869717,
       "change_percent": 7.71273,
       "market_cap": 438630252544
@@ -351,7 +351,7 @@
     {
       "code": "PFG",
       "name": "PRINCIPAL FINANCIAL GROUP",
-      "per": 15.843583,
+      "per": 16.881767,
       "pbr": 2.0947785,
       "change_percent": 7.277989999999999,
       "market_cap": 25373540352
@@ -458,7 +458,7 @@
       "per": 19.988096,
       "pbr": 3.5433154,
       "change_percent": 4.41543,
-      "market_cap": 31088750592
+      "market_cap": 32347897856
     },
     {
       "code": "SPGI",
@@ -490,7 +490,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.9380856,
+      "per": 4.137196,
       "pbr": 1.0651413,
       "change_percent": -4.77448,
       "market_cap": 20402616320
@@ -498,18 +498,10 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.162511,
+      "per": 7.9935846,
       "pbr": 0.96875405,
       "change_percent": 2.10691,
       "market_cap": 14809881600
-    },
-    {
-      "code": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
-      "per": 8.541667,
-      "pbr": 1.0529019,
-      "change_percent": -0.5967919700000001,
-      "market_cap": 94571167744
     },
     {
       "code": "EXE",
@@ -517,7 +509,23 @@
       "per": 8.560934,
       "pbr": 1.1958951,
       "change_percent": -0.271845,
-      "market_cap": 22930450432
+      "market_cap": 23695618048
+    },
+    {
+      "code": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "per": 8.596774,
+      "pbr": 1.0529019,
+      "change_percent": -0.5967919700000001,
+      "market_cap": 94571167744
+    },
+    {
+      "code": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "per": 9.94186,
+      "pbr": 0.96818024,
+      "change_percent": 0.15618500000000002,
+      "market_cap": 28242636800
     }
   ],
   "per_rise": [],
@@ -531,5 +539,5 @@
       "market_cap": 30745042944
     }
   ],
-  "generated_at": "2026-09-04T10:07:01+00:00"
+  "generated_at": "2026-09-04T12:07:43+00:00"
 }
