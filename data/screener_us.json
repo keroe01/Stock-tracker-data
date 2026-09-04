@@ -43,7 +43,7 @@
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 6.906531,
+      "per": 6.834007,
       "pbr": 1.3272414,
       "change_percent": 1.0269300000000001,
       "market_cap": 9972647936
@@ -59,7 +59,7 @@
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 7.982699,
+      "per": 7.924809,
       "pbr": 3.5500197,
       "change_percent": 0.757023,
       "market_cap": 65806254080
@@ -83,18 +83,10 @@
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.253188,
+      "per": 8.107657,
       "pbr": 1.6076999,
       "change_percent": 1.7648099,
       "market_cap": 26815684608
-    },
-    {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.538793,
-      "pbr": 1.1958951,
-      "change_percent": -0.271845,
-      "market_cap": 23695618048
     },
     {
       "code": "T",
@@ -103,6 +95,14 @@
       "pbr": 1.631166,
       "change_percent": 0.924855,
       "market_cap": 179463995392
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.560934,
+      "pbr": 1.1958951,
+      "change_percent": -0.271845,
+      "market_cap": 23695618048
     },
     {
       "code": "CMCSA",
@@ -123,7 +123,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 9.320676,
+      "per": 9.420043,
       "pbr": 2.2065728,
       "change_percent": -1.1522500999999998,
       "market_cap": 15478530048
@@ -137,20 +137,20 @@
       "market_cap": 7158738432
     },
     {
+      "code": "HIG",
+      "name": "HARTFORD INSURANCE GROUP INC",
+      "per": 9.478673,
+      "pbr": 1.9704156,
+      "change_percent": 2.03337,
+      "market_cap": 37922078720
+    },
+    {
       "code": "PCG",
       "name": "P G + E CORP",
       "per": 9.561644,
       "pbr": 0.9512129,
       "change_percent": 4.72618,
       "market_cap": 30745042944
-    },
-    {
-      "code": "HIG",
-      "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.668509,
-      "pbr": 1.9704156,
-      "change_percent": 2.03337,
-      "market_cap": 37922078720
     },
     {
       "code": "LULU",
@@ -229,7 +229,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 14.025548,
+      "per": 13.898734,
       "pbr": 0.99320287,
       "change_percent": 0.9588909,
       "market_cap": 40189571072
@@ -293,7 +293,7 @@
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 13.123077,
+      "per": 13.022901,
       "pbr": 1.1588887,
       "change_percent": 1.06635,
       "market_cap": 34468278272
@@ -309,7 +309,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.538793,
+      "per": 8.560934,
       "pbr": 1.1958951,
       "change_percent": -0.271845,
       "market_cap": 23695618048
@@ -359,7 +359,7 @@
     {
       "code": "NOW",
       "name": "SERVICENOW INC",
-      "per": 90.993744,
+      "per": 85.641174,
       "pbr": 12.026268,
       "change_percent": 6.487709999999999,
       "market_cap": 150519971840
@@ -423,7 +423,7 @@
     {
       "code": "VRT",
       "name": "VERTIV HOLDINGS CO A",
-      "per": 60.821262,
+      "per": 58.18831,
       "pbr": 21.751759,
       "change_percent": 4.72535,
       "market_cap": 103496359936
@@ -447,7 +447,7 @@
     {
       "code": "NEM",
       "name": "NEWMONT CORP",
-      "per": 16.42695,
+      "per": 15.7714615,
       "pbr": 3.9191706,
       "change_percent": 4.42753,
       "market_cap": 137433079808
@@ -515,7 +515,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.538793,
+      "per": 8.560934,
       "pbr": 1.1958951,
       "change_percent": -0.271845,
       "market_cap": 23695618048
@@ -557,5 +557,5 @@
       "market_cap": 30745042944
     }
   ],
-  "generated_at": "2026-09-04T06:07:58+00:00"
+  "generated_at": "2026-09-04T08:06:45+00:00"
 }
