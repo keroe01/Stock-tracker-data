@@ -30,7 +30,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2734964,
-      "market_cap": 47375519744
+      "market_cap": 47016128512
     },
     {
       "code": "ADBE",
@@ -46,7 +46,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335063,
-      "market_cap": 31323848704
+      "market_cap": 31103115264
     },
     {
       "code": "EXC",
@@ -84,7 +84,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.351892,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631662,
       "market_cap": 168538456064
     },
@@ -150,15 +150,15 @@
       "per": 20.535923,
       "pbr": 4.887458,
       "change_percent": -3.105817,
-      "market_cap": 46680199168
+      "market_cap": 46655410176
     },
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.746246,
-      "pbr": 1.9654226,
-      "change_percent": -0.8071728,
-      "market_cap": 47299682304
+      "per": 20.745205,
+      "pbr": 1.9653239,
+      "change_percent": -0.8121497999999999,
+      "market_cap": 47297310720
     }
   ],
   "pbr": [
@@ -184,7 +184,7 @@
       "per": 37.874523,
       "pbr": 1.474797,
       "change_percent": -1.8330545999999999,
-      "market_cap": 56043237376
+      "market_cap": 55785541632
     },
     {
       "code": "EXC",
@@ -221,10 +221,10 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 20.746246,
-      "pbr": 1.9654226,
-      "change_percent": -0.8071728,
-      "market_cap": 47299682304
+      "per": 20.745205,
+      "pbr": 1.9653239,
+      "change_percent": -0.8121497999999999,
+      "market_cap": 47297310720
     },
     {
       "code": "AEP",
@@ -256,7 +256,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2734964,
-      "market_cap": 47375519744
+      "market_cap": 47016128512
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335063,
-      "market_cap": 31323848704
+      "market_cap": 31103115264
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.446886,
       "pbr": 2.945729,
       "change_percent": -0.2766509,
-      "market_cap": 78662057984
+      "market_cap": 78212161536
     },
     {
       "code": "BKR",
@@ -309,7 +309,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 29.717691,
+      "per": 29.223852,
       "pbr": 3.3218145,
       "change_percent": 4.879847,
       "market_cap": 105923731456
@@ -346,7 +346,7 @@
       "per": null,
       "pbr": 6.0015373,
       "change_percent": 7.482312,
-      "market_cap": 57480011776
+      "market_cap": 61545304064
     },
     {
       "code": "KLAC",
@@ -360,7 +360,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 73.77888,
-      "pbr": 10.577242,
+      "pbr": 10.745529,
       "change_percent": 7.048796,
       "market_cap": 200905424896
     },
@@ -370,7 +370,7 @@
       "per": 61.099285,
       "pbr": 88.88331,
       "change_percent": 6.3447796,
-      "market_cap": 192786563072
+      "market_cap": 192484655104
     },
     {
       "code": "MU",
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.351892,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631662,
       "market_cap": 168538456064
     },
@@ -400,7 +400,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 49.04258,
-      "pbr": 16.253017,
+      "pbr": 17.777721,
       "change_percent": 5.486618,
       "market_cap": 55818338304
     },
@@ -415,7 +415,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 29.717691,
+      "per": 29.223852,
       "pbr": 3.3218145,
       "change_percent": 4.879847,
       "market_cap": 105923731456
@@ -471,7 +471,7 @@
     {
       "code": "HONA",
       "name": "Honeywell Aerospace",
-      "per": 48.351353,
+      "per": 48.93921,
       "pbr": null,
       "change_percent": 3.9042253,
       "market_cap": 51032559616
@@ -482,7 +482,7 @@
       "per": 24.639507,
       "pbr": 33.979225,
       "change_percent": 2.2259108999999997,
-      "market_cap": 107275575296
+      "market_cap": 107688771584
     }
   ],
   "triple": [],
@@ -509,7 +509,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2734964,
-      "market_cap": 47375519744
+      "market_cap": 47016128512
     },
     {
       "code": "GEHC",
@@ -517,7 +517,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335063,
-      "market_cap": 31323848704
+      "market_cap": 31103115264
     },
     {
       "code": "EXC",
@@ -533,7 +533,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.351892,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631662,
       "market_cap": 168538456064
     }
@@ -542,11 +542,11 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 29.717691,
+      "per": 29.223852,
       "pbr": 3.3218145,
       "change_percent": 4.879847,
       "market_cap": 105923731456
     }
   ],
-  "generated_at": "2026-09-04T20:06:09+00:00"
+  "generated_at": "2026-09-04T22:06:13+00:00"
 }
