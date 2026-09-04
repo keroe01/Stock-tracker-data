@@ -1428,5 +1428,83 @@
     "roe": 0.06421,
     "fcf": 902243549184,
     "collected_at": "2026-09-04T02:06:01+00:00"
+  },
+  {
+    "symbol": "MU",
+    "date": "2026-09-04",
+    "per": 22.557262,
+    "pbr": 11.193297,
+    "eps": 44.27,
+    "forward_eps": 155.02524,
+    "forward_pe": 6.441596,
+    "market_cap": 1127823310848,
+    "roe": 0.66638,
+    "fcf": 7639499776,
+    "collected_at": "2026-09-04T14:04:54+00:00"
+  },
+  {
+    "symbol": "SNDK",
+    "date": "2026-09-04",
+    "per": 22.49818,
+    "pbr": 15.70235,
+    "eps": 73.71,
+    "forward_eps": 264.72162,
+    "forward_pe": 6.2644706,
+    "market_cap": 242812616704,
+    "roe": 0.9164,
+    "fcf": 7720875008,
+    "collected_at": "2026-09-04T14:04:54+00:00"
+  },
+  {
+    "symbol": "SOXL",
+    "date": "2026-09-04",
+    "per": 38.94099,
+    "pbr": null,
+    "eps": null,
+    "forward_eps": null,
+    "forward_pe": null,
+    "market_cap": null,
+    "roe": null,
+    "fcf": null,
+    "collected_at": "2026-09-04T14:04:55+00:00"
+  },
+  {
+    "symbol": "SKHY",
+    "date": "2026-09-04",
+    "per": 10.283817,
+    "pbr": 6.4919963,
+    "eps": 16.56,
+    "forward_eps": 34.07939,
+    "forward_pe": 4.997155,
+    "market_cap": 1208882823168,
+    "roe": 3.54055,
+    "fcf": 55768099323904,
+    "collected_at": "2026-09-04T14:04:55+00:00"
+  },
+  {
+    "symbol": "MRVL",
+    "date": "2026-09-04",
+    "per": 71.3541,
+    "pbr": 10.460969,
+    "eps": 3.05,
+    "forward_eps": 6.72085,
+    "forward_pe": 32.38132,
+    "market_cap": 195585097728,
+    "roe": 0.16523,
+    "fcf": 2408049920,
+    "collected_at": "2026-09-04T14:04:56+00:00"
+  },
+  {
+    "symbol": "TEM",
+    "date": "2026-09-04",
+    "per": null,
+    "pbr": 26.050184,
+    "eps": -1.44,
+    "forward_eps": -0.02403,
+    "forward_pe": -2678.735,
+    "market_cap": 11614585856,
+    "roe": -0.67442,
+    "fcf": -93493376,
+    "collected_at": "2026-09-04T14:04:56+00:00"
   }
 ]
