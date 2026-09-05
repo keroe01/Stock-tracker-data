@@ -30,7 +30,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "ADBE",
@@ -43,10 +43,10 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 15.866359,
+      "per": 16.088785,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "EXC",
@@ -76,7 +76,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
@@ -97,28 +97,28 @@
       "market_cap": 188002582528
     },
     {
-      "code": "TMUS",
-      "name": "T-Mobile US",
-      "per": 19.00733,
-      "pbr": 3.4675634,
-      "change_percent": -3.45708,
-      "market_cap": 194711355392
-    },
-    {
-      "code": "NXPI",
-      "name": "NXP Semiconductors",
-      "per": 19.194187,
-      "pbr": 5.0420475,
-      "change_percent": 1.2645001,
-      "market_cap": 57451827200
-    },
-    {
       "code": "QCOM",
       "name": "Qualcomm",
       "per": 19.262558,
       "pbr": 6.4485807,
       "change_percent": 0.100847,
       "market_cap": 180224524288
+    },
+    {
+      "code": "NXPI",
+      "name": "NXP Semiconductors",
+      "per": 19.456448,
+      "pbr": 5.0420475,
+      "change_percent": 1.2645001,
+      "market_cap": 57451827200
+    },
+    {
+      "code": "TMUS",
+      "name": "T-Mobile US",
+      "per": 19.687635,
+      "pbr": 3.4675634,
+      "change_percent": -3.45708,
+      "market_cap": 194711355392
     },
     {
       "code": "INTU",
@@ -150,7 +150,7 @@
       "per": 20.575876,
       "pbr": 4.887458,
       "change_percent": -3.10582,
-      "market_cap": 46655410176
+      "market_cap": 46680199168
     },
     {
       "code": "XEL",
@@ -184,7 +184,7 @@
       "per": 37.874523,
       "pbr": 1.474797,
       "change_percent": -1.83305,
-      "market_cap": 55785541632
+      "market_cap": 56043237376
     },
     {
       "code": "EXC",
@@ -256,7 +256,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "SNPS",
@@ -277,10 +277,10 @@
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 15.866359,
+      "per": 16.088785,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.446886,
       "pbr": 2.945729,
       "change_percent": -0.276651,
-      "market_cap": 78212161536
+      "market_cap": 78662057984
     },
     {
       "code": "BKR",
@@ -317,7 +317,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 19.00733,
+      "per": 19.687635,
       "pbr": 3.4675634,
       "change_percent": -3.45708,
       "market_cap": 194711355392
@@ -346,12 +346,12 @@
       "per": null,
       "pbr": 6.0015373,
       "change_percent": 7.48231,
-      "market_cap": 61545304064
+      "market_cap": 57480011776
     },
     {
       "code": "KLAC",
       "name": "KLA Corporation",
-      "per": 47.226463,
+      "per": 50.710384,
       "pbr": 38.205025,
       "change_percent": 7.32046,
       "market_cap": 242495094784
@@ -360,7 +360,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 74.02318,
-      "pbr": 10.745529,
+      "pbr": 10.577242,
       "change_percent": 7.0488,
       "market_cap": 200905424896
     },
@@ -370,7 +370,7 @@
       "per": 60.967697,
       "pbr": 88.88331,
       "change_percent": 6.34478,
-      "market_cap": 192484655104
+      "market_cap": 192786563072
     },
     {
       "code": "MU",
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
@@ -400,7 +400,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 49.04258,
-      "pbr": 17.777721,
+      "pbr": 16.253017,
       "change_percent": 5.486619999999999,
       "market_cap": 55818338304
     },
@@ -439,7 +439,7 @@
     {
       "code": "AMAT",
       "name": "Applied Materials",
-      "per": 39.199135,
+      "per": 37.579338,
       "pbr": 14.081633,
       "change_percent": 4.312810000000001,
       "market_cap": 360856682496
@@ -479,10 +479,10 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 24.639507,
+      "per": 24.102255,
       "pbr": 33.979225,
       "change_percent": 2.22591,
-      "market_cap": 107688771584
+      "market_cap": 107275575296
     }
   ],
   "triple": [],
@@ -509,15 +509,15 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "GEHC",
       "name": "GE HealthCare",
-      "per": 15.866359,
+      "per": 16.088785,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "EXC",
@@ -533,7 +533,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     }
@@ -548,5 +548,5 @@
       "market_cap": 105923731456
     }
   ],
-  "generated_at": "2026-09-05T16:06:37+00:00"
+  "generated_at": "2026-09-05T18:06:51+00:00"
 }
