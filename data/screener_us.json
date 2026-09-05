@@ -22,7 +22,7 @@
       "per": 5.5393257,
       "pbr": 2.1341991,
       "change_percent": 0.067660504,
-      "market_cap": 10547602432
+      "market_cap": 10551757824
     },
     {
       "code": "EIX",
@@ -35,10 +35,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.4347153,
+      "per": 6.4945736,
       "pbr": 1.3477688,
       "change_percent": -0.922421,
-      "market_cap": 21652066304
+      "market_cap": 21602920448
     },
     {
       "code": "UHS",
@@ -51,15 +51,15 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.810509,
+      "per": 7.6760564,
       "pbr": 1.4359319,
       "change_percent": -1.7329500000000002,
-      "market_cap": 33452099584
+      "market_cap": 33474576384
     },
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 7.982102,
+      "per": 8.055726,
       "pbr": 3.5838733,
       "change_percent": 0.95361695,
       "market_cap": 66433794048
@@ -102,7 +102,7 @@
       "per": 8.536181,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "T",
@@ -115,7 +115,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.752942,
+      "per": 8.665557,
       "pbr": 2.0015373,
       "change_percent": -0.950932,
       "market_cap": 14001788928
@@ -145,20 +145,20 @@
       "market_cap": 37480558592
     },
     {
-      "code": "CF",
-      "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 9.892434,
-      "pbr": 3.5168924,
-      "change_percent": -3.2363299999999997,
-      "market_cap": 20180940800
-    },
-    {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 9.9296875,
       "pbr": 0.95949876,
       "change_percent": -0.896684,
       "market_cap": 27989389312
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 10.020916,
+      "pbr": 2.3856497,
+      "change_percent": -17.377001,
+      "market_cap": 11138535424
     }
   ],
   "pbr": [
@@ -221,7 +221,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 10.28777,
+      "per": 10.070423,
       "pbr": 0.97437996,
       "change_percent": 2.43553,
       "market_cap": 31493849088
@@ -229,7 +229,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.906934,
+      "per": 14.034991,
       "pbr": 0.98480344,
       "change_percent": -0.845695,
       "market_cap": 39849689088
@@ -237,7 +237,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 31.937887,
+      "per": 31.74074,
       "pbr": 1.0005838,
       "change_percent": -0.656878,
       "market_cap": 18089631744
@@ -248,7 +248,7 @@
       "per": 362.0,
       "pbr": 1.0342857,
       "change_percent": -1.6304400000000001,
-      "market_cap": 12154219520
+      "market_cap": 12184330240
     },
     {
       "code": "CMCSA",
@@ -288,7 +288,7 @@
       "per": 21.030703,
       "pbr": 1.1414493,
       "change_percent": 3.0518001,
-      "market_cap": 10147204096
+      "market_cap": 9956018176
     },
     {
       "code": "HBAN",
@@ -312,12 +312,12 @@
       "per": 8.536181,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.888649,
+      "per": 14.840518,
       "pbr": 1.2002999,
       "change_percent": -0.30403798,
       "market_cap": 231016595456
@@ -327,7 +327,7 @@
     {
       "code": "SNDK",
       "name": "SANDISK CORP",
-      "per": 21.096022,
+      "per": 23.606024,
       "pbr": 16.475557,
       "change_percent": 11.8978,
       "market_cap": 254769070080
@@ -343,8 +343,8 @@
     {
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
-      "per": 68.99692,
-      "pbr": 10.577242,
+      "per": 73.77888,
+      "pbr": 10.745529,
       "change_percent": 7.0488,
       "market_cap": 200905424896
     },
@@ -370,12 +370,12 @@
       "per": 57.461437,
       "pbr": 88.88331,
       "change_percent": 6.34478,
-      "market_cap": 192786563072
+      "market_cap": 192484655104
     },
     {
       "code": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "per": 22.963408,
+      "per": 21.643389,
       "pbr": 11.394834,
       "change_percent": 6.0981497000000005,
       "market_cap": 1148129771520
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
       "per": 17.351892,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
@@ -394,13 +394,13 @@
       "per": 67.08696,
       "pbr": 11.130347,
       "change_percent": 5.6849297,
-      "market_cap": 132642119680
+      "market_cap": 132912226304
     },
     {
       "code": "TER",
       "name": "TERADYNE INC",
       "per": 46.48828,
-      "pbr": 16.253017,
+      "pbr": 17.777721,
       "change_percent": 5.486619999999999,
       "market_cap": 55818338304
     },
@@ -434,7 +434,7 @@
       "per": 12.144172,
       "pbr": 2.3688147,
       "change_percent": 4.541860000000001,
-      "market_cap": 25609703424
+      "market_cap": 26009260032
     },
     {
       "code": "INTC",
@@ -455,7 +455,7 @@
     {
       "code": "AMAT",
       "name": "APPLIED MATERIALS INC",
-      "per": 39.199135,
+      "per": 37.579338,
       "pbr": 14.081633,
       "change_percent": 4.312810000000001,
       "market_cap": 360856682496
@@ -471,7 +471,7 @@
     {
       "code": "HONA",
       "name": "HONEYWELL AEROSPACE INC",
-      "per": 47.217007,
+      "per": 48.93921,
       "pbr": null,
       "change_percent": 3.90423,
       "market_cap": 51032559616
@@ -482,7 +482,7 @@
       "per": 37.01,
       "pbr": 1.9413555,
       "change_percent": 3.5244699999999995,
-      "market_cap": 11133048832
+      "market_cap": 11137994752
     }
   ],
   "triple": [],
@@ -517,7 +517,7 @@
       "per": 8.536181,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "VICI",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-05T08:06:42+00:00"
+  "generated_at": "2026-09-05T10:06:24+00:00"
 }

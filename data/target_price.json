@@ -3022,5 +3022,21 @@
     "sell": 1,
     "strong_sell": 0,
     "collected_at": "2026-09-05T00:07:35+00:00"
+  },
+  {
+    "symbol": "SPCX",
+    "date": "2026-09-05",
+    "target_mean_price": 222.3158,
+    "target_high_price": 450.0,
+    "target_low_price": 117.0,
+    "num_analysts": 19,
+    "recommendation_mean": 1.68571,
+    "recommendation_key": "buy",
+    "strong_buy": 6,
+    "buy": 22,
+    "hold": 5,
+    "sell": 2,
+    "strong_sell": 0,
+    "collected_at": "2026-09-05T10:04:57+00:00"
   }
 ]
