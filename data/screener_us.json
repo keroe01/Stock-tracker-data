@@ -65,14 +65,6 @@
       "market_cap": 66433794048
     },
     {
-      "code": "CINF",
-      "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.078376,
-      "pbr": 1.5743902,
-      "change_percent": -2.0718802000000003,
-      "market_cap": 26260094976
-    },
-    {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
       "per": 8.162666,
@@ -87,6 +79,14 @@
       "pbr": 1.7108727,
       "change_percent": 0.087664,
       "market_cap": 26003638272
+    },
+    {
+      "code": "CINF",
+      "name": "CINCINNATI FINANCIAL CORP",
+      "per": 8.24976,
+      "pbr": 1.5743902,
+      "change_percent": -2.0718802000000003,
+      "market_cap": 26260094976
     },
     {
       "code": "EXE",
@@ -115,7 +115,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.665557,
+      "per": 8.752942,
       "pbr": 2.0015373,
       "change_percent": -0.950932,
       "market_cap": 14001788928
@@ -139,7 +139,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.555939,
+      "per": 9.669461,
       "pbr": 1.9474742,
       "change_percent": -1.1642899,
       "market_cap": 37480558592
@@ -153,12 +153,12 @@
       "market_cap": 27989389312
     },
     {
-      "code": "TRV",
-      "name": "TRAVELERS COS INC/THE",
-      "per": 9.926096,
-      "pbr": 2.3262038,
-      "change_percent": -1.3330099,
-      "market_cap": 77037182976
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 10.020916,
+      "pbr": 2.3856497,
+      "change_percent": -17.377001,
+      "market_cap": 11138535424
     }
   ],
   "pbr": [
@@ -261,7 +261,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 43.446007,
+      "per": 43.857822,
       "pbr": 1.0643632,
       "change_percent": 0.839059,
       "market_cap": 24487786496
@@ -317,7 +317,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.888649,
+      "per": 14.840518,
       "pbr": 1.2002999,
       "change_percent": -0.30403798,
       "market_cap": 231016595456
@@ -343,7 +343,7 @@
     {
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
-      "per": 73.77888,
+      "per": 68.99692,
       "pbr": 10.745529,
       "change_percent": 7.0488,
       "market_cap": 200905424896
@@ -367,7 +367,7 @@
     {
       "code": "STX",
       "name": "SEAGATE TECHNOLOGY HOLDINGS",
-      "per": 61.099285,
+      "per": 57.461437,
       "pbr": 88.88331,
       "change_percent": 6.34478,
       "market_cap": 192484655104
@@ -375,7 +375,7 @@
     {
       "code": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "per": 21.643389,
+      "per": 22.963408,
       "pbr": 11.394834,
       "change_percent": 6.0981497000000005,
       "market_cap": 1148129771520
@@ -399,7 +399,7 @@
     {
       "code": "TER",
       "name": "TERADYNE INC",
-      "per": 49.04258,
+      "per": 46.48828,
       "pbr": 17.777721,
       "change_percent": 5.486619999999999,
       "market_cap": 55818338304
@@ -415,7 +415,7 @@
     {
       "code": "CEG",
       "name": "CONSTELLATION ENERGY",
-      "per": 29.223852,
+      "per": 27.86207,
       "pbr": 3.3218145,
       "change_percent": 4.879849800000001,
       "market_cap": 105923731456
@@ -455,7 +455,7 @@
     {
       "code": "AMAT",
       "name": "APPLIED MATERIALS INC",
-      "per": 39.199135,
+      "per": 37.579338,
       "pbr": 14.081633,
       "change_percent": 4.312810000000001,
       "market_cap": 360856682496
@@ -479,7 +479,7 @@
     {
       "code": "SWKS",
       "name": "SKYWORKS SOLUTIONS INC",
-      "per": 38.35233,
+      "per": 37.01,
       "pbr": 1.9413555,
       "change_percent": 3.5244699999999995,
       "market_cap": 11137994752
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-05T04:06:39+00:00"
+  "generated_at": "2026-09-05T06:07:30+00:00"
 }
