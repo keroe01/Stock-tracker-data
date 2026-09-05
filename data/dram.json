@@ -1573,5 +1573,68 @@
     "change_percent": 0.0,
     "date": "2026-09-04",
     "collected_at": "2026-09-04T00:07:11+00:00"
+  },
+  {
+    "item": "DDR5 16Gb (2Gx8) 4800/5600",
+    "daily_high": 67.5,
+    "daily_low": 38.0,
+    "session_avg": 54.067,
+    "change_percent": 0.12,
+    "date": "2026-09-05",
+    "collected_at": "2026-09-05T00:07:22+00:00"
+  },
+  {
+    "item": "DDR5 16Gb (2Gx8) eTT",
+    "daily_high": 25.0,
+    "daily_low": 22.8,
+    "session_avg": 24.0,
+    "change_percent": 0.0,
+    "date": "2026-09-05",
+    "collected_at": "2026-09-05T00:07:22+00:00"
+  },
+  {
+    "item": "DDR4 16Gb (2Gx8) 3200",
+    "daily_high": 118.0,
+    "daily_low": 43.0,
+    "session_avg": 93.5,
+    "change_percent": 0.63,
+    "date": "2026-09-05",
+    "collected_at": "2026-09-05T00:07:22+00:00"
+  },
+  {
+    "item": "DDR4 16Gb (2Gx8) eTT",
+    "daily_high": 13.0,
+    "daily_low": 11.0,
+    "session_avg": 11.875,
+    "change_percent": 0.85,
+    "date": "2026-09-05",
+    "collected_at": "2026-09-05T00:07:22+00:00"
+  },
+  {
+    "item": "DDR4 8Gb (1Gx8) 3200",
+    "daily_high": 78.0,
+    "daily_low": 24.0,
+    "session_avg": 45.0,
+    "change_percent": 0.96,
+    "date": "2026-09-05",
+    "collected_at": "2026-09-05T00:07:22+00:00"
+  },
+  {
+    "item": "DDR4 8Gb (1Gx8) eTT",
+    "daily_high": 6.0,
+    "daily_low": 4.8,
+    "session_avg": 4.86,
+    "change_percent": 1.67,
+    "date": "2026-09-05",
+    "collected_at": "2026-09-05T00:07:22+00:00"
+  },
+  {
+    "item": "DDR3 4Gb 512Mx8 1600/1866",
+    "daily_high": 19.8,
+    "daily_low": 9.75,
+    "session_avg": 13.81,
+    "change_percent": -0.15,
+    "date": "2026-09-05",
+    "collected_at": "2026-09-05T00:07:22+00:00"
   }
 ]
