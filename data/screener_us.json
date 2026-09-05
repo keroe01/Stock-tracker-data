@@ -22,7 +22,7 @@
       "per": 5.5393257,
       "pbr": 2.1341991,
       "change_percent": 0.067660504,
-      "market_cap": 10547602432
+      "market_cap": 10551757824
     },
     {
       "code": "EIX",
@@ -35,15 +35,15 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.4347153,
+      "per": 6.4945736,
       "pbr": 1.3477688,
       "change_percent": -0.922421,
-      "market_cap": 21652066304
+      "market_cap": 21602920448
     },
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 6.9244895,
+      "per": 6.904762,
       "pbr": 1.3306925,
       "change_percent": 0.26002400000000003,
       "market_cap": 9998579712
@@ -54,7 +54,7 @@
       "per": 7.810509,
       "pbr": 1.4359319,
       "change_percent": -1.7329500000000002,
-      "market_cap": 33452099584
+      "market_cap": 33474576384
     },
     {
       "code": "HON",
@@ -94,23 +94,23 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
-    },
-    {
-      "code": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
-      "per": 8.490385,
-      "pbr": 1.0465806,
-      "change_percent": -0.600375,
-      "market_cap": 94003388416
+      "market_cap": 22666536960
     },
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.646464,
+      "per": 8.475247,
       "pbr": 1.5994022,
       "change_percent": -1.94731,
       "market_cap": 175969271808
+    },
+    {
+      "code": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "per": 8.545161,
+      "pbr": 1.0465806,
+      "change_percent": -0.600375,
+      "market_cap": 94003388416
     },
     {
       "code": "MKC",
@@ -123,7 +123,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 9.023208,
+      "per": 9.318083,
       "pbr": 2.1361504,
       "change_percent": -3.1914900000000004,
       "market_cap": 14984535040
@@ -145,20 +145,20 @@
       "market_cap": 37480558592
     },
     {
+      "code": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "per": 9.852714,
+      "pbr": 0.95949876,
+      "change_percent": -0.896684,
+      "market_cap": 27989389312
+    },
+    {
       "code": "TRV",
       "name": "TRAVELERS COS INC/THE",
       "per": 9.926096,
       "pbr": 2.3262038,
       "change_percent": -1.3330099,
       "market_cap": 77037182976
-    },
-    {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 9.9296875,
-      "pbr": 0.95949876,
-      "change_percent": -0.896684,
-      "market_cap": 27989389312
     }
   ],
   "pbr": [
@@ -197,7 +197,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 13.100313,
+      "per": 13.245643,
       "pbr": 0.9312431,
       "change_percent": -1.03019,
       "market_cap": 20134014976
@@ -213,7 +213,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.9296875,
+      "per": 9.852714,
       "pbr": 0.95949876,
       "change_percent": -0.896684,
       "market_cap": 27989389312
@@ -237,7 +237,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 31.937887,
+      "per": 31.74074,
       "pbr": 1.0005838,
       "change_percent": -0.656878,
       "market_cap": 18089631744
@@ -248,12 +248,12 @@
       "per": 362.0,
       "pbr": 1.0342857,
       "change_percent": -1.6304400000000001,
-      "market_cap": 12154219520
+      "market_cap": 12184330240
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -261,7 +261,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 43.857822,
+      "per": 43.446007,
       "pbr": 1.0643632,
       "change_percent": 0.839059,
       "market_cap": 24487786496
@@ -288,7 +288,7 @@
       "per": 21.030703,
       "pbr": 1.1414493,
       "change_percent": 3.0518001,
-      "market_cap": 10147204096
+      "market_cap": 9956018176
     },
     {
       "code": "HBAN",
@@ -301,7 +301,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.411044,
+      "per": 13.493827,
       "pbr": 1.168759,
       "change_percent": -0.672481,
       "market_cap": 22343950336
@@ -312,7 +312,7 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "C",
@@ -327,7 +327,7 @@
     {
       "code": "SNDK",
       "name": "SANDISK CORP",
-      "per": 21.096022,
+      "per": 23.606024,
       "pbr": 16.475557,
       "change_percent": 11.8978,
       "market_cap": 254769070080
@@ -344,7 +344,7 @@
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
       "per": 73.77888,
-      "pbr": 10.577242,
+      "pbr": 10.745529,
       "change_percent": 7.0488,
       "market_cap": 200905424896
     },
@@ -370,12 +370,12 @@
       "per": 61.099285,
       "pbr": 88.88331,
       "change_percent": 6.34478,
-      "market_cap": 192786563072
+      "market_cap": 192484655104
     },
     {
       "code": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "per": 22.963408,
+      "per": 21.643389,
       "pbr": 11.394834,
       "change_percent": 6.0981497000000005,
       "market_cap": 1148129771520
@@ -383,31 +383,31 @@
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 16.390602,
-      "pbr": 22.350464,
+      "per": 17.351892,
+      "pbr": null,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
     {
       "code": "GLW",
       "name": "CORNING INC",
-      "per": 70.779816,
+      "per": 67.08696,
       "pbr": 11.130347,
       "change_percent": 5.6849297,
-      "market_cap": 132642119680
+      "market_cap": 132912226304
     },
     {
       "code": "TER",
       "name": "TERADYNE INC",
       "per": 49.04258,
-      "pbr": 16.253017,
+      "pbr": 17.777721,
       "change_percent": 5.486619999999999,
       "market_cap": 55818338304
     },
     {
       "code": "LRCX",
       "name": "LAM RESEARCH CORP",
-      "per": 53.31889,
+      "per": 50.767326,
       "pbr": 30.86686,
       "change_percent": 5.1219802,
       "market_cap": 384968884224
@@ -434,7 +434,7 @@
       "per": 11.60997,
       "pbr": 2.3688147,
       "change_percent": 4.541860000000001,
-      "market_cap": 25609703424
+      "market_cap": 26009260032
     },
     {
       "code": "INTC",
@@ -447,7 +447,7 @@
     {
       "code": "VRT",
       "name": "VERTIV HOLDINGS CO A",
-      "per": 63.612247,
+      "per": 60.984783,
       "pbr": 22.698439,
       "change_percent": 4.3522,
       "market_cap": 108000731136
@@ -482,7 +482,7 @@
       "per": 38.35233,
       "pbr": 1.9413555,
       "change_percent": 3.5244699999999995,
-      "market_cap": 11133048832
+      "market_cap": 11137994752
     }
   ],
   "triple": [],
@@ -509,12 +509,12 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -522,7 +522,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.9296875,
+      "per": 9.852714,
       "pbr": 0.95949876,
       "change_percent": -0.896684,
       "market_cap": 27989389312
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-05T02:06:35+00:00"
+  "generated_at": "2026-09-05T04:06:39+00:00"
 }
