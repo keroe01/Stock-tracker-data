@@ -22,12 +22,12 @@
       "per": 5.5393257,
       "pbr": 2.1341991,
       "change_percent": 0.067660504,
-      "market_cap": 10547602432
+      "market_cap": 10551757824
     },
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.8106446,
+      "per": 5.8586173,
       "pbr": 1.2521229,
       "change_percent": 0.8348159500000001,
       "market_cap": 21845889024
@@ -35,10 +35,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 6.4945736,
+      "per": 6.4347153,
       "pbr": 1.3477688,
       "change_percent": -0.922421,
-      "market_cap": 21652066304
+      "market_cap": 21602920448
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.810509,
       "pbr": 1.4359319,
       "change_percent": -1.7329500000000002,
-      "market_cap": 33452099584
+      "market_cap": 33474576384
     },
     {
       "code": "HON",
@@ -83,10 +83,18 @@
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 8.196923,
+      "per": 8.188524,
       "pbr": 1.7108727,
       "change_percent": 0.087664,
       "market_cap": 26003638272
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 8.280659,
+      "pbr": 2.3856497,
+      "change_percent": -17.377001,
+      "market_cap": 11138535424
     },
     {
       "code": "EXE",
@@ -94,7 +102,7 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "T",
@@ -107,7 +115,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -151,14 +159,6 @@
       "pbr": 0.95949876,
       "change_percent": -0.896684,
       "market_cap": 27989389312
-    },
-    {
-      "code": "TRV",
-      "name": "TRAVELERS COS INC/THE",
-      "per": 9.931434,
-      "pbr": 2.3262038,
-      "change_percent": -1.3330099,
-      "market_cap": 77037182976
     }
   ],
   "pbr": [
@@ -248,12 +248,12 @@
       "per": 362.0,
       "pbr": 1.0342857,
       "change_percent": -1.6304400000000001,
-      "market_cap": 12154219520
+      "market_cap": 12184330240
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -285,10 +285,10 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 21.030703,
+      "per": 21.696833,
       "pbr": 1.1414493,
       "change_percent": 3.0518001,
-      "market_cap": 10147204096
+      "market_cap": 9956018176
     },
     {
       "code": "HBAN",
@@ -312,7 +312,7 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "C",
@@ -344,14 +344,14 @@
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
       "per": 74.02318,
-      "pbr": 10.577242,
+      "pbr": 10.745529,
       "change_percent": 7.0488,
       "market_cap": 200905424896
     },
     {
       "code": "COHR",
       "name": "COHERENT CORP",
-      "per": 68.41262,
+      "per": 64.05909,
       "pbr": 5.0603228,
       "change_percent": 6.599589999999999,
       "market_cap": 55197274112
@@ -359,7 +359,7 @@
     {
       "code": "NRG",
       "name": "NRG ENERGY INC",
-      "per": 29.171568,
+      "per": 30.994791,
       "pbr": 5.952786,
       "change_percent": 6.4198900000000005,
       "market_cap": 25019250688
@@ -370,7 +370,7 @@
       "per": 60.967697,
       "pbr": 88.88331,
       "change_percent": 6.34478,
-      "market_cap": 192786563072
+      "market_cap": 192484655104
     },
     {
       "code": "MU",
@@ -384,23 +384,23 @@
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
       "per": 17.358335,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
     {
       "code": "GLW",
       "name": "CORNING INC",
-      "per": 67.08696,
+      "per": 70.779816,
       "pbr": 11.130347,
       "change_percent": 5.6849297,
-      "market_cap": 132642119680
+      "market_cap": 132912226304
     },
     {
       "code": "TER",
       "name": "TERADYNE INC",
       "per": 49.04258,
-      "pbr": 16.253017,
+      "pbr": 17.777721,
       "change_percent": 5.486619999999999,
       "market_cap": 55818338304
     },
@@ -423,7 +423,7 @@
     {
       "code": "AMD",
       "name": "ADVANCED MICRO DEVICES",
-      "per": 116.197075,
+      "per": 121.82908,
       "pbr": 11.594037,
       "change_percent": 4.69353,
       "market_cap": 779621105664
@@ -434,7 +434,7 @@
       "per": 11.60997,
       "pbr": 2.3688147,
       "change_percent": 4.541860000000001,
-      "market_cap": 25609703424
+      "market_cap": 26009260032
     },
     {
       "code": "INTC",
@@ -482,7 +482,7 @@
       "per": 38.35233,
       "pbr": 1.9413555,
       "change_percent": 3.5244699999999995,
-      "market_cap": 11133048832
+      "market_cap": 11137994752
     }
   ],
   "triple": [],
@@ -509,12 +509,12 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.15093,
-      "market_cap": 23422898176
+      "market_cap": 22666536960
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-05T14:06:19+00:00"
+  "generated_at": "2026-09-05T16:06:36+00:00"
 }

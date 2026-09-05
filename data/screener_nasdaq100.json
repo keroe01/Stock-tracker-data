@@ -11,7 +11,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -30,7 +30,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47375519744
+      "market_cap": 47016128512
     },
     {
       "code": "ADBE",
@@ -46,12 +46,12 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31323848704
+      "market_cap": 31103115264
     },
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.044117,
+      "per": 16.344568,
       "pbr": 1.5168577,
       "change_percent": -1.06552,
       "market_cap": 44960280576
@@ -76,7 +76,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
@@ -105,20 +105,20 @@
       "market_cap": 194711355392
     },
     {
+      "code": "NXPI",
+      "name": "NXP Semiconductors",
+      "per": 19.194187,
+      "pbr": 5.0420475,
+      "change_percent": 1.2645001,
+      "market_cap": 57451827200
+    },
+    {
       "code": "QCOM",
       "name": "Qualcomm",
       "per": 19.262558,
       "pbr": 6.4485807,
       "change_percent": 0.100847,
       "market_cap": 180224524288
-    },
-    {
-      "code": "NXPI",
-      "name": "NXP Semiconductors",
-      "per": 19.456448,
-      "pbr": 5.0420475,
-      "change_percent": 1.2645001,
-      "market_cap": 57451827200
     },
     {
       "code": "INTU",
@@ -150,7 +150,7 @@
       "per": 20.575876,
       "pbr": 4.887458,
       "change_percent": -3.10582,
-      "market_cap": 46680199168
+      "market_cap": 46655410176
     },
     {
       "code": "XEL",
@@ -173,7 +173,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -184,12 +184,12 @@
       "per": 37.874523,
       "pbr": 1.474797,
       "change_percent": -1.83305,
-      "market_cap": 56043237376
+      "market_cap": 55785541632
     },
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.044117,
+      "per": 16.344568,
       "pbr": 1.5168577,
       "change_percent": -1.06552,
       "market_cap": 44960280576
@@ -256,12 +256,12 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47375519744
+      "market_cap": 47016128512
     },
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 68.49391,
+      "per": 72.53039,
       "pbr": 2.4223337,
       "change_percent": -5.39742,
       "market_cap": 75474173952
@@ -280,7 +280,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31323848704
+      "market_cap": 31103115264
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.446886,
       "pbr": 2.945729,
       "change_percent": -0.276651,
-      "market_cap": 78662057984
+      "market_cap": 78212161536
     },
     {
       "code": "BKR",
@@ -346,7 +346,7 @@
       "per": null,
       "pbr": 6.0015373,
       "change_percent": 7.48231,
-      "market_cap": 57480011776
+      "market_cap": 61545304064
     },
     {
       "code": "KLAC",
@@ -360,7 +360,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 74.02318,
-      "pbr": 10.577242,
+      "pbr": 10.745529,
       "change_percent": 7.0488,
       "market_cap": 200905424896
     },
@@ -370,7 +370,7 @@
       "per": 60.967697,
       "pbr": 88.88331,
       "change_percent": 6.34478,
-      "market_cap": 192786563072
+      "market_cap": 192484655104
     },
     {
       "code": "MU",
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
@@ -400,7 +400,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 49.04258,
-      "pbr": 16.253017,
+      "pbr": 17.777721,
       "change_percent": 5.486619999999999,
       "market_cap": 55818338304
     },
@@ -423,7 +423,7 @@
     {
       "code": "AMD",
       "name": "Advanced Micro Devices",
-      "per": 116.197075,
+      "per": 121.82908,
       "pbr": 11.594037,
       "change_percent": 4.69353,
       "market_cap": 779621105664
@@ -463,7 +463,7 @@
     {
       "code": "ARM",
       "name": "Arm Holdings",
-      "per": 249.59406,
+      "per": 257.23468,
       "pbr": 31.195395,
       "change_percent": 3.91607,
       "market_cap": 269231767552
@@ -479,10 +479,10 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 24.102255,
+      "per": 24.639507,
       "pbr": 33.979225,
       "change_percent": 2.22591,
-      "market_cap": 107275575296
+      "market_cap": 107688771584
     }
   ],
   "triple": [],
@@ -490,7 +490,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 8.490385,
+      "per": 8.545161,
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
@@ -509,7 +509,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47375519744
+      "market_cap": 47016128512
     },
     {
       "code": "GEHC",
@@ -517,12 +517,12 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31323848704
+      "market_cap": 31103115264
     },
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.044117,
+      "per": 16.344568,
       "pbr": 1.5168577,
       "change_percent": -1.06552,
       "market_cap": 44960280576
@@ -533,7 +533,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": 22.350464,
+      "pbr": null,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     }
@@ -548,5 +548,5 @@
       "market_cap": 105923731456
     }
   ],
-  "generated_at": "2026-09-05T14:06:19+00:00"
+  "generated_at": "2026-09-05T16:06:37+00:00"
 }
