@@ -30,7 +30,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "ADBE",
@@ -46,15 +46,23 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.344568,
+      "per": 16.044117,
       "pbr": 1.5168577,
       "change_percent": -1.06552,
       "market_cap": 44960280576
+    },
+    {
+      "code": "GOOG",
+      "name": "Alphabet Inc.(Class C)",
+      "per": 16.83283,
+      "pbr": 6.5881405,
+      "change_percent": -1.1118299999999999,
+      "market_cap": 4100819517440
     },
     {
       "code": "GOOGL",
@@ -73,18 +81,10 @@
       "market_cap": 40280346624
     },
     {
-      "code": "GOOG",
-      "name": "Alphabet Inc.(Class C)",
-      "per": 17.00355,
-      "pbr": 6.5881405,
-      "change_percent": -1.1118299999999999,
-      "market_cap": 4100819517440
-    },
-    {
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
@@ -142,7 +142,7 @@
       "per": 20.575876,
       "pbr": 4.887458,
       "change_percent": -3.10582,
-      "market_cap": 46655410176
+      "market_cap": 46680199168
     },
     {
       "code": "XEL",
@@ -184,12 +184,12 @@
       "per": 37.874523,
       "pbr": 1.474797,
       "change_percent": -1.83305,
-      "market_cap": 55785541632
+      "market_cap": 56043237376
     },
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.344568,
+      "per": 16.044117,
       "pbr": 1.5168577,
       "change_percent": -1.06552,
       "market_cap": 44960280576
@@ -213,7 +213,7 @@
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 33.2551,
+      "per": 32.919193,
       "pbr": 1.771677,
       "change_percent": -0.881998,
       "market_cap": 44349317120
@@ -256,7 +256,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.446886,
       "pbr": 2.945729,
       "change_percent": -0.276651,
-      "market_cap": 78212161536
+      "market_cap": 78662057984
     },
     {
       "code": "BKR",
@@ -327,7 +327,7 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 21.096022,
+      "per": 23.583628,
       "pbr": 16.475557,
       "change_percent": 11.8978,
       "market_cap": 254769070080
@@ -346,7 +346,7 @@
       "per": null,
       "pbr": 6.0015373,
       "change_percent": 7.48231,
-      "market_cap": 61545304064
+      "market_cap": 57480011776
     },
     {
       "code": "KLAC",
@@ -360,7 +360,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 74.02318,
-      "pbr": 10.745529,
+      "pbr": 10.577242,
       "change_percent": 7.0488,
       "market_cap": 200905424896
     },
@@ -370,7 +370,7 @@
       "per": 60.967697,
       "pbr": 88.88331,
       "change_percent": 6.34478,
-      "market_cap": 192484655104
+      "market_cap": 192786563072
     },
     {
       "code": "MU",
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     },
@@ -400,7 +400,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 49.04258,
-      "pbr": 17.777721,
+      "pbr": 16.253017,
       "change_percent": 5.486619999999999,
       "market_cap": 55818338304
     },
@@ -439,7 +439,7 @@
     {
       "code": "AMAT",
       "name": "Applied Materials",
-      "per": 37.579338,
+      "per": 39.199135,
       "pbr": 14.081633,
       "change_percent": 4.312810000000001,
       "market_cap": 360856682496
@@ -471,7 +471,7 @@
     {
       "code": "HONA",
       "name": "Honeywell Aerospace",
-      "per": 47.217007,
+      "per": 49.088413,
       "pbr": null,
       "change_percent": 3.90423,
       "market_cap": 51032559616
@@ -482,7 +482,7 @@
       "per": 24.639507,
       "pbr": 33.979225,
       "change_percent": 2.22591,
-      "market_cap": 107688771584
+      "market_cap": 107275575296
     }
   ],
   "triple": [],
@@ -509,7 +509,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2735,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "GEHC",
@@ -517,12 +517,12 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335099999999999,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.344568,
+      "per": 16.044117,
       "pbr": 1.5168577,
       "change_percent": -1.06552,
       "market_cap": 44960280576
@@ -533,7 +533,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631703,
       "market_cap": 168538456064
     }
@@ -548,5 +548,5 @@
       "market_cap": 105923731456
     }
   ],
-  "generated_at": "2026-09-05T22:06:00+00:00"
+  "generated_at": "2026-09-06T00:09:31+00:00"
 }
