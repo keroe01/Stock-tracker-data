@@ -51,7 +51,7 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.810509,
+      "per": 7.6760564,
       "pbr": 1.4359319,
       "change_percent": -1.7329500000000002,
       "market_cap": 33474576384
@@ -153,12 +153,12 @@
       "market_cap": 37480558592
     },
     {
-      "code": "CF",
-      "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 9.892434,
-      "pbr": 3.5168924,
-      "change_percent": -3.2363299999999997,
-      "market_cap": 20180940800
+      "code": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "per": 9.852714,
+      "pbr": 0.95949876,
+      "change_percent": -0.896684,
+      "market_cap": 27989389312
     }
   ],
   "pbr": [
@@ -213,7 +213,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.9296875,
+      "per": 9.852714,
       "pbr": 0.95949876,
       "change_percent": -0.896684,
       "market_cap": 27989389312
@@ -327,7 +327,7 @@
     {
       "code": "SNDK",
       "name": "SANDISK CORP",
-      "per": 21.096022,
+      "per": 23.583628,
       "pbr": 16.475557,
       "change_percent": 11.8978,
       "market_cap": 254769070080
@@ -518,9 +518,17 @@
       "pbr": 1.0465806,
       "change_percent": -0.600375,
       "market_cap": 94003388416
+    },
+    {
+      "code": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "per": 9.852714,
+      "pbr": 0.95949876,
+      "change_percent": -0.896684,
+      "market_cap": 27989389312
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-06T02:06:17+00:00"
+  "generated_at": "2026-09-06T04:06:39+00:00"
 }

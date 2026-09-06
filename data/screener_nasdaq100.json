@@ -137,6 +137,14 @@
       "market_cap": 63034802176
     },
     {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 20.49319,
+      "pbr": 2.6184473,
+      "change_percent": -1.86729,
+      "market_cap": 85217902592
+    },
+    {
       "code": "CCEP",
       "name": "Coca-Cola Europacific Partners",
       "per": 20.575876,
@@ -151,14 +159,6 @@
       "pbr": 1.9653239,
       "change_percent": -0.81215,
       "market_cap": 47297310720
-    },
-    {
-      "code": "AMZN",
-      "name": "Amazon",
-      "per": 20.797264,
-      "pbr": 5.0533667,
-      "change_percent": -0.15063100000000001,
-      "market_cap": 2788369891328
     }
   ],
   "pbr": [
@@ -269,7 +269,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.87566,
+      "per": 20.49319,
       "pbr": 2.6184473,
       "change_percent": -1.86729,
       "market_cap": 85217902592
@@ -327,7 +327,7 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 21.096022,
+      "per": 23.583628,
       "pbr": 16.475557,
       "change_percent": 11.8978,
       "market_cap": 254769070080
@@ -548,5 +548,5 @@
       "market_cap": 105923731456
     }
   ],
-  "generated_at": "2026-09-06T02:06:18+00:00"
+  "generated_at": "2026-09-06T04:06:40+00:00"
 }
