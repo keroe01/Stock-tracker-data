@@ -22,7 +22,7 @@
       "per": 5.5393257,
       "pbr": 2.1341991,
       "change_percent": 0.067660504,
-      "market_cap": 10551757824
+      "market_cap": 10547602432
     },
     {
       "code": "EIX",
@@ -38,7 +38,7 @@
       "per": 6.4347153,
       "pbr": 1.3477688,
       "change_percent": -0.922421,
-      "market_cap": 21602920448
+      "market_cap": 21652066304
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.6760564,
       "pbr": 1.4359319,
       "change_percent": -1.7329494,
-      "market_cap": 33474576384
+      "market_cap": 33452099584
     },
     {
       "code": "EG",
@@ -102,7 +102,7 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.1509332,
-      "market_cap": 22666536960
+      "market_cap": 23422898176
     },
     {
       "code": "T",
@@ -248,7 +248,7 @@
       "per": 362.0,
       "pbr": 1.0342857,
       "change_percent": -1.6304375999999998,
-      "market_cap": 12184330240
+      "market_cap": 12154219520
     },
     {
       "code": "CMCSA",
@@ -288,7 +288,7 @@
       "per": 21.696833,
       "pbr": 1.1414493,
       "change_percent": 3.0518001,
-      "market_cap": 9956018176
+      "market_cap": 10147204096
     },
     {
       "code": "HBAN",
@@ -312,7 +312,7 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.1509332,
-      "market_cap": 22666536960
+      "market_cap": 23422898176
     },
     {
       "code": "C",
@@ -344,7 +344,7 @@
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
       "per": 74.02318,
-      "pbr": 10.745529,
+      "pbr": 10.577242,
       "change_percent": 7.048796,
       "market_cap": 200905424896
     },
@@ -370,7 +370,7 @@
       "per": 60.967697,
       "pbr": 88.88331,
       "change_percent": 6.3447796,
-      "market_cap": 192484655104
+      "market_cap": 192786563072
     },
     {
       "code": "MU",
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631662,
       "market_cap": 168538456064
     },
@@ -394,13 +394,13 @@
       "per": 70.779816,
       "pbr": 11.130347,
       "change_percent": 5.6849297,
-      "market_cap": 132912226304
+      "market_cap": 132642119680
     },
     {
       "code": "TER",
       "name": "TERADYNE INC",
       "per": 49.04258,
-      "pbr": 17.777721,
+      "pbr": 16.253017,
       "change_percent": 5.486618,
       "market_cap": 55818338304
     },
@@ -434,7 +434,7 @@
       "per": 12.144172,
       "pbr": 2.3688147,
       "change_percent": 4.541857,
-      "market_cap": 26009260032
+      "market_cap": 25609703424
     },
     {
       "code": "INTC",
@@ -482,7 +482,7 @@
       "per": 38.35233,
       "pbr": 1.9413555,
       "change_percent": 3.5244707,
-      "market_cap": 11137994752
+      "market_cap": 11133048832
     }
   ],
   "triple": [],
@@ -509,7 +509,7 @@
       "per": 8.440517,
       "pbr": 1.182131,
       "change_percent": -1.1509332,
-      "market_cap": 22666536960
+      "market_cap": 23422898176
     },
     {
       "code": "CMCSA",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-07T20:07:07+00:00"
+  "generated_at": "2026-09-07T22:06:07+00:00"
 }
