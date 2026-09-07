@@ -3,11 +3,11 @@
     "symbol": "^KS11",
     "name": "KOSPI",
     "group": "main",
-    "price": 6906.25,
-    "change": 219.0400390625,
-    "change_percent": 3.2755071299091094,
+    "price": 6974.330078125,
+    "change": 287.1201171875,
+    "change_percent": 4.293571143491475,
     "currency": "KRW",
-    "collected_at": "2026-09-07T04:05:32+00:00"
+    "collected_at": "2026-09-07T06:07:24+00:00"
   },
   {
     "symbol": "^IXIC",
@@ -17,17 +17,17 @@
     "change": -77.0703125,
     "change_percent": -0.28991174002219816,
     "currency": "USD",
-    "collected_at": "2026-09-07T04:05:33+00:00"
+    "collected_at": "2026-09-07T06:07:24+00:00"
   },
   {
     "symbol": "^KS200",
     "name": "코스피200 (선물 기초지수)",
     "group": "futures",
-    "price": 1090.25,
-    "change": 38.73000000000002,
-    "change_percent": 3.6832395009129657,
+    "price": 1101.1400146484375,
+    "change": 49.62001464843752,
+    "change_percent": 4.718884533669119,
     "currency": "KRW",
-    "collected_at": "2026-09-07T04:05:33+00:00"
+    "collected_at": "2026-09-07T06:07:25+00:00"
   },
   {
     "symbol": "^GSPC",
@@ -37,7 +37,7 @@
     "change": -29.10986328125,
     "change_percent": -0.375722160845159,
     "currency": "USD",
-    "collected_at": "2026-09-07T04:05:33+00:00"
+    "collected_at": "2026-09-07T06:07:25+00:00"
   },
   {
     "symbol": "^DJI",
@@ -47,7 +47,7 @@
     "change": -271.859375,
     "change_percent": -0.5063868068759638,
     "currency": "USD",
-    "collected_at": "2026-09-07T04:05:34+00:00"
+    "collected_at": "2026-09-07T06:07:25+00:00"
   },
   {
     "symbol": "ES=F",
@@ -57,7 +57,7 @@
     "change": 0.0,
     "change_percent": 0.0,
     "currency": "USD",
-    "collected_at": "2026-09-07T04:05:35+00:00"
+    "collected_at": "2026-09-07T06:07:26+00:00"
   },
   {
     "symbol": "YM=F",
@@ -67,7 +67,7 @@
     "change": 0.0,
     "change_percent": 0.0,
     "currency": "USD",
-    "collected_at": "2026-09-07T04:05:35+00:00"
+    "collected_at": "2026-09-07T06:07:27+00:00"
   },
   {
     "symbol": "NQ=F",
@@ -77,6 +77,6 @@
     "change": 0.0,
     "change_percent": 0.0,
     "currency": "USD",
-    "collected_at": "2026-09-07T04:05:35+00:00"
+    "collected_at": "2026-09-07T06:07:28+00:00"
   }
 ]
