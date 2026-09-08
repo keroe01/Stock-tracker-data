@@ -30,7 +30,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2734964,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "ADBE",
@@ -46,7 +46,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335063,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "EXC",
@@ -84,7 +84,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631662,
       "market_cap": 168538456064
     },
@@ -150,7 +150,7 @@
       "per": 20.575876,
       "pbr": 4.887458,
       "change_percent": -3.105817,
-      "market_cap": 46655410176
+      "market_cap": 46680199168
     },
     {
       "code": "XEL",
@@ -184,7 +184,7 @@
       "per": 37.874523,
       "pbr": 1.474797,
       "change_percent": -1.8330545999999999,
-      "market_cap": 55785541632
+      "market_cap": 56043237376
     },
     {
       "code": "EXC",
@@ -256,7 +256,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2734964,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335063,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.446886,
       "pbr": 2.945729,
       "change_percent": -0.2766509,
-      "market_cap": 78212161536
+      "market_cap": 78662057984
     },
     {
       "code": "BKR",
@@ -346,7 +346,7 @@
       "per": null,
       "pbr": 6.0015373,
       "change_percent": 7.482312,
-      "market_cap": 61545304064
+      "market_cap": 57480011776
     },
     {
       "code": "KLAC",
@@ -360,7 +360,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 74.02318,
-      "pbr": 10.745529,
+      "pbr": 10.577242,
       "change_percent": 7.048796,
       "market_cap": 200905424896
     },
@@ -370,7 +370,7 @@
       "per": 60.967697,
       "pbr": 88.88331,
       "change_percent": 6.3447796,
-      "market_cap": 192484655104
+      "market_cap": 192786563072
     },
     {
       "code": "MU",
@@ -384,7 +384,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631662,
       "market_cap": 168538456064
     },
@@ -400,7 +400,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 49.04258,
-      "pbr": 17.777721,
+      "pbr": 16.253017,
       "change_percent": 5.486618,
       "market_cap": 55818338304
     },
@@ -448,7 +448,7 @@
       "code": "ASML",
       "name": "ASML Holding",
       "per": 58.131527,
-      "pbr": 1447.3046,
+      "pbr": 1443.7279,
       "change_percent": 4.1726694,
       "market_cap": 658685427712
     },
@@ -482,7 +482,7 @@
       "per": 24.639507,
       "pbr": 33.979225,
       "change_percent": 2.2259108999999997,
-      "market_cap": 107688771584
+      "market_cap": 107275575296
     }
   ],
   "triple": [],
@@ -509,7 +509,7 @@
       "per": 10.389414,
       "pbr": 2.3902926,
       "change_percent": -3.2734964,
-      "market_cap": 47016128512
+      "market_cap": 47375519744
     },
     {
       "code": "GEHC",
@@ -517,7 +517,7 @@
       "per": 15.866359,
       "pbr": 2.8339782,
       "change_percent": -1.2335063,
-      "market_cap": 31103115264
+      "market_cap": 31323848704
     },
     {
       "code": "EXC",
@@ -533,7 +533,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.358335,
-      "pbr": null,
+      "pbr": 22.350464,
       "change_percent": 5.8631662,
       "market_cap": 168538456064
     }
@@ -548,5 +548,5 @@
       "market_cap": 105923731456
     }
   ],
-  "generated_at": "2026-09-08T10:07:02+00:00"
+  "generated_at": "2026-09-08T12:08:29+00:00"
 }
