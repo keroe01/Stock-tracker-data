@@ -30,7 +30,7 @@
       "per": 10.05293,
       "pbr": 2.312878,
       "change_percent": -3.23872,
-      "market_cap": 45841162240
+      "market_cap": 45493407744
     },
     {
       "code": "ADBE",
@@ -46,7 +46,7 @@
       "per": 15.385944,
       "pbr": 2.7481687,
       "change_percent": -3.02788,
-      "market_cap": 30375399424
+      "market_cap": 30161348608
     },
     {
       "code": "EXC",
@@ -84,7 +84,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.723728,
-      "pbr": 22.82094,
+      "pbr": null,
       "change_percent": 2.1377699999999997,
       "market_cap": 172086181888
     },
@@ -134,7 +134,7 @@
       "per": 20.011099,
       "pbr": null,
       "change_percent": -6.720470000000001,
-      "market_cap": 139710595072
+      "market_cap": 135473905664
     },
     {
       "code": "REGN",
@@ -150,7 +150,7 @@
       "per": 20.248446,
       "pbr": 3.4399068,
       "change_percent": -3.32148,
-      "market_cap": 31403853824
+      "market_cap": 30181451776
     },
     {
       "code": "BKR",
@@ -184,7 +184,7 @@
       "per": 37.956272,
       "pbr": 1.4779803,
       "change_percent": 0.215838,
-      "market_cap": 56164200448
+      "market_cap": 55905947648
     },
     {
       "code": "EXC",
@@ -256,7 +256,7 @@
       "per": 10.05293,
       "pbr": 2.312878,
       "change_percent": -3.23872,
-      "market_cap": 45841162240
+      "market_cap": 45493407744
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 15.385944,
       "pbr": 2.7481687,
       "change_percent": -3.02788,
-      "market_cap": 30375399424
+      "market_cap": 30161348608
     },
     {
       "code": "MDLZ",
@@ -288,7 +288,7 @@
       "per": 22.575092,
       "pbr": 2.9625535,
       "change_percent": 0.571153,
-      "market_cap": 79111340032
+      "market_cap": 78658871296
     },
     {
       "code": "PCAR",
@@ -320,7 +320,7 @@
       "per": 20.248446,
       "pbr": 3.4399068,
       "change_percent": -3.32148,
-      "market_cap": 31403853824
+      "market_cap": 30181451776
     }
   ],
   "rise": [
@@ -354,7 +354,7 @@
       "per": null,
       "pbr": 6.465193,
       "change_percent": 7.72561,
-      "market_cap": 61920694272
+      "market_cap": 66300055552
     },
     {
       "code": "STX",
@@ -362,7 +362,7 @@
       "per": 64.92319,
       "pbr": 94.64992,
       "change_percent": 6.487850000000001,
-      "market_cap": 205294256128
+      "market_cap": 204972769280
     },
     {
       "code": "AMD",
@@ -376,7 +376,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 51.10714,
-      "pbr": 16.937225,
+      "pbr": 18.526115,
       "change_percent": 4.2097299999999995,
       "market_cap": 58168139776
     },
@@ -418,7 +418,7 @@
       "per": null,
       "pbr": 15.893744,
       "change_percent": 3.73099,
-      "market_cap": 2021842485248
+      "market_cap": 2023007846400
     },
     {
       "code": "QCOM",
@@ -456,7 +456,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.723728,
-      "pbr": 22.82094,
+      "pbr": null,
       "change_percent": 2.1377699999999997,
       "market_cap": 172086181888
     },
@@ -509,7 +509,7 @@
       "per": 10.05293,
       "pbr": 2.312878,
       "change_percent": -3.23872,
-      "market_cap": 45841162240
+      "market_cap": 45493407744
     },
     {
       "code": "GEHC",
@@ -517,7 +517,7 @@
       "per": 15.385944,
       "pbr": 2.7481687,
       "change_percent": -3.02788,
-      "market_cap": 30375399424
+      "market_cap": 30161348608
     },
     {
       "code": "EXC",
@@ -533,7 +533,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.723728,
-      "pbr": 22.82094,
+      "pbr": null,
       "change_percent": 2.1377699999999997,
       "market_cap": 172086181888
     },
@@ -556,5 +556,5 @@
       "market_cap": 48021884928
     }
   ],
-  "generated_at": "2026-09-09T04:06:20+00:00"
+  "generated_at": "2026-09-09T06:08:02+00:00"
 }
