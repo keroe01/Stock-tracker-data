@@ -30,7 +30,7 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "ADBE",
@@ -46,7 +46,7 @@
       "per": 14.801843,
       "pbr": 2.643839,
       "change_percent": -1.4270375,
-      "market_cap": 29016324096
+      "market_cap": 29222246400
     },
     {
       "code": "EXC",
@@ -84,7 +84,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.128576,
-      "pbr": null,
+      "pbr": 22.038248,
       "change_percent": -4.4268902,
       "market_cap": 166184124416
     },
@@ -118,7 +118,7 @@
       "per": 19.099379,
       "pbr": 3.2446976,
       "change_percent": -3.99625,
-      "market_cap": 28468703232
+      "market_cap": 29621733376
     },
     {
       "code": "BKR",
@@ -142,7 +142,7 @@
       "per": 19.37,
       "pbr": null,
       "change_percent": 0.51894663,
-      "market_cap": 130988163072
+      "market_cap": 135084564480
     },
     {
       "code": "REGN",
@@ -192,7 +192,7 @@
       "per": 39.121906,
       "pbr": 1.5204726,
       "change_percent": 1.3620858,
-      "market_cap": 57513263104
+      "market_cap": 57778941952
     },
     {
       "code": "MSTR",
@@ -256,7 +256,7 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 14.801843,
       "pbr": 2.643839,
       "change_percent": -1.4270375,
-      "market_cap": 29016324096
+      "market_cap": 29222246400
     },
     {
       "code": "BKR",
@@ -296,7 +296,7 @@
       "per": 22.882784,
       "pbr": 3.0029323,
       "change_percent": 0.08010742,
-      "market_cap": 79730966528
+      "market_cap": 80189603840
     },
     {
       "code": "PCAR",
@@ -320,7 +320,7 @@
       "per": 19.099379,
       "pbr": 3.2446976,
       "change_percent": -3.99625,
-      "market_cap": 28468703232
+      "market_cap": 29621733376
     }
   ],
   "rise": [
@@ -338,7 +338,7 @@
       "per": 24.191538,
       "pbr": 33.335804,
       "change_percent": 3.0911928,
-      "market_cap": 105649618944
+      "market_cap": 105244237824
     },
     {
       "code": "TTWO",
@@ -370,7 +370,7 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "ISRG",
@@ -426,7 +426,7 @@
       "per": 39.121906,
       "pbr": 1.5204726,
       "change_percent": 1.3620858,
-      "market_cap": 57513263104
+      "market_cap": 57778941952
     },
     {
       "code": "WBD",
@@ -500,7 +500,7 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     }
   ],
   "per_pbr": [
@@ -526,7 +526,7 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "GEHC",
@@ -534,7 +534,7 @@
       "per": 14.801843,
       "pbr": 2.643839,
       "change_percent": -1.4270375,
-      "market_cap": 29016324096
+      "market_cap": 29222246400
     },
     {
       "code": "EXC",
@@ -560,7 +560,7 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "GOOG",
@@ -594,7 +594,7 @@
       "per": 39.121906,
       "pbr": 1.5204726,
       "change_percent": 1.3620858,
-      "market_cap": 57513263104
+      "market_cap": 57778941952
     },
     {
       "code": "WBD",
@@ -610,7 +610,7 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "SNPS",
@@ -621,5 +621,5 @@
       "market_cap": 76112330752
     }
   ],
-  "generated_at": "2026-09-10T20:17:13+00:00"
+  "generated_at": "2026-09-10T23:35:51+00:00"
 }

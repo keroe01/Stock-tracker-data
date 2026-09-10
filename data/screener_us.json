@@ -22,7 +22,7 @@
       "per": 5.5430713,
       "pbr": 2.1356423,
       "change_percent": -0.134949,
-      "market_cap": 10558892032
+      "market_cap": 10554733568
     },
     {
       "code": "EIX",
@@ -37,8 +37,8 @@
       "name": "FIDELITY NATIONAL INFO SERV",
       "per": 5.9170504,
       "pbr": 1.2393425,
-      "change_percent": 1.1820351,
-      "market_cap": 19864991744
+      "change_percent": 1.18204,
+      "market_cap": 19910184960
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.5273867,
       "pbr": 1.4081208,
       "change_percent": 0.088434777,
-      "market_cap": 32826241024
+      "market_cap": 32804198400
     },
     {
       "code": "SYF",
@@ -110,15 +110,15 @@
       "per": 8.3508625,
       "pbr": 1.1695745,
       "change_percent": 0.2587456,
-      "market_cap": 22425772032
+      "market_cap": 23174098944
     },
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.435643,
-      "pbr": 1.5919282,
-      "change_percent": 1.63022,
-      "market_cap": 175146975232
+      "per": 8.4323435,
+      "pbr": 1.5913054,
+      "change_percent": 1.5904600000000002,
+      "market_cap": 175078457344
     },
     {
       "code": "MKC",
@@ -174,9 +174,9 @@
       "code": "MOS",
       "name": "MOSAIC CO/THE",
       "per": null,
-      "pbr": 0.7048971,
-      "change_percent": -2.1931501,
-      "market_cap": 8080907264
+      "pbr": 0.7043425,
+      "change_percent": -2.2701,
+      "market_cap": 8074549248
     },
     {
       "code": "TAP",
@@ -213,10 +213,10 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.583334,
-      "pbr": 0.9332654,
-      "change_percent": -1.92383,
-      "market_cap": 27224141824
+      "per": 9.585272,
+      "pbr": 0.9334541,
+      "change_percent": -1.9040000000000001,
+      "market_cap": 27229646848
     },
     {
       "code": "PCG",
@@ -240,7 +240,7 @@
       "per": 346.0,
       "pbr": 0.98857147,
       "change_percent": 1.5655562,
-      "market_cap": 11645796352
+      "market_cap": 11617016832
     },
     {
       "code": "CHTR",
@@ -288,7 +288,7 @@
       "per": 20.674208,
       "pbr": 1.08765,
       "change_percent": 2.65109,
-      "market_cap": 9486766080
+      "market_cap": 9668941824
     },
     {
       "code": "HBAN",
@@ -312,15 +312,15 @@
       "per": 8.3508625,
       "pbr": 1.1695745,
       "change_percent": 0.2587456,
-      "market_cap": 22425772032
+      "market_cap": 23174098944
     },
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.943904,
-      "pbr": 1.2073594,
-      "change_percent": 0.5297499699999999,
-      "market_cap": 232375320576
+      "per": 14.940668,
+      "pbr": 1.2070979,
+      "change_percent": 0.50798,
+      "market_cap": 232324988928
     }
   ],
   "rise": [
@@ -330,15 +330,15 @@
       "per": 43.53886,
       "pbr": 2.2038922,
       "change_percent": 9.7857304,
-      "market_cap": 12644228096
+      "market_cap": 12638613504
     },
     {
       "code": "RDDT",
       "name": "REDDIT INC CL A",
-      "per": 36.047565,
-      "pbr": 9.094182,
-      "change_percent": 6.0946498,
-      "market_cap": 29891684352
+      "per": 36.041763,
+      "pbr": 9.092718,
+      "change_percent": 6.077570000000001,
+      "market_cap": 29886873600
     },
     {
       "code": "ELV",
@@ -368,9 +368,9 @@
       "code": "F",
       "name": "FORD MOTOR CO",
       "per": null,
-      "pbr": 1.5516856,
-      "change_percent": 3.34572,
-      "market_cap": 55427579904
+      "pbr": 1.549453,
+      "change_percent": 3.19703,
+      "market_cap": 55347830784
     },
     {
       "code": "APP",
@@ -378,7 +378,7 @@
       "per": 24.191538,
       "pbr": 33.335804,
       "change_percent": 3.0911928,
-      "market_cap": 105649618944
+      "market_cap": 105244237824
     },
     {
       "code": "GDDY",
@@ -410,7 +410,7 @@
       "per": 20.674208,
       "pbr": 1.08765,
       "change_percent": 2.65109,
-      "market_cap": 9486766080
+      "market_cap": 9668941824
     },
     {
       "code": "ADSK",
@@ -437,14 +437,6 @@
       "market_cap": 20707336192
     },
     {
-      "code": "WST",
-      "name": "WEST PHARMACEUTICAL SERVICES",
-      "per": 44.04859,
-      "pbr": 8.109902,
-      "change_percent": 2.23185,
-      "market_cap": 24241633280
-    },
-    {
       "code": "BIIB",
       "name": "BIOGEN INC",
       "per": 38.264652,
@@ -466,7 +458,15 @@
       "per": 10.077505,
       "pbr": 2.3185318,
       "change_percent": 2.1851702,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
+    },
+    {
+      "code": "WST",
+      "name": "WEST PHARMACEUTICAL SERVICES",
+      "per": 44.02174,
+      "pbr": 8.104959,
+      "change_percent": 2.16953,
+      "market_cap": 24226854912
     },
     {
       "code": "DVN",
@@ -534,7 +534,7 @@
       "per": 8.3508625,
       "pbr": 1.1695745,
       "change_percent": 0.2587456,
-      "market_cap": 22425772032
+      "market_cap": 23174098944
     }
   ],
   "per_rise": [
@@ -578,8 +578,8 @@
       "per": 20.674208,
       "pbr": 1.08765,
       "change_percent": 2.65109,
-      "market_cap": 9486766080
+      "market_cap": 9668941824
     }
   ],
-  "generated_at": "2026-09-10T20:17:13+00:00"
+  "generated_at": "2026-09-10T23:35:50+00:00"
 }
