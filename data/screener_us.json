@@ -22,7 +22,7 @@
       "per": 5.5393257,
       "pbr": 2.1341991,
       "change_percent": -0.06756909999999999,
-      "market_cap": 10547602432
+      "market_cap": 10551757824
     },
     {
       "code": "EIX",
@@ -38,7 +38,7 @@
       "per": 5.858679,
       "pbr": 1.2271162,
       "change_percent": 0.157557,
-      "market_cap": 19713769472
+      "market_cap": 19669022720
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.5187793,
       "pbr": 1.4065107,
       "change_percent": -0.11434575,
-      "market_cap": 32766689280
+      "market_cap": 32788705280
     },
     {
       "code": "HON",
@@ -110,7 +110,7 @@
       "per": 8.175,
       "pbr": 1.1449442,
       "change_percent": -2.1059161,
-      "market_cap": 22686072832
+      "market_cap": 21953505280
     },
     {
       "code": "MKC",
@@ -123,10 +123,10 @@
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.59736,
-      "pbr": 1.6224464,
-      "change_percent": 1.95695,
-      "market_cap": 178504646656
+      "per": 8.60066,
+      "pbr": 1.6230693,
+      "change_percent": 1.99609,
+      "market_cap": 178573164544
     },
     {
       "code": "NCLH",
@@ -155,10 +155,10 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.620155,
-      "pbr": 0.9368512,
-      "change_percent": 0.363931,
-      "market_cap": 27328743424
+      "per": 9.624031,
+      "pbr": 0.9372287,
+      "change_percent": 0.404369,
+      "market_cap": 27339753472
     }
   ],
   "pbr": [
@@ -174,9 +174,9 @@
       "code": "MOS",
       "name": "MOSAIC CO/THE",
       "per": null,
-      "pbr": 0.6987965,
-      "change_percent": -0.7873969999999999,
-      "market_cap": 8010970624
+      "pbr": 0.69851923,
+      "change_percent": -0.826768,
+      "market_cap": 8007791616
     },
     {
       "code": "TAP",
@@ -213,10 +213,10 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.620155,
-      "pbr": 0.9368512,
-      "change_percent": 0.363931,
-      "market_cap": 27328743424
+      "per": 9.624031,
+      "pbr": 0.9372287,
+      "change_percent": 0.404369,
+      "market_cap": 27339753472
     },
     {
       "code": "PCG",
@@ -248,7 +248,7 @@
       "per": 353.33334,
       "pbr": 1.0095239,
       "change_percent": 2.1194631,
-      "market_cap": 11863235584
+      "market_cap": 11892625408
     },
     {
       "code": "GPN",
@@ -288,7 +288,7 @@
       "per": 20.606335,
       "pbr": 1.0840793,
       "change_percent": -0.328294,
-      "market_cap": 9637198848
+      "market_cap": 9455622144
     },
     {
       "code": "EXE",
@@ -296,7 +296,7 @@
       "per": 8.175,
       "pbr": 1.1449442,
       "change_percent": -2.1059161,
-      "market_cap": 22686072832
+      "market_cap": 21953505280
     },
     {
       "code": "HBAN",
@@ -309,7 +309,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.299511,
+      "per": 13.348467,
       "pbr": 1.1633055,
       "change_percent": -0.265861,
       "market_cap": 22239690752
@@ -317,28 +317,28 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 14.957974,
-      "pbr": 1.2097998,
-      "change_percent": 0.22382499000000003,
-      "market_cap": 232845000704
+      "per": 14.959053,
+      "pbr": 1.2098869,
+      "change_percent": 0.23105199999999998,
+      "market_cap": 232861794304
     }
   ],
   "rise": [
     {
       "code": "HPE",
       "name": "HEWLETT PACKARD ENTERPRISE",
-      "per": 32.0,
-      "pbr": 3.1095972,
-      "change_percent": 12.4230005,
-      "market_cap": 82409021440
+      "per": 32.005154,
+      "pbr": 3.1100981,
+      "change_percent": 12.441099999999999,
+      "market_cap": 82422292480
     },
     {
       "code": "DELL",
       "name": "DELL TECHNOLOGIES  C",
-      "per": 33.0297,
+      "per": 33.039604,
       "pbr": null,
-      "change_percent": 11.9419,
-      "market_cap": 360582119424
+      "change_percent": 11.9754,
+      "market_cap": 360690188288
     },
     {
       "code": "NTAP",
@@ -378,7 +378,7 @@
       "per": 12.300613,
       "pbr": 2.5690305,
       "change_percent": 7.276610999999999,
-      "market_cap": 25939607552
+      "market_cap": 26344310784
     },
     {
       "code": "FLEX",
@@ -391,10 +391,10 @@
     {
       "code": "FIX",
       "name": "COMFORT SYSTEMS USA INC",
-      "per": 41.657383,
-      "pbr": 92.07519,
-      "change_percent": 6.2377,
-      "market_cap": 59479822336
+      "per": 41.67661,
+      "pbr": 92.117676,
+      "change_percent": 6.28673,
+      "market_cap": 59507273728
     },
     {
       "code": "ANET",
@@ -442,7 +442,7 @@
       "per": 45.777203,
       "pbr": 2.3171947,
       "change_percent": 5.141020999999999,
-      "market_cap": 13288367104
+      "market_cap": 13294270464
     },
     {
       "code": "JBL",
@@ -517,18 +517,18 @@
       "per": 8.175,
       "pbr": 1.1449442,
       "change_percent": -2.1059161,
-      "market_cap": 22686072832
+      "market_cap": 21953505280
     },
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.620155,
-      "pbr": 0.9368512,
-      "change_percent": 0.363931,
-      "market_cap": 27328743424
+      "per": 9.624031,
+      "pbr": 0.9372287,
+      "change_percent": 0.404369,
+      "market_cap": 27339753472
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-11T20:16:16+00:00"
+  "generated_at": "2026-09-11T23:44:37+00:00"
 }
