@@ -30,7 +30,7 @@
       "per": 9.853974,
       "pbr": 2.3185318,
       "change_percent": 2.1851700000000003,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "ADBE",
@@ -46,7 +46,7 @@
       "per": 15.009344,
       "pbr": 2.643839,
       "change_percent": -1.42704,
-      "market_cap": 29016324096
+      "market_cap": 29222246400
     },
     {
       "code": "EXC",
@@ -92,7 +92,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 17.921074,
-      "pbr": null,
+      "pbr": 22.038248,
       "change_percent": -4.42689,
       "market_cap": 166184124416
     },
@@ -105,12 +105,20 @@
       "market_cap": 190034509824
     },
     {
+      "code": "NXPI",
+      "name": "NXP Semiconductors",
+      "per": 19.046677,
+      "pbr": 5.011729,
+      "change_percent": 1.40829,
+      "market_cap": 57106358272
+    },
+    {
       "code": "INTU",
       "name": "Intuit",
-      "per": 19.013372,
+      "per": 19.082977,
       "pbr": 4.4794054,
       "change_percent": -0.372687,
-      "market_cap": 85554159616
+      "market_cap": 83583401984
     },
     {
       "code": "BKNG",
@@ -118,15 +126,7 @@
       "per": 19.262983,
       "pbr": null,
       "change_percent": 0.5189469999999999,
-      "market_cap": 130988163072
-    },
-    {
-      "code": "NXPI",
-      "name": "NXP Semiconductors",
-      "per": 19.322952,
-      "pbr": 5.011729,
-      "change_percent": 1.40829,
-      "market_cap": 57106358272
+      "market_cap": 135084564480
     },
     {
       "code": "CPRT",
@@ -134,7 +134,7 @@
       "per": 19.83871,
       "pbr": 3.2446976,
       "change_percent": -3.99625,
-      "market_cap": 28468703232
+      "market_cap": 29621733376
     },
     {
       "code": "REGN",
@@ -192,7 +192,7 @@
       "per": 38.607143,
       "pbr": 1.5204726,
       "change_percent": 1.36209,
-      "market_cap": 57513263104
+      "market_cap": 57778941952
     },
     {
       "code": "MSTR",
@@ -256,7 +256,7 @@
       "per": 9.853974,
       "pbr": 2.3185318,
       "change_percent": 2.1851700000000003,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 15.009344,
       "pbr": 2.643839,
       "change_percent": -1.42704,
-      "market_cap": 29016324096
+      "market_cap": 29222246400
     },
     {
       "code": "BKR",
@@ -296,7 +296,7 @@
       "per": 22.882784,
       "pbr": 3.0029323,
       "change_percent": 0.08010739700000001,
-      "market_cap": 79730966528
+      "market_cap": 80189603840
     },
     {
       "code": "PCAR",
@@ -309,7 +309,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 27.954058,
+      "per": 28.740704,
       "pbr": 3.1774797,
       "change_percent": -2.6998501,
       "market_cap": 101321285632
@@ -320,7 +320,7 @@
       "per": 19.83871,
       "pbr": 3.2446976,
       "change_percent": -3.99625,
-      "market_cap": 28468703232
+      "market_cap": 29621733376
     }
   ],
   "rise": [
@@ -338,7 +338,7 @@
       "per": 23.469402,
       "pbr": 33.335804,
       "change_percent": 3.09119,
-      "market_cap": 105649618944
+      "market_cap": 105244237824
     },
     {
       "code": "TTWO",
@@ -370,7 +370,7 @@
       "per": 9.853974,
       "pbr": 2.3185318,
       "change_percent": 2.1851700000000003,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "ISRG",
@@ -407,7 +407,7 @@
     {
       "code": "NXPI",
       "name": "NXP Semiconductors",
-      "per": 19.322952,
+      "per": 19.046677,
       "pbr": 5.011729,
       "change_percent": 1.40829,
       "market_cap": 57106358272
@@ -426,7 +426,7 @@
       "per": 38.607143,
       "pbr": 1.5204726,
       "change_percent": 1.36209,
-      "market_cap": 57513263104
+      "market_cap": 57778941952
     },
     {
       "code": "WBD",
@@ -439,7 +439,7 @@
     {
       "code": "FTNT",
       "name": "Fortinet",
-      "per": 56.130745,
+      "per": 55.54196,
       "pbr": 75.141914,
       "change_percent": 1.03677,
       "market_cap": 116550418432
@@ -448,7 +448,7 @@
       "code": "PANW",
       "name": "Palo Alto Networks",
       "per": 294.33914,
-      "pbr": 9.946226,
+      "pbr": 10.059137,
       "change_percent": 1.0116300999999999,
       "market_cap": 275869335552
     },
@@ -463,7 +463,7 @@
     {
       "code": "ADP",
       "name": "Automatic Data Processing",
-      "per": 24.45837,
+      "per": 24.280653,
       "pbr": 17.63274,
       "change_percent": 0.79556,
       "market_cap": 106200244224
@@ -500,7 +500,7 @@
       "per": 9.853974,
       "pbr": 2.3185318,
       "change_percent": 2.1851700000000003,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     }
   ],
   "per_pbr": [
@@ -526,7 +526,7 @@
       "per": 9.853974,
       "pbr": 2.3185318,
       "change_percent": 2.1851700000000003,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "GEHC",
@@ -534,7 +534,7 @@
       "per": 15.009344,
       "pbr": 2.643839,
       "change_percent": -1.42704,
-      "market_cap": 29016324096
+      "market_cap": 29222246400
     },
     {
       "code": "EXC",
@@ -560,7 +560,7 @@
       "per": 9.853974,
       "pbr": 2.3185318,
       "change_percent": 2.1851700000000003,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "GOOG",
@@ -573,7 +573,7 @@
     {
       "code": "NXPI",
       "name": "NXP Semiconductors",
-      "per": 19.322952,
+      "per": 19.046677,
       "pbr": 5.011729,
       "change_percent": 1.40829,
       "market_cap": 57106358272
@@ -594,7 +594,7 @@
       "per": 38.607143,
       "pbr": 1.5204726,
       "change_percent": 1.36209,
-      "market_cap": 57513263104
+      "market_cap": 57778941952
     },
     {
       "code": "WBD",
@@ -610,7 +610,7 @@
       "per": 9.853974,
       "pbr": 2.3185318,
       "change_percent": 2.1851700000000003,
-      "market_cap": 45604618240
+      "market_cap": 45953220608
     },
     {
       "code": "SNPS",
@@ -621,5 +621,5 @@
       "market_cap": 76112330752
     }
   ],
-  "generated_at": "2026-09-11T02:14:58+00:00"
+  "generated_at": "2026-09-11T08:27:19+00:00"
 }
