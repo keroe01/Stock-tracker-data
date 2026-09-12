@@ -105,14 +105,6 @@
       "market_cap": 58627330048
     },
     {
-      "code": "CPRT",
-      "name": "Copart",
-      "per": 19.076433,
-      "pbr": 3.1602829,
-      "change_percent": -2.60162,
-      "market_cap": 27728054272
-    },
-    {
       "code": "TMUS",
       "name": "T-Mobile US",
       "per": 19.092146,
@@ -127,6 +119,14 @@
       "pbr": null,
       "change_percent": 0.0057469402,
       "market_cap": 130680094720
+    },
+    {
+      "code": "CPRT",
+      "name": "Copart",
+      "per": 19.322582,
+      "pbr": 3.1602829,
+      "change_percent": -2.60162,
+      "market_cap": 27728054272
     },
     {
       "code": "REGN",
@@ -301,7 +301,7 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 19.076433,
+      "per": 19.322582,
       "pbr": 3.1602829,
       "change_percent": -2.60162,
       "market_cap": 27728054272
@@ -327,7 +327,7 @@
     {
       "code": "ADI",
       "name": "Analog Devices",
-      "per": 42.896942,
+      "per": 45.039238,
       "pbr": 5.4706163,
       "change_percent": 4.852589999999999,
       "market_cap": 183543709696
@@ -383,7 +383,7 @@
     {
       "code": "MCHP",
       "name": "Microchip Technology",
-      "per": 106.0,
+      "per": 109.11764,
       "pbr": 6.245791,
       "change_percent": 3.66023,
       "market_cap": 40291246080
@@ -399,7 +399,7 @@
     {
       "code": "HONA",
       "name": "Honeywell Aerospace",
-      "per": 46.961426,
+      "per": 48.25,
       "pbr": null,
       "change_percent": 2.9333299999999998,
       "market_cap": 50160939008
@@ -555,5 +555,5 @@
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-09-12T13:17:34+00:00"
+  "generated_at": "2026-09-12T16:40:57+00:00"
 }

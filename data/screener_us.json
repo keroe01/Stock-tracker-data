@@ -81,14 +81,6 @@
       "market_cap": 14252378112
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 7.9750204,
-      "pbr": 2.306993,
-      "change_percent": 2.1573100000000003,
-      "market_cap": 10956971008
-    },
-    {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 8.016997,
@@ -105,6 +97,14 @@
       "market_cap": 89425649664
     },
     {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 8.145679,
+      "pbr": 2.306993,
+      "change_percent": 2.1573100000000003,
+      "market_cap": 10956971008
+    },
+    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 8.175,
@@ -113,20 +113,20 @@
       "market_cap": 21953505280
     },
     {
-      "code": "T",
-      "name": "AT+T INC",
-      "per": 8.433657,
-      "pbr": 1.6230693,
-      "change_percent": 1.99609,
-      "market_cap": 178573164544
-    },
-    {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.496689,
+      "per": 8.539101,
       "pbr": 1.9723289,
       "change_percent": 0.430531,
       "market_cap": 13797462016
+    },
+    {
+      "code": "T",
+      "name": "AT+T INC",
+      "per": 8.60066,
+      "pbr": 1.6230693,
+      "change_percent": 1.99609,
+      "market_cap": 178573164544
     },
     {
       "code": "NCLH",
@@ -309,7 +309,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.381304,
+      "per": 13.348467,
       "pbr": 1.1633055,
       "change_percent": -0.265861,
       "market_cap": 22239690752
@@ -455,7 +455,7 @@
     {
       "code": "ADI",
       "name": "ANALOG DEVICES INC",
-      "per": 42.896942,
+      "per": 45.039238,
       "pbr": 5.4706163,
       "change_percent": 4.852589999999999,
       "market_cap": 183543709696
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-12T13:17:34+00:00"
+  "generated_at": "2026-09-12T16:40:56+00:00"
 }
