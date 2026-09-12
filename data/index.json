@@ -3,11 +3,11 @@
     "symbol": "^KS11",
     "name": "KOSPI",
     "group": "main",
-    "price": 7033.919921875,
-    "change": -17.72021484375,
-    "change_percent": -0.25129210368349175,
+    "price": 6909.91015625,
+    "change": -124.009765625,
+    "change_percent": -1.7630249846794288,
     "currency": "KRW",
-    "collected_at": "2026-09-11T23:44:01+00:00"
+    "collected_at": "2026-09-12T02:20:30+00:00"
   },
   {
     "symbol": "^IXIC",
@@ -17,7 +17,7 @@
     "change": 251.314453125,
     "change_percent": 0.9635654640488831,
     "currency": "USD",
-    "collected_at": "2026-09-11T23:44:01+00:00"
+    "collected_at": "2026-09-12T02:20:30+00:00"
   },
   {
     "symbol": "^KS200",
@@ -27,7 +27,7 @@
     "change": -21.91002929687511,
     "change_percent": -1.9700960586329932,
     "currency": "KRW",
-    "collected_at": "2026-09-11T23:44:01+00:00"
+    "collected_at": "2026-09-12T02:20:30+00:00"
   },
   {
     "symbol": "^GSPC",
@@ -37,7 +37,7 @@
     "change": 65.27978515625,
     "change_percent": 0.8598836028398098,
     "currency": "USD",
-    "collected_at": "2026-09-11T23:44:02+00:00"
+    "collected_at": "2026-09-12T02:20:31+00:00"
   },
   {
     "symbol": "^DJI",
@@ -47,7 +47,7 @@
     "change": 509.1875,
     "change_percent": 0.9780011269161137,
     "currency": "USD",
-    "collected_at": "2026-09-11T23:44:02+00:00"
+    "collected_at": "2026-09-12T02:20:31+00:00"
   },
   {
     "symbol": "ES=F",
@@ -57,7 +57,7 @@
     "change": 62.25,
     "change_percent": 0.819240639599921,
     "currency": "USD",
-    "collected_at": "2026-09-11T23:44:03+00:00"
+    "collected_at": "2026-09-12T02:20:31+00:00"
   },
   {
     "symbol": "YM=F",
@@ -67,7 +67,7 @@
     "change": 481.0,
     "change_percent": 0.923313177848162,
     "currency": "USD",
-    "collected_at": "2026-09-11T23:44:03+00:00"
+    "collected_at": "2026-09-12T02:20:31+00:00"
   },
   {
     "symbol": "NQ=F",
@@ -77,6 +77,6 @@
     "change": 256.5,
     "change_percent": 0.8803768630782299,
     "currency": "USD",
-    "collected_at": "2026-09-11T23:44:03+00:00"
+    "collected_at": "2026-09-12T02:20:32+00:00"
   }
 ]

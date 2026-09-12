@@ -5,7 +5,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.7931304,
       "pbr": 1.0256681,
-      "change_percent": 3.706607,
+      "change_percent": 3.70661,
       "market_cap": 19646515200
     },
     {
@@ -22,7 +22,7 @@
       "per": 5.5393257,
       "pbr": 2.1341991,
       "change_percent": -0.06756909999999999,
-      "market_cap": 10551757824
+      "market_cap": 10547602432
     },
     {
       "code": "EIX",
@@ -38,7 +38,7 @@
       "per": 5.858679,
       "pbr": 1.2271162,
       "change_percent": 0.157557,
-      "market_cap": 19669022720
+      "market_cap": 19713769472
     },
     {
       "code": "UHS",
@@ -53,15 +53,15 @@
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.5187793,
       "pbr": 1.4065107,
-      "change_percent": -0.11434575,
-      "market_cap": 32788705280
+      "change_percent": -0.11434599,
+      "market_cap": 32766689280
     },
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
       "per": 7.783077,
       "pbr": 3.4599142,
-      "change_percent": 0.089033507,
+      "change_percent": 0.0890335,
       "market_cap": 64135979008
     },
     {
@@ -85,7 +85,7 @@
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 8.013214,
       "pbr": 1.5624281,
-      "change_percent": 0.12383201,
+      "change_percent": 0.123832,
       "market_cap": 26060572672
     },
     {
@@ -93,7 +93,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 8.076923,
       "pbr": 0.9956145,
-      "change_percent": 0.11919223000000001,
+      "change_percent": 0.11919199999999999,
       "market_cap": 89425649664
     },
     {
@@ -101,7 +101,7 @@
       "name": "LULULEMON ATHLETICA INC",
       "per": 8.145679,
       "pbr": 2.306993,
-      "change_percent": 2.157312,
+      "change_percent": 2.1573100000000003,
       "market_cap": 10956971008
     },
     {
@@ -109,8 +109,8 @@
       "name": "EXPAND ENERGY CORP",
       "per": 8.175,
       "pbr": 1.1449442,
-      "change_percent": -2.1059161,
-      "market_cap": 21953505280
+      "change_percent": -2.1059200000000002,
+      "market_cap": 22686072832
     },
     {
       "code": "MKC",
@@ -137,6 +137,14 @@
       "market_cap": 6805163520
     },
     {
+      "code": "FISV",
+      "name": "FISERV INC",
+      "per": 9.378182,
+      "pbr": null,
+      "change_percent": 5.4159,
+      "market_cap": 27428528128
+    },
+    {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
       "per": 9.423635,
@@ -149,16 +157,8 @@
       "name": "APA CORP",
       "per": 9.436709,
       "pbr": 2.2340426,
-      "change_percent": 0.44913716000000004,
+      "change_percent": 0.44913699999999995,
       "market_cap": 15671223296
-    },
-    {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 9.624031,
-      "pbr": 0.9372287,
-      "change_percent": 0.404369,
-      "market_cap": 27339753472
     }
   ],
   "pbr": [
@@ -191,7 +191,7 @@
       "name": "KRAFT HEINZ CO/THE",
       "per": null,
       "pbr": 0.8103034,
-      "change_percent": 0.8610127000000001,
+      "change_percent": 0.861013,
       "market_cap": 29171265536
     },
     {
@@ -239,7 +239,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 8.076923,
       "pbr": 0.9956145,
-      "change_percent": 0.11919223000000001,
+      "change_percent": 0.11919199999999999,
       "market_cap": 89425649664
     },
     {
@@ -247,8 +247,8 @@
       "name": "PARAMOUNT SKYDANCE CL B",
       "per": 353.33334,
       "pbr": 1.0095239,
-      "change_percent": 2.1194631,
-      "market_cap": 11892625408
+      "change_percent": 2.1194601,
+      "market_cap": 11863235584
     },
     {
       "code": "GPN",
@@ -263,7 +263,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.7931304,
       "pbr": 1.0256681,
-      "change_percent": 3.706607,
+      "change_percent": 3.70661,
       "market_cap": 19646515200
     },
     {
@@ -288,28 +288,28 @@
       "per": 20.606335,
       "pbr": 1.0840793,
       "change_percent": -0.328294,
-      "market_cap": 9455622144
+      "market_cap": 9637198848
     },
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 8.175,
       "pbr": 1.1449442,
-      "change_percent": -2.1059161,
-      "market_cap": 21953505280
+      "change_percent": -2.1059200000000002,
+      "market_cap": 22686072832
     },
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
       "per": 12.969232,
       "pbr": 1.1453027,
-      "change_percent": 0.77705365,
+      "change_percent": 0.777054,
       "market_cap": 34064195584
     },
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 13.348467,
+      "per": 13.381304,
       "pbr": 1.1633055,
       "change_percent": -0.265861,
       "market_cap": 22239690752
@@ -345,7 +345,7 @@
       "name": "NETAPP INC",
       "per": 28.107193,
       "pbr": 26.124804,
-      "change_percent": 8.540301,
+      "change_percent": 8.5403,
       "market_cap": 39142379520
     },
     {
@@ -353,7 +353,7 @@
       "name": "ON SEMICONDUCTOR",
       "per": 49.764706,
       "pbr": 4.106132,
-      "change_percent": 8.50791,
+      "change_percent": 8.507909600000001,
       "market_cap": 29642719232
     },
     {
@@ -369,7 +369,7 @@
       "name": "CDW CORP/DE",
       "per": 18.506617,
       "pbr": 7.8907127,
-      "change_percent": 7.8471154,
+      "change_percent": 7.84712,
       "market_cap": 19226429440
     },
     {
@@ -377,15 +377,15 @@
       "name": "SUPER MICRO COMPUTER INC",
       "per": 12.300613,
       "pbr": 2.5690305,
-      "change_percent": 7.276610999999999,
-      "market_cap": 26344310784
+      "change_percent": 7.2766095,
+      "market_cap": 25939607552
     },
     {
       "code": "FLEX",
       "name": "FLEX LTD",
       "per": 44.702705,
       "pbr": 7.775688,
-      "change_percent": 7.193775500000001,
+      "change_percent": 7.193779999999999,
       "market_cap": 42769477632
     },
     {
@@ -407,9 +407,9 @@
     {
       "code": "FISV",
       "name": "FISERV INC",
-      "per": 9.881227,
+      "per": 9.378182,
       "pbr": null,
-      "change_percent": 5.4159034,
+      "change_percent": 5.4159,
       "market_cap": 27428528128
     },
     {
@@ -417,13 +417,13 @@
       "name": "MODERNA INC",
       "per": null,
       "pbr": 8.496312,
-      "change_percent": 5.3798903000000005,
+      "change_percent": 5.37989,
       "market_cap": 57477992448
     },
     {
       "code": "IT",
       "name": "GARTNER INC",
-      "per": 16.150179,
+      "per": 15.336464,
       "pbr": null,
       "change_percent": 5.2573,
       "market_cap": 11340923904
@@ -441,13 +441,13 @@
       "name": "SKYWORKS SOLUTIONS INC",
       "per": 45.777203,
       "pbr": 2.3171947,
-      "change_percent": 5.141020999999999,
-      "market_cap": 13294270464
+      "change_percent": 5.14102,
+      "market_cap": 13288367104
     },
     {
       "code": "JBL",
       "name": "JABIL INC",
-      "per": 39.80976,
+      "per": 37.866665,
       "pbr": 25.202438,
       "change_percent": 5.04624,
       "market_cap": 33330675712
@@ -457,7 +457,7 @@
       "name": "ANALOG DEVICES INC",
       "per": 44.98575,
       "pbr": 5.4706163,
-      "change_percent": 4.8525948,
+      "change_percent": 4.852589999999999,
       "market_cap": 183543709696
     },
     {
@@ -473,7 +473,7 @@
       "name": "NXP SEMICONDUCTORS NV",
       "per": 20.172209,
       "pbr": 5.2364616,
-      "change_percent": 4.4841359999999995,
+      "change_percent": 4.4841397999999995,
       "market_cap": 59667087360
     },
     {
@@ -492,7 +492,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 3.7931304,
       "pbr": 1.0256681,
-      "change_percent": 3.706607,
+      "change_percent": 3.70661,
       "market_cap": 19646515200
     },
     {
@@ -508,7 +508,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 8.076923,
       "pbr": 0.9956145,
-      "change_percent": 0.11919223000000001,
+      "change_percent": 0.11919199999999999,
       "market_cap": 89425649664
     },
     {
@@ -516,19 +516,20 @@
       "name": "EXPAND ENERGY CORP",
       "per": 8.175,
       "pbr": 1.1449442,
-      "change_percent": -2.1059161,
-      "market_cap": 21953505280
-    },
-    {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 9.624031,
-      "pbr": 0.9372287,
-      "change_percent": 0.404369,
-      "market_cap": 27339753472
+      "change_percent": -2.1059200000000002,
+      "market_cap": 22686072832
     }
   ],
-  "per_rise": [],
+  "per_rise": [
+    {
+      "code": "FISV",
+      "name": "FISERV INC",
+      "per": 9.378182,
+      "pbr": null,
+      "change_percent": 5.4159,
+      "market_cap": 27428528128
+    }
+  ],
   "pbr_rise": [],
-  "generated_at": "2026-09-11T23:44:37+00:00"
+  "generated_at": "2026-09-12T02:21:04+00:00"
 }
