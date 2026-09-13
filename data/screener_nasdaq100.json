@@ -20,7 +20,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.393743,
-      "pbr": 1.640669,
+      "pbr": 1.6403718,
       "change_percent": -0.038539,
       "market_cap": 110754480128
     },
@@ -30,7 +30,7 @@
       "per": 10.15501,
       "pbr": 2.3363633,
       "change_percent": 0.7690859999999999,
-      "market_cap": 46306639872
+      "market_cap": 45955358720
     },
     {
       "code": "ADBE",
@@ -46,7 +46,7 @@
       "per": 14.730414,
       "pbr": 2.6310806,
       "change_percent": -0.482562,
-      "market_cap": 29081231360
+      "market_cap": 28876302336
     },
     {
       "code": "EXC",
@@ -68,7 +68,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.61144,
-      "pbr": 21.380825,
+      "pbr": null,
       "change_percent": -2.9831,
       "market_cap": 161226686464
     },
@@ -118,7 +118,7 @@
       "per": 19.302996,
       "pbr": null,
       "change_percent": 0.0057469402,
-      "market_cap": 134766862336
+      "market_cap": 130680094720
     },
     {
       "code": "CPRT",
@@ -126,7 +126,7 @@
       "per": 19.322582,
       "pbr": 3.1602829,
       "change_percent": -2.60162,
-      "market_cap": 28851087360
+      "market_cap": 27728054272
     },
     {
       "code": "REGN",
@@ -192,7 +192,7 @@
       "per": 39.041904,
       "pbr": 1.5173635,
       "change_percent": -0.20448798,
-      "market_cap": 57660788736
+      "market_cap": 57395654656
     },
     {
       "code": "MSTR",
@@ -206,7 +206,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.393743,
-      "pbr": 1.640669,
+      "pbr": 1.6403718,
       "change_percent": -0.038539,
       "market_cap": 110754480128
     },
@@ -256,7 +256,7 @@
       "per": 10.15501,
       "pbr": 2.3363633,
       "change_percent": 0.7690859999999999,
-      "market_cap": 46306639872
+      "market_cap": 45955358720
     },
     {
       "code": "SNPS",
@@ -280,7 +280,7 @@
       "per": 14.730414,
       "pbr": 2.6310806,
       "change_percent": -0.482562,
-      "market_cap": 29081231360
+      "market_cap": 28876302336
     },
     {
       "code": "BKR",
@@ -296,7 +296,7 @@
       "per": 22.871794,
       "pbr": 3.00149,
       "change_percent": -0.0480272,
-      "market_cap": 80151093248
+      "market_cap": 79692677120
     },
     {
       "code": "CPRT",
@@ -304,7 +304,7 @@
       "per": 19.322582,
       "pbr": 3.1602829,
       "change_percent": -2.60162,
-      "market_cap": 28851087360
+      "market_cap": 27728054272
     },
     {
       "code": "CEG",
@@ -368,7 +368,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 78.17881,
-      "pbr": 11.171043,
+      "pbr": 11.348779,
       "change_percent": 4.02714,
       "market_cap": 212184170496
     },
@@ -394,7 +394,7 @@
       "per": 24.88172,
       "pbr": 34.339622,
       "change_percent": 3.01122,
-      "market_cap": 108413378560
+      "market_cap": 108830965760
     },
     {
       "code": "HONA",
@@ -440,7 +440,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 52.08779,
-      "pbr": 17.28593,
+      "pbr": 18.907534,
       "change_percent": 2.5743500999999998,
       "market_cap": 59365711872
     },
@@ -474,7 +474,7 @@
       "per": 27.934624,
       "pbr": 10.938656,
       "change_percent": 2.3328100000000003,
-      "market_cap": 73710616576
+      "market_cap": 74017030144
     },
     {
       "code": "SPCX",
@@ -482,7 +482,7 @@
       "per": null,
       "pbr": 15.659694,
       "change_percent": 2.04482,
-      "market_cap": 1992068956160
+      "market_cap": 1993217015808
     }
   ],
   "triple": [],
@@ -499,7 +499,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.393743,
-      "pbr": 1.640669,
+      "pbr": 1.6403718,
       "change_percent": -0.038539,
       "market_cap": 110754480128
     },
@@ -509,7 +509,7 @@
       "per": 10.15501,
       "pbr": 2.3363633,
       "change_percent": 0.7690859999999999,
-      "market_cap": 46306639872
+      "market_cap": 45955358720
     },
     {
       "code": "GEHC",
@@ -517,7 +517,7 @@
       "per": 14.730414,
       "pbr": 2.6310806,
       "change_percent": -0.482562,
-      "market_cap": 29081231360
+      "market_cap": 28876302336
     },
     {
       "code": "EXC",
@@ -555,5 +555,5 @@
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-09-13T02:18:41+00:00"
+  "generated_at": "2026-09-13T08:40:23+00:00"
 }
