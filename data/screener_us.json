@@ -22,15 +22,7 @@
       "per": 5.5430713,
       "pbr": 2.1356423,
       "change_percent": 0.0,
-      "market_cap": 10558892032
-    },
-    {
-      "code": "EIX",
-      "name": "EDISON INTERNATIONAL",
-      "per": 5.6305475,
-      "pbr": 1.203379,
-      "change_percent": -2.7970800000000002,
-      "market_cap": 20995450880
+      "market_cap": 10554733568
     },
     {
       "code": "FIS",
@@ -38,12 +30,20 @@
       "per": 5.7357907,
       "pbr": 1.201377,
       "change_percent": -2.2001099,
-      "market_cap": 19256459264
+      "market_cap": 19300268032
+    },
+    {
+      "code": "EIX",
+      "name": "EDISON INTERNATIONAL",
+      "per": 5.791932,
+      "pbr": 1.203379,
+      "change_percent": -2.7970800000000002,
+      "market_cap": 20995450880
     },
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.2183676,
+      "per": 7.0711718,
       "pbr": 1.3871677,
       "change_percent": 2.0779300000000003,
       "market_cap": 10422923264
@@ -54,7 +54,7 @@
       "per": 7.665087,
       "pbr": 1.4204162,
       "change_percent": -0.9290410000000001,
-      "market_cap": 33112875008
+      "market_cap": 33090639872
     },
     {
       "code": "HON",
@@ -94,12 +94,12 @@
       "per": 8.053846,
       "pbr": 1.1377001,
       "change_percent": 0.888653,
-      "market_cap": 21814603776
+      "market_cap": 22542534656
     },
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.105288,
+      "per": 8.124468,
       "pbr": 1.579635,
       "change_percent": -0.203468,
       "market_cap": 26347575296
@@ -115,7 +115,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.296173,
+      "per": 8.379832,
       "pbr": 1.9162183,
       "change_percent": -1.05179,
       "market_cap": 13404938240
@@ -145,20 +145,20 @@
       "market_cap": 36846718976
     },
     {
+      "code": "APA",
+      "name": "APA CORP",
+      "per": 9.501002,
+      "pbr": 2.3678954,
+      "change_percent": 5.28537,
+      "market_cap": 16610165760
+    },
+    {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 9.709805,
       "pbr": 0.9345865,
       "change_percent": -1.11821,
       "market_cap": 27262679040
-    },
-    {
-      "code": "FISV",
-      "name": "FISERV INC",
-      "per": 9.769531,
-      "pbr": null,
-      "change_percent": -1.90234,
-      "market_cap": 26598971392
     }
   ],
   "pbr": [
@@ -190,14 +190,14 @@
       "code": "KHC",
       "name": "KRAFT HEINZ CO/THE",
       "per": null,
-      "pbr": 0.81458545,
-      "change_percent": 1.8953402000000001,
-      "market_cap": 29325420544
+      "pbr": 0.8103034,
+      "change_percent": 0.0,
+      "market_cap": 29171265536
     },
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 12.550157,
+      "per": 12.530517,
       "pbr": 0.8921349,
       "change_percent": 0.10001499999999999,
       "market_cap": 19288473600
@@ -272,7 +272,7 @@
       "per": 20.25463,
       "pbr": 1.0414683,
       "change_percent": -2.32195,
-      "market_cap": 9083958272
+      "market_cap": 9258397696
     },
     {
       "code": "PSKY",
@@ -280,12 +280,12 @@
       "per": 367.00003,
       "pbr": 1.0485715,
       "change_percent": 1.7560099999999998,
-      "market_cap": 12352622592
+      "market_cap": 12322096128
     },
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 11.6,
+      "per": 11.520548,
       "pbr": 1.0504185,
       "change_percent": 0.718564,
       "market_cap": 61643259904
@@ -296,7 +296,7 @@
       "per": 8.053846,
       "pbr": 1.1377001,
       "change_percent": 0.888653,
-      "market_cap": 21814603776
+      "market_cap": 22542534656
     },
     {
       "code": "HBAN",
@@ -327,10 +327,10 @@
     {
       "code": "SWKS",
       "name": "SKYWORKS SOLUTIONS INC",
-      "per": 46.632126,
+      "per": 40.90909,
       "pbr": 2.36047,
       "change_percent": 13.550300000000002,
-      "market_cap": 13542550528
+      "market_cap": 13536537600
     },
     {
       "code": "RVTY",
@@ -343,7 +343,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 10.0021105,
+      "per": 9.501002,
       "pbr": 2.3678954,
       "change_percent": 5.28537,
       "market_cap": 16610165760
@@ -367,7 +367,7 @@
     {
       "code": "CIEN",
       "name": "CIENA CORP",
-      "per": 74.79418,
+      "per": 71.438034,
       "pbr": 15.519914,
       "change_percent": 4.59579,
       "market_cap": 47410843648
@@ -399,7 +399,7 @@
     {
       "code": "DGX",
       "name": "QUEST DIAGNOSTICS INC",
-      "per": 26.2293,
+      "per": 25.263805,
       "pbr": 3.61614,
       "change_percent": 3.86313,
       "market_cap": 27271049216
@@ -415,18 +415,18 @@
     {
       "code": "MPC",
       "name": "MARATHON PETROLEUM CORP",
-      "per": 14.255378,
+      "per": 13.754268,
       "pbr": 6.0946445,
       "change_percent": 3.6297098,
-      "market_cap": 115374047232
+      "market_cap": 119939244032
     },
     {
       "code": "EOG",
       "name": "EOG RESOURCES INC",
-      "per": 11.964203,
+      "per": 11.559399,
       "pbr": 2.5354576,
       "change_percent": 3.5007499999999996,
-      "market_cap": 80641122304
+      "market_cap": 81886314496
     },
     {
       "code": "MTD",
@@ -455,7 +455,7 @@
     {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 10.054896,
+      "per": 9.737068,
       "pbr": 3.5746498,
       "change_percent": 3.2764300000000004,
       "market_cap": 20512368640
@@ -466,7 +466,7 @@
       "per": 14.661317,
       "pbr": 3.355328,
       "change_percent": 3.0615399,
-      "market_cap": 106219708416
+      "market_cap": 105712615424
     },
     {
       "code": "CRWD",
@@ -479,10 +479,10 @@
     {
       "code": "DD",
       "name": "DUPONT DE NEMOURS INC",
-      "per": 55.189655,
+      "per": 53.573215,
       "pbr": 1.2557496,
       "change_percent": 3.0171300000000003,
-      "market_cap": 17290901504
+      "market_cap": 17287884800
     }
   ],
   "triple": [],
@@ -517,7 +517,7 @@
       "per": 8.053846,
       "pbr": 1.1377001,
       "change_percent": 0.888653,
-      "market_cap": 21814603776
+      "market_cap": 22542534656
     },
     {
       "code": "VICI",
@@ -528,7 +528,16 @@
       "market_cap": 27262679040
     }
   ],
-  "per_rise": [],
+  "per_rise": [
+    {
+      "code": "APA",
+      "name": "APA CORP",
+      "per": 9.501002,
+      "pbr": 2.3678954,
+      "change_percent": 5.28537,
+      "market_cap": 16610165760
+    }
+  ],
   "pbr_rise": [],
-  "generated_at": "2026-09-16T02:34:44+00:00"
+  "generated_at": "2026-09-16T08:58:51+00:00"
 }

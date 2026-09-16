@@ -20,17 +20,17 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.552027,
-      "pbr": 1.6460639,
+      "pbr": 1.6463622,
       "change_percent": -1.63769,
       "market_cap": 111138799616
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.172023,
+      "per": 10.210627,
       "pbr": 2.3402774,
       "change_percent": -0.407176,
-      "market_cap": 46032351232
+      "market_cap": 46384222208
     },
     {
       "code": "GEHC",
@@ -38,7 +38,7 @@
       "per": 14.8310175,
       "pbr": 2.6368425,
       "change_percent": -0.28015599,
-      "market_cap": 28939536384
+      "market_cap": 29144915968
     },
     {
       "code": "ADBE",
@@ -60,25 +60,17 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 15.850712,
-      "pbr": null,
+      "pbr": 19.696867,
       "change_percent": -3.5086899999999996,
       "market_cap": 148528431104
     },
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 16.00417,
+      "per": 16.449871,
       "pbr": 2.030537,
       "change_percent": -2.7039299,
       "market_cap": 37972000768
-    },
-    {
-      "code": "GOOGL",
-      "name": "Alphabet Inc.(Class A)",
-      "per": 17.318274,
-      "pbr": 6.7781363,
-      "change_percent": -1.2622,
-      "market_cap": 4219083161600
     },
     {
       "code": "GOOG",
@@ -89,9 +81,17 @@
       "market_cap": 4175666610176
     },
     {
+      "code": "GOOGL",
+      "name": "Alphabet Inc.(Class A)",
+      "per": 17.547304,
+      "pbr": 6.7781363,
+      "change_percent": -1.2622,
+      "market_cap": 4219083161600
+    },
+    {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 17.735603,
+      "per": 17.852438,
       "pbr": 8.376089,
       "change_percent": -0.616104,
       "market_cap": 185092997120
@@ -121,25 +121,25 @@
       "market_cap": 193585053696
     },
     {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 19.161137,
-      "pbr": 2.448855,
-      "change_percent": -2.4730999,
-      "market_cap": 79698485248
-    },
-    {
       "code": "BKNG",
       "name": "Booking Holdings",
       "per": 19.490332,
       "pbr": null,
       "change_percent": -2.29826,
-      "market_cap": 128726507520
+      "market_cap": 132752187392
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 19.64746,
+      "pbr": 2.448855,
+      "change_percent": -2.4730999,
+      "market_cap": 79698485248
     },
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 19.860273,
+      "per": 20.305323,
       "pbr": 1.8814887,
       "change_percent": -1.46464,
       "market_cap": 45279739904
@@ -166,9 +166,9 @@
       "code": "KHC",
       "name": "Kraft Heinz",
       "per": null,
-      "pbr": 0.81458545,
-      "change_percent": 1.8953402000000001,
-      "market_cap": 29325420544
+      "pbr": 0.8103034,
+      "change_percent": 0.0,
+      "market_cap": 29171265536
     },
     {
       "code": "CMCSA",
@@ -197,16 +197,16 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 40.290474,
+      "per": 39.24397,
       "pbr": 1.5658891,
       "change_percent": 2.82179,
-      "market_cap": 59231182848
+      "market_cap": 59504795648
     },
     {
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.552027,
-      "pbr": 1.6460639,
+      "pbr": 1.6463622,
       "change_percent": -1.63769,
       "market_cap": 111138799616
     },
@@ -221,7 +221,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 19.860273,
+      "per": 20.305323,
       "pbr": 1.8814887,
       "change_percent": -1.46464,
       "market_cap": 45279739904
@@ -229,7 +229,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 16.00417,
+      "per": 16.449871,
       "pbr": 2.030537,
       "change_percent": -2.7039299,
       "market_cap": 37972000768
@@ -261,15 +261,15 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.172023,
+      "per": 10.210627,
       "pbr": 2.3402774,
       "change_percent": -0.407176,
-      "market_cap": 46032351232
+      "market_cap": 46384222208
     },
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.161137,
+      "per": 19.64746,
       "pbr": 2.448855,
       "change_percent": -2.4730999,
       "market_cap": 79698485248
@@ -280,7 +280,7 @@
       "per": 14.8310175,
       "pbr": 2.6368425,
       "change_percent": -0.28015599,
-      "market_cap": 28939536384
+      "market_cap": 29144915968
     },
     {
       "code": "BKR",
@@ -304,7 +304,7 @@
       "per": 22.830881,
       "pbr": 2.9851463,
       "change_percent": -0.46482,
-      "market_cap": 79258730496
+      "market_cap": 79714648064
     },
     {
       "code": "CPRT",
@@ -312,12 +312,12 @@
       "per": 20.556292,
       "pbr": 3.163151,
       "change_percent": -2.1745902,
-      "market_cap": 28737187840
+      "market_cap": 29901094912
     },
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 25.781052,
+      "per": 25.835443,
       "pbr": 3.1719637,
       "change_percent": -0.325575,
       "market_cap": 64458653696
@@ -343,10 +343,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 40.290474,
+      "per": 39.24397,
       "pbr": 1.5658891,
       "change_percent": 2.82179,
-      "market_cap": 59231182848
+      "market_cap": 59504795648
     },
     {
       "code": "AMD",
@@ -365,14 +365,6 @@
       "market_cap": 32622837760
     },
     {
-      "code": "KHC",
-      "name": "Kraft Heinz",
-      "per": null,
-      "pbr": 0.81458545,
-      "change_percent": 1.8953402000000001,
-      "market_cap": 29325420544
-    },
-    {
       "code": "RKLB",
       "name": "Rocket Lab",
       "per": null,
@@ -384,7 +376,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 72.45098,
-      "pbr": 10.656604,
+      "pbr": 10.489709,
       "change_percent": 1.3161499,
       "market_cap": 199242809344
     },
@@ -399,7 +391,7 @@
     {
       "code": "ARM",
       "name": "Arm Holdings",
-      "per": 246.7653,
+      "per": 244.27272,
       "pbr": 29.92575,
       "change_percent": 1.17987,
       "market_cap": 258274099200
@@ -408,7 +400,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 45.224186,
-      "pbr": 16.573719,
+      "pbr": 15.152275,
       "change_percent": 1.1087500000000001,
       "market_cap": 52038021120
     },
@@ -479,10 +471,18 @@
     {
       "code": "MU",
       "name": "Micron Technology",
-      "per": 20.957975,
+      "per": 20.877785,
       "pbr": 10.397355,
       "change_percent": 0.386345,
       "market_cap": 1047625072640
+    },
+    {
+      "code": "PANW",
+      "name": "Palo Alto Networks",
+      "per": 914.85364,
+      "pbr": 11.146805,
+      "change_percent": 0.30753400000000003,
+      "market_cap": 306823626752
     }
   ],
   "triple": [],
@@ -499,17 +499,17 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.552027,
-      "pbr": 1.6460639,
+      "pbr": 1.6463622,
       "change_percent": -1.63769,
       "market_cap": 111138799616
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.172023,
+      "per": 10.210627,
       "pbr": 2.3402774,
       "change_percent": -0.407176,
-      "market_cap": 46032351232
+      "market_cap": 46384222208
     },
     {
       "code": "GEHC",
@@ -517,7 +517,7 @@
       "per": 14.8310175,
       "pbr": 2.6368425,
       "change_percent": -0.28015599,
-      "market_cap": 28939536384
+      "market_cap": 29144915968
     },
     {
       "code": "EXC",
@@ -548,21 +548,13 @@
   ],
   "pbr_rise": [
     {
-      "code": "KHC",
-      "name": "Kraft Heinz",
-      "per": null,
-      "pbr": 0.81458545,
-      "change_percent": 1.8953402000000001,
-      "market_cap": 29325420544
-    },
-    {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 40.290474,
+      "per": 39.24397,
       "pbr": 1.5658891,
       "change_percent": 2.82179,
-      "market_cap": 59231182848
+      "market_cap": 59504795648
     }
   ],
-  "generated_at": "2026-09-16T02:34:45+00:00"
+  "generated_at": "2026-09-16T08:58:52+00:00"
 }
