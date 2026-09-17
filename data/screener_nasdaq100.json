@@ -20,7 +20,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.414531,
-      "pbr": 1.6607004,
+      "pbr": 1.6603996,
       "change_percent": 0.870902,
       "market_cap": 112106708992
     },
@@ -30,7 +30,7 @@
       "per": 10.175675,
       "pbr": 2.2924368,
       "change_percent": -2.04423,
-      "market_cap": 45436018688
+      "market_cap": 45091340288
     },
     {
       "code": "ADBE",
@@ -46,13 +46,13 @@
       "per": 14.765116,
       "pbr": 2.6129723,
       "change_percent": -0.905257,
-      "market_cap": 28881080320
+      "market_cap": 28677560320
     },
     {
       "code": "WDC",
       "name": "Western Digital",
       "per": 15.31289,
-      "pbr": 19.936409,
+      "pbr": null,
       "change_percent": 1.21614,
       "market_cap": 150334750720
     },
@@ -99,7 +99,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.109325,
+      "per": 18.226538,
       "pbr": 2.8072972,
       "change_percent": -0.705221,
       "market_cap": 55907401728
@@ -107,7 +107,7 @@
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 18.437237,
+      "per": 18.87152,
       "pbr": 3.3670816,
       "change_percent": -2.3327999,
       "market_cap": 189069099008
@@ -118,7 +118,7 @@
       "per": 19.044443,
       "pbr": null,
       "change_percent": 0.0466884,
-      "market_cap": 132814168064
+      "market_cap": 128786612224
     },
     {
       "code": "REGN",
@@ -137,14 +137,6 @@
       "market_cap": 55218909184
     },
     {
-      "code": "AMZN",
-      "name": "Amazon",
-      "per": 19.803543,
-      "pbr": 4.808038,
-      "change_percent": -0.990255,
-      "market_cap": 2653001613312
-    },
-    {
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 19.86612,
@@ -156,9 +148,17 @@
       "code": "CCEP",
       "name": "Coca-Cola Europacific Partners",
       "per": 19.986383,
-      "pbr": 4.7395372,
+      "pbr": 4.763346,
       "change_percent": -0.271817,
       "market_cap": 45250711552
+    },
+    {
+      "code": "INTU",
+      "name": "Intuit",
+      "per": 19.995602,
+      "pbr": 4.55617,
+      "change_percent": -3.38324,
+      "market_cap": 85015789568
     }
   ],
   "pbr": [
@@ -181,10 +181,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 37.055237,
+      "per": 40.360992,
       "pbr": 1.4401517,
       "change_percent": -8.0297805,
-      "market_cap": 54726688768
+      "market_cap": 54475046912
     },
     {
       "code": "EXC",
@@ -206,7 +206,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.414531,
-      "pbr": 1.6607004,
+      "pbr": 1.6603996,
       "change_percent": 0.870902,
       "market_cap": 112106708992
     },
@@ -256,7 +256,7 @@
       "per": 10.175675,
       "pbr": 2.2924368,
       "change_percent": -2.04423,
-      "market_cap": 45436018688
+      "market_cap": 45091340288
     },
     {
       "code": "SNPS",
@@ -280,12 +280,12 @@
       "per": 14.765116,
       "pbr": 2.6129723,
       "change_percent": -0.905257,
-      "market_cap": 28881080320
+      "market_cap": 28677560320
     },
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.109325,
+      "per": 18.226538,
       "pbr": 2.8072972,
       "change_percent": -0.705221,
       "market_cap": 55907401728
@@ -304,7 +304,7 @@
       "per": 22.759125,
       "pbr": 2.9976447,
       "change_percent": 0.41868299999999997,
-      "market_cap": 80048398336
+      "market_cap": 79590572032
     },
     {
       "code": "PCAR",
@@ -320,7 +320,7 @@
       "per": 20.012987,
       "pbr": 3.1407318,
       "change_percent": -0.708767,
-      "market_cap": 29689165824
+      "market_cap": 28533508096
     }
   ],
   "rise": [
@@ -343,7 +343,7 @@
     {
       "code": "AXON",
       "name": "Axon Enterprise",
-      "per": 195.99162,
+      "per": 185.14626,
       "pbr": 10.355714,
       "change_percent": 5.958200000000001,
       "market_cap": 38053232640
@@ -354,7 +354,7 @@
       "per": null,
       "pbr": 15.625518,
       "change_percent": 5.15018,
-      "market_cap": 1987721428992
+      "market_cap": 1988866998272
     },
     {
       "code": "INTC",
@@ -368,7 +368,7 @@
       "code": "MRVL",
       "name": "Marvell Technology",
       "per": 73.62501,
-      "pbr": 10.868701,
+      "pbr": 11.041627,
       "change_percent": 3.6130000000000004,
       "market_cap": 206441447424
     },
@@ -399,8 +399,8 @@
     {
       "code": "TER",
       "name": "Teradyne",
-      "per": 46.79698,
-      "pbr": 15.530114,
+      "per": 45.669346,
+      "pbr": 16.987003,
       "change_percent": 2.4936099,
       "market_cap": 53335646208
     },
@@ -410,7 +410,7 @@
       "per": 54.349514,
       "pbr": 11.240061,
       "change_percent": 2.1682,
-      "market_cap": 77200900096
+      "market_cap": 77082492928
     },
     {
       "code": "HON",
@@ -431,7 +431,7 @@
     {
       "code": "FER",
       "name": "Ferrovial",
-      "per": 57.416668,
+      "per": 56.244896,
       "pbr": 5.973806,
       "change_percent": 1.6224101000000002,
       "market_cap": 39719591936
@@ -456,7 +456,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 15.31289,
-      "pbr": 19.936409,
+      "pbr": null,
       "change_percent": 1.21614,
       "market_cap": 150334750720
     },
@@ -499,7 +499,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.414531,
-      "pbr": 1.6607004,
+      "pbr": 1.6603996,
       "change_percent": 0.870902,
       "market_cap": 112106708992
     },
@@ -509,7 +509,7 @@
       "per": 10.175675,
       "pbr": 2.2924368,
       "change_percent": -2.04423,
-      "market_cap": 45436018688
+      "market_cap": 45091340288
     },
     {
       "code": "GEHC",
@@ -517,7 +517,7 @@
       "per": 14.765116,
       "pbr": 2.6129723,
       "change_percent": -0.905257,
-      "market_cap": 28881080320
+      "market_cap": 28677560320
     },
     {
       "code": "EXC",
@@ -541,7 +541,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 15.31289,
-      "pbr": 19.936409,
+      "pbr": null,
       "change_percent": 1.21614,
       "market_cap": 150334750720
     }
@@ -564,5 +564,5 @@
       "market_cap": 72528715776
     }
   ],
-  "generated_at": "2026-09-17T02:38:34+00:00"
+  "generated_at": "2026-09-17T09:04:03+00:00"
 }

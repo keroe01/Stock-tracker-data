@@ -22,7 +22,7 @@
       "per": 5.5468163,
       "pbr": 2.1370852,
       "change_percent": 0.06756909999999999,
-      "market_cap": 10561865728
+      "market_cap": 10566027264
     },
     {
       "code": "EIX",
@@ -38,7 +38,7 @@
       "per": 5.7398753,
       "pbr": 1.1856117,
       "change_percent": -1.3122699999999998,
-      "market_cap": 19046995968
+      "market_cap": 19003762688
     },
     {
       "code": "UHS",
@@ -54,7 +54,7 @@
       "per": 7.5876374,
       "pbr": 1.4193916,
       "change_percent": -0.0721349,
-      "market_cap": 33066770432
+      "market_cap": 33088989184
     },
     {
       "code": "EXE",
@@ -62,12 +62,12 @@
       "per": 7.6499996,
       "pbr": 1.0714157,
       "change_percent": -5.82618,
-      "market_cap": 21229166592
+      "market_cap": 20543645696
     },
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 7.68,
+      "per": 7.799999,
       "pbr": 1.6029798,
       "change_percent": -1.55141,
       "market_cap": 24363767808
@@ -280,7 +280,7 @@
       "per": 19.789953,
       "pbr": 1.0317082,
       "change_percent": -0.937142,
-      "market_cap": 9171634176
+      "market_cap": 8998828032
     },
     {
       "code": "PSKY",
@@ -288,7 +288,7 @@
       "per": 371.1667,
       "pbr": 1.0604762,
       "change_percent": 1.13533,
-      "market_cap": 12461992960
+      "market_cap": 12492865536
     },
     {
       "code": "EXE",
@@ -296,7 +296,7 @@
       "per": 7.6499996,
       "pbr": 1.0714157,
       "change_percent": -5.82618,
-      "market_cap": 21229166592
+      "market_cap": 20543645696
     },
     {
       "code": "HBAN",
@@ -343,7 +343,7 @@
     {
       "code": "AXON",
       "name": "AXON ENTERPRISE INC",
-      "per": 195.99162,
+      "per": 185.14626,
       "pbr": 10.355714,
       "change_percent": 5.958200000000001,
       "market_cap": 38053232640
@@ -351,7 +351,7 @@
     {
       "code": "GEV",
       "name": "GE VERNOVA INC",
-      "per": 26.529684,
+      "per": 25.317186,
       "pbr": 20.605637,
       "change_percent": 4.78926,
       "market_cap": 246382542848
@@ -362,7 +362,7 @@
       "per": 51.017143,
       "pbr": 4.8482213,
       "change_percent": 4.1287597,
-      "market_cap": 51407421440
+      "market_cap": 51460993024
     },
     {
       "code": "INTC",
@@ -400,14 +400,14 @@
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
       "per": 73.62501,
-      "pbr": 10.868701,
+      "pbr": 11.041627,
       "change_percent": 3.6130000000000004,
       "market_cap": 206441447424
     },
     {
       "code": "HONA",
       "name": "HONEYWELL AEROSPACE INC",
-      "per": 50.054874,
+      "per": 48.28823,
       "pbr": null,
       "change_percent": 3.58686,
       "market_cap": 52037296128
@@ -418,7 +418,7 @@
       "per": 10.934718,
       "pbr": 2.3608174,
       "change_percent": 3.39506,
-      "market_cap": 23837270016
+      "market_cap": 24209172480
     },
     {
       "code": "JKHY",
@@ -455,8 +455,8 @@
     {
       "code": "TER",
       "name": "TERADYNE INC",
-      "per": 46.79698,
-      "pbr": 15.530114,
+      "per": 45.669346,
+      "pbr": 16.987003,
       "change_percent": 2.4936099,
       "market_cap": 53335646208
     },
@@ -479,7 +479,7 @@
     {
       "code": "ANET",
       "name": "ARISTA NETWORKS INC",
-      "per": 62.512653,
+      "per": 60.969135,
       "pbr": 16.836273,
       "change_percent": 2.4372499999999997,
       "market_cap": 249142312960
@@ -501,7 +501,7 @@
       "per": 7.6499996,
       "pbr": 1.0714157,
       "change_percent": -5.82618,
-      "market_cap": 21229166592
+      "market_cap": 20543645696
     },
     {
       "code": "CMCSA",
@@ -539,5 +539,5 @@
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-09-17T02:38:33+00:00"
+  "generated_at": "2026-09-17T09:04:02+00:00"
 }
