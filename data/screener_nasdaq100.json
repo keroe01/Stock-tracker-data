@@ -73,20 +73,20 @@
       "market_cap": 43930025984
     },
     {
+      "code": "GOOG",
+      "name": "Alphabet Inc.(Class C)",
+      "per": 17.039167,
+      "pbr": 6.7525935,
+      "change_percent": 1.27299,
+      "market_cap": 4203184128000
+    },
+    {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
       "per": 17.211596,
       "pbr": 6.824308,
       "change_percent": 1.3007800999999999,
       "market_cap": 4247823319040
-    },
-    {
-      "code": "GOOG",
-      "name": "Alphabet Inc.(Class C)",
-      "per": 17.253012,
-      "pbr": 6.7525935,
-      "change_percent": 1.27299,
-      "market_cap": 4203184128000
     },
     {
       "code": "PEP",
@@ -293,7 +293,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 25.68915,
+      "per": 25.391302,
       "pbr": 2.9200323,
       "change_percent": 1.2599699,
       "market_cap": 93111975936
@@ -327,7 +327,7 @@
     {
       "code": "ALAB",
       "name": "Astera Labs",
-      "per": 145.32674,
+      "per": 133.43636,
       "pbr": 29.512417,
       "change_percent": 9.05714,
       "market_cap": 50928287744
@@ -367,7 +367,7 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 21.898941,
+      "per": 20.618008,
       "pbr": 15.286192,
       "change_percent": 6.21197,
       "market_cap": 236377391104
@@ -375,7 +375,7 @@
     {
       "code": "WDAY",
       "name": "Workday, Inc.",
-      "per": 40.504063,
+      "per": 38.176247,
       "pbr": 7.4250154,
       "change_percent": 6.1354898,
       "market_cap": 48026480640
@@ -463,7 +463,7 @@
     {
       "code": "CSCO",
       "name": "Cisco",
-      "per": 33.105106,
+      "per": 32.328445,
       "pbr": 8.651024,
       "change_percent": 2.3204,
       "market_cap": 434630754304
@@ -548,5 +548,5 @@
       "market_cap": 52540502016
     }
   ],
-  "generated_at": "2026-09-18T02:25:59+00:00"
+  "generated_at": "2026-09-18T08:38:50+00:00"
 }

@@ -27,7 +27,7 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.596006,
+      "per": 5.656832,
       "pbr": 1.1720988,
       "change_percent": -1.13975,
       "market_cap": 18787166208
@@ -35,7 +35,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.7275543,
+      "per": 5.657492,
       "pbr": 1.2241117,
       "change_percent": 1.25889005,
       "market_cap": 21357176832
@@ -65,20 +65,28 @@
       "market_cap": 81299267584
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 7.6317954,
-      "pbr": 1.5929185,
-      "change_percent": -0.627662,
-      "market_cap": 24210845696
-    },
-    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 7.6542463,
       "pbr": 1.0664655,
       "change_percent": -0.46201899999999996,
       "market_cap": 20448731136
+    },
+    {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 7.6790514,
+      "pbr": 1.5929185,
+      "change_percent": -0.627662,
+      "market_cap": 24210845696
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 7.9006357,
+      "pbr": 2.3167832,
+      "change_percent": 3.5528197999999995,
+      "market_cap": 11003468800
     },
     {
       "code": "EG",
@@ -105,17 +113,9 @@
       "market_cap": 26075920384
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 8.180247,
-      "pbr": 2.3167832,
-      "change_percent": 3.5528197999999995,
-      "market_cap": 11003468800
-    },
-    {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.26955,
+      "per": 8.324959,
       "pbr": 1.9100692,
       "change_percent": -0.7191380500000001,
       "market_cap": 13361922048
@@ -145,20 +145,20 @@
       "market_cap": 36063899648
     },
     {
+      "code": "APA",
+      "name": "APA CORP",
+      "per": 9.451143,
+      "pbr": 2.2705026,
+      "change_percent": 1.49587,
+      "market_cap": 15926979584
+    },
+    {
       "code": "FISV",
       "name": "FISERV INC",
       "per": 9.462572,
       "pbr": null,
       "change_percent": -0.30333998,
       "market_cap": 26216099840
-    },
-    {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 9.492126,
-      "pbr": 0.91005176,
-      "change_percent": 0.166186,
-      "market_cap": 26546978816
     }
   ],
   "pbr": [
@@ -330,7 +330,7 @@
       "per": 40.31712,
       "pbr": 4.2492156,
       "change_percent": 18.3428,
-      "market_cap": 12227888128
+      "market_cap": 12239818752
     },
     {
       "code": "SMCI",
@@ -383,7 +383,7 @@
     {
       "code": "SNDK",
       "name": "SANDISK CORP",
-      "per": 21.898941,
+      "per": 20.618008,
       "pbr": 15.286192,
       "change_percent": 6.21197,
       "market_cap": 236377391104
@@ -391,7 +391,7 @@
     {
       "code": "WDAY",
       "name": "WORKDAY INC CLASS A",
-      "per": 40.504063,
+      "per": 38.176247,
       "pbr": 7.4250154,
       "change_percent": 6.1354898,
       "market_cap": 48026480640
@@ -455,7 +455,7 @@
     {
       "code": "ALB",
       "name": "ALBEMARLE CORP",
-      "per": 426.1111,
+      "per": 396.72415,
       "pbr": 1.6884357,
       "change_percent": 5.09729,
       "market_cap": 13576481792
@@ -518,14 +518,6 @@
       "pbr": 0.9533794,
       "change_percent": 0.622073,
       "market_cap": 14574840832
-    },
-    {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 9.492126,
-      "pbr": 0.91005176,
-      "change_percent": 0.166186,
-      "market_cap": 26546978816
     }
   ],
   "per_rise": [],
@@ -539,5 +531,5 @@
       "market_cap": 9695848448
     }
   ],
-  "generated_at": "2026-09-18T02:25:58+00:00"
+  "generated_at": "2026-09-18T08:38:47+00:00"
 }
