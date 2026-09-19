@@ -22,7 +22,7 @@
       "per": 5.471582,
       "pbr": 1.1460378,
       "change_percent": -2.22345,
-      "market_cap": 18411233280
+      "market_cap": 18369443840
     },
     {
       "code": "AES",
@@ -30,7 +30,7 @@
       "per": 5.554307,
       "pbr": 2.1399713,
       "change_percent": -0.13468299,
-      "market_cap": 10576129024
+      "market_cap": 10580295680
     },
     {
       "code": "EIX",
@@ -62,7 +62,7 @@
       "per": 7.542241,
       "pbr": 1.0563235,
       "change_percent": -0.950984,
-      "market_cap": 20930131968
+      "market_cap": 20254265344
     },
     {
       "code": "ACGL",
@@ -70,7 +70,7 @@
       "per": 7.581377,
       "pbr": 1.4182206,
       "change_percent": 0.196487,
-      "market_cap": 33039489024
+      "market_cap": 33061689344
     },
     {
       "code": "SYF",
@@ -248,7 +248,7 @@
       "per": 340.33334,
       "pbr": 0.97238094,
       "change_percent": -3.86064,
-      "market_cap": 11426757632
+      "market_cap": 11455066112
     },
     {
       "code": "AIG",
@@ -288,7 +288,7 @@
       "per": 19.723982,
       "pbr": 1.0376595,
       "change_percent": -0.068773003,
-      "market_cap": 9224539136
+      "market_cap": 9050736640
     },
     {
       "code": "EXE",
@@ -296,7 +296,7 @@
       "per": 7.542241,
       "pbr": 1.0563235,
       "change_percent": -0.950984,
-      "market_cap": 20930131968
+      "market_cap": 20254265344
     },
     {
       "code": "HBAN",
@@ -312,7 +312,7 @@
       "per": 5.471582,
       "pbr": 1.1460378,
       "change_percent": -2.22345,
-      "market_cap": 18411233280
+      "market_cap": 18369443840
     },
     {
       "code": "C",
@@ -384,7 +384,7 @@
       "code": "TER",
       "name": "TERADYNE INC",
       "per": 51.026096,
-      "pbr": 16.910366,
+      "pbr": 18.496738,
       "change_percent": 5.19355,
       "market_cap": 58075897856
     },
@@ -416,7 +416,7 @@
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
       "per": 16.395245,
-      "pbr": 21.102556,
+      "pbr": null,
       "change_percent": 4.126259699999999,
       "market_cap": 159128338432
     },
@@ -442,7 +442,7 @@
       "per": 43.29969,
       "pbr": 8.145627,
       "change_percent": 3.7390698,
-      "market_cap": 164938186752
+      "market_cap": 164980670464
     },
     {
       "code": "ADI",
@@ -501,7 +501,7 @@
       "per": 5.471582,
       "pbr": 1.1460378,
       "change_percent": -2.22345,
-      "market_cap": 18411233280
+      "market_cap": 18369443840
     },
     {
       "code": "CMCSA",
@@ -517,7 +517,7 @@
       "per": 7.542241,
       "pbr": 1.0563235,
       "change_percent": -0.950984,
-      "market_cap": 20930131968
+      "market_cap": 20254265344
     },
     {
       "code": "EG",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-19T19:49:37+00:00"
+  "generated_at": "2026-09-19T21:59:14+00:00"
 }
