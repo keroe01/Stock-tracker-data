@@ -3482,5 +3482,44 @@
     "roe": null,
     "fcf": null,
     "collected_at": "2026-09-18T14:00:13+00:00"
+  },
+  {
+    "symbol": "005930.KS",
+    "date": "2026-09-21",
+    "per": null,
+    "pbr": null,
+    "eps": null,
+    "forward_eps": null,
+    "forward_pe": null,
+    "market_cap": 1786105233932288,
+    "roe": 0.30794,
+    "fcf": 69550825537536,
+    "collected_at": "2026-09-21T02:33:02+00:00"
+  },
+  {
+    "symbol": "000660.KS",
+    "date": "2026-09-21",
+    "per": null,
+    "pbr": null,
+    "eps": null,
+    "forward_eps": null,
+    "forward_pe": null,
+    "market_cap": 1329203257540608,
+    "roe": 0.92679,
+    "fcf": 55768099323904,
+    "collected_at": "2026-09-21T02:33:04+00:00"
+  },
+  {
+    "symbol": "035420.KS",
+    "date": "2026-09-21",
+    "per": null,
+    "pbr": null,
+    "eps": null,
+    "forward_eps": null,
+    "forward_pe": null,
+    "market_cap": 29526434250752,
+    "roe": 0.06421,
+    "fcf": 902243549184,
+    "collected_at": "2026-09-21T02:33:07+00:00"
   }
 ]
