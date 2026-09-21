@@ -5342,5 +5342,21 @@
     "sell": 2,
     "strong_sell": 0,
     "collected_at": "2026-09-21T02:32:56+00:00"
+  },
+  {
+    "symbol": "GOOGL",
+    "date": "2026-09-21",
+    "target_mean_price": 428.15927,
+    "target_high_price": 515.0,
+    "target_low_price": 340.0,
+    "num_analysts": 54,
+    "recommendation_mean": 1.37705,
+    "recommendation_key": "strong_buy",
+    "strong_buy": 13,
+    "buy": 43,
+    "hold": 5,
+    "sell": 0,
+    "strong_sell": 0,
+    "collected_at": "2026-09-21T16:07:17+00:00"
   }
 ]
