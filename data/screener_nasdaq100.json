@@ -11,7 +11,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 7.938485,
+      "per": 7.935434,
       "pbr": 3.5303571,
       "change_percent": 0.00968179,
       "market_cap": 65441771520
@@ -19,7 +19,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.54472,
+      "per": 8.5355215,
       "pbr": 1.6716782,
       "change_percent": 0.500629,
       "market_cap": 112868220928
@@ -91,7 +91,7 @@
     {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 17.596289,
+      "per": 17.605118,
       "pbr": 6.893862,
       "change_percent": 1.8756699000000001,
       "market_cap": 4291117187072
@@ -99,7 +99,7 @@
     {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
-      "per": 17.819778,
+      "per": 17.82873,
       "pbr": 6.9744186,
       "change_percent": 1.5534700000000001,
       "market_cap": 4341260091392
@@ -145,20 +145,20 @@
       "market_cap": 44879974400
     },
     {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 19.746908,
-      "pbr": 2.5249674,
-      "change_percent": 1.7207199999999998,
-      "market_cap": 82175582208
-    },
-    {
       "code": "CCEP",
       "name": "Coca-Cola Europacific Partners",
       "per": 19.75049,
       "pbr": 4.690015,
       "change_percent": 0.76175397,
       "market_cap": 44241690624
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 19.761574,
+      "pbr": 2.5249674,
+      "change_percent": 1.7207199999999998,
+      "market_cap": 82175582208
     }
   ],
   "pbr": [
@@ -197,7 +197,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.54472,
+      "per": 8.5355215,
       "pbr": 1.6716782,
       "change_percent": 0.500629,
       "market_cap": 112868220928
@@ -253,7 +253,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 70.00871,
+      "per": 69.886955,
       "pbr": 2.4715998,
       "change_percent": 4.3847598,
       "market_cap": 77009182720
@@ -261,7 +261,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 19.746908,
+      "per": 19.761574,
       "pbr": 2.5249674,
       "change_percent": 1.7207199999999998,
       "market_cap": 82175582208
@@ -293,7 +293,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 25.59668,
+      "per": 25.646769,
       "pbr": 2.9123654,
       "change_percent": 2.90526,
       "market_cap": 92867502080
@@ -327,7 +327,7 @@
     {
       "code": "ARM",
       "name": "Arm Holdings",
-      "per": 326.16162,
+      "per": 332.8866,
       "pbr": 39.957924,
       "change_percent": 17.1583,
       "market_cap": 344856723456
@@ -335,7 +335,7 @@
     {
       "code": "ALAB",
       "name": "Astera Labs",
-      "per": 167.85222,
+      "per": 167.0294,
       "pbr": 34.255554,
       "change_percent": 12.362701,
       "market_cap": 59113312256
@@ -367,7 +367,7 @@
     {
       "code": "AMD",
       "name": "Advanced Micro Devices",
-      "per": 157.02042,
+      "per": 156.22336,
       "pbr": 14.943069,
       "change_percent": 9.949629999999999,
       "market_cap": 1004821020672
@@ -407,7 +407,7 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 25.397694,
+      "per": 25.378172,
       "pbr": 34.997883,
       "change_percent": 7.17718,
       "market_cap": 110917156864
@@ -415,7 +415,7 @@
     {
       "code": "DDOG",
       "name": "Datadog",
-      "per": 480.4902,
+      "per": 500.10205,
       "pbr": 20.142199,
       "change_percent": 6.580550000000001,
       "market_cap": 87991328768
@@ -455,7 +455,7 @@
     {
       "code": "MPWR",
       "name": "Monolithic Power Systems",
-      "per": 77.717766,
+      "per": 78.14557,
       "pbr": 16.118282,
       "change_percent": 4.91706,
       "market_cap": 62789029888
@@ -463,7 +463,7 @@
     {
       "code": "AMAT",
       "name": "Applied Materials",
-      "per": 40.020687,
+      "per": 39.986217,
       "pbr": 14.3767605,
       "change_percent": 4.4245,
       "market_cap": 368419667968
@@ -471,7 +471,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 70.00871,
+      "per": 69.886955,
       "pbr": 2.4715998,
       "change_percent": 4.3847598,
       "market_cap": 77009182720
@@ -498,7 +498,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.54472,
+      "per": 8.5355215,
       "pbr": 1.6716782,
       "change_percent": 0.500629,
       "market_cap": 112868220928
@@ -549,11 +549,11 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 70.00871,
+      "per": 69.886955,
       "pbr": 2.4715998,
       "change_percent": 4.3847598,
       "market_cap": 77009182720
     }
   ],
-  "generated_at": "2026-09-22T07:06:50+00:00"
+  "generated_at": "2026-09-22T12:59:25+00:00"
 }
