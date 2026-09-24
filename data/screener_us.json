@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.0343482,
+      "per": 3.051819,
       "pbr": 0.82049227,
       "change_percent": -0.55432497,
       "market_cap": 15154356224
@@ -25,20 +25,20 @@
       "market_cap": 17879523328
     },
     {
-      "code": "EIX",
-      "name": "EDISON INTERNATIONAL",
-      "per": 5.5221877,
-      "pbr": 1.18022,
-      "change_percent": -2.79746,
-      "market_cap": 20591394816
-    },
-    {
       "code": "AES",
       "name": "AES CORP",
       "per": 5.5468163,
       "pbr": 2.1370852,
       "change_percent": -0.0674715,
       "market_cap": 10566027264
+    },
+    {
+      "code": "EIX",
+      "name": "EDISON INTERNATIONAL",
+      "per": 5.6804667,
+      "pbr": 1.18022,
+      "change_percent": -2.79746,
+      "market_cap": 20591394816
     },
     {
       "code": "CMCSA",
@@ -91,10 +91,18 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.867314,
+      "per": 7.8375077,
       "pbr": 0.9339165,
       "change_percent": 0.377398,
       "market_cap": 14277300224
+    },
+    {
+      "code": "HON",
+      "name": "HONEYWELL INTERNATIONAL INC",
+      "per": 8.144444,
+      "pbr": 3.634483,
+      "change_percent": 0.33986398,
+      "market_cap": 67371937792
     },
     {
       "code": "MKC",
@@ -103,14 +111,6 @@
       "pbr": 1.8866256,
       "change_percent": -0.6677420300000001,
       "market_cap": 13197922304
-    },
-    {
-      "code": "HON",
-      "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 8.169485,
-      "pbr": 3.634483,
-      "change_percent": 0.33986398,
-      "market_cap": 67371937792
     },
     {
       "code": "T",
@@ -189,7 +189,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.0343482,
+      "per": 3.051819,
       "pbr": 0.82049227,
       "change_percent": -0.55432497,
       "market_cap": 15154356224
@@ -229,7 +229,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.867314,
+      "per": 7.8375077,
       "pbr": 0.9339165,
       "change_percent": 0.377398,
       "market_cap": 14277300224
@@ -253,7 +253,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.791971,
+      "per": 13.716878,
       "pbr": 0.97666246,
       "change_percent": 0.532058,
       "market_cap": 39520268288
@@ -415,7 +415,7 @@
     {
       "code": "COP",
       "name": "CONOCOPHILLIPS",
-      "per": 16.965563,
+      "per": 16.591969,
       "pbr": 2.3547254,
       "change_percent": 2.25114,
       "market_cap": 153879314432
@@ -447,7 +447,7 @@
     {
       "code": "HPE",
       "name": "HEWLETT PACKARD ENTERPRISE",
-      "per": 32.128864,
+      "per": 31.4798,
       "pbr": 3.12212,
       "change_percent": 2.13011,
       "market_cap": 82740887552
@@ -471,7 +471,7 @@
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 17.609295,
+      "per": 17.269049,
       "pbr": null,
       "change_percent": 1.95652,
       "market_cap": 170784636928
@@ -490,7 +490,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.0343482,
+      "per": 3.051819,
       "pbr": 0.82049227,
       "change_percent": -0.55432497,
       "market_cap": 15154356224
@@ -522,7 +522,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.867314,
+      "per": 7.8375077,
       "pbr": 0.9339165,
       "change_percent": 0.377398,
       "market_cap": 14277300224
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-24T02:25:30+00:00"
+  "generated_at": "2026-09-24T08:54:19+00:00"
 }
