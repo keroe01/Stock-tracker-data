@@ -19,15 +19,15 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.325723,
+      "per": 5.374808,
       "pbr": 1.1257682,
       "change_percent": 0.9229980000000001,
-      "market_cap": 18044551168
+      "market_cap": 18085601280
     },
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.5247107,
+      "per": 5.422085,
       "pbr": 1.1588258,
       "change_percent": -1.8127399999999998,
       "market_cap": 20218126336
@@ -38,12 +38,20 @@
       "per": 5.5410447,
       "pbr": 2.1428573,
       "change_percent": 0.270088,
-      "market_cap": 10594564096
+      "market_cap": 10590392320
+    },
+    {
+      "code": "UHS",
+      "name": "UNIVERSAL HEALTH SERVICES B",
+      "per": 7.221134,
+      "pbr": 1.3882658,
+      "change_percent": -2.42571,
+      "market_cap": 10431174656
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.092949,
+      "per": 7.232026,
       "pbr": 0.87432337,
       "change_percent": -1.86253,
       "market_cap": 78531330048
@@ -57,20 +65,12 @@
       "market_cap": 23280285696
     },
     {
-      "code": "UHS",
-      "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.4023423,
-      "pbr": 1.3882658,
-      "change_percent": -2.42571,
-      "market_cap": 10431174656
-    },
-    {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.446708,
       "pbr": 1.3908486,
       "change_percent": -0.14712799999999998,
-      "market_cap": 32423589888
+      "market_cap": 32401819648
     },
     {
       "code": "EXE",
@@ -78,12 +78,12 @@
       "per": 7.5038104,
       "pbr": 1.0699669,
       "change_percent": 1.81526,
-      "market_cap": 20515866624
+      "market_cap": 21200461824
     },
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 7.6751776,
+      "per": 7.6643057,
       "pbr": 1.4936923,
       "change_percent": -0.14763199999999999,
       "market_cap": 24914092032
@@ -97,20 +97,20 @@
       "market_cap": 14261963776
     },
     {
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 7.9567385,
+      "pbr": 1.8378171,
+      "change_percent": -2.58709,
+      "market_cap": 12856480768
+    },
+    {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
       "per": 8.17091,
       "pbr": 3.6211464,
       "change_percent": -0.36694499999999997,
       "market_cap": 67124719616
-    },
-    {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.174359,
-      "pbr": 1.8378171,
-      "change_percent": -2.58709,
-      "market_cap": 12856480768
     },
     {
       "code": "T",
@@ -123,7 +123,7 @@
     {
       "code": "LULU",
       "name": "LULULEMON ATHLETICA INC",
-      "per": 8.365433,
+      "per": 8.420878,
       "pbr": 2.3692307,
       "change_percent": -0.625733,
       "market_cap": 11252567040
@@ -139,7 +139,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 8.740612,
+      "per": 8.680249,
       "pbr": 1.769011,
       "change_percent": -0.710952,
       "market_cap": 34045902848
@@ -205,7 +205,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.092949,
+      "per": 7.232026,
       "pbr": 0.87432337,
       "change_percent": -1.86253,
       "market_cap": 78531330048
@@ -221,7 +221,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 15.429924,
+      "per": 14.522282,
       "pbr": 0.9077336,
       "change_percent": -0.061328999999999995,
       "market_cap": 19625728000
@@ -248,12 +248,12 @@
       "per": 339.33334,
       "pbr": 0.96952385,
       "change_percent": 2.20884,
-      "market_cap": 11421408256
+      "market_cap": 11393182720
     },
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 39.864483,
+      "per": 40.431282,
       "pbr": 0.98120624,
       "change_percent": 1.55952005,
       "market_cap": 22574594048
@@ -280,12 +280,12 @@
       "per": 20.460094,
       "pbr": 1.0374215,
       "change_percent": -3.5200299999999998,
-      "market_cap": 9048660992
+      "market_cap": 9222422528
     },
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 11.868217,
+      "per": 11.776924,
       "pbr": 1.0400109,
       "change_percent": -0.45513497,
       "market_cap": 30932551680
@@ -296,7 +296,7 @@
       "per": 7.5038104,
       "pbr": 1.0699669,
       "change_percent": 1.81526,
-      "market_cap": 20515866624
+      "market_cap": 21200461824
     },
     {
       "code": "L",
@@ -309,10 +309,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.325723,
+      "per": 5.374808,
       "pbr": 1.1257682,
       "change_percent": 0.9229980000000001,
-      "market_cap": 18044551168
+      "market_cap": 18085601280
     },
     {
       "code": "CFG",
@@ -328,14 +328,14 @@
       "code": "P",
       "name": "EVERPURE INC A",
       "per": 148.63414,
-      "pbr": 26.363832,
+      "pbr": 27.85192,
       "change_percent": 11.1537,
       "market_cap": 40613736448
     },
     {
       "code": "ILMN",
       "name": "ILLUMINA INC",
-      "per": 47.63478,
+      "per": 51.100742,
       "pbr": 14.573025,
       "change_percent": 7.25193,
       "market_cap": 41358897152
@@ -354,7 +354,7 @@
       "per": null,
       "pbr": 4.9489045,
       "change_percent": 6.16955,
-      "market_cap": 14182505472
+      "market_cap": 14056233984
     },
     {
       "code": "RVTY",
@@ -378,7 +378,7 @@
       "per": 32.549904,
       "pbr": 6.618925,
       "change_percent": 4.54875,
-      "market_cap": 48734973952
+      "market_cap": 48728584192
     },
     {
       "code": "META",
@@ -391,7 +391,7 @@
     {
       "code": "RL",
       "name": "RALPH LAUREN CORP",
-      "per": 22.185371,
+      "per": 21.273275,
       "pbr": 7.705413,
       "change_percent": 4.26408,
       "market_cap": 20964605952
@@ -402,7 +402,7 @@
       "per": 63.88889,
       "pbr": 12.930688,
       "change_percent": 4.1767802,
-      "market_cap": 88676540416
+      "market_cap": 88812748800
     },
     {
       "code": "INTC",
@@ -415,7 +415,7 @@
     {
       "code": "RCL",
       "name": "ROYAL CARIBBEAN CRUISES LTD",
-      "per": 14.225,
+      "per": 14.7609625,
       "pbr": 6.2440886,
       "change_percent": 3.7689901999999997,
       "market_cap": 63915696128
@@ -424,7 +424,7 @@
       "code": "CTAS",
       "name": "CINTAS CORP",
       "per": 37.86973,
-      "pbr": 15.174636,
+      "pbr": 15.389645,
       "change_percent": 2.97442,
       "market_cap": 78976516096
     },
@@ -450,7 +450,7 @@
       "per": 38.611237,
       "pbr": 31.100733,
       "change_percent": 2.68465,
-      "market_cap": 1053940252672
+      "market_cap": 1053486022656
     },
     {
       "code": "IQV",
@@ -466,12 +466,12 @@
       "per": 29.682095,
       "pbr": 6.303735,
       "change_percent": 2.59407,
-      "market_cap": 56899215360
+      "market_cap": 56900296704
     },
     {
       "code": "AMD",
       "name": "ADVANCED MICRO DEVICES",
-      "per": 156.14392,
+      "per": 160.11705,
       "pbr": 15.276638,
       "change_percent": 2.38363,
       "market_cap": 1027251240960
@@ -498,15 +498,15 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.325723,
+      "per": 5.374808,
       "pbr": 1.1257682,
       "change_percent": 0.9229980000000001,
-      "market_cap": 18044551168
+      "market_cap": 18085601280
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.092949,
+      "per": 7.232026,
       "pbr": 0.87432337,
       "change_percent": -1.86253,
       "market_cap": 78531330048
@@ -517,7 +517,7 @@
       "per": 7.5038104,
       "pbr": 1.0699669,
       "change_percent": 1.81526,
-      "market_cap": 20515866624
+      "market_cap": 21200461824
     },
     {
       "code": "EG",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-25T02:42:04+00:00"
+  "generated_at": "2026-09-25T09:14:41+00:00"
 }
