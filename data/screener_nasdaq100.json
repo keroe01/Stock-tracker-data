@@ -20,17 +20,17 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.358836,
-      "pbr": 1.6353122,
+      "pbr": 1.6356086,
       "change_percent": -0.8056231,
       "market_cap": 110412865536
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     },
     {
       "code": "ADBE",
@@ -62,7 +62,7 @@
       "per": 15.352533,
       "pbr": 2.7422009,
       "change_percent": 0.376619,
-      "market_cap": 30095853568
+      "market_cap": 30309437440
     },
     {
       "code": "INTU",
@@ -84,7 +84,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 16.962866,
-      "pbr": null,
+      "pbr": 21.84126,
       "change_percent": 1.44345,
       "market_cap": 164698701824
     },
@@ -118,7 +118,7 @@
       "per": 17.800001,
       "pbr": 2.8115766,
       "change_percent": -1.60485,
-      "market_cap": 25543137280
+      "market_cap": 26577678336
     },
     {
       "code": "BKNG",
@@ -126,7 +126,7 @@
       "per": 18.216667,
       "pbr": null,
       "change_percent": 4.15475,
-      "market_cap": 123188830208
+      "market_cap": 127041323008
     },
     {
       "code": "BKR",
@@ -156,7 +156,7 @@
       "code": "CCEP",
       "name": "Coca-Cola Europacific Partners",
       "per": 19.986248,
-      "pbr": 4.7852383,
+      "pbr": 4.7459984,
       "change_percent": 1.41562,
       "market_cap": 44769792000
     }
@@ -173,10 +173,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 34.89159,
+      "per": 35.55619,
       "pbr": 1.3818913,
       "change_percent": -1.2380299000000001,
-      "market_cap": 52271292416
+      "market_cap": 52512755712
     },
     {
       "code": "EXC",
@@ -190,7 +190,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.358836,
-      "pbr": 1.6353122,
+      "pbr": 1.6356086,
       "change_percent": -0.8056231,
       "market_cap": 110412865536
     },
@@ -229,7 +229,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 20.511265,
+      "per": 20.475777,
       "pbr": 2.008349,
       "change_percent": 0.66343304,
       "market_cap": 64429428736
@@ -245,10 +245,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     },
     {
       "code": "REGN",
@@ -272,7 +272,7 @@
       "per": 15.352533,
       "pbr": 2.7422009,
       "change_percent": 0.376619,
-      "market_cap": 30095853568
+      "market_cap": 30309437440
     },
     {
       "code": "CPRT",
@@ -280,7 +280,7 @@
       "per": 17.800001,
       "pbr": 2.8115766,
       "change_percent": -1.60485,
-      "market_cap": 25543137280
+      "market_cap": 26577678336
     },
     {
       "code": "BKR",
@@ -304,12 +304,12 @@
       "per": 22.069597,
       "pbr": 2.8962169,
       "change_percent": -1.0023001,
-      "market_cap": 76897566720
+      "market_cap": 77339901952
     },
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 25.70996,
+      "per": 25.735092,
       "pbr": 2.9252546,
       "change_percent": 0.630683,
       "market_cap": 93278502912
@@ -327,7 +327,7 @@
     {
       "code": "MCHP",
       "name": "Microchip Technology",
-      "per": 115.72059,
+      "per": 114.04348,
       "pbr": 6.6237373,
       "change_percent": 5.3554703,
       "market_cap": 42729357312
@@ -335,10 +335,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     },
     {
       "code": "DDOG",
@@ -354,7 +354,7 @@
       "per": 18.216667,
       "pbr": null,
       "change_percent": 4.15475,
-      "market_cap": 123188830208
+      "market_cap": 127041323008
     },
     {
       "code": "ABNB",
@@ -375,7 +375,7 @@
     {
       "code": "MSFT",
       "name": "Microsoft",
-      "per": 28.739979,
+      "per": 28.723984,
       "pbr": 8.665659,
       "change_percent": 3.66316,
       "market_cap": 3832843862016
@@ -408,7 +408,7 @@
       "code": "COST",
       "name": "Costco",
       "per": 44.44918,
-      "pbr": 12.213479,
+      "pbr": 11.4244585,
       "change_percent": 2.93203,
       "market_cap": 409030328320
     },
@@ -424,7 +424,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 54.647465,
-      "pbr": 19.836678,
+      "pbr": 18.135386,
       "change_percent": 2.7547099,
       "market_cap": 62283030528
     },
@@ -439,7 +439,7 @@
     {
       "code": "LRCX",
       "name": "Lam Research",
-      "per": 54.629116,
+      "per": 54.81913,
       "pbr": 31.625362,
       "change_percent": 2.62078,
       "market_cap": 394461478912
@@ -489,10 +489,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     }
   ],
   "per_pbr": [
@@ -508,17 +508,17 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.358836,
-      "pbr": 1.6353122,
+      "pbr": 1.6356086,
       "change_percent": -0.8056231,
       "market_cap": 110412865536
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     },
     {
       "code": "EXC",
@@ -541,10 +541,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     },
     {
       "code": "BKNG",
@@ -552,7 +552,7 @@
       "per": 18.216667,
       "pbr": null,
       "change_percent": 4.15475,
-      "market_cap": 123188830208
+      "market_cap": 127041323008
     }
   ],
   "pbr_rise": [
@@ -567,11 +567,11 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     }
   ],
-  "generated_at": "2026-09-26T14:00:16+00:00"
+  "generated_at": "2026-09-26T17:40:05+00:00"
 }

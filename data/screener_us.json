@@ -17,14 +17,6 @@
       "market_cap": 57550471168
     },
     {
-      "code": "FIS",
-      "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.38965,
-      "pbr": 1.1392813,
-      "change_percent": 1.20034,
-      "market_cap": 18261145600
-    },
-    {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
       "per": 5.433437,
@@ -33,12 +25,20 @@
       "market_cap": 20260456448
     },
     {
+      "code": "FIS",
+      "name": "FIDELITY NATIONAL INFO SERV",
+      "per": 5.439324,
+      "pbr": 1.1392813,
+      "change_percent": 1.20034,
+      "market_cap": 18302689280
+    },
+    {
       "code": "AES",
       "name": "AES CORP",
       "per": 5.5692883,
       "pbr": 2.1457431,
       "change_percent": 0.134677,
-      "market_cap": 10608832512
+      "market_cap": 10604654592
     },
     {
       "code": "CMCSA",
@@ -49,20 +49,20 @@
       "market_cap": 77750632448
     },
     {
+      "code": "UHS",
+      "name": "UNIVERSAL HEALTH SERVICES B",
+      "per": 7.2974296,
+      "pbr": 1.4029336,
+      "change_percent": 1.0565501,
+      "market_cap": 10541385728
+    },
+    {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.406886,
       "pbr": 1.3855792,
       "change_percent": -0.37886000000000003,
-      "market_cap": 32300748800
-    },
-    {
-      "code": "UHS",
-      "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.480552,
-      "pbr": 1.4029336,
-      "change_percent": 1.0565501,
-      "market_cap": 10541385728
+      "market_cap": 32279060480
     },
     {
       "code": "SYF",
@@ -78,7 +78,7 @@
       "per": 7.4862065,
       "pbr": 1.0484757,
       "change_percent": -2.0085800000000003,
-      "market_cap": 20103788544
+      "market_cap": 20774631424
     },
     {
       "code": "CINF",
@@ -139,7 +139,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 8.639082,
+      "per": 8.57942,
       "pbr": 1.7484623,
       "change_percent": -1.1615899,
       "market_cap": 33650429952
@@ -221,8 +221,8 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 15.558712,
-      "pbr": 0.90596294,
+      "per": 14.643494,
+      "pbr": 0.91531014,
       "change_percent": 0.8346629,
       "market_cap": 19789535232
     },
@@ -240,7 +240,7 @@
       "per": 332.0,
       "pbr": 0.94857144,
       "change_percent": -2.1611,
-      "market_cap": 11174579200
+      "market_cap": 11146963968
     },
     {
       "code": "AIG",
@@ -280,12 +280,12 @@
       "per": 7.4862065,
       "pbr": 1.0484757,
       "change_percent": -2.0085800000000003,
-      "market_cap": 20103788544
+      "market_cap": 20774631424
     },
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 12.124032,
+      "per": 12.03077,
       "pbr": 1.0624279,
       "change_percent": 2.1554501999999998,
       "market_cap": 31599288320
@@ -296,7 +296,7 @@
       "per": 20.266968,
       "pbr": 1.0662255,
       "change_percent": 2.7765,
-      "market_cap": 9299897344
+      "market_cap": 9478483968
     },
     {
       "code": "L",
@@ -309,10 +309,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.38965,
+      "per": 5.439324,
       "pbr": 1.1392813,
       "change_percent": 1.20034,
-      "market_cap": 18261145600
+      "market_cap": 18302689280
     },
     {
       "code": "CFG",
@@ -327,7 +327,7 @@
     {
       "code": "BE",
       "name": "BLOOM ENERGY CORP  A",
-      "per": 384.93335,
+      "per": 374.9351,
       "pbr": 52.538673,
       "change_percent": 8.269269999999999,
       "market_cap": 85030051840
@@ -335,7 +335,7 @@
     {
       "code": "ON",
       "name": "ON SEMICONDUCTOR",
-      "per": 51.125828,
+      "per": 50.457516,
       "pbr": 4.163296,
       "change_percent": 5.53656,
       "market_cap": 30055397376
@@ -343,7 +343,7 @@
     {
       "code": "MCHP",
       "name": "MICROCHIP TECHNOLOGY INC",
-      "per": 115.72059,
+      "per": 114.04348,
       "pbr": 6.6237373,
       "change_percent": 5.3554703,
       "market_cap": 42729357312
@@ -383,10 +383,10 @@
     {
       "code": "PYPL",
       "name": "PAYPAL HOLDINGS INC",
-      "per": 10.384906,
+      "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.63879,
-      "market_cap": 47084568576
+      "market_cap": 47444480000
     },
     {
       "code": "HUM",
@@ -410,7 +410,7 @@
       "per": 13.269938,
       "pbr": 2.771478,
       "change_percent": 4.2158500000000005,
-      "market_cap": 28420321280
+      "market_cap": 27983726592
     },
     {
       "code": "BKNG",
@@ -418,7 +418,7 @@
       "per": 18.216667,
       "pbr": null,
       "change_percent": 4.15475,
-      "market_cap": 123188830208
+      "market_cap": 127041323008
     },
     {
       "code": "ABNB",
@@ -439,7 +439,7 @@
     {
       "code": "MSFT",
       "name": "MICROSOFT CORP",
-      "per": 28.739979,
+      "per": 28.723984,
       "pbr": 8.665659,
       "change_percent": 3.66316,
       "market_cap": 3832843862016
@@ -472,7 +472,7 @@
       "code": "P",
       "name": "EVERPURE INC A",
       "per": 172.60274,
-      "pbr": 27.255028,
+      "pbr": 28.793419,
       "change_percent": 3.38038,
       "market_cap": 41986633728
     },
@@ -498,10 +498,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.38965,
+      "per": 5.439324,
       "pbr": 1.1392813,
       "change_percent": 1.20034,
-      "market_cap": 18261145600
+      "market_cap": 18302689280
     },
     {
       "code": "CMCSA",
@@ -517,7 +517,7 @@
       "per": 7.4862065,
       "pbr": 1.0484757,
       "change_percent": -2.0085800000000003,
-      "market_cap": 20103788544
+      "market_cap": 20774631424
     },
     {
       "code": "EG",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-26T14:00:15+00:00"
+  "generated_at": "2026-09-26T17:40:04+00:00"
 }
