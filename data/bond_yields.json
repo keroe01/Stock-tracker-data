@@ -32002,5 +32002,33 @@
     "date": "2026-09-25",
     "yield": 5.49,
     "collected_at": "2026-09-25T22:59:11+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "10Y",
+    "date": "2026-09-25",
+    "yield": 3.071,
+    "collected_at": "2026-09-28T08:01:05+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "30Y",
+    "date": "2026-09-25",
+    "yield": 4.112,
+    "collected_at": "2026-09-28T08:01:05+00:00"
+  },
+  {
+    "country": "KR",
+    "maturity": "10Y",
+    "date": "2026-09-28",
+    "yield": 4.539,
+    "collected_at": "2026-09-28T08:01:09+00:00"
+  },
+  {
+    "country": "KR",
+    "maturity": "30Y",
+    "date": "2026-09-28",
+    "yield": 4.65,
+    "collected_at": "2026-09-28T08:01:09+00:00"
   }
 ]
