@@ -30,7 +30,7 @@
       "per": 5.439324,
       "pbr": 1.1392813,
       "change_percent": 1.20034,
-      "market_cap": 18302689280
+      "market_cap": 18261145600
     },
     {
       "code": "AES",
@@ -38,14 +38,14 @@
       "per": 5.5692883,
       "pbr": 2.1457431,
       "change_percent": 0.134677,
-      "market_cap": 10604654592
+      "market_cap": 10608832512
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 7.022436,
       "pbr": 0.8656315,
-      "change_percent": -0.9941226,
+      "change_percent": -0.9941230000000001,
       "market_cap": 77750632448
     },
     {
@@ -61,8 +61,8 @@
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.406886,
       "pbr": 1.3855792,
-      "change_percent": -0.37886023,
-      "market_cap": 32279060480
+      "change_percent": -0.37886000000000003,
+      "market_cap": 32300748800
     },
     {
       "code": "SYF",
@@ -78,14 +78,14 @@
       "per": 7.4862065,
       "pbr": 1.0484757,
       "change_percent": -2.008583,
-      "market_cap": 20774631424
+      "market_cap": 20103788544
     },
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 7.6742206,
       "pbr": 1.4956245,
-      "change_percent": 0.12936085,
+      "change_percent": 0.12936101,
       "market_cap": 24946321408
     },
     {
@@ -139,7 +139,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 8.57942,
+      "per": 8.639082,
       "pbr": 1.7484623,
       "change_percent": -1.1615899,
       "market_cap": 33650429952
@@ -207,7 +207,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 7.022436,
       "pbr": 0.8656315,
-      "change_percent": -0.9941226,
+      "change_percent": -0.9941230000000001,
       "market_cap": 77750632448
     },
     {
@@ -240,7 +240,7 @@
       "per": 332.0,
       "pbr": 0.94857144,
       "change_percent": -2.1611027000000003,
-      "market_cap": 11146963968
+      "market_cap": 11174579200
     },
     {
       "code": "AIG",
@@ -280,12 +280,12 @@
       "per": 7.4862065,
       "pbr": 1.0484757,
       "change_percent": -2.008583,
-      "market_cap": 20774631424
+      "market_cap": 20103788544
     },
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 12.03077,
+      "per": 12.124032,
       "pbr": 1.0624279,
       "change_percent": 2.1554535,
       "market_cap": 31599288320
@@ -296,7 +296,7 @@
       "per": 20.266968,
       "pbr": 1.0662255,
       "change_percent": 2.7765,
-      "market_cap": 9478483968
+      "market_cap": 9299897344
     },
     {
       "code": "L",
@@ -312,7 +312,7 @@
       "per": 5.439324,
       "pbr": 1.1392813,
       "change_percent": 1.20034,
-      "market_cap": 18302689280
+      "market_cap": 18261145600
     },
     {
       "code": "CFG",
@@ -327,7 +327,7 @@
     {
       "code": "BE",
       "name": "BLOOM ENERGY CORP  A",
-      "per": 374.9351,
+      "per": 384.93335,
       "pbr": 52.538673,
       "change_percent": 8.269269999999999,
       "market_cap": 85030051840
@@ -335,7 +335,7 @@
     {
       "code": "ON",
       "name": "ON SEMICONDUCTOR",
-      "per": 50.457516,
+      "per": 51.125828,
       "pbr": 4.163296,
       "change_percent": 5.536562,
       "market_cap": 30055397376
@@ -343,7 +343,7 @@
     {
       "code": "MCHP",
       "name": "MICROCHIP TECHNOLOGY INC",
-      "per": 114.04348,
+      "per": 115.72059,
       "pbr": 6.6237373,
       "change_percent": 5.355469,
       "market_cap": 42729357312
@@ -386,12 +386,12 @@
       "per": 10.404537,
       "pbr": 2.3937721,
       "change_percent": 4.638788,
-      "market_cap": 47444480000
+      "market_cap": 47084568576
     },
     {
       "code": "HUM",
       "name": "HUMANA INC",
-      "per": 37.647114,
+      "per": 37.61153,
       "pbr": 2.4870467,
       "change_percent": 4.63031,
       "market_cap": 47783555072
@@ -409,23 +409,23 @@
       "name": "SUPER MICRO COMPUTER INC",
       "per": 13.269938,
       "pbr": 2.771478,
-      "change_percent": 4.2158518,
-      "market_cap": 27983726592
+      "change_percent": 4.2158500000000005,
+      "market_cap": 28420321280
     },
     {
       "code": "BKNG",
       "name": "BOOKING HOLDINGS INC",
       "per": 18.216667,
       "pbr": null,
-      "change_percent": 4.1547507,
-      "market_cap": 127041323008
+      "change_percent": 4.15475,
+      "market_cap": 123188830208
     },
     {
       "code": "ABNB",
       "name": "AIRBNB INC CLASS A",
       "per": 35.952053,
       "pbr": 11.912399,
-      "change_percent": 4.0161185,
+      "change_percent": 4.01612,
       "market_cap": 94290780160
     },
     {
@@ -472,7 +472,7 @@
       "code": "P",
       "name": "EVERPURE INC A",
       "per": 172.60274,
-      "pbr": 28.793419,
+      "pbr": 27.255028,
       "change_percent": 3.38038,
       "market_cap": 41986633728
     },
@@ -501,14 +501,14 @@
       "per": 5.439324,
       "pbr": 1.1392813,
       "change_percent": 1.20034,
-      "market_cap": 18302689280
+      "market_cap": 18261145600
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 7.022436,
       "pbr": 0.8656315,
-      "change_percent": -0.9941226,
+      "change_percent": -0.9941230000000001,
       "market_cap": 77750632448
     },
     {
@@ -517,7 +517,7 @@
       "per": 7.4862065,
       "pbr": 1.0484757,
       "change_percent": -2.008583,
-      "market_cap": 20774631424
+      "market_cap": 20103788544
     },
     {
       "code": "EG",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-09-27T21:07:14+00:00"
+  "generated_at": "2026-09-28T00:11:51+00:00"
 }
