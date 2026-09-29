@@ -67,7 +67,7 @@
     {
       "code": "INTU",
       "name": "Intuit",
-      "per": 16.366951,
+      "per": 16.75373,
       "pbr": 3.8070204,
       "change_percent": -2.31699,
       "market_cap": 71993376768
@@ -115,7 +115,7 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 17.79085,
+      "per": 17.56129,
       "pbr": 2.7738714,
       "change_percent": -1.3410700500000001,
       "market_cap": 25200586752
@@ -131,7 +131,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.36656,
+      "per": 18.605864,
       "pbr": 2.8471737,
       "change_percent": -1.22774,
       "market_cap": 56701542400
@@ -153,12 +153,12 @@
       "market_cap": 77447888896
     },
     {
-      "code": "PAYX",
-      "name": "Paychex",
-      "per": 19.702381,
-      "pbr": 9.453542,
-      "change_percent": -2.0420201,
-      "market_cap": 35348860928
+      "code": "AMZN",
+      "name": "Amazon",
+      "per": 20.077486,
+      "pbr": 4.8117523,
+      "change_percent": -1.40986005,
+      "market_cap": 2655051055104
     }
   ],
   "pbr": [
@@ -197,7 +197,7 @@
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 31.777777,
+      "per": 32.10204,
       "pbr": 1.7102473,
       "change_percent": -0.8196729999999999,
       "market_cap": 42811584512
@@ -277,7 +277,7 @@
     {
       "code": "CPRT",
       "name": "Copart",
-      "per": 17.79085,
+      "per": 17.56129,
       "pbr": 2.7738714,
       "change_percent": -1.3410700500000001,
       "market_cap": 25200586752
@@ -285,7 +285,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.36656,
+      "per": 18.605864,
       "pbr": 2.8471737,
       "change_percent": -1.22774,
       "market_cap": 56701542400
@@ -327,7 +327,7 @@
     {
       "code": "PANW",
       "name": "Palo Alto Networks",
-      "per": 956.3171,
+      "per": 911.83716,
       "pbr": 11.623336,
       "change_percent": 4.62988,
       "market_cap": 320729612288
@@ -351,7 +351,7 @@
     {
       "code": "ODFL",
       "name": "Old Dominion Freight Line",
-      "per": 33.305088,
+      "per": 34.009617,
       "pbr": 8.068711,
       "change_percent": 2.04847,
       "market_cap": 36779192320
@@ -367,7 +367,7 @@
     {
       "code": "MAR",
       "name": "Marriott International",
-      "per": 37.157516,
+      "per": 36.51426,
       "pbr": null,
       "change_percent": 1.8578000000000001,
       "market_cap": 93502971904
@@ -392,14 +392,14 @@
       "code": "ASML",
       "name": "ASML Holding",
       "per": 60.231556,
-      "pbr": 1520.5697,
+      "pbr": 1522.2404,
       "change_percent": 1.57517,
       "market_cap": 680398618624
     },
     {
       "code": "SHOP",
       "name": "Shopify",
-      "per": 97.30405,
+      "per": 96.00666,
       "pbr": 14.63665,
       "change_percent": 1.2372499000000001,
       "market_cap": 186875232256
@@ -415,7 +415,7 @@
     {
       "code": "CCEP",
       "name": "Coca-Cola Europacific Partners",
-      "per": 20.370296,
+      "per": 20.17059,
       "pbr": 4.8388624,
       "change_percent": 1.12061,
       "market_cap": 45245444096
@@ -439,7 +439,7 @@
     {
       "code": "TER",
       "name": "Teradyne",
-      "per": 55.048008,
+      "per": 54.673023,
       "pbr": 19.982073,
       "change_percent": 0.7329640000000001,
       "market_cap": 62739542016
@@ -471,7 +471,7 @@
     {
       "code": "STX",
       "name": "Seagate Technology",
-      "per": 66.10545,
+      "per": 65.77516,
       "pbr": 96.442696,
       "change_percent": 0.5104540000000001,
       "market_cap": 209544937472
@@ -479,7 +479,7 @@
     {
       "code": "ADI",
       "name": "Analog Devices",
-      "per": 46.741135,
+      "per": 46.96318,
       "pbr": 5.7110877,
       "change_percent": 0.46493597000000003,
       "market_cap": 191611715584
@@ -581,5 +581,5 @@
       "market_cap": 178546180096
     }
   ],
-  "generated_at": "2026-09-29T03:29:00+00:00"
+  "generated_at": "2026-09-29T10:17:28+00:00"
 }
