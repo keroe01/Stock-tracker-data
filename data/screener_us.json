@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.8797812,
+      "per": 2.898638,
       "pbr": 0.7786972,
       "change_percent": -0.655299,
       "market_cap": 14382407680
@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 4.5129128,
+      "per": 4.55578,
       "pbr": 1.8063803,
       "change_percent": -0.93606,
       "market_cap": 56999239680
@@ -27,7 +27,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.527348,
+      "per": 5.308226,
       "pbr": 1.1813229,
       "change_percent": 4.060619699999999,
       "market_cap": 20610637824
@@ -43,7 +43,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 6.923077,
+      "per": 6.9902916,
       "pbr": 0.8533839,
       "change_percent": -0.8719620000000001,
       "market_cap": 76650553344
@@ -57,6 +57,14 @@
       "market_cap": 10356914176
     },
     {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 7.3333335,
+      "pbr": 1.5353328,
+      "change_percent": 0.279648,
+      "market_cap": 23335598080
+    },
+    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 7.3519654,
@@ -65,17 +73,9 @@
       "market_cap": 19487989760
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 7.3558974,
-      "pbr": 1.5353328,
-      "change_percent": 0.279648,
-      "market_cap": 23335598080
-    },
-    {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.4428797,
+      "per": 7.425449,
       "pbr": 1.3923124,
       "change_percent": 0.231824,
       "market_cap": 32457715712
@@ -91,18 +91,10 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.792309,
+      "per": 7.812116,
       "pbr": 0.92501277,
       "change_percent": -0.26771,
       "market_cap": 14141184000
-    },
-    {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 7.97284,
-      "pbr": 2.2580419,
-      "change_percent": -3.6886099999999997,
-      "market_cap": 10724480000
     },
     {
       "code": "MKC",
@@ -115,7 +107,7 @@
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 8.075711,
+      "per": 8.12882,
       "pbr": 3.5927644,
       "change_percent": -0.6571480000000001,
       "market_cap": 66598604800
@@ -123,18 +115,42 @@
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.079207,
+      "per": 8.214765,
       "pbr": 1.5246637,
       "change_percent": -1.68675,
       "market_cap": 167746404352
     },
     {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 8.279488,
+      "pbr": 2.2580419,
+      "change_percent": -3.6886099999999997,
+      "market_cap": 10724480000
+    },
+    {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 8.583828,
+      "per": 8.571111,
       "pbr": 3.0516655,
       "change_percent": 0.173143,
       "market_cap": 17511333888
+    },
+    {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 8.577465,
+      "pbr": 0.82992643,
+      "change_percent": 1.92469,
+      "market_cap": 36568829952
+    },
+    {
+      "code": "NCLH",
+      "name": "NORWEGIAN CRUISE LINE HOLDIN",
+      "per": 8.654971,
+      "pbr": 2.641442,
+      "change_percent": 3.4241800000000002,
+      "market_cap": 6795980288
     },
     {
       "code": "HIG",
@@ -143,22 +159,6 @@
       "pbr": 1.7712628,
       "change_percent": -0.150748,
       "market_cap": 34089240576
-    },
-    {
-      "code": "FISV",
-      "name": "FISERV INC",
-      "per": 8.689655,
-      "pbr": null,
-      "change_percent": -1.4341599999999999,
-      "market_cap": 24120938496
-    },
-    {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 8.76259,
-      "pbr": 0.82992643,
-      "change_percent": 1.92469,
-      "market_cap": 36568829952
     }
   ],
   "pbr": [
@@ -189,7 +189,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.8797812,
+      "per": 2.898638,
       "pbr": 0.7786972,
       "change_percent": -0.655299,
       "market_cap": 14382407680
@@ -197,7 +197,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 8.76259,
+      "per": 8.577465,
       "pbr": 0.82992643,
       "change_percent": 1.92469,
       "market_cap": 36568829952
@@ -205,7 +205,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 6.923077,
+      "per": 6.9902916,
       "pbr": 0.8533839,
       "change_percent": -0.8719620000000001,
       "market_cap": 76650553344
@@ -229,7 +229,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.792309,
+      "per": 7.812116,
       "pbr": 0.92501277,
       "change_percent": -0.26771,
       "market_cap": 14141184000
@@ -245,7 +245,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 39.492893,
+      "per": 40.256042,
       "pbr": 0.95843303,
       "change_percent": -1.61747,
       "market_cap": 22050650112
@@ -253,7 +253,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 10.675862,
+      "per": 10.825174,
       "pbr": 0.96673465,
       "change_percent": -1.3803400000000001,
       "market_cap": 56732319744
@@ -261,7 +261,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.735401,
+      "per": 13.275131,
       "pbr": 0.9726565,
       "change_percent": 3.4212697,
       "market_cap": 39358169088
@@ -285,7 +285,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 19.624434,
+      "per": 19.803652,
       "pbr": 1.0324224,
       "change_percent": -0.618699,
       "market_cap": 9005057024
@@ -309,7 +309,7 @@
     {
       "code": "CFG",
       "name": "CITIZENS FINANCIAL GROUP",
-      "per": 13.91939,
+      "per": 14.134955,
       "pbr": 1.1218415,
       "change_percent": -1.40433,
       "market_cap": 26908985344
@@ -317,7 +317,7 @@
     {
       "code": "L",
       "name": "LOEWS CORP",
-      "per": 12.997546,
+      "per": 12.871203,
       "pbr": 1.1327231,
       "change_percent": 0.933781,
       "market_cap": 21655027712
@@ -327,7 +327,7 @@
     {
       "code": "CCL",
       "name": "CARNIVAL CORP LTD",
-      "per": 11.310811,
+      "per": 9.964286,
       "pbr": 2.6565807,
       "change_percent": 13.414599999999998,
       "market_cap": 33763162112
@@ -343,7 +343,7 @@
     {
       "code": "RCL",
       "name": "ROYAL CARIBBEAN CRUISES LTD",
-      "per": 16.11063,
+      "per": 14.989651,
       "pbr": 6.810807,
       "change_percent": 7.45291,
       "market_cap": 69716738048
@@ -367,7 +367,7 @@
     {
       "code": "AMAT",
       "name": "APPLIED MATERIALS INC",
-      "per": 44.215027,
+      "per": 42.002464,
       "pbr": 15.856121,
       "change_percent": 5.18736,
       "market_cap": 406329819136
@@ -375,7 +375,7 @@
     {
       "code": "DASH",
       "name": "DOORDASH INC   A",
-      "per": 97.95812,
+      "per": 93.55,
       "pbr": 8.170663,
       "change_percent": 4.88256,
       "market_cap": 81070047232
@@ -383,7 +383,7 @@
     {
       "code": "GLW",
       "name": "CORNING INC",
-      "per": 73.13825,
+      "per": 69.916306,
       "pbr": 11.448461,
       "change_percent": 4.69689,
       "market_cap": 136710955008
@@ -399,7 +399,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.527348,
+      "per": 5.308226,
       "pbr": 1.1813229,
       "change_percent": 4.060619699999999,
       "market_cap": 20610637824
@@ -407,7 +407,7 @@
     {
       "code": "ORCL",
       "name": "ORACLE CORP",
-      "per": 21.597178,
+      "per": 20.782804,
       "pbr": 6.740534,
       "change_percent": 3.9140202,
       "market_cap": 417710505984
@@ -415,7 +415,7 @@
     {
       "code": "KLAC",
       "name": "KLA CORP",
-      "per": 53.843834,
+      "per": 51.85488,
       "pbr": 40.45492,
       "change_percent": 3.8906799999999997,
       "market_cap": 256472924160
@@ -423,7 +423,7 @@
     {
       "code": "COHR",
       "name": "COHERENT CORP",
-      "per": 70.92476,
+      "per": 68.43325,
       "pbr": 5.24614,
       "change_percent": 3.45547,
       "market_cap": 57224138752
@@ -431,7 +431,7 @@
     {
       "code": "NCLH",
       "name": "NORWEGIAN CRUISE LINE HOLDIN",
-      "per": 8.969697,
+      "per": 8.654971,
       "pbr": 2.641442,
       "change_percent": 3.4241800000000002,
       "market_cap": 6795980288
@@ -439,7 +439,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.735401,
+      "per": 13.275131,
       "pbr": 0.9726565,
       "change_percent": 3.4212697,
       "market_cap": 39358169088
@@ -455,7 +455,7 @@
     {
       "code": "CBOE",
       "name": "CBOE GLOBAL MARKETS INC",
-      "per": 20.385513,
+      "per": 19.724943,
       "pbr": 4.864609,
       "change_percent": 3.35229,
       "market_cap": 27334817792
@@ -463,7 +463,7 @@
     {
       "code": "DPZ",
       "name": "DOMINO S PIZZA INC",
-      "per": 17.099716,
+      "per": 16.555677,
       "pbr": null,
       "change_percent": 3.26411,
       "market_cap": 9984398336
@@ -471,7 +471,7 @@
     {
       "code": "META",
       "name": "META PLATFORMS INC CLASS A",
-      "per": 27.826365,
+      "per": 26.9533,
       "pbr": 7.206301,
       "change_percent": 3.2377499999999997,
       "market_cap": 1882072023040
@@ -490,7 +490,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.8797812,
+      "per": 2.898638,
       "pbr": 0.7786972,
       "change_percent": -0.655299,
       "market_cap": 14382407680
@@ -506,7 +506,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 6.923077,
+      "per": 6.9902916,
       "pbr": 0.8533839,
       "change_percent": -0.8719620000000001,
       "market_cap": 76650553344
@@ -522,7 +522,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.792309,
+      "per": 7.812116,
       "pbr": 0.92501277,
       "change_percent": -0.26771,
       "market_cap": 14141184000
@@ -532,21 +532,29 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.527348,
+      "per": 5.308226,
       "pbr": 1.1813229,
       "change_percent": 4.060619699999999,
       "market_cap": 20610637824
+    },
+    {
+      "code": "NCLH",
+      "name": "NORWEGIAN CRUISE LINE HOLDIN",
+      "per": 8.654971,
+      "pbr": 2.641442,
+      "change_percent": 3.4241800000000002,
+      "market_cap": 6795980288
     }
   ],
   "pbr_rise": [
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.735401,
+      "per": 13.275131,
       "pbr": 0.9726565,
       "change_percent": 3.4212697,
       "market_cap": 39358169088
     }
   ],
-  "generated_at": "2026-09-30T00:56:52+00:00"
+  "generated_at": "2026-09-30T07:46:26+00:00"
 }
