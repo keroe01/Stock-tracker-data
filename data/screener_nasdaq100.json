@@ -19,7 +19,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.252427,
+      "per": 8.406593,
       "pbr": 1.6127547,
       "change_percent": -1.8475799000000002,
       "market_cap": 108889833472
@@ -49,6 +49,14 @@
       "market_cap": 1239384719360
     },
     {
+      "code": "ROP",
+      "name": "Roper Technologies",
+      "per": 14.556002,
+      "pbr": 1.9176235,
+      "change_percent": 3.7720700000000003,
+      "market_cap": 35860467712
+    },
+    {
       "code": "EXC",
       "name": "Exelon",
       "per": 14.878676,
@@ -63,14 +71,6 @@
       "pbr": 2.6331384,
       "change_percent": -2.12636,
       "market_cap": 28898885632
-    },
-    {
-      "code": "ROP",
-      "name": "Roper Technologies",
-      "per": 15.107917,
-      "pbr": 1.9176235,
-      "change_percent": 3.7720700000000003,
-      "market_cap": 35860467712
     },
     {
       "code": "PEP",
@@ -97,6 +97,14 @@
       "market_cap": 166771818496
     },
     {
+      "code": "GOOGL",
+      "name": "Alphabet Inc.(Class A)",
+      "per": 16.97992,
+      "pbr": 6.6457086,
+      "change_percent": -1.69728,
+      "market_cap": 4136653029376
+    },
+    {
       "code": "TMUS",
       "name": "T-Mobile US",
       "per": 17.060127,
@@ -111,14 +119,6 @@
       "pbr": 6.580674,
       "change_percent": -1.7051099,
       "market_cap": 4096171966464
-    },
-    {
-      "code": "GOOGL",
-      "name": "Alphabet Inc.(Class A)",
-      "per": 17.274769,
-      "pbr": 6.6457086,
-      "change_percent": -1.69728,
-      "market_cap": 4136653029376
     },
     {
       "code": "CPRT",
@@ -147,7 +147,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 18.75951,
+      "per": 18.183865,
       "pbr": 2.3245316,
       "change_percent": -3.09389,
       "market_cap": 75652358144
@@ -189,7 +189,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.252427,
+      "per": 8.406593,
       "pbr": 1.6127547,
       "change_percent": -1.8475799000000002,
       "market_cap": 108889833472
@@ -213,7 +213,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 15.107917,
+      "per": 14.556002,
       "pbr": 1.9176235,
       "change_percent": 3.7720700000000003,
       "market_cap": 35860467712
@@ -245,7 +245,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 18.75951,
+      "per": 18.183865,
       "pbr": 2.3245316,
       "change_percent": -3.09389,
       "market_cap": 75652358144
@@ -309,7 +309,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 75.700615,
+      "per": 85.45994,
       "pbr": 3.0170922,
       "change_percent": 12.783399000000001,
       "market_cap": 94005436416
@@ -327,7 +327,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 75.700615,
+      "per": 85.45994,
       "pbr": 3.0170922,
       "change_percent": 12.783399000000001,
       "market_cap": 94005436416
@@ -359,7 +359,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 15.107917,
+      "per": 14.556002,
       "pbr": 1.9176235,
       "change_percent": 3.7720700000000003,
       "market_cap": 35860467712
@@ -375,7 +375,7 @@
     {
       "code": "LRCX",
       "name": "Lam Research",
-      "per": 58.136753,
+      "per": 57.159668,
       "pbr": 34.122604,
       "change_percent": 3.52805,
       "market_cap": 425609428992
@@ -399,7 +399,7 @@
     {
       "code": "KLAC",
       "name": "KLA Corporation",
-      "per": 53.13793,
+      "per": 54.58583,
       "pbr": 41.237137,
       "change_percent": 2.7702299999999997,
       "market_cap": 261431951360
@@ -423,7 +423,7 @@
     {
       "code": "STX",
       "name": "Seagate Technology",
-      "per": 67.88011,
+      "per": 66.216385,
       "pbr": 98.960754,
       "change_percent": 2.51859,
       "market_cap": 215016013824
@@ -431,7 +431,7 @@
     {
       "code": "ODFL",
       "name": "Old Dominion Freight Line",
-      "per": 33.414635,
+      "per": 34.250004,
       "pbr": 8.125742,
       "change_percent": 2.45053,
       "market_cap": 37039153152
@@ -439,7 +439,7 @@
     {
       "code": "PAYX",
       "name": "Paychex",
-      "per": 20.007936,
+      "per": 19.542635,
       "pbr": 9.600152,
       "change_percent": 2.37563,
       "market_cap": 35897069568
@@ -447,7 +447,7 @@
     {
       "code": "ADP",
       "name": "Automatic Data Processing",
-      "per": 23.588919,
+      "per": 24.150043,
       "pbr": 17.41046,
       "change_percent": 2.2862899999999997,
       "market_cap": 104594554880
@@ -489,7 +489,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 15.107917,
+      "per": 14.556002,
       "pbr": 1.9176235,
       "change_percent": 3.7720700000000003,
       "market_cap": 35860467712
@@ -507,7 +507,7 @@
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 8.252427,
+      "per": 8.406593,
       "pbr": 1.6127547,
       "change_percent": -1.8475799000000002,
       "market_cap": 108889833472
@@ -521,20 +521,20 @@
       "market_cap": 45390753792
     },
     {
+      "code": "ROP",
+      "name": "Roper Technologies",
+      "per": 14.556002,
+      "pbr": 1.9176235,
+      "change_percent": 3.7720700000000003,
+      "market_cap": 35860467712
+    },
+    {
       "code": "EXC",
       "name": "Exelon",
       "per": 14.878676,
       "pbr": 1.4066737,
       "change_percent": 0.17326701,
       "market_cap": 41694380032
-    },
-    {
-      "code": "GEHC",
-      "name": "GE HealthCare",
-      "per": 15.054117,
-      "pbr": 2.6331384,
-      "change_percent": -2.12636,
-      "market_cap": 28898885632
     }
   ],
   "per_rise": [
@@ -549,7 +549,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 15.107917,
+      "per": 14.556002,
       "pbr": 1.9176235,
       "change_percent": 3.7720700000000003,
       "market_cap": 35860467712
@@ -575,7 +575,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 15.107917,
+      "per": 14.556002,
       "pbr": 1.9176235,
       "change_percent": 3.7720700000000003,
       "market_cap": 35860467712
@@ -599,11 +599,11 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 75.700615,
+      "per": 85.45994,
       "pbr": 3.0170922,
       "change_percent": 12.783399000000001,
       "market_cap": 94005436416
     }
   ],
-  "generated_at": "2026-10-02T03:19:58+00:00"
+  "generated_at": "2026-10-02T10:11:50+00:00"
 }

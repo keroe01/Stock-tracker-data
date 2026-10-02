@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 4.4935927,
+      "per": 4.4944925,
       "pbr": 1.7982868,
       "change_percent": 1.14937,
       "market_cap": 56743854080
@@ -27,7 +27,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.546392,
+      "per": 5.552116,
       "pbr": 1.1866163,
       "change_percent": 0.13028,
       "market_cap": 20702992384
@@ -57,20 +57,20 @@
       "market_cap": 10318016512
     },
     {
-      "code": "ACGL",
-      "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.2229886,
-      "pbr": 1.3797243,
-      "change_percent": 2.0571699999999997,
-      "market_cap": 32164257792
-    },
-    {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
       "per": 7.2746696,
       "pbr": 1.5308373,
       "change_percent": 0.76088603,
       "market_cap": 23267270656
+    },
+    {
+      "code": "ACGL",
+      "name": "ARCH CAPITAL GROUP LTD",
+      "per": 7.375587,
+      "pbr": 1.3797243,
+      "change_percent": 2.0571699999999997,
+      "market_cap": 32164257792
     },
     {
       "code": "EXE",
@@ -83,7 +83,7 @@
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
-      "per": 7.524362,
+      "per": 7.655807,
       "pbr": 1.492036,
       "change_percent": 1.74437,
       "market_cap": 24886464512
@@ -99,7 +99,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.7154217,
+      "per": 7.7937007,
       "pbr": 0.92478704,
       "change_percent": 0.972147,
       "market_cap": 14137734144
@@ -129,9 +129,17 @@
       "market_cap": 67761774592
     },
     {
+      "code": "HIG",
+      "name": "HARTFORD INSURANCE GROUP INC",
+      "per": 8.450269,
+      "pbr": 1.7697146,
+      "change_percent": 2.76234,
+      "market_cap": 34059444224
+    },
+    {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 8.547762,
+      "per": 8.497033,
       "pbr": 3.0208087,
       "change_percent": -0.572913,
       "market_cap": 17334269952
@@ -145,17 +153,9 @@
       "market_cap": 24131573760
     },
     {
-      "code": "HIG",
-      "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 8.6837015,
-      "pbr": 1.7697146,
-      "change_percent": 2.76234,
-      "market_cap": 34059444224
-    },
-    {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 8.818841,
+      "per": 8.755396,
       "pbr": 0.82924503,
       "change_percent": -0.653061,
       "market_cap": 36538806272
@@ -205,7 +205,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 8.818841,
+      "per": 8.755396,
       "pbr": 0.82924503,
       "change_percent": -0.653061,
       "market_cap": 36538806272
@@ -237,7 +237,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 15.820809,
+      "per": 15.463277,
       "pbr": 0.9055218,
       "change_percent": 0.637338,
       "market_cap": 19779899392
@@ -253,7 +253,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.7154217,
+      "per": 7.7937007,
       "pbr": 0.92478704,
       "change_percent": 0.972147,
       "market_cap": 14137734144
@@ -285,7 +285,7 @@
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 11.684615,
+      "per": 11.775194,
       "pbr": 1.0318593,
       "change_percent": -0.45871999999999996,
       "market_cap": 30690101248
@@ -317,7 +317,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 13.940725,
+      "per": 13.685346,
       "pbr": 1.1068696,
       "change_percent": -1.91535,
       "market_cap": 213034467328
@@ -335,7 +335,7 @@
     {
       "code": "SNPS",
       "name": "SYNOPSYS INC",
-      "per": 75.700615,
+      "per": 85.45994,
       "pbr": 3.0170922,
       "change_percent": 12.783399000000001,
       "market_cap": 94005436416
@@ -343,7 +343,7 @@
     {
       "code": "FICO",
       "name": "FAIR ISAAC CORP",
-      "per": 17.15267,
+      "per": 19.158945,
       "pbr": null,
       "change_percent": 11.6934,
       "market_cap": 14292235264
@@ -359,7 +359,7 @@
     {
       "code": "CIEN",
       "name": "CIENA CORP",
-      "per": 84.8188,
+      "per": 78.65975,
       "pbr": 17.600039,
       "change_percent": 7.76534,
       "market_cap": 53765287936
@@ -375,7 +375,7 @@
     {
       "code": "MPC",
       "name": "MARATHON PETROLEUM CORP",
-      "per": 14.57336,
+      "per": 13.716945,
       "pbr": 6.232754,
       "change_percent": 6.2541,
       "market_cap": 117988524032
@@ -391,7 +391,7 @@
     {
       "code": "CTSH",
       "name": "COGNIZANT TECH SOLUTIONS A",
-      "per": 13.064379,
+      "per": 12.323887,
       "pbr": 1.9027379,
       "change_percent": 5.98886,
       "market_cap": 27423045632
@@ -407,7 +407,7 @@
     {
       "code": "VLO",
       "name": "VALERO ENERGY CORP",
-      "per": 17.02626,
+      "per": 16.157436,
       "pbr": 4.7041345,
       "change_percent": 5.3791199999999995,
       "market_cap": 117606842368
@@ -431,7 +431,7 @@
     {
       "code": "OXY",
       "name": "OCCIDENTAL PETROLEUM CORP",
-      "per": 16.292957,
+      "per": 17.061947,
       "pbr": 1.7281662,
       "change_percent": 4.5553196,
       "market_cap": 57819025408
@@ -439,8 +439,8 @@
     {
       "code": "JBL",
       "name": "JABIL INC",
-      "per": 29.420021,
-      "pbr": 19.478268,
+      "per": 30.779263,
+      "pbr": 19.496002,
       "change_percent": 4.507429999999999,
       "market_cap": 31414122496
     },
@@ -463,7 +463,7 @@
     {
       "code": "GLW",
       "name": "CORNING INC",
-      "per": 70.9823,
+      "per": 73.92626,
       "pbr": 11.57181,
       "change_percent": 4.33143,
       "market_cap": 138183917568
@@ -479,7 +479,7 @@
     {
       "code": "GEV",
       "name": "GE VERNOVA INC",
-      "per": 27.247515,
+      "per": 28.326162,
       "pbr": 21.994654,
       "change_percent": 3.88852,
       "market_cap": 262991101952
@@ -522,7 +522,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.7154217,
+      "per": 7.7937007,
       "pbr": 0.92478704,
       "change_percent": 0.972147,
       "market_cap": 14137734144
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-02T03:19:57+00:00"
+  "generated_at": "2026-10-02T10:11:49+00:00"
 }
