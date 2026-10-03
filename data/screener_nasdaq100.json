@@ -49,6 +49,14 @@
       "market_cap": 1213973397504
     },
     {
+      "code": "ROP",
+      "name": "Roper Technologies",
+      "per": 14.769487,
+      "pbr": 1.8738862,
+      "change_percent": -2.03494,
+      "market_cap": 35042557952
+    },
+    {
       "code": "GEHC",
       "name": "GE HealthCare",
       "per": 14.813364,
@@ -63,14 +71,6 @@
       "pbr": 1.4157108,
       "change_percent": 0.642447,
       "market_cap": 41962242048
-    },
-    {
-      "code": "ROP",
-      "name": "Roper Technologies",
-      "per": 15.103155,
-      "pbr": 1.8738862,
-      "change_percent": -2.03494,
-      "market_cap": 35042557952
     },
     {
       "code": "WDC",
@@ -213,7 +213,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 15.103155,
+      "per": 14.769487,
       "pbr": 1.8738862,
       "change_percent": -2.03494,
       "market_cap": 35042557952
@@ -285,7 +285,7 @@
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 21.16,
+      "per": 21.315018,
       "pbr": 2.7971928,
       "change_percent": 0.74445996,
       "market_cap": 74268368896
@@ -327,7 +327,7 @@
     {
       "code": "TER",
       "name": "Teradyne",
-      "per": 57.129772,
+      "per": 61.766163,
       "pbr": 22.35921,
       "change_percent": 7.996830000000001,
       "market_cap": 70203252736
@@ -407,7 +407,7 @@
     {
       "code": "MCHP",
       "name": "Microchip Technology",
-      "per": 114.53522,
+      "per": 119.588234,
       "pbr": 6.8451176,
       "change_percent": 3.59236,
       "market_cap": 44157468672
@@ -512,23 +512,23 @@
       "market_cap": 45168332800
     },
     {
+      "code": "ROP",
+      "name": "Roper Technologies",
+      "per": 14.769487,
+      "pbr": 1.8738862,
+      "change_percent": -2.03494,
+      "market_cap": 35042557952
+    },
+    {
       "code": "GEHC",
       "name": "GE HealthCare",
       "per": 14.813364,
       "pbr": 2.6458967,
       "change_percent": 0.48452900000000004,
       "market_cap": 29038909440
-    },
-    {
-      "code": "EXC",
-      "name": "Exelon",
-      "per": 14.974264,
-      "pbr": 1.4157108,
-      "change_percent": 0.642447,
-      "market_cap": 41962242048
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-03T12:55:03+00:00"
+  "generated_at": "2026-10-03T17:43:01+00:00"
 }

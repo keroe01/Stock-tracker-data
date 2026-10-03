@@ -27,7 +27,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.549948,
+      "per": 5.5614038,
       "pbr": 1.1886014,
       "change_percent": 0.167287,
       "market_cap": 20737626112
@@ -57,6 +57,14 @@
       "market_cap": 10356324352
     },
     {
+      "code": "CTVA",
+      "name": "CORTEVA INC",
+      "per": 7.2242427,
+      "pbr": 0.31602108,
+      "change_percent": -5.17104,
+      "market_cap": 7952976896
+    },
+    {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.3239436,
@@ -67,7 +75,7 @@
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 7.3384457,
+      "per": 7.3610253,
       "pbr": 1.5364031,
       "change_percent": 0.363578,
       "market_cap": 23351865344
@@ -75,7 +83,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.4171724,
+      "per": 7.372413,
       "pbr": 1.0325385,
       "change_percent": -0.511869,
       "market_cap": 19798204416
@@ -87,14 +95,6 @@
       "pbr": 1.7167562,
       "change_percent": 1.2007199,
       "market_cap": 12019109888
-    },
-    {
-      "code": "CTVA",
-      "name": "CORTEVA INC",
-      "per": 7.5923567,
-      "pbr": 0.31602108,
-      "change_percent": -5.17104,
-      "market_cap": 7952976896
     },
     {
       "code": "CINF",
@@ -165,7 +165,7 @@
     {
       "code": "CTVA",
       "name": "CORTEVA INC",
-      "per": 7.5923567,
+      "per": 7.2242427,
       "pbr": 0.31602108,
       "change_percent": -5.17104,
       "market_cap": 7952976896
@@ -237,7 +237,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 38.048542,
+      "per": 37.14692,
       "pbr": 0.9014998,
       "change_percent": -2.3788799999999997,
       "market_cap": 20740788224
@@ -269,7 +269,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.748625,
+      "per": 13.673358,
       "pbr": 0.968263,
       "change_percent": -0.662866,
       "market_cap": 39180386304
@@ -285,7 +285,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.4171724,
+      "per": 7.372413,
       "pbr": 1.0325385,
       "change_percent": -0.511869,
       "market_cap": 19798204416
@@ -327,7 +327,7 @@
     {
       "code": "TER",
       "name": "TERADYNE INC",
-      "per": 57.129772,
+      "per": 61.766163,
       "pbr": 22.35921,
       "change_percent": 7.996830000000001,
       "market_cap": 70203252736
@@ -335,7 +335,7 @@
     {
       "code": "HPE",
       "name": "HEWLETT PACKARD ENTERPRISE",
-      "per": 33.331734,
+      "per": 35.737114,
       "pbr": 3.472751,
       "change_percent": 7.35522,
       "market_cap": 92033138688
@@ -375,7 +375,7 @@
     {
       "code": "NTAP",
       "name": "NETAPP INC",
-      "per": 30.412634,
+      "per": 31.95904,
       "pbr": 29.663084,
       "change_percent": 5.21739,
       "market_cap": 44443729920
@@ -471,7 +471,7 @@
     {
       "code": "MCHP",
       "name": "MICROCHIP TECHNOLOGY INC",
-      "per": 114.53522,
+      "per": 119.588234,
       "pbr": 6.8451176,
       "change_percent": 3.59236,
       "market_cap": 44157468672
@@ -512,23 +512,23 @@
       "market_cap": 76544090112
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 7.4171724,
-      "pbr": 1.0325385,
-      "change_percent": -0.511869,
-      "market_cap": 19798204416
-    },
-    {
       "code": "CTVA",
       "name": "CORTEVA INC",
-      "per": 7.5923567,
+      "per": 7.2242427,
       "pbr": 0.31602108,
       "change_percent": -5.17104,
       "market_cap": 7952976896
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 7.372413,
+      "pbr": 1.0325385,
+      "change_percent": -0.511869,
+      "market_cap": 19798204416
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-03T12:55:02+00:00"
+  "generated_at": "2026-10-03T17:43:01+00:00"
 }
