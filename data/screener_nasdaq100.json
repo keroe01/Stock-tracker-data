@@ -12,7 +12,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.122845,
-      "pbr": 1.589143,
+      "pbr": 1.589431,
       "change_percent": -1.46405995,
       "market_cap": 107295621120
     },
@@ -27,10 +27,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.038022,
+      "per": 9.981096,
       "pbr": 2.296351,
       "change_percent": -0.490015,
-      "market_cap": 45168332800
+      "market_cap": 45513601024
     },
     {
       "code": "ADBE",
@@ -62,7 +62,7 @@
       "per": 14.813364,
       "pbr": 2.6458967,
       "change_percent": 0.48452900000000004,
-      "market_cap": 29038909440
+      "market_cap": 29244993536
     },
     {
       "code": "EXC",
@@ -76,7 +76,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 15.432553,
-      "pbr": null,
+      "pbr": 19.856083,
       "change_percent": -10.2192,
       "market_cap": 149729050624
     },
@@ -134,12 +134,12 @@
       "per": 17.66889,
       "pbr": null,
       "change_percent": -0.7861210000000001,
-      "market_cap": 119484530688
+      "market_cap": 123221180416
     },
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.891373,
+      "per": 18.006432,
       "pbr": 2.7913468,
       "change_percent": 0.683209,
       "market_cap": 55589748736
@@ -173,10 +173,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 35.3174,
+      "per": 35.250004,
       "pbr": 1.3673817,
       "change_percent": -0.43123700000000004,
-      "market_cap": 51722452992
+      "market_cap": 51961384960
     },
     {
       "code": "EXC",
@@ -190,7 +190,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.122845,
-      "pbr": 1.589143,
+      "pbr": 1.589431,
       "change_percent": -1.46405995,
       "market_cap": 107295621120
     },
@@ -229,7 +229,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 20.75868,
+      "per": 20.68685,
       "pbr": 2.0290518,
       "change_percent": -0.15031301,
       "market_cap": 65093595136
@@ -237,10 +237,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.038022,
+      "per": 9.981096,
       "pbr": 2.296351,
       "change_percent": -0.490015,
-      "market_cap": 45168332800
+      "market_cap": 45513601024
     },
     {
       "code": "REGN",
@@ -264,7 +264,7 @@
       "per": 14.813364,
       "pbr": 2.6458967,
       "change_percent": 0.48452900000000004,
-      "market_cap": 29038909440
+      "market_cap": 29244993536
     },
     {
       "code": "CPRT",
@@ -277,7 +277,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.891373,
+      "per": 18.006432,
       "pbr": 2.7913468,
       "change_percent": 0.683209,
       "market_cap": 55589748736
@@ -288,7 +288,7 @@
       "per": 21.315018,
       "pbr": 2.7971928,
       "change_percent": 0.74445996,
-      "market_cap": 74268368896
+      "market_cap": 74695581696
     },
     {
       "code": "PCAR",
@@ -327,8 +327,8 @@
     {
       "code": "TER",
       "name": "Teradyne",
-      "per": 61.766163,
-      "pbr": 22.35921,
+      "per": 57.129772,
+      "pbr": 20.441572,
       "change_percent": 7.996830000000001,
       "market_cap": 70203252736
     },
@@ -338,7 +338,7 @@
       "per": null,
       "pbr": 16.462303,
       "change_percent": 7.354629999999999,
-      "market_cap": 2095375843328
+      "market_cap": 2094168801280
     },
     {
       "code": "MPWR",
@@ -351,7 +351,7 @@
     {
       "code": "ARM",
       "name": "Arm Holdings",
-      "per": 313.7653,
+      "per": 316.99997,
       "pbr": 38.05098,
       "change_percent": 5.1823203,
       "market_cap": 328398864384
@@ -378,7 +378,7 @@
       "per": null,
       "pbr": 6.436827,
       "change_percent": 4.53332,
-      "market_cap": 66009169920
+      "market_cap": 61649018880
     },
     {
       "code": "TXN",
@@ -423,7 +423,7 @@
     {
       "code": "AVGO",
       "name": "Broadcom",
-      "per": 43.844444,
+      "per": 45.24077,
       "pbr": 17.006992,
       "change_percent": 3.3465300000000004,
       "market_cap": 1695307005952
@@ -455,7 +455,7 @@
     {
       "code": "AMD",
       "name": "Advanced Micro Devices",
-      "per": 161.30025,
+      "per": 156.13547,
       "pbr": 15.389525,
       "change_percent": 2.9525900000000003,
       "market_cap": 1034842210304
@@ -463,7 +463,7 @@
     {
       "code": "LRCX",
       "name": "Lam Research",
-      "per": 59.197613,
+      "per": 60.43304,
       "pbr": 34.86405,
       "change_percent": 2.1728899999999998,
       "market_cap": 434857443328
@@ -499,17 +499,17 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.122845,
-      "pbr": 1.589143,
+      "pbr": 1.589431,
       "change_percent": -1.46405995,
       "market_cap": 107295621120
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.038022,
+      "per": 9.981096,
       "pbr": 2.296351,
       "change_percent": -0.490015,
-      "market_cap": 45168332800
+      "market_cap": 45513601024
     },
     {
       "code": "ROP",
@@ -525,10 +525,10 @@
       "per": 14.813364,
       "pbr": 2.6458967,
       "change_percent": 0.48452900000000004,
-      "market_cap": 29038909440
+      "market_cap": 29244993536
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-03T17:43:01+00:00"
+  "generated_at": "2026-10-03T20:24:59+00:00"
 }
