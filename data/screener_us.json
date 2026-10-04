@@ -19,10 +19,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 4.9831023,
+      "per": 5.084639,
       "pbr": 1.0437244,
       "change_percent": -1.9939599999999997,
-      "market_cap": 16767558656
+      "market_cap": 16729499648
     },
     {
       "code": "EIX",
@@ -38,7 +38,7 @@
       "per": 5.5842695,
       "pbr": 2.1515152,
       "change_percent": -0.067025697,
-      "market_cap": 10633181184
+      "market_cap": 10637370368
     },
     {
       "code": "CMCSA",
@@ -70,7 +70,7 @@
       "per": 7.3239436,
       "pbr": 1.3700635,
       "change_percent": -0.7001948499999999,
-      "market_cap": 31917598720
+      "market_cap": 31939045376
     },
     {
       "code": "SYF",
@@ -86,13 +86,13 @@
       "per": 7.372413,
       "pbr": 1.0325385,
       "change_percent": -0.51186886,
-      "market_cap": 20458850304
+      "market_cap": 19798204416
     },
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
       "per": 7.432612,
-      "pbr": 1.7167562,
+      "pbr": 1.7162286,
       "change_percent": 1.2007199,
       "market_cap": 12019109888
     },
@@ -155,7 +155,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 8.699103,
+      "per": 8.681129,
       "pbr": 1.7740778,
       "change_percent": 0.24654500000000001,
       "market_cap": 34143416320
@@ -229,7 +229,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 15.115529,
+      "per": 15.557504,
       "pbr": 0.880157,
       "change_percent": -2.8011201,
       "market_cap": 19225839616
@@ -248,7 +248,7 @@
       "per": 316.6667,
       "pbr": 0.9047619,
       "change_percent": 1.7130604,
-      "market_cap": 10632144896
+      "market_cap": 10658484224
     },
     {
       "code": "EG",
@@ -288,7 +288,7 @@
       "per": 7.372413,
       "pbr": 1.0325385,
       "change_percent": -0.51186886,
-      "market_cap": 20458850304
+      "market_cap": 19798204416
     },
     {
       "code": "APTV",
@@ -296,12 +296,12 @@
       "per": 19.701357,
       "pbr": 1.0364692,
       "change_percent": -0.97794,
-      "market_cap": 9213958144
+      "market_cap": 9040355328
     },
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 11.792308,
+      "per": 11.702291,
       "pbr": 1.0413694,
       "change_percent": 0.9216613,
       "market_cap": 30972958720
@@ -309,10 +309,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 4.9831023,
+      "per": 5.084639,
       "pbr": 1.0437244,
       "change_percent": -1.9939599999999997,
-      "market_cap": 16767558656
+      "market_cap": 16729499648
     },
     {
       "code": "GM",
@@ -320,22 +320,22 @@
       "per": 34.941963,
       "pbr": 1.1071347,
       "change_percent": -1.31131,
-      "market_cap": 70791413760
+      "market_cap": 68678127616
     }
   ],
   "rise": [
     {
       "code": "TER",
       "name": "TERADYNE INC",
-      "per": 57.129772,
-      "pbr": 20.441572,
+      "per": 61.766163,
+      "pbr": 22.35921,
       "change_percent": 7.996825,
       "market_cap": 70203252736
     },
     {
       "code": "HPE",
       "name": "HEWLETT PACKARD ENTERPRISE",
-      "per": 33.331734,
+      "per": 35.737114,
       "pbr": 3.472751,
       "change_percent": 7.35522,
       "market_cap": 92033138688
@@ -391,7 +391,7 @@
     {
       "code": "URI",
       "name": "UNITED RENTALS INC",
-      "per": 26.005293,
+      "per": 25.974052,
       "pbr": 7.305904,
       "change_percent": 4.5382097,
       "market_cap": 67286622208
@@ -415,7 +415,7 @@
     {
       "code": "GNRC",
       "name": "GENERAC HOLDINGS INC",
-      "per": 49.83908,
+      "per": 47.85872,
       "pbr": 4.445447,
       "change_percent": 4.2758897,
       "market_cap": 12805061632
@@ -426,7 +426,7 @@
       "per": 13.40184,
       "pbr": 2.799026,
       "change_percent": 4.2223297,
-      "market_cap": 28261881856
+      "market_cap": 28702816256
     },
     {
       "code": "BE",
@@ -498,10 +498,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 4.9831023,
+      "per": 5.084639,
       "pbr": 1.0437244,
       "change_percent": -1.9939599999999997,
-      "market_cap": 16767558656
+      "market_cap": 16729499648
     },
     {
       "code": "CMCSA",
@@ -525,10 +525,10 @@
       "per": 7.372413,
       "pbr": 1.0325385,
       "change_percent": -0.51186886,
-      "market_cap": 20458850304
+      "market_cap": 19798204416
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-04T17:56:59+00:00"
+  "generated_at": "2026-10-04T20:45:28+00:00"
 }
