@@ -5,13 +5,13 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.8057797,
       "pbr": 0.7582922,
-      "change_percent": -1.3907990000000001,
+      "change_percent": -1.3908,
       "market_cap": 14005530624
     },
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 4.4959984,
+      "per": 4.476295,
       "pbr": 1.8006908,
       "change_percent": 0.43353899999999995,
       "market_cap": 56819712000
@@ -57,6 +57,14 @@
       "market_cap": 10375774208
     },
     {
+      "code": "ACGL",
+      "name": "ARCH CAPITAL GROUP LTD",
+      "per": 7.326087,
+      "pbr": 1.3811879,
+      "change_percent": 0.811968,
+      "market_cap": 32176760832
+    },
+    {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
       "per": 7.3572154,
@@ -65,19 +73,11 @@
       "market_cap": 23387656192
     },
     {
-      "code": "ACGL",
-      "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.383412,
-      "pbr": 1.3811879,
-      "change_percent": 0.8119681,
-      "market_cap": 32176760832
-    },
-    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 7.450862,
       "pbr": 1.0435256,
-      "change_percent": 1.0640828999999998,
+      "change_percent": 1.0640800000000001,
       "market_cap": 20676548608
     },
     {
@@ -101,7 +101,7 @@
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 7.655335,
       "pbr": 1.491944,
-      "change_percent": 0.11732166999999999,
+      "change_percent": 0.117322,
       "market_cap": 24884930560
     },
     {
@@ -109,13 +109,13 @@
       "name": "LULULEMON ATHLETICA INC",
       "per": 7.665844,
       "pbr": 2.1710954,
-      "change_percent": -1.3974166,
+      "change_percent": -1.3974201,
       "market_cap": 10311531520
     },
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.758249,
+      "per": 7.7895517,
       "pbr": 0.91999656,
       "change_percent": -0.396446,
       "market_cap": 14064498688
@@ -123,9 +123,9 @@
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 7.904762,
+      "per": 7.89893,
       "pbr": 3.6613264,
-      "change_percent": 0.070093875,
+      "change_percent": 0.0700939,
       "market_cap": 67869532160
     },
     {
@@ -157,7 +157,7 @@
       "name": "FISERV INC",
       "per": 8.856046,
       "pbr": null,
-      "change_percent": 4.0126216,
+      "change_percent": 4.01262,
       "market_cap": 24535715840
     }
   ],
@@ -199,7 +199,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.8057797,
       "pbr": 0.7582922,
-      "change_percent": -1.3907990000000001,
+      "change_percent": -1.3908,
       "market_cap": 14005530624
     },
     {
@@ -237,7 +237,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 7.758249,
+      "per": 7.7895517,
       "pbr": 0.91999656,
       "change_percent": -0.396446,
       "market_cap": 14064498688
@@ -247,7 +247,7 @@
       "name": "PARAMOUNT SKYDANCE CL B",
       "per": null,
       "pbr": 0.93095237,
-      "change_percent": 2.894733,
+      "change_percent": 2.8947301000000003,
       "market_cap": 10939917312
     },
     {
@@ -261,7 +261,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 10.650576,
+      "per": 10.675116,
       "pbr": 0.9644449,
       "change_percent": -0.25834,
       "market_cap": 56597946368
@@ -277,7 +277,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 31.919752,
+      "per": 32.11801,
       "pbr": 1.0062269,
       "change_percent": -0.34688800000000003,
       "market_cap": 18191654912
@@ -287,7 +287,7 @@
       "name": "HUNTINGTON BANCSHARES INC",
       "per": 11.7615385,
       "pbr": 1.0386523,
-      "change_percent": -0.26092604,
+      "change_percent": -0.26092601,
       "market_cap": 30892142592
     },
     {
@@ -295,7 +295,7 @@
       "name": "EXPAND ENERGY CORP",
       "per": 7.450862,
       "pbr": 1.0435256,
-      "change_percent": 1.0640828999999998,
+      "change_percent": 1.0640800000000001,
       "market_cap": 20676548608
     },
     {
@@ -329,7 +329,7 @@
       "name": "PTC INC",
       "per": 18.647913,
       "pbr": 6.1348476,
-      "change_percent": 33.486076999999995,
+      "change_percent": 33.486098,
       "market_cap": 20861413376
     },
     {
@@ -345,7 +345,7 @@
       "name": "ILLUMINA INC",
       "per": 54.792908,
       "pbr": 15.625964,
-      "change_percent": 7.562992,
+      "change_percent": 7.5629905,
       "market_cap": 44347191296
     },
     {
@@ -361,7 +361,7 @@
       "name": "MODERNA INC",
       "per": null,
       "pbr": 11.992329,
-      "change_percent": 6.9470089999999995,
+      "change_percent": 6.947010000000001,
       "market_cap": 81128734720
     },
     {
@@ -369,7 +369,7 @@
       "name": "WESTERN DIGITAL CORP",
       "per": 16.405647,
       "pbr": 21.115946,
-      "change_percent": 6.344964999999999,
+      "change_percent": 6.3449599999999995,
       "market_cap": 159229296640
     },
     {
@@ -377,7 +377,7 @@
       "name": "APPLOVIN CORP CLASS A",
       "per": 21.673328,
       "pbr": 29.8887,
-      "change_percent": 5.126388400000001,
+      "change_percent": 5.12639,
       "market_cap": 94361411584
     },
     {
@@ -401,7 +401,7 @@
       "name": "AUTODESK INC",
       "per": 28.736706,
       "pbr": 13.687527,
-      "change_percent": 4.509432599999999,
+      "change_percent": 4.50943,
       "market_cap": 46306037760
     },
     {
@@ -409,7 +409,7 @@
       "name": "SEAGATE TECHNOLOGY HOLDINGS",
       "per": 63.819427,
       "pbr": 92.8404,
-      "change_percent": 4.4876895999999995,
+      "change_percent": 4.48769,
       "market_cap": 201718071296
     },
     {
@@ -425,7 +425,7 @@
       "name": "ECHOSTAR CORP A",
       "per": null,
       "pbr": 2.0151842,
-      "change_percent": 4.2015906,
+      "change_percent": 4.20159,
       "market_cap": 28561022976
     },
     {
@@ -441,7 +441,7 @@
       "name": "FISERV INC",
       "per": 8.856046,
       "pbr": null,
-      "change_percent": 4.0126216,
+      "change_percent": 4.01262,
       "market_cap": 24535715840
     },
     {
@@ -457,7 +457,7 @@
       "name": "CONSTELLATION ENERGY",
       "per": 26.160313,
       "pbr": 2.9735885,
-      "change_percent": 3.9341353000000003,
+      "change_percent": 3.9341399999999997,
       "market_cap": 94819745792
     },
     {
@@ -471,15 +471,15 @@
     {
       "code": "STLD",
       "name": "STEEL DYNAMICS INC",
-      "per": 21.853128,
+      "per": 21.033157,
       "pbr": 3.674894,
-      "change_percent": 3.901025,
+      "change_percent": 3.9010200000000004,
       "market_cap": 34547802112
     },
     {
       "code": "RVTY",
       "name": "REVVITY INC",
-      "per": 75.29187,
+      "per": 72.51613,
       "pbr": 2.4290323,
       "change_percent": 3.84742,
       "market_cap": 17559236608
@@ -501,7 +501,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.8057797,
       "pbr": 0.7582922,
-      "change_percent": -1.3907990000000001,
+      "change_percent": -1.3908,
       "market_cap": 14005530624
     },
     {
@@ -525,7 +525,7 @@
       "name": "EXPAND ENERGY CORP",
       "per": 7.450862,
       "pbr": 1.0435256,
-      "change_percent": 1.0640828999999998,
+      "change_percent": 1.0640800000000001,
       "market_cap": 20676548608
     },
     {
@@ -551,7 +551,7 @@
       "name": "FISERV INC",
       "per": 8.856046,
       "pbr": null,
-      "change_percent": 4.0126216,
+      "change_percent": 4.01262,
       "market_cap": 24535715840
     }
   ],
@@ -573,5 +573,5 @@
       "market_cap": 21746339840
     }
   ],
-  "generated_at": "2026-10-05T23:31:46+00:00"
+  "generated_at": "2026-10-06T04:03:24+00:00"
 }
