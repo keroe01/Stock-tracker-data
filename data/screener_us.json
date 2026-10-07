@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.805785,
+      "per": 2.8284302,
       "pbr": 0.7644137,
       "change_percent": 0.807277,
       "market_cap": 14118593536
@@ -59,7 +59,7 @@
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 7.3557596,
+      "per": 7.385875,
       "pbr": 1.544752,
       "change_percent": 0.389547,
       "market_cap": 23478761472
@@ -67,7 +67,7 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.3789883,
+      "per": 7.4194055,
       "pbr": 1.3879212,
       "change_percent": 0.48749400000000004,
       "market_cap": 32333619200
@@ -89,20 +89,20 @@
       "market_cap": 21107161088
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 7.6666665,
-      "pbr": 2.1820512,
-      "change_percent": 0.504618,
-      "market_cap": 10363565056
-    },
-    {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 7.6997166,
       "pbr": 1.5005935,
       "change_percent": 0.579747,
       "market_cap": 25029199872
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 7.704527,
+      "pbr": 2.1820512,
+      "change_percent": 0.504618,
+      "market_cap": 10363565056
     },
     {
       "code": "EG",
@@ -115,7 +115,7 @@
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 7.9045672,
+      "per": 7.857881,
       "pbr": 3.6396122,
       "change_percent": -0.5930719999999999,
       "market_cap": 67467018240
@@ -123,7 +123,7 @@
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 8.009836,
+      "per": 8.062706,
       "pbr": 1.5215496,
       "change_percent": 0.7838309999999999,
       "market_cap": 167403782144
@@ -137,28 +137,28 @@
       "market_cap": 17558249472
     },
     {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 8.776062,
-      "pbr": 0.8579625,
-      "change_percent": 0.8876999999999999,
-      "market_cap": 25027491840
-    },
-    {
       "code": "FISV",
       "name": "FISERV INC",
-      "per": 8.848249,
+      "per": 8.729366,
       "pbr": null,
       "change_percent": -1.4304301,
       "market_cap": 24184750080
     },
     {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 8.928572,
-      "pbr": 0.85173076,
-      "change_percent": 1.2145701,
-      "market_cap": 37529587712
+      "code": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "per": 8.844358,
+      "pbr": 0.8579625,
+      "change_percent": 0.8876999999999999,
+      "market_cap": 25027491840
+    },
+    {
+      "code": "HIG",
+      "name": "HARTFORD INSURANCE GROUP INC",
+      "per": 8.973106,
+      "pbr": 1.7844927,
+      "change_percent": 0.45955299999999993,
+      "market_cap": 34343860224
     }
   ],
   "pbr": [
@@ -189,7 +189,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.805785,
+      "per": 2.8284302,
       "pbr": 0.7644137,
       "change_percent": 0.807277,
       "market_cap": 14118593536
@@ -197,7 +197,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 8.928572,
+      "per": 9.057971,
       "pbr": 0.85173076,
       "change_percent": 1.2145701,
       "market_cap": 37529587712
@@ -221,7 +221,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 8.776062,
+      "per": 8.844358,
       "pbr": 0.8579625,
       "change_percent": 0.8876999999999999,
       "market_cap": 25027491840
@@ -245,7 +245,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 10.656682,
+      "per": 10.632184,
       "pbr": 0.9627795,
       "change_percent": -0.172678,
       "market_cap": 56500211712
@@ -261,7 +261,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 31.883436,
+      "per": 32.080246,
       "pbr": 1.0112863,
       "change_percent": 0.50280797,
       "market_cap": 18283124736
@@ -309,7 +309,7 @@
     {
       "code": "CFG",
       "name": "CITIZENS FINANCIAL GROUP",
-      "per": 14.024069,
+      "per": 13.962962,
       "pbr": 1.1253533,
       "change_percent": -0.342095,
       "market_cap": 26993219584
@@ -359,7 +359,7 @@
     {
       "code": "FIX",
       "name": "COMFORT SYSTEMS USA INC",
-      "per": 42.150703,
+      "per": 44.73327,
       "pbr": 19.857563,
       "change_percent": 6.12293,
       "market_cap": 63981879296
@@ -375,7 +375,7 @@
     {
       "code": "EME",
       "name": "EMCOR GROUP INC",
-      "per": 24.257723,
+      "per": 25.669989,
       "pbr": 8.942831,
       "change_percent": 5.8162196999999995,
       "market_cap": 36369494016
@@ -391,7 +391,7 @@
     {
       "code": "PWR",
       "name": "QUANTA SERVICES INC",
-      "per": 78.29816,
+      "per": 82.42383,
       "pbr": 11.219284,
       "change_percent": 5.28811,
       "market_cap": 108181094400
@@ -407,7 +407,7 @@
     {
       "code": "SBAC",
       "name": "SBA COMMUNICATIONS CORP",
-      "per": 17.458847,
+      "per": 18.306364,
       "pbr": null,
       "change_percent": 4.8695996,
       "market_cap": 18003152896
@@ -415,7 +415,7 @@
     {
       "code": "CSCO",
       "name": "CISCO SYSTEMS INC",
-      "per": 33.890804,
+      "per": 35.41742,
       "pbr": 9.255278,
       "change_percent": 4.5382,
       "market_cap": 464988700672
@@ -423,7 +423,7 @@
     {
       "code": "PEG",
       "name": "PUBLIC SERVICE ENTERPRISE GP",
-      "per": 17.078573,
+      "per": 17.843285,
       "pbr": 2.0613847,
       "change_percent": 4.4408900000000004,
       "market_cap": 35744595968
@@ -439,7 +439,7 @@
     {
       "code": "NCLH",
       "name": "NORWEGIAN CRUISE LINE HOLDIN",
-      "per": 9.177515,
+      "per": 9.574074,
       "pbr": 2.7681599,
       "change_percent": 4.30397,
       "market_cap": 7122003456
@@ -455,7 +455,7 @@
     {
       "code": "CCL",
       "name": "CARNIVAL CORP LTD",
-      "per": 11.2627125,
+      "per": 11.709251,
       "pbr": 2.5328758,
       "change_percent": 3.99061,
       "market_cap": 35739738112
@@ -490,7 +490,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.805785,
+      "per": 2.8284302,
       "pbr": 0.7644137,
       "change_percent": 0.807277,
       "market_cap": 14118593536
@@ -539,5 +539,5 @@
       "market_cap": 18415857664
     }
   ],
-  "generated_at": "2026-10-07T03:30:53+00:00"
+  "generated_at": "2026-10-07T10:44:52+00:00"
 }
