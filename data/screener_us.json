@@ -22,7 +22,7 @@
       "per": 5.2749615,
       "pbr": 1.1048551,
       "change_percent": 1.53755,
-      "market_cap": 17709340672
+      "market_cap": 17749628928
     },
     {
       "code": "AES",
@@ -30,7 +30,7 @@
       "per": 5.59176,
       "pbr": 2.1544013,
       "change_percent": 0.0,
-      "market_cap": 10651639808
+      "market_cap": 10647444480
     },
     {
       "code": "EIX",
@@ -62,7 +62,7 @@
       "per": 7.5179973,
       "pbr": 1.4063643,
       "change_percent": 1.8551901,
-      "market_cap": 32785295360
+      "market_cap": 32763281408
     },
     {
       "code": "SYF",
@@ -73,6 +73,14 @@
       "market_cap": 23986339840
     },
     {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 7.559543,
+      "pbr": 2.160373,
+      "change_percent": 0.8707039999999999,
+      "market_cap": 10260604928
+    },
+    {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
       "per": 7.6264305,
@@ -81,12 +89,12 @@
       "market_cap": 65479806976
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 7.6279836,
-      "pbr": 2.160373,
-      "change_percent": 0.8707039999999999,
-      "market_cap": 10260604928
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 7.643926,
+      "pbr": 1.7650223,
+      "change_percent": 1.5248599999999999,
+      "market_cap": 12360821760
     },
     {
       "code": "EXE",
@@ -94,7 +102,7 @@
       "per": 7.6603446,
       "pbr": 1.0728645,
       "change_percent": 0.839762,
-      "market_cap": 20571426816
+      "market_cap": 21257875456
     },
     {
       "code": "CINF",
@@ -119,14 +127,6 @@
       "pbr": 1.5489538,
       "change_percent": 1.63466,
       "market_cap": 170418847744
-    },
-    {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.307413,
-      "pbr": 1.7650223,
-      "change_percent": 1.5248599999999999,
-      "market_cap": 12360821760
     },
     {
       "code": "CF",
@@ -205,7 +205,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 14.696969,
+      "per": 15.126705,
       "pbr": 0.8557848,
       "change_percent": 1.93091,
       "market_cap": 18461059072
@@ -280,7 +280,7 @@
       "per": 43.772278,
       "pbr": 1.0524186,
       "change_percent": -0.022619,
-      "market_cap": 9179468800
+      "market_cap": 9355743232
     },
     {
       "code": "EXE",
@@ -288,7 +288,7 @@
       "per": 7.6603446,
       "pbr": 1.0728645,
       "change_percent": 0.839762,
-      "market_cap": 20571426816
+      "market_cap": 21257875456
     },
     {
       "code": "FIS",
@@ -296,7 +296,7 @@
       "per": 5.2749615,
       "pbr": 1.1048551,
       "change_percent": 1.53755,
-      "market_cap": 17709340672
+      "market_cap": 17749628928
     },
     {
       "code": "C",
@@ -370,13 +370,13 @@
       "per": 12.9053755,
       "pbr": 1.8755469,
       "change_percent": 5.1515699999999995,
-      "market_cap": 27031156736
+      "market_cap": 28384729088
     },
     {
       "code": "FDS",
       "name": "FACTSET RESEARCH SYSTEMS INC",
       "per": 19.665066,
-      "pbr": 5.067115,
+      "pbr": 5.0440106,
       "change_percent": 5.03702,
       "market_cap": 10190239744
     },
@@ -386,7 +386,7 @@
       "per": 11.131653,
       "pbr": 2.8314254,
       "change_percent": 4.993390000000001,
-      "market_cap": 14961181696
+      "market_cap": 14996143104
     },
     {
       "code": "MPC",
@@ -394,7 +394,7 @@
       "per": 16.043629,
       "pbr": 6.8734603,
       "change_percent": 4.76642,
-      "market_cap": 130117345280
+      "market_cap": 135265918976
     },
     {
       "code": "VLO",
@@ -431,7 +431,7 @@
     {
       "code": "CBOE",
       "name": "CBOE GLOBAL MARKETS INC",
-      "per": 22.921278,
+      "per": 23.947882,
       "pbr": 5.46546,
       "change_percent": 4.4429403,
       "market_cap": 30711072768
@@ -450,7 +450,7 @@
       "per": 16.87258,
       "pbr": 26.811913,
       "change_percent": 4.3537103,
-      "market_cap": 32421564416
+      "market_cap": 32420825088
     },
     {
       "code": "EBAY",
@@ -474,7 +474,7 @@
       "per": 26.95699,
       "pbr": null,
       "change_percent": 4.037240000000001,
-      "market_cap": 22841079808
+      "market_cap": 22993022976
     },
     {
       "code": "ERIE",
@@ -501,7 +501,7 @@
       "per": 5.2749615,
       "pbr": 1.1048551,
       "change_percent": 1.53755,
-      "market_cap": 17709340672
+      "market_cap": 17749628928
     },
     {
       "code": "CMCSA",
@@ -517,7 +517,7 @@
       "per": 7.6603446,
       "pbr": 1.0728645,
       "change_percent": 0.839762,
-      "market_cap": 20571426816
+      "market_cap": 21257875456
     },
     {
       "code": "EG",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-09T00:05:26+00:00"
+  "generated_at": "2026-10-09T08:14:25+00:00"
 }
