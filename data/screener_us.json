@@ -97,6 +97,14 @@
       "market_cap": 65837944832
     },
     {
+      "code": "CINF",
+      "name": "CINCINNATI FINANCIAL CORP",
+      "per": 7.714353,
+      "pbr": 1.503446,
+      "change_percent": -1.12557,
+      "market_cap": 25076779008
+    },
+    {
       "code": "LULU",
       "name": "LULULEMON ATHLETICA INC",
       "per": 7.777778,
@@ -111,14 +119,6 @@
       "pbr": 0.9239092,
       "change_percent": -1.2677601,
       "market_cap": 14124313600
-    },
-    {
-      "code": "CINF",
-      "name": "CINCINNATI FINANCIAL CORP",
-      "per": 7.8027697,
-      "pbr": 1.503446,
-      "change_percent": -1.12557,
-      "market_cap": 25076779008
     },
     {
       "code": "CF",
@@ -449,7 +449,7 @@
       "name": "CONSTELLATION ENERGY",
       "per": 27.85701,
       "pbr": 3.3119256,
-      "change_percent": 4.56028,
+      "change_percent": 4.560283200000001,
       "market_cap": 105608404992
     },
     {
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-10T10:19:13+00:00"
+  "generated_at": "2026-10-10T16:41:01+00:00"
 }
