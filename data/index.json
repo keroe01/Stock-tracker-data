@@ -7,7 +7,7 @@
     "change": -177.9697265625,
     "change_percent": -2.6157017169108334,
     "currency": "KRW",
-    "collected_at": "2026-10-09T22:03:35+00:00"
+    "collected_at": "2026-10-10T03:33:24+00:00"
   },
   {
     "symbol": "^IXIC",
@@ -17,7 +17,7 @@
     "change": 172.830078125,
     "change_percent": 0.6355603214539406,
     "currency": "USD",
-    "collected_at": "2026-10-09T22:03:35+00:00"
+    "collected_at": "2026-10-10T03:33:24+00:00"
   },
   {
     "symbol": "^KS200",
@@ -27,7 +27,7 @@
     "change": -29.10998046875011,
     "change_percent": -2.711360568235808,
     "currency": null,
-    "collected_at": "2026-10-09T22:03:35+00:00"
+    "collected_at": "2026-10-10T03:33:24+00:00"
   },
   {
     "symbol": "^GSPC",
@@ -37,17 +37,17 @@
     "change": 46.18017578125,
     "change_percent": 0.5946946000482788,
     "currency": "USD",
-    "collected_at": "2026-10-09T22:03:36+00:00"
+    "collected_at": "2026-10-10T03:33:25+00:00"
   },
   {
     "symbol": "^DJI",
     "name": "DOW",
     "group": "main",
-    "price": 51654.94921875,
-    "change": 423.30859375,
-    "change_percent": 0.8262639817617592,
+    "price": 51654.8984375,
+    "change": 423.2578125,
+    "change_percent": 0.8261648608876656,
     "currency": "USD",
-    "collected_at": "2026-10-09T22:03:36+00:00"
+    "collected_at": "2026-10-10T03:33:25+00:00"
   },
   {
     "symbol": "ES=F",
@@ -57,7 +57,7 @@
     "change": 49.75,
     "change_percent": 0.6364944826483288,
     "currency": "USD",
-    "collected_at": "2026-10-09T22:03:36+00:00"
+    "collected_at": "2026-10-10T03:33:25+00:00"
   },
   {
     "symbol": "YM=F",
@@ -67,7 +67,7 @@
     "change": 483.0,
     "change_percent": 0.9379915716699357,
     "currency": "USD",
-    "collected_at": "2026-10-09T22:03:37+00:00"
+    "collected_at": "2026-10-10T03:33:26+00:00"
   },
   {
     "symbol": "NQ=F",
@@ -77,6 +77,6 @@
     "change": 153.75,
     "change_percent": 0.49645619076833664,
     "currency": "USD",
-    "collected_at": "2026-10-09T22:03:37+00:00"
+    "collected_at": "2026-10-10T03:33:26+00:00"
   }
 ]
