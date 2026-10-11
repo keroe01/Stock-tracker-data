@@ -19,10 +19,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.2775197,
+      "per": 5.2288785,
       "pbr": 1.0952029,
       "change_percent": -0.873615,
-      "market_cap": 17554630656
+      "market_cap": 17594566656
     },
     {
       "code": "AES",
@@ -30,12 +30,12 @@
       "per": 5.595505,
       "pbr": 2.1558442,
       "change_percent": 0.066974404,
-      "market_cap": 10658772992
+      "market_cap": 10654575616
     },
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.7010307,
+      "per": 5.597166,
       "pbr": 1.2197005,
       "change_percent": 1.84162,
       "market_cap": 21280212992
@@ -73,12 +73,20 @@
       "market_cap": 23686998016
     },
     {
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 7.455907,
+      "pbr": 1.7216076,
+      "change_percent": -2.45972,
+      "market_cap": 12056779776
+    },
+    {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.478091,
       "pbr": 1.3988992,
       "change_percent": -0.53081,
-      "market_cap": 32611266560
+      "market_cap": 32589369344
     },
     {
       "code": "EXE",
@@ -86,7 +94,7 @@
       "per": 7.605172,
       "pbr": 1.0651374,
       "change_percent": -0.720233,
-      "market_cap": 20423264256
+      "market_cap": 21104769024
     },
     {
       "code": "HON",
@@ -123,18 +131,10 @@
     {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 8.274481,
+      "per": 8.424472,
       "pbr": 2.9416885,
       "change_percent": -1.7960899999999997,
       "market_cap": 16880254976
-    },
-    {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.313544,
-      "pbr": 1.7216076,
-      "change_percent": -2.45972,
-      "market_cap": 12056779776
     },
     {
       "code": "FISV",
@@ -155,7 +155,7 @@
     {
       "code": "HIG",
       "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.163237,
+      "per": 9.137297,
       "pbr": 1.8171453,
       "change_percent": -0.285755,
       "market_cap": 34972282880
@@ -206,7 +206,7 @@
       "code": "LEN",
       "name": "LENNAR CORP A",
       "per": 14.524621,
-      "pbr": 0.8457492,
+      "pbr": 0.8462625,
       "change_percent": -1.1726800000000002,
       "market_cap": 18244569088
     },
@@ -217,14 +217,6 @@
       "pbr": 0.86362433,
       "change_percent": 0.39490200000000003,
       "market_cap": 25192652800
-    },
-    {
-      "code": "SKYD",
-      "name": "SKYDANCE CORP",
-      "per": null,
-      "pbr": 0.8723809,
-      "change_percent": -1.2931,
-      "market_cap": 46186348544
     },
     {
       "code": "PCG",
@@ -245,7 +237,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 38.773586,
+      "per": 38.591545,
       "pbr": 0.9454361,
       "change_percent": -0.688655,
       "market_cap": 21751629824
@@ -288,7 +280,7 @@
       "per": 43.366337,
       "pbr": 1.0426586,
       "change_percent": -0.927392,
-      "market_cap": 9094339584
+      "market_cap": 9268978688
     },
     {
       "code": "EXE",
@@ -296,15 +288,15 @@
       "per": 7.605172,
       "pbr": 1.0651374,
       "change_percent": -0.720233,
-      "market_cap": 20423264256
+      "market_cap": 21104769024
     },
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.2775197,
+      "per": 5.2288785,
       "pbr": 1.0952029,
       "change_percent": -0.873615,
-      "market_cap": 17554630656
+      "market_cap": 17594566656
     },
     {
       "code": "CFG",
@@ -321,6 +313,14 @@
       "pbr": 1.1298785,
       "change_percent": 1.2179900000000001,
       "market_cap": 217462898688
+    },
+    {
+      "code": "L",
+      "name": "LOEWS CORP",
+      "per": 13.074756,
+      "pbr": 1.14085,
+      "change_percent": -0.845721,
+      "market_cap": 21810393088
     }
   ],
   "rise": [
@@ -330,7 +330,7 @@
       "per": 32.37398,
       "pbr": null,
       "change_percent": 15.6046,
-      "market_cap": 34802679808
+      "market_cap": 33883269120
     },
     {
       "code": "MRNA",
@@ -432,7 +432,7 @@
       "code": "ORCL",
       "name": "ORACLE CORP",
       "per": 22.163008,
-      "pbr": 6.9171314,
+      "pbr": 10.843558,
       "change_percent": 4.593530299999999,
       "market_cap": 428654231552
     },
@@ -447,7 +447,7 @@
     {
       "code": "CEG",
       "name": "CONSTELLATION ENERGY",
-      "per": 27.85701,
+      "per": 29.136854,
       "pbr": 3.3119256,
       "change_percent": 4.560283200000001,
       "market_cap": 105608404992
@@ -498,10 +498,10 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.2775197,
+      "per": 5.2288785,
       "pbr": 1.0952029,
       "change_percent": -0.873615,
-      "market_cap": 17554630656
+      "market_cap": 17594566656
     },
     {
       "code": "CMCSA",
@@ -517,7 +517,7 @@
       "per": 7.605172,
       "pbr": 1.0651374,
       "change_percent": -0.720233,
-      "market_cap": 20423264256
+      "market_cap": 21104769024
     },
     {
       "code": "EG",
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-11T00:37:19+00:00"
+  "generated_at": "2026-10-11T16:05:45+00:00"
 }
