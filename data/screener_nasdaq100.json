@@ -20,17 +20,17 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 9.150731,
-      "pbr": 1.715312,
+      "pbr": 1.7150012,
       "change_percent": 3.9483726,
       "market_cap": 115793297408
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.497165,
+      "per": 10.398876,
       "pbr": 2.4150827,
       "change_percent": 0.9269326,
-      "market_cap": 47866859520
+      "market_cap": 47503740928
     },
     {
       "code": "ADBE",
@@ -52,7 +52,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 14.757801,
-      "pbr": 18.994978,
+      "pbr": null,
       "change_percent": 1.0093822000000001,
       "market_cap": 148711145472
     },
@@ -62,7 +62,7 @@
       "per": 15.112643,
       "pbr": 2.7055724,
       "change_percent": 2.3668587000000003,
-      "market_cap": 29904584704
+      "market_cap": 29693851648
     },
     {
       "code": "ROP",
@@ -126,7 +126,7 @@
       "per": 17.776052,
       "pbr": null,
       "change_percent": 0.23129029999999998,
-      "market_cap": 124244008960
+      "market_cap": 120476344320
     },
     {
       "code": "BKR",
@@ -176,7 +176,7 @@
       "per": 36.59619,
       "pbr": 1.4223108,
       "change_percent": 0.23477266,
-      "market_cap": 54048727040
+      "market_cap": 53800202240
     },
     {
       "code": "EXC",
@@ -190,7 +190,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 9.150731,
-      "pbr": 1.715312,
+      "pbr": 1.7150012,
       "change_percent": 3.9483726,
       "market_cap": 115793297408
     },
@@ -229,7 +229,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 21.28423,
+      "per": 21.210709,
       "pbr": 2.0840333,
       "change_percent": 0.40058689999999997,
       "market_cap": 66857439232
@@ -245,10 +245,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.497165,
+      "per": 10.398876,
       "pbr": 2.4150827,
       "change_percent": 0.9269326,
-      "market_cap": 47866859520
+      "market_cap": 47503740928
     },
     {
       "code": "GEHC",
@@ -256,7 +256,7 @@
       "per": 15.112643,
       "pbr": 2.7055724,
       "change_percent": 2.3668587000000003,
-      "market_cap": 29904584704
+      "market_cap": 29693851648
     },
     {
       "code": "CPRT",
@@ -296,7 +296,7 @@
       "per": 22.209558,
       "pbr": 2.9039083,
       "change_percent": -0.42854515,
-      "market_cap": 77545283584
+      "market_cap": 77101768704
     },
     {
       "code": "SNPS",
@@ -384,7 +384,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 9.150731,
-      "pbr": 1.715312,
+      "pbr": 1.7150012,
       "change_percent": 3.9483726,
       "market_cap": 115793297408
     },
@@ -394,7 +394,7 @@
       "per": 115.43919,
       "pbr": 17.36457,
       "change_percent": 3.8223192000000004,
-      "market_cap": 219823128576
+      "market_cap": 221704306688
     },
     {
       "code": "ALNY",
@@ -423,7 +423,7 @@
     {
       "code": "FTNT",
       "name": "Fortinet",
-      "per": 68.81625,
+      "per": 66.9244,
       "pbr": 92.12393,
       "change_percent": 2.987834,
       "market_cap": 142890729472
@@ -463,7 +463,7 @@
     {
       "code": "MSFT",
       "name": "Microsoft",
-      "per": 29.808912,
+      "per": 29.111536,
       "pbr": 8.98296,
       "change_percent": 2.3841912,
       "market_cap": 3973186846720
@@ -474,12 +474,12 @@
       "per": 15.112643,
       "pbr": 2.7055724,
       "change_percent": 2.3668587000000003,
-      "market_cap": 29904584704
+      "market_cap": 29693851648
     },
     {
       "code": "ISRG",
       "name": "Intuitive Surgical",
-      "per": 48.619263,
+      "per": 47.635956,
       "pbr": 8.25821,
       "change_percent": 2.0582046,
       "market_cap": 149775761408
@@ -490,7 +490,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 9.150731,
-      "pbr": 1.715312,
+      "pbr": 1.7150012,
       "change_percent": 3.9483726,
       "market_cap": 115793297408
     },
@@ -500,7 +500,7 @@
       "per": 15.112643,
       "pbr": 2.7055724,
       "change_percent": 2.3668587000000003,
-      "market_cap": 29904584704
+      "market_cap": 29693851648
     }
   ],
   "per_pbr": [
@@ -524,17 +524,17 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 9.150731,
-      "pbr": 1.715312,
+      "pbr": 1.7150012,
       "change_percent": 3.9483726,
       "market_cap": 115793297408
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.497165,
+      "per": 10.398876,
       "pbr": 2.4150827,
       "change_percent": 0.9269326,
-      "market_cap": 47866859520
+      "market_cap": 47503740928
     },
     {
       "code": "GEHC",
@@ -542,7 +542,7 @@
       "per": 15.112643,
       "pbr": 2.7055724,
       "change_percent": 2.3668587000000003,
-      "market_cap": 29904584704
+      "market_cap": 29693851648
     }
   ],
   "per_rise": [
@@ -550,7 +550,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 9.150731,
-      "pbr": 1.715312,
+      "pbr": 1.7150012,
       "change_percent": 3.9483726,
       "market_cap": 115793297408
     },
@@ -560,7 +560,7 @@
       "per": 15.112643,
       "pbr": 2.7055724,
       "change_percent": 2.3668587000000003,
-      "market_cap": 29904584704
+      "market_cap": 29693851648
     }
   ],
   "pbr_rise": [
@@ -568,7 +568,7 @@
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 9.150731,
-      "pbr": 1.715312,
+      "pbr": 1.7150012,
       "change_percent": 3.9483726,
       "market_cap": 115793297408
     },
@@ -578,7 +578,7 @@
       "per": 15.112643,
       "pbr": 2.7055724,
       "change_percent": 2.3668587000000003,
-      "market_cap": 29904584704
+      "market_cap": 29693851648
     },
     {
       "code": "SNPS",
@@ -597,5 +597,5 @@
       "market_cap": 105608404992
     }
   ],
-  "generated_at": "2026-10-11T21:18:27+00:00"
+  "generated_at": "2026-10-12T00:53:57+00:00"
 }
