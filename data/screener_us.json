@@ -291,14 +291,6 @@
       "market_cap": 9189851136
     },
     {
-      "code": "C",
-      "name": "CITIGROUP INC",
-      "per": 13.448164,
-      "pbr": 1.0853423,
-      "change_percent": -5.60188,
-      "market_cap": 208891199488
-    },
-    {
       "code": "CFG",
       "name": "CITIZENS FINANCIAL GROUP",
       "per": 13.790849,
@@ -313,6 +305,14 @@
       "pbr": 1.1152431,
       "change_percent": 4.0085603,
       "market_cap": 21384005632
+    },
+    {
+      "code": "C",
+      "name": "CITIGROUP INC",
+      "per": 12.137426,
+      "pbr": 1.1320292,
+      "change_percent": -5.60188,
+      "market_cap": 208891199488
     },
     {
       "code": "FIS",
@@ -605,5 +605,5 @@
       "market_cap": 18152849408
     }
   ],
-  "generated_at": "2026-10-14T02:53:18+00:00"
+  "generated_at": "2026-10-14T09:11:18+00:00"
 }
