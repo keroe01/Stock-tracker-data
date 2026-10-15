@@ -5,7 +5,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.737308,
       "pbr": 0.739787,
-      "change_percent": -1.6923773999999998,
+      "change_percent": -1.69238,
       "market_cap": 13663741952
     },
     {
@@ -22,7 +22,7 @@
       "per": 5.4485407,
       "pbr": 1.1412117,
       "change_percent": 0.767047,
-      "market_cap": 18333704192
+      "market_cap": 18292088832
     },
     {
       "code": "AES",
@@ -30,7 +30,7 @@
       "per": 5.602996,
       "pbr": 2.1587303,
       "change_percent": -0.200132,
-      "market_cap": 10668838912
+      "market_cap": 10673042432
     },
     {
       "code": "EIX",
@@ -45,7 +45,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 6.790323,
       "pbr": 0.8316542,
-      "change_percent": 0.8141766,
+      "change_percent": 0.8141769999999999,
       "market_cap": 74698801152
     },
     {
@@ -55,14 +55,6 @@
       "pbr": 1.5353328,
       "change_percent": -2.5411,
       "market_cap": 23335598080
-    },
-    {
-      "code": "UHS",
-      "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.581158,
-      "pbr": 1.4580752,
-      "change_percent": 3.8433599999999997,
-      "market_cap": 10955708416
     },
     {
       "code": "T",
@@ -77,15 +69,23 @@
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.636933,
       "pbr": 1.4286132,
-      "change_percent": 0.7743934,
-      "market_cap": 33281599488
+      "change_percent": 0.77439304,
+      "market_cap": 33303961600
+    },
+    {
+      "code": "UHS",
+      "name": "UNIVERSAL HEALTH SERVICES B",
+      "per": 7.643503,
+      "pbr": 1.4580752,
+      "change_percent": 3.8433599999999997,
+      "market_cap": 10955708416
     },
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
       "per": 7.6637135,
       "pbr": 3.5496778,
-      "change_percent": 0.15437663999999998,
+      "change_percent": 0.15437700000000001,
       "market_cap": 65799913472
     },
     {
@@ -93,7 +93,7 @@
       "name": "LULULEMON ATHLETICA INC",
       "per": 7.744033,
       "pbr": 2.19324,
-      "change_percent": -0.26499893999999996,
+      "change_percent": -0.264999,
       "market_cap": 10898066432
     },
     {
@@ -101,15 +101,15 @@
       "name": "EXPAND ENERGY CORP",
       "per": 7.85431,
       "pbr": 1.1000302,
-      "change_percent": -1.3640815000000002,
-      "market_cap": 21796141056
+      "change_percent": -1.36408,
+      "market_cap": 21092311040
     },
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 7.869216,
       "pbr": 1.5336272,
-      "change_percent": 0.62182974,
+      "change_percent": 0.62182997,
       "market_cap": 25580185600
     },
     {
@@ -133,7 +133,7 @@
       "name": "FISERV INC",
       "per": 8.84261,
       "pbr": null,
-      "change_percent": -1.2644667,
+      "change_percent": -1.26447,
       "market_cap": 24498493440
     },
     {
@@ -191,7 +191,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.737308,
       "pbr": 0.739787,
-      "change_percent": -1.6923773999999998,
+      "change_percent": -1.69238,
       "market_cap": 13663741952
     },
     {
@@ -215,7 +215,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 6.790323,
       "pbr": 0.8316542,
-      "change_percent": 0.8141766,
+      "change_percent": 0.8141769999999999,
       "market_cap": 74698801152
     },
     {
@@ -271,7 +271,7 @@
       "name": "HUNTINGTON BANCSHARES INC",
       "per": 11.615385,
       "pbr": 1.0257456,
-      "change_percent": -0.9186312,
+      "change_percent": -0.918631,
       "market_cap": 30508265472
     },
     {
@@ -280,7 +280,7 @@
       "per": 43.39604,
       "pbr": 1.0433728,
       "change_percent": -0.971524,
-      "market_cap": 9275328512
+      "market_cap": 9100569600
     },
     {
       "code": "TSN",
@@ -303,8 +303,8 @@
       "name": "EXPAND ENERGY CORP",
       "per": 7.85431,
       "pbr": 1.1000302,
-      "change_percent": -1.3640815000000002,
-      "market_cap": 21796141056
+      "change_percent": -1.36408,
+      "market_cap": 21092311040
     },
     {
       "code": "C",
@@ -320,7 +320,7 @@
       "per": 5.4485407,
       "pbr": 1.1412117,
       "change_percent": 0.767047,
-      "market_cap": 18333704192
+      "market_cap": 18292088832
     }
   ],
   "rise": [
@@ -337,7 +337,7 @@
       "name": "DOLLAR TREE INC",
       "per": 14.830694,
       "pbr": 6.671416,
-      "change_percent": 4.7127653,
+      "change_percent": 4.71277,
       "market_cap": 22845865984
     },
     {
@@ -345,7 +345,7 @@
       "name": "MODERNA INC",
       "per": null,
       "pbr": 13.354973,
-      "change_percent": 4.6474002,
+      "change_percent": 4.6474,
       "market_cap": 90347085824
     },
     {
@@ -375,7 +375,7 @@
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.581158,
+      "per": 7.643503,
       "pbr": 1.4580752,
       "change_percent": 3.8433599999999997,
       "market_cap": 10955708416
@@ -385,7 +385,7 @@
       "name": "GILEAD SCIENCES INC",
       "per": null,
       "pbr": 16.107847,
-      "change_percent": 3.7993476,
+      "change_percent": 3.7993501999999997,
       "market_cap": 190382718976
     },
     {
@@ -402,7 +402,7 @@
       "per": 40.57536,
       "pbr": 31.807274,
       "change_percent": 3.6201999999999996,
-      "market_cap": 1077418917888
+      "market_cap": 1077883437056
     },
     {
       "code": "LMT",
@@ -417,21 +417,21 @@
       "name": "WALMART INC",
       "per": 42.08696,
       "pbr": 9.39122,
-      "change_percent": 3.4556508,
-      "market_cap": 921584009216
+      "change_percent": 3.45565,
+      "market_cap": 924410511360
     },
     {
       "code": "REGN",
       "name": "REGENERON PHARMACEUTICALS",
       "per": 19.24728,
       "pbr": 2.4622996,
-      "change_percent": 3.3513903999999997,
+      "change_percent": 3.35139,
       "market_cap": 80136044544
     },
     {
       "code": "CAH",
       "name": "CARDINAL HEALTH INC",
-      "per": 34.36061,
+      "per": 34.26556,
       "pbr": null,
       "change_percent": 3.34557,
       "market_cap": 57366511616
@@ -457,7 +457,7 @@
       "name": "AMGEN INC",
       "per": 26.466457,
       "pbr": 19.709064,
-      "change_percent": 3.2143176,
+      "change_percent": 3.2143197999999997,
       "market_cap": 230368690176
     },
     {
@@ -492,7 +492,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.737308,
       "pbr": 0.739787,
-      "change_percent": -1.6923773999999998,
+      "change_percent": -1.69238,
       "market_cap": 13663741952
     },
     {
@@ -501,14 +501,14 @@
       "per": 5.4485407,
       "pbr": 1.1412117,
       "change_percent": 0.767047,
-      "market_cap": 18333704192
+      "market_cap": 18292088832
     },
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 6.790323,
       "pbr": 0.8316542,
-      "change_percent": 0.8141766,
+      "change_percent": 0.8141769999999999,
       "market_cap": 74698801152
     },
     {
@@ -516,8 +516,8 @@
       "name": "EXPAND ENERGY CORP",
       "per": 7.85431,
       "pbr": 1.1000302,
-      "change_percent": -1.3640815000000002,
-      "market_cap": 21796141056
+      "change_percent": -1.36408,
+      "market_cap": 21092311040
     },
     {
       "code": "EG",
@@ -532,12 +532,12 @@
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.581158,
+      "per": 7.643503,
       "pbr": 1.4580752,
       "change_percent": 3.8433599999999997,
       "market_cap": 10955708416
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-10-14T22:54:17+00:00"
+  "generated_at": "2026-10-15T02:32:35+00:00"
 }
