@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.866843,
+      "per": 2.8250456,
       "pbr": 0.763499,
       "change_percent": -1.45309,
       "market_cap": 14101699584
@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 4.959815,
+      "per": 4.938976,
       "pbr": 1.9781075,
       "change_percent": -0.41552300000000003,
       "market_cap": 62417985536
@@ -35,7 +35,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.763975,
+      "per": 5.7402062,
       "pbr": 1.2280818,
       "change_percent": -0.44698699999999997,
       "market_cap": 21426442240
@@ -75,7 +75,7 @@
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 7.803047,
+      "per": 7.7511997,
       "pbr": 3.5901995,
       "change_percent": -0.676414,
       "market_cap": 66551058432
@@ -83,10 +83,18 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.92429,
+      "per": 7.862285,
       "pbr": 1.470769,
       "change_percent": -0.780086,
       "market_cap": 34263681024
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.0103445,
+      "pbr": 1.1218835,
+      "change_percent": -0.524575,
+      "market_cap": 22229143552
     },
     {
       "code": "CINF",
@@ -105,17 +113,9 @@
       "market_cap": 11323148288
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.051993,
-      "pbr": 1.1218835,
-      "change_percent": -0.524575,
-      "market_cap": 22229143552
-    },
-    {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.229505,
+      "per": 8.259095,
       "pbr": 0.97938836,
       "change_percent": 0.35723098999999997,
       "market_cap": 14972454912
@@ -129,20 +129,20 @@
       "market_cap": 12339297280
     },
     {
+      "code": "CF",
+      "name": "CF INDUSTRIES HOLDINGS INC",
+      "per": 8.791543,
+      "pbr": 3.1255112,
+      "change_percent": -1.93628,
+      "market_cap": 17935081472
+    },
+    {
       "code": "UAL",
       "name": "UNITED AIRLINES HOLDINGS INC",
       "per": 8.95131,
       "pbr": 1.8584397,
       "change_percent": -0.520291,
       "market_cap": 31030208512
-    },
-    {
-      "code": "CF",
-      "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 8.964448,
-      "pbr": 3.1255112,
-      "change_percent": -1.93628,
-      "market_cap": 17935081472
     },
     {
       "code": "VICI",
@@ -197,7 +197,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.866843,
+      "per": 2.8250456,
       "pbr": 0.763499,
       "change_percent": -1.45309,
       "market_cap": 14101699584
@@ -245,7 +245,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.229505,
+      "per": 8.259095,
       "pbr": 0.97938836,
       "change_percent": 0.35723098999999997,
       "market_cap": 14972454912
@@ -293,26 +293,26 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 44.48,
+      "per": 44.039604,
       "pbr": 1.058846,
       "change_percent": -0.847082,
       "market_cap": 9412881408
     },
     {
-      "code": "CFG",
-      "name": "CITIZENS FINANCIAL GROUP",
-      "per": 13.673202,
-      "pbr": 1.1129239,
-      "change_percent": -0.9469730000000001,
-      "market_cap": 26433054720
-    },
-    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.051993,
+      "per": 8.0103445,
       "pbr": 1.1218835,
       "change_percent": -0.524575,
       "market_cap": 22229143552
+    },
+    {
+      "code": "CFG",
+      "name": "CITIZENS FINANCIAL GROUP",
+      "per": 13.673202,
+      "pbr": 1.151792,
+      "change_percent": -0.9469730000000001,
+      "market_cap": 26433054720
     },
     {
       "code": "FIS",
@@ -343,7 +343,7 @@
     {
       "code": "DDOG",
       "name": "DATADOG INC   CLASS A",
-      "per": 491.24527,
+      "per": 520.72,
       "pbr": 21.400623,
       "change_percent": 5.36198,
       "market_cap": 93488766976
@@ -383,7 +383,7 @@
     {
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
-      "per": 75.26666,
+      "per": 77.99013,
       "pbr": 11.217885,
       "change_percent": 4.0644303,
       "market_cap": 213073887232
@@ -391,7 +391,7 @@
     {
       "code": "TSLA",
       "name": "TESLA INC",
-      "per": 328.625,
+      "per": 340.7963,
       "pbr": 16.733803,
       "change_percent": 3.7607099999999996,
       "market_cap": 1453670400000
@@ -399,7 +399,7 @@
     {
       "code": "MPWR",
       "name": "MONOLITHIC POWER SYSTEMS INC",
-      "per": 73.65805,
+      "per": 76.25669,
       "pbr": 15.815263,
       "change_percent": 3.53468,
       "market_cap": 61608615936
@@ -415,7 +415,7 @@
     {
       "code": "STX",
       "name": "SEAGATE TECHNOLOGY HOLDINGS",
-      "per": 45.985386,
+      "per": 47.540287,
       "pbr": 69.158554,
       "change_percent": 3.41153,
       "market_cap": 150263578624
@@ -432,7 +432,7 @@
       "code": "TER",
       "name": "TERADYNE INC",
       "per": 46.089283,
-      "pbr": 15.274276,
+      "pbr": 15.265242,
       "change_percent": 3.2399999999999998,
       "market_cap": 52457013248
     },
@@ -490,7 +490,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.866843,
+      "per": 2.8250456,
       "pbr": 0.763499,
       "change_percent": -1.45309,
       "market_cap": 14101699584
@@ -514,7 +514,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.051993,
+      "per": 8.0103445,
       "pbr": 1.1218835,
       "change_percent": -0.524575,
       "market_cap": 22229143552
@@ -522,7 +522,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.229505,
+      "per": 8.259095,
       "pbr": 0.97938836,
       "change_percent": 0.35723098999999997,
       "market_cap": 14972454912
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-20T06:55:34+00:00"
+  "generated_at": "2026-10-20T13:11:12+00:00"
 }
