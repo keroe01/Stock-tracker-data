@@ -11,7 +11,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 7.7511997,
+      "per": 7.803047,
       "pbr": 3.5901995,
       "change_percent": -0.676414,
       "market_cap": 66551058432
@@ -99,7 +99,7 @@
     {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 17.067738,
+      "per": 16.90656,
       "pbr": 6.683433,
       "change_percent": 0.9646490000000001,
       "market_cap": 4160134840320
@@ -107,7 +107,7 @@
     {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
-      "per": 17.269442,
+      "per": 17.089375,
       "pbr": 6.7624173,
       "change_percent": 1.0540499,
       "market_cap": 4209298898944
@@ -309,7 +309,7 @@
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 23.286764,
+      "per": 23.459259,
       "pbr": 3.0447533,
       "change_percent": -0.891879,
       "market_cap": 81306378240
@@ -317,7 +317,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 7.7511997,
+      "per": 7.803047,
       "pbr": 3.5901995,
       "change_percent": -0.676414,
       "market_cap": 66551058432
@@ -343,7 +343,7 @@
     {
       "code": "DDOG",
       "name": "Datadog",
-      "per": 520.72,
+      "per": 491.24527,
       "pbr": 21.400623,
       "change_percent": 5.36198,
       "market_cap": 93488766976
@@ -383,7 +383,7 @@
     {
       "code": "TSLA",
       "name": "Tesla, Inc.",
-      "per": 340.7963,
+      "per": 328.625,
       "pbr": 16.733803,
       "change_percent": 3.7607099999999996,
       "market_cap": 1453670400000
@@ -391,7 +391,7 @@
     {
       "code": "MPWR",
       "name": "Monolithic Power Systems",
-      "per": 76.25669,
+      "per": 73.65805,
       "pbr": 15.815263,
       "change_percent": 3.53468,
       "market_cap": 61608615936
@@ -399,7 +399,7 @@
     {
       "code": "STX",
       "name": "Seagate Technology",
-      "per": 47.540287,
+      "per": 45.985386,
       "pbr": 69.158554,
       "change_percent": 3.41153,
       "market_cap": 150263578624
@@ -498,7 +498,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 7.7511997,
+      "per": 7.803047,
       "pbr": 3.5901995,
       "change_percent": -0.676414,
       "market_cap": 66551058432
@@ -555,5 +555,5 @@
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-10-20T00:51:47+00:00"
+  "generated_at": "2026-10-20T06:55:35+00:00"
 }

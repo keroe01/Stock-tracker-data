@@ -3,7 +3,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.8250456,
+      "per": 2.866843,
       "pbr": 0.763499,
       "change_percent": -1.45309,
       "market_cap": 14101699584
@@ -11,7 +11,7 @@
     {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 4.938976,
+      "per": 4.959815,
       "pbr": 1.9781075,
       "change_percent": -0.41552300000000003,
       "market_cap": 62417985536
@@ -35,7 +35,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 5.7402062,
+      "per": 5.763975,
       "pbr": 1.2280818,
       "change_percent": -0.44698699999999997,
       "market_cap": 21426442240
@@ -75,7 +75,7 @@
     {
       "code": "HON",
       "name": "HONEYWELL INTERNATIONAL INC",
-      "per": 7.7511997,
+      "per": 7.803047,
       "pbr": 3.5901995,
       "change_percent": -0.676414,
       "market_cap": 66551058432
@@ -83,18 +83,10 @@
     {
       "code": "ACGL",
       "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.862285,
+      "per": 7.92429,
       "pbr": 1.470769,
       "change_percent": -0.780086,
       "market_cap": 34263681024
-    },
-    {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.0103445,
-      "pbr": 1.1218835,
-      "change_percent": -0.524575,
-      "market_cap": 22229143552
     },
     {
       "code": "CINF",
@@ -113,9 +105,17 @@
       "market_cap": 11323148288
     },
     {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 8.051993,
+      "pbr": 1.1218835,
+      "change_percent": -0.524575,
+      "market_cap": 22229143552
+    },
+    {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.259095,
+      "per": 8.229505,
       "pbr": 0.97938836,
       "change_percent": 0.35723098999999997,
       "market_cap": 14972454912
@@ -129,20 +129,20 @@
       "market_cap": 12339297280
     },
     {
-      "code": "CF",
-      "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 8.791543,
-      "pbr": 3.1255112,
-      "change_percent": -1.93628,
-      "market_cap": 17935081472
-    },
-    {
       "code": "UAL",
       "name": "UNITED AIRLINES HOLDINGS INC",
       "per": 8.95131,
       "pbr": 1.8584397,
       "change_percent": -0.520291,
       "market_cap": 31030208512
+    },
+    {
+      "code": "CF",
+      "name": "CF INDUSTRIES HOLDINGS INC",
+      "per": 8.964448,
+      "pbr": 3.1255112,
+      "change_percent": -1.93628,
+      "market_cap": 17935081472
     },
     {
       "code": "VICI",
@@ -197,7 +197,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.8250456,
+      "per": 2.866843,
       "pbr": 0.763499,
       "change_percent": -1.45309,
       "market_cap": 14101699584
@@ -245,7 +245,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.259095,
+      "per": 8.229505,
       "pbr": 0.97938836,
       "change_percent": 0.35723098999999997,
       "market_cap": 14972454912
@@ -253,7 +253,7 @@
     {
       "code": "TFC",
       "name": "TRUIST FINANCIAL CORP",
-      "per": 10.648276,
+      "per": 11.938144,
       "pbr": 0.99025136,
       "change_percent": -1.59337,
       "market_cap": 56585728000
@@ -293,7 +293,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 44.039604,
+      "per": 44.48,
       "pbr": 1.058846,
       "change_percent": -0.847082,
       "market_cap": 9412881408
@@ -309,7 +309,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.0103445,
+      "per": 8.051993,
       "pbr": 1.1218835,
       "change_percent": -0.524575,
       "market_cap": 22229143552
@@ -343,7 +343,7 @@
     {
       "code": "DDOG",
       "name": "DATADOG INC   CLASS A",
-      "per": 520.72,
+      "per": 491.24527,
       "pbr": 21.400623,
       "change_percent": 5.36198,
       "market_cap": 93488766976
@@ -391,7 +391,7 @@
     {
       "code": "TSLA",
       "name": "TESLA INC",
-      "per": 340.7963,
+      "per": 328.625,
       "pbr": 16.733803,
       "change_percent": 3.7607099999999996,
       "market_cap": 1453670400000
@@ -399,7 +399,7 @@
     {
       "code": "MPWR",
       "name": "MONOLITHIC POWER SYSTEMS INC",
-      "per": 76.25669,
+      "per": 73.65805,
       "pbr": 15.815263,
       "change_percent": 3.53468,
       "market_cap": 61608615936
@@ -415,7 +415,7 @@
     {
       "code": "STX",
       "name": "SEAGATE TECHNOLOGY HOLDINGS",
-      "per": 47.540287,
+      "per": 45.985386,
       "pbr": 69.158554,
       "change_percent": 3.41153,
       "market_cap": 150263578624
@@ -490,7 +490,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 2.8250456,
+      "per": 2.866843,
       "pbr": 0.763499,
       "change_percent": -1.45309,
       "market_cap": 14101699584
@@ -514,7 +514,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.0103445,
+      "per": 8.051993,
       "pbr": 1.1218835,
       "change_percent": -0.524575,
       "market_cap": 22229143552
@@ -522,7 +522,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.259095,
+      "per": 8.229505,
       "pbr": 0.97938836,
       "change_percent": 0.35723098999999997,
       "market_cap": 14972454912
@@ -530,5 +530,5 @@
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-20T00:51:46+00:00"
+  "generated_at": "2026-10-20T06:55:34+00:00"
 }
