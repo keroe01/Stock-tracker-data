@@ -49,20 +49,20 @@
       "market_cap": 79347515392
     },
     {
-      "code": "SYF",
-      "name": "SYNCHRONY FINANCIAL",
-      "per": 7.5087,
-      "pbr": 1.6395495,
-      "change_percent": -1.1853401,
-      "market_cap": 23869206528
-    },
-    {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
       "per": 7.569739,
       "pbr": 1.455879,
       "change_percent": 1.8212800000000002,
       "market_cap": 10939206656
+    },
+    {
+      "code": "SYF",
+      "name": "SYNCHRONY FINANCIAL",
+      "per": 7.65762,
+      "pbr": 1.6395495,
+      "change_percent": -1.1853401,
+      "market_cap": 23869206528
     },
     {
       "code": "T",
@@ -113,20 +113,20 @@
       "market_cap": 11575649280
     },
     {
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 8.2984295,
+      "pbr": 1.8268787,
+      "change_percent": 3.6851298,
+      "market_cap": 12794015744
+    },
+    {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
       "per": 8.316201,
       "pbr": 0.9861603,
       "change_percent": 0.691442,
       "market_cap": 15075980288
-    },
-    {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.598553,
-      "pbr": 1.8268787,
-      "change_percent": 3.6851298,
-      "market_cap": 12794015744
     },
     {
       "code": "CF",
@@ -137,20 +137,20 @@
       "market_cap": 17847306240
     },
     {
+      "code": "UAL",
+      "name": "UNITED AIRLINES HOLDINGS INC",
+      "per": 8.953297,
+      "pbr": 2.069469,
+      "change_percent": 2.26987,
+      "market_cap": 31734554624
+    },
+    {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
       "per": 9.093386,
       "pbr": 0.88211983,
       "change_percent": 1.16883,
       "market_cap": 25732182016
-    },
-    {
-      "code": "UAL",
-      "name": "UNITED AIRLINES HOLDINGS INC",
-      "per": 9.154493,
-      "pbr": 1.9006239,
-      "change_percent": 2.26987,
-      "market_cap": 31734554624
     },
     {
       "code": "FISV",
@@ -309,7 +309,7 @@
     {
       "code": "GM",
       "name": "GENERAL MOTORS CO",
-      "per": 34.569504,
+      "per": 16.868708,
       "pbr": 1.1402159,
       "change_percent": -6.83988,
       "market_cap": 67642732544
@@ -328,7 +328,7 @@
       "code": "EFX",
       "name": "EQUIFAX INC",
       "per": 31.080986,
-      "pbr": 4.7397103,
+      "pbr": 4.61639,
       "change_percent": 11.332501,
       "market_cap": 20740782080
     },
@@ -351,7 +351,7 @@
     {
       "code": "MMM",
       "name": "3M CO",
-      "per": 30.438719,
+      "per": 25.577612,
       "pbr": 29.938852,
       "change_percent": 5.777419999999999,
       "market_cap": 88379351040
@@ -407,7 +407,7 @@
     {
       "code": "NOC",
       "name": "NORTHROP GRUMMAN CORP",
-      "per": 16.973936,
+      "per": 16.85606,
       "pbr": 4.5475836,
       "change_percent": 4.5726098,
       "market_cap": 75861655552
@@ -424,7 +424,7 @@
       "code": "KEY",
       "name": "KEYCORP",
       "per": 12.098837,
-      "pbr": 1.2896628,
+      "pbr": 1.282984,
       "change_percent": 4.4678703,
       "market_cap": 22206945280
     },
@@ -471,7 +471,7 @@
     {
       "code": "HLT",
       "name": "HILTON WORLDWIDE HOLDINGS IN",
-      "per": 52.68182,
+      "per": 50.747177,
       "pbr": null,
       "change_percent": 3.82904,
       "market_cap": 80863576064
@@ -547,5 +547,5 @@
       "market_cap": 35799461888
     }
   ],
-  "generated_at": "2026-10-21T02:41:42+00:00"
+  "generated_at": "2026-10-21T09:01:47+00:00"
 }

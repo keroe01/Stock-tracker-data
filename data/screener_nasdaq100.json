@@ -145,20 +145,20 @@
       "market_cap": 197335056384
     },
     {
+      "code": "NFLX",
+      "name": "Netflix, Inc.",
+      "per": 19.852602,
+      "pbr": 10.896256,
+      "change_percent": -1.6607,
+      "market_cap": 286021025792
+    },
+    {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 19.96736,
       "pbr": 2.5544193,
       "change_percent": 3.25303,
       "market_cap": 83134095360
-    },
-    {
-      "code": "NXPI",
-      "name": "NXP Semiconductors",
-      "per": 20.29035,
-      "pbr": 5.2581496,
-      "change_percent": 3.21908,
-      "market_cap": 59914211328
     }
   ],
   "pbr": [
@@ -455,7 +455,7 @@
     {
       "code": "MELI",
       "name": "Mercado Libre",
-      "per": 51.74835,
+      "per": 51.11504,
       "pbr": 12.162924,
       "change_percent": 2.1622902,
       "market_cap": 95284633600
@@ -637,5 +637,5 @@
       "market_cap": 83134095360
     }
   ],
-  "generated_at": "2026-10-21T02:41:42+00:00"
+  "generated_at": "2026-10-21T09:01:48+00:00"
 }
