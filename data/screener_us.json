@@ -22,7 +22,7 @@
       "per": 5.617977,
       "pbr": 2.1645021,
       "change_percent": 0.20039899000000003,
-      "market_cap": 10701580288
+      "market_cap": 10697365504
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 5.7649765,
       "pbr": 1.2074901,
       "change_percent": -1.98486,
-      "market_cap": 19354441728
+      "market_cap": 19398473728
     },
     {
       "code": "EIX",
@@ -51,7 +51,7 @@
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.4074516,
+      "per": 7.621941,
       "pbr": 1.4659189,
       "change_percent": -0.659122,
       "market_cap": 11014645760
@@ -70,15 +70,15 @@
       "per": 7.9569645,
       "pbr": 1.4884803,
       "change_percent": -0.973805,
-      "market_cap": 34699591680
+      "market_cap": 34676289536
     },
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.037069,
+      "per": 8.00945,
       "pbr": 1.1256264,
       "change_percent": 0.29045201,
-      "market_cap": 21583099904
+      "market_cap": 22303305728
     },
     {
       "code": "LULU",
@@ -87,6 +87,14 @@
       "pbr": 2.3079255,
       "change_percent": -4.8529602999999994,
       "market_cap": 11467930624
+    },
+    {
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 8.268041,
+      "pbr": 1.8487782,
+      "change_percent": -1.2112499,
+      "market_cap": 12947382272
     },
     {
       "code": "CINF",
@@ -103,14 +111,6 @@
       "pbr": 0.9997291,
       "change_percent": -2.1984500000000002,
       "market_cap": 15283415040
-    },
-    {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.701627,
-      "pbr": 1.8487782,
-      "change_percent": -1.2112499,
-      "market_cap": 12947382272
     },
     {
       "code": "CF",
@@ -237,7 +237,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 38.882626,
+      "per": 37.817352,
       "pbr": 0.95256716,
       "change_percent": -3.56311,
       "market_cap": 21915695104
@@ -256,7 +256,7 @@
       "per": 42.267326,
       "pbr": 1.016235,
       "change_percent": -2.5565,
-      "market_cap": 8863866880
+      "market_cap": 9034080256
     },
     {
       "code": "GM",
@@ -291,6 +291,14 @@
       "market_cap": 42490302464
     },
     {
+      "code": "HBAN",
+      "name": "HUNTINGTON BANCSHARES INC",
+      "per": 12.1,
+      "pbr": 1.0685415,
+      "change_percent": 0.44699700000000003,
+      "market_cap": 31781124096
+    },
+    {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
       "per": 35.0,
@@ -301,26 +309,18 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.037069,
+      "per": 8.00945,
       "pbr": 1.1256264,
       "change_percent": 0.29045201,
-      "market_cap": 21583099904
+      "market_cap": 22303305728
     },
     {
-      "code": "HBAN",
-      "name": "HUNTINGTON BANCSHARES INC",
-      "per": 12.1,
-      "pbr": 1.1410954,
-      "change_percent": 0.44699700000000003,
-      "market_cap": 31781124096
-    },
-    {
-      "code": "COF",
-      "name": "CAPITAL ONE FINANCIAL CORP",
-      "per": 12.337009,
-      "pbr": 1.1507905,
-      "change_percent": -1.02738,
-      "market_cap": 123519041536
+      "code": "CFG",
+      "name": "CITIZENS FINANCIAL GROUP",
+      "per": 14.191721,
+      "pbr": 1.1954707,
+      "change_percent": -0.15327799,
+      "market_cap": 27438258176
     }
   ],
   "rise": [
@@ -330,7 +330,7 @@
       "per": 34.526104,
       "pbr": null,
       "change_percent": 9.05746,
-      "market_cap": 37568888832
+      "market_cap": 36576403456
     },
     {
       "code": "CRWD",
@@ -367,7 +367,7 @@
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 11.019109,
+      "per": 10.972516,
       "pbr": 2.5921488,
       "change_percent": 4.9757298,
       "market_cap": 18183243776
@@ -407,15 +407,15 @@
     {
       "code": "FANG",
       "name": "DIAMONDBACK ENERGY INC",
-      "per": 39.951454,
+      "per": 39.190475,
       "pbr": 1.5231377,
       "change_percent": 4.36746,
-      "market_cap": 57614069760
+      "market_cap": 57880215552
     },
     {
       "code": "BKR",
       "name": "BAKER HUGHES CO",
-      "per": 17.961416,
+      "per": 18.744967,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -506,10 +506,10 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.037069,
+      "per": 8.00945,
       "pbr": 1.1256264,
       "change_percent": 0.29045201,
-      "market_cap": 21583099904
+      "market_cap": 22303305728
     },
     {
       "code": "EG",
@@ -539,5 +539,5 @@
       "market_cap": 5671258624
     }
   ],
-  "generated_at": "2026-10-24T20:01:47+00:00"
+  "generated_at": "2026-10-24T23:53:48+00:00"
 }
