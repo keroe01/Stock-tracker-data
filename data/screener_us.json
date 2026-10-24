@@ -5,7 +5,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.827649,
       "pbr": 0.7642026,
-      "change_percent": -2.8272308,
+      "change_percent": -2.82723,
       "market_cap": 14114695168
     },
     {
@@ -22,7 +22,7 @@
       "per": 5.617977,
       "pbr": 2.1645021,
       "change_percent": 0.20039899000000003,
-      "market_cap": 10697365504
+      "market_cap": 10701580288
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 5.7649765,
       "pbr": 1.2074901,
       "change_percent": -1.98486,
-      "market_cap": 19398473728
+      "market_cap": 19354441728
     },
     {
       "code": "EIX",
@@ -45,13 +45,13 @@
       "name": "COMCAST CORP CLASS A",
       "per": 7.18038,
       "pbr": 0.87346506,
-      "change_percent": -0.65674093,
+      "change_percent": -0.656741,
       "market_cap": 80518569984
     },
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.621941,
+      "per": 7.4074516,
       "pbr": 1.4659189,
       "change_percent": -0.659122,
       "market_cap": 11014645760
@@ -69,39 +69,31 @@
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 7.9569645,
       "pbr": 1.4884803,
-      "change_percent": -0.9738047,
-      "market_cap": 34676289536
+      "change_percent": -0.973805,
+      "market_cap": 34699591680
     },
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 8.037069,
       "pbr": 1.1256264,
-      "change_percent": 0.29045208,
-      "market_cap": 22303305728
+      "change_percent": 0.29045201,
+      "market_cap": 21583099904
     },
     {
       "code": "LULU",
       "name": "LULULEMON ATHLETICA INC",
       "per": 8.148972,
       "pbr": 2.3079255,
-      "change_percent": -4.8529647,
+      "change_percent": -4.8529602999999994,
       "market_cap": 11467930624
-    },
-    {
-      "code": "MKC",
-      "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.268041,
-      "pbr": 1.8487782,
-      "change_percent": -1.2112499,
-      "market_cap": 12947382272
     },
     {
       "code": "CINF",
       "name": "CINCINNATI FINANCIAL CORP",
       "per": 8.323891,
       "pbr": 1.6222384,
-      "change_percent": -1.1106101,
+      "change_percent": -1.11061,
       "market_cap": 27058180096
     },
     {
@@ -111,6 +103,14 @@
       "pbr": 0.9997291,
       "change_percent": -2.1984500000000002,
       "market_cap": 15283415040
+    },
+    {
+      "code": "MKC",
+      "name": "MCCORMICK + CO NON VTG SHRS",
+      "per": 8.701627,
+      "pbr": 1.8487782,
+      "change_percent": -1.2112499,
+      "market_cap": 12947382272
     },
     {
       "code": "CF",
@@ -125,7 +125,7 @@
       "name": "UNITED AIRLINES HOLDINGS INC",
       "per": 8.967949,
       "pbr": 1.7920799,
-      "change_percent": -3.9901957,
+      "change_percent": -3.9902,
       "market_cap": 31816904704
     },
     {
@@ -148,7 +148,7 @@
       "code": "PCG",
       "name": "P G + E CORP",
       "per": 9.355556,
-      "pbr": 0.8605887,
+      "pbr": 0.89663494,
       "change_percent": -2.69645,
       "market_cap": 37919895552
     },
@@ -191,7 +191,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.827649,
       "pbr": 0.7642026,
-      "change_percent": -2.8272308,
+      "change_percent": -2.82723,
       "market_cap": 14114695168
     },
     {
@@ -203,20 +203,20 @@
       "market_cap": 29408428032
     },
     {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 9.355556,
-      "pbr": 0.8605887,
-      "change_percent": -2.69645,
-      "market_cap": 37919895552
-    },
-    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 7.18038,
       "pbr": 0.87346506,
-      "change_percent": -0.65674093,
+      "change_percent": -0.656741,
       "market_cap": 80518569984
+    },
+    {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.355556,
+      "pbr": 0.89663494,
+      "change_percent": -2.69645,
+      "market_cap": 37919895552
     },
     {
       "code": "VICI",
@@ -237,7 +237,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 37.817352,
+      "per": 38.882626,
       "pbr": 0.95256716,
       "change_percent": -3.56311,
       "market_cap": 21915695104
@@ -256,7 +256,7 @@
       "per": 42.267326,
       "pbr": 1.016235,
       "change_percent": -2.5565,
-      "market_cap": 9034080256
+      "market_cap": 8863866880
     },
     {
       "code": "GM",
@@ -291,14 +291,6 @@
       "market_cap": 42490302464
     },
     {
-      "code": "HBAN",
-      "name": "HUNTINGTON BANCSHARES INC",
-      "per": 12.1,
-      "pbr": 1.0685415,
-      "change_percent": 0.4469968,
-      "market_cap": 31781124096
-    },
-    {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
       "per": 35.0,
@@ -311,16 +303,24 @@
       "name": "EXPAND ENERGY CORP",
       "per": 8.037069,
       "pbr": 1.1256264,
-      "change_percent": 0.29045208,
-      "market_cap": 22303305728
+      "change_percent": 0.29045201,
+      "market_cap": 21583099904
     },
     {
-      "code": "CFG",
-      "name": "CITIZENS FINANCIAL GROUP",
-      "per": 14.191721,
-      "pbr": 1.1954707,
-      "change_percent": -0.15327799,
-      "market_cap": 27438258176
+      "code": "HBAN",
+      "name": "HUNTINGTON BANCSHARES INC",
+      "per": 12.1,
+      "pbr": 1.1410954,
+      "change_percent": 0.44699700000000003,
+      "market_cap": 31781124096
+    },
+    {
+      "code": "COF",
+      "name": "CAPITAL ONE FINANCIAL CORP",
+      "per": 12.337009,
+      "pbr": 1.1507905,
+      "change_percent": -1.02738,
+      "market_cap": 123519041536
     }
   ],
   "rise": [
@@ -330,14 +330,14 @@
       "per": 34.526104,
       "pbr": null,
       "change_percent": 9.05746,
-      "market_cap": 36576403456
+      "market_cap": 37568888832
     },
     {
       "code": "CRWD",
       "name": "CROWDSTRIKE HOLDINGS INC   A",
       "per": 5151.4,
       "pbr": 51.689747,
-      "change_percent": 8.249981,
+      "change_percent": 8.249979999999999,
       "market_cap": 263734902784
     },
     {
@@ -345,14 +345,14 @@
       "name": "PALO ALTO NETWORKS INC",
       "per": 951.37494,
       "pbr": 11.281237,
-      "change_percent": 7.221337999999999,
+      "change_percent": 7.2213404,
       "market_cap": 311289905152
     },
     {
       "code": "SLB",
       "name": "SLB LTD",
       "per": 25.632853,
-      "pbr": 3.0202641,
+      "pbr": 3.0389464,
       "change_percent": 7.0837595,
       "market_cap": 78748639232
     },
@@ -362,14 +362,14 @@
       "per": 26.255636,
       "pbr": 2.6100605,
       "change_percent": 5.2124098,
-      "market_cap": 29172088832
+      "market_cap": 29092911104
     },
     {
       "code": "APA",
       "name": "APA CORP",
-      "per": 10.972516,
+      "per": 11.019109,
       "pbr": 2.5921488,
-      "change_percent": 4.9757343,
+      "change_percent": 4.9757298,
       "market_cap": 18183243776
     },
     {
@@ -385,7 +385,7 @@
       "name": "DATADOG INC   CLASS A",
       "per": 539.3,
       "pbr": 22.164227,
-      "change_percent": 4.616875,
+      "change_percent": 4.61687,
       "market_cap": 96824573952
     },
     {
@@ -407,17 +407,17 @@
     {
       "code": "FANG",
       "name": "DIAMONDBACK ENERGY INC",
-      "per": 39.190475,
+      "per": 39.951454,
       "pbr": 1.5231377,
-      "change_percent": 4.367455,
-      "market_cap": 57880215552
+      "change_percent": 4.36746,
+      "market_cap": 57614069760
     },
     {
       "code": "BKR",
       "name": "BAKER HUGHES CO",
-      "per": 18.744967,
+      "per": 17.961416,
       "pbr": 2.7843685,
-      "change_percent": 4.1775487,
+      "change_percent": 4.17755,
       "market_cap": 55450771456
     },
     {
@@ -433,7 +433,7 @@
       "name": "FORTINET INC",
       "per": 63.60071,
       "pbr": 85.14191,
-      "change_percent": 4.0524974,
+      "change_percent": 4.0524997,
       "market_cap": 132061126656
     },
     {
@@ -449,7 +449,7 @@
       "name": "ECHOSTAR CORP A",
       "per": null,
       "pbr": 1.8278445,
-      "change_percent": 3.8349469999999997,
+      "change_percent": 3.8349498000000004,
       "market_cap": 25905874944
     },
     {
@@ -457,7 +457,7 @@
       "name": "SBA COMMUNICATIONS CORP",
       "per": 19.92988,
       "pbr": null,
-      "change_percent": 3.5652228,
+      "change_percent": 3.56522,
       "market_cap": 19599777792
     },
     {
@@ -479,7 +479,7 @@
     {
       "code": "TWLO",
       "name": "TWILIO INC   A",
-      "per": 38.050873,
+      "per": 36.208855,
       "pbr": 4.478105,
       "change_percent": 3.2172899999999998,
       "market_cap": 40204455936
@@ -492,7 +492,7 @@
       "name": "CHARTER COMMUNICATIONS INC A",
       "per": 2.827649,
       "pbr": 0.7642026,
-      "change_percent": -2.8272308,
+      "change_percent": -2.82723,
       "market_cap": 14114695168
     },
     {
@@ -500,7 +500,7 @@
       "name": "COMCAST CORP CLASS A",
       "per": 7.18038,
       "pbr": 0.87346506,
-      "change_percent": -0.65674093,
+      "change_percent": -0.656741,
       "market_cap": 80518569984
     },
     {
@@ -508,8 +508,8 @@
       "name": "EXPAND ENERGY CORP",
       "per": 8.037069,
       "pbr": 1.1256264,
-      "change_percent": 0.29045208,
-      "market_cap": 22303305728
+      "change_percent": 0.29045201,
+      "market_cap": 21583099904
     },
     {
       "code": "EG",
@@ -539,5 +539,5 @@
       "market_cap": 5671258624
     }
   ],
-  "generated_at": "2026-10-23T22:47:13+00:00"
+  "generated_at": "2026-10-24T02:40:52+00:00"
 }
