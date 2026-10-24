@@ -27,7 +27,7 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 5.7649765,
+      "per": 5.882445,
       "pbr": 1.2074901,
       "change_percent": -1.98486,
       "market_cap": 19354441728
@@ -107,7 +107,7 @@
     {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
-      "per": 8.701627,
+      "per": 8.813187,
       "pbr": 1.8487782,
       "change_percent": -1.2112499,
       "market_cap": 12947382272
@@ -229,7 +229,7 @@
     {
       "code": "LEN",
       "name": "LENNAR CORP A",
-      "per": 16.083332,
+      "per": 15.992467,
       "pbr": 0.93707925,
       "change_percent": 0.55654403,
       "market_cap": 20202487808
@@ -335,7 +335,7 @@
     {
       "code": "CRWD",
       "name": "CROWDSTRIKE HOLDINGS INC   A",
-      "per": 5151.4,
+      "per": 4292.8335,
       "pbr": 51.689747,
       "change_percent": 8.249979999999999,
       "market_cap": 263734902784
@@ -415,7 +415,7 @@
     {
       "code": "BKR",
       "name": "BAKER HUGHES CO",
-      "per": 17.961416,
+      "per": 17.240742,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -439,7 +439,7 @@
     {
       "code": "CBOE",
       "name": "CBOE GLOBAL MARKETS INC",
-      "per": 26.533127,
+      "per": 27.564373,
       "pbr": 6.3266864,
       "change_percent": 3.87526,
       "market_cap": 35550408704
@@ -479,7 +479,7 @@
     {
       "code": "TWLO",
       "name": "TWILIO INC   A",
-      "per": 36.208855,
+      "per": 35.092495,
       "pbr": 4.478105,
       "change_percent": 3.2172899999999998,
       "market_cap": 40204455936
@@ -539,5 +539,5 @@
       "market_cap": 5671258624
     }
   ],
-  "generated_at": "2026-10-24T02:40:52+00:00"
+  "generated_at": "2026-10-24T08:32:55+00:00"
 }

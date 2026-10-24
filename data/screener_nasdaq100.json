@@ -19,7 +19,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.778828,
+      "per": 10.88168,
       "pbr": 2.479885,
       "change_percent": -0.89510605,
       "market_cap": 48778379264
@@ -43,7 +43,7 @@
     {
       "code": "WDC",
       "name": "Western Digital",
-      "per": 12.766345,
+      "per": 12.088287,
       "pbr": 13.996497,
       "change_percent": -2.97015,
       "market_cap": 128643678208
@@ -113,6 +113,14 @@
       "market_cap": 185019367424
     },
     {
+      "code": "BKR",
+      "name": "Baker Hughes",
+      "per": 17.240742,
+      "pbr": 2.7843685,
+      "change_percent": 4.17755,
+      "market_cap": 55450771456
+    },
+    {
       "code": "BKNG",
       "name": "Booking Holdings",
       "per": 17.276052,
@@ -127,14 +135,6 @@
       "pbr": 2.2623837,
       "change_percent": 0.437843,
       "market_cap": 43332427776
-    },
-    {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 17.961416,
-      "pbr": 2.7843685,
-      "change_percent": 4.17755,
-      "market_cap": 55450771456
     },
     {
       "code": "CPRT",
@@ -213,7 +213,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.383562,
+      "per": 21.6205,
       "pbr": 2.0257995,
       "change_percent": -1.1612399500000001,
       "market_cap": 48752709632
@@ -221,7 +221,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 22.476604,
+      "per": 22.633509,
       "pbr": 2.200784,
       "change_percent": -0.7271869599999999,
       "market_cap": 70602899456
@@ -237,7 +237,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.778828,
+      "per": 10.88168,
       "pbr": 2.479885,
       "change_percent": -0.89510605,
       "market_cap": 48778379264
@@ -269,7 +269,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.961416,
+      "per": 17.240742,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -327,7 +327,7 @@
     {
       "code": "CRWD",
       "name": "CrowdStrike",
-      "per": 5151.4,
+      "per": 4292.8335,
       "pbr": 51.689747,
       "change_percent": 8.249979999999999,
       "market_cap": 263734902784
@@ -359,7 +359,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.961416,
+      "per": 17.240742,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -399,7 +399,7 @@
     {
       "code": "CDNS",
       "name": "Cadence Design Systems",
-      "per": 62.92047,
+      "per": 64.32723,
       "pbr": 12.70942,
       "change_percent": 2.2089399999999997,
       "market_cap": 87159128064
@@ -489,7 +489,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.961416,
+      "per": 17.240742,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -515,7 +515,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.778828,
+      "per": 10.88168,
       "pbr": 2.479885,
       "change_percent": -0.89510605,
       "market_cap": 48778379264
@@ -549,7 +549,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.961416,
+      "per": 17.240742,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -575,11 +575,11 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.961416,
+      "per": 17.240742,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
     }
   ],
-  "generated_at": "2026-10-24T02:40:53+00:00"
+  "generated_at": "2026-10-24T08:32:55+00:00"
 }
