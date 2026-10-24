@@ -7,7 +7,7 @@
     "change": 16.52978515625,
     "change_percent": 0.29870748328731944,
     "currency": "KRW",
-    "collected_at": "2026-10-24T08:32:20+00:00"
+    "collected_at": "2026-10-24T13:45:09+00:00"
   },
   {
     "symbol": "^IXIC",
@@ -17,7 +17,7 @@
     "change": -53.51953125,
     "change_percent": -0.20577423438047251,
     "currency": "USD",
-    "collected_at": "2026-10-24T08:32:20+00:00"
+    "collected_at": "2026-10-24T13:45:09+00:00"
   },
   {
     "symbol": "^KS200",
@@ -26,8 +26,8 @@
     "price": 862.77001953125,
     "change": 4.750019531250018,
     "change_percent": 0.5536024254970768,
-    "currency": null,
-    "collected_at": "2026-10-24T08:32:20+00:00"
+    "currency": "KRW",
+    "collected_at": "2026-10-24T13:45:10+00:00"
   },
   {
     "symbol": "^GSPC",
@@ -37,7 +37,7 @@
     "change": -39.75,
     "change_percent": -0.5186972294159081,
     "currency": "USD",
-    "collected_at": "2026-10-24T08:32:21+00:00"
+    "collected_at": "2026-10-24T13:45:10+00:00"
   },
   {
     "symbol": "^DJI",
@@ -47,7 +47,7 @@
     "change": -652.8203125,
     "change_percent": -1.2348122752407364,
     "currency": "USD",
-    "collected_at": "2026-10-24T08:32:21+00:00"
+    "collected_at": "2026-10-24T13:45:10+00:00"
   },
   {
     "symbol": "ES=F",
@@ -57,7 +57,7 @@
     "change": -44.75,
     "change_percent": -0.5808293854241028,
     "currency": "USD",
-    "collected_at": "2026-10-24T08:32:21+00:00"
+    "collected_at": "2026-10-24T13:45:11+00:00"
   },
   {
     "symbol": "YM=F",
@@ -67,7 +67,7 @@
     "change": -674.0,
     "change_percent": -1.270068591241426,
     "currency": "USD",
-    "collected_at": "2026-10-24T08:32:22+00:00"
+    "collected_at": "2026-10-24T13:45:11+00:00"
   },
   {
     "symbol": "NQ=F",
@@ -77,6 +77,6 @@
     "change": -24.25,
     "change_percent": -0.08321323176171848,
     "currency": "USD",
-    "collected_at": "2026-10-24T08:32:22+00:00"
+    "collected_at": "2026-10-24T13:45:11+00:00"
   }
 ]

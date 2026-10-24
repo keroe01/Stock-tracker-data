@@ -4,9 +4,9 @@
       "code": "CMCSA",
       "name": "Comcast",
       "per": 7.18038,
-      "pbr": 0.87346506,
+      "pbr": 0.87031573,
       "change_percent": -0.656741,
-      "market_cap": 80518569984
+      "market_cap": 80572334080
     },
     {
       "code": "PDD",
@@ -19,10 +19,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.88168,
+      "per": 10.657944,
       "pbr": 2.479885,
       "change_percent": -0.89510605,
-      "market_cap": 48778379264
+      "market_cap": 49151242240
     },
     {
       "code": "HON",
@@ -44,7 +44,7 @@
       "code": "WDC",
       "name": "Western Digital",
       "per": 12.088287,
-      "pbr": 13.996497,
+      "pbr": 13.455621,
       "change_percent": -2.97015,
       "market_cap": 128643678208
     },
@@ -94,7 +94,7 @@
       "per": 16.425287,
       "pbr": 2.940571,
       "change_percent": 0.09806630000000001,
-      "market_cap": 32272979968
+      "market_cap": 32502016000
     },
     {
       "code": "SNDK",
@@ -113,20 +113,12 @@
       "market_cap": 185019367424
     },
     {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 17.240742,
-      "pbr": 2.7843685,
-      "change_percent": 4.17755,
-      "market_cap": 55450771456
-    },
-    {
       "code": "BKNG",
       "name": "Booking Holdings",
       "per": 17.276052,
       "pbr": null,
       "change_percent": -3.2712600000000003,
-      "market_cap": 117087625216
+      "market_cap": 120749309952
     },
     {
       "code": "ROP",
@@ -145,10 +137,18 @@
       "market_cap": 26863583232
     },
     {
+      "code": "BKR",
+      "name": "Baker Hughes",
+      "per": 18.744967,
+      "pbr": 2.7843685,
+      "change_percent": 4.17755,
+      "market_cap": 55450771456
+    },
+    {
       "code": "NFLX",
       "name": "Netflix, Inc.",
       "per": 19.031792,
-      "pbr": 9.296907,
+      "pbr": 9.233034,
       "change_percent": -1.7897199999999998,
       "market_cap": 274195415040
     },
@@ -166,17 +166,17 @@
       "code": "CMCSA",
       "name": "Comcast",
       "per": 7.18038,
-      "pbr": 0.87346506,
+      "pbr": 0.87031573,
       "change_percent": -0.656741,
-      "market_cap": 80518569984
+      "market_cap": 80572334080
     },
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 39.951454,
+      "per": 39.190475,
       "pbr": 1.5231377,
       "change_percent": 4.36746,
-      "market_cap": 57614069760
+      "market_cap": 57880215552
     },
     {
       "code": "EXC",
@@ -200,7 +200,7 @@
       "per": null,
       "pbr": 1.7567015,
       "change_percent": 0.144027,
-      "market_cap": 61827506176
+      "market_cap": 61845782528
     },
     {
       "code": "KDP",
@@ -213,7 +213,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.6205,
+      "per": 21.151762,
       "pbr": 2.0257995,
       "change_percent": -1.1612399500000001,
       "market_cap": 48752709632
@@ -221,7 +221,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 22.633509,
+      "per": 22.476604,
       "pbr": 2.200784,
       "change_percent": -0.7271869599999999,
       "market_cap": 70602899456
@@ -237,10 +237,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.88168,
+      "per": 10.657944,
       "pbr": 2.479885,
       "change_percent": -0.89510605,
-      "market_cap": 48778379264
+      "market_cap": 49151242240
     },
     {
       "code": "REGN",
@@ -269,7 +269,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.240742,
+      "per": 18.744967,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -296,7 +296,7 @@
       "per": 16.425287,
       "pbr": 2.940571,
       "change_percent": 0.09806630000000001,
-      "market_cap": 32272979968
+      "market_cap": 32502016000
     },
     {
       "code": "CPRT",
@@ -312,7 +312,7 @@
       "per": 23.455881,
       "pbr": 3.0668654,
       "change_percent": -2.13223,
-      "market_cap": 81428455424
+      "market_cap": 81896857600
     },
     {
       "code": "HON",
@@ -351,15 +351,15 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 39.951454,
+      "per": 39.190475,
       "pbr": 1.5231377,
       "change_percent": 4.36746,
-      "market_cap": 57614069760
+      "market_cap": 57880215552
     },
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.240742,
+      "per": 18.744967,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -399,16 +399,16 @@
     {
       "code": "CDNS",
       "name": "Cadence Design Systems",
-      "per": 64.32723,
+      "per": 62.92047,
       "pbr": 12.70942,
       "change_percent": 2.2089399999999997,
-      "market_cap": 87159128064
+      "market_cap": 87293001728
     },
     {
       "code": "ISRG",
       "name": "Intuitive Surgical",
-      "per": 54.690445,
-      "pbr": 9.80617,
+      "per": 52.775967,
+      "pbr": 9.793431,
       "change_percent": 1.9015399999999998,
       "market_cap": 159784124416
     },
@@ -416,7 +416,7 @@
       "code": "SPCX",
       "name": "SpaceX",
       "per": null,
-      "pbr": 176.42345,
+      "pbr": 15.274441,
       "change_percent": 1.89292,
       "market_cap": 2003071270912
     },
@@ -489,7 +489,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.240742,
+      "per": 18.744967,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -500,9 +500,9 @@
       "code": "CMCSA",
       "name": "Comcast",
       "per": 7.18038,
-      "pbr": 0.87346506,
+      "pbr": 0.87031573,
       "change_percent": -0.656741,
-      "market_cap": 80518569984
+      "market_cap": 80572334080
     },
     {
       "code": "PDD",
@@ -515,10 +515,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.88168,
+      "per": 10.657944,
       "pbr": 2.479885,
       "change_percent": -0.89510605,
-      "market_cap": 48778379264
+      "market_cap": 49151242240
     },
     {
       "code": "HON",
@@ -549,7 +549,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.240742,
+      "per": 18.744967,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
@@ -559,10 +559,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 39.951454,
+      "per": 39.190475,
       "pbr": 1.5231377,
       "change_percent": 4.36746,
-      "market_cap": 57614069760
+      "market_cap": 57880215552
     },
     {
       "code": "SNPS",
@@ -575,11 +575,11 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 17.240742,
+      "per": 18.744967,
       "pbr": 2.7843685,
       "change_percent": 4.17755,
       "market_cap": 55450771456
     }
   ],
-  "generated_at": "2026-10-24T08:32:55+00:00"
+  "generated_at": "2026-10-24T13:45:42+00:00"
 }
