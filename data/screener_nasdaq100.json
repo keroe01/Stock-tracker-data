@@ -19,10 +19,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.778828,
+      "per": 10.657944,
       "pbr": 2.479885,
       "change_percent": -0.8951062,
-      "market_cap": 48778379264
+      "market_cap": 49151242240
     },
     {
       "code": "HON",
@@ -94,7 +94,7 @@
       "per": 16.425287,
       "pbr": 2.940571,
       "change_percent": 0.09806626,
-      "market_cap": 32272979968
+      "market_cap": 32502016000
     },
     {
       "code": "SNDK",
@@ -118,7 +118,7 @@
       "per": 17.276052,
       "pbr": null,
       "change_percent": -3.2712627000000003,
-      "market_cap": 117087625216
+      "market_cap": 120749309952
     },
     {
       "code": "ROP",
@@ -173,10 +173,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 39.951454,
+      "per": 39.190475,
       "pbr": 1.5231377,
       "change_percent": 4.367455,
-      "market_cap": 57614069760
+      "market_cap": 57880215552
     },
     {
       "code": "EXC",
@@ -213,7 +213,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.383562,
+      "per": 21.151762,
       "pbr": 2.0257995,
       "change_percent": -1.1612442,
       "market_cap": 48752709632
@@ -237,10 +237,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.778828,
+      "per": 10.657944,
       "pbr": 2.479885,
       "change_percent": -0.8951062,
-      "market_cap": 48778379264
+      "market_cap": 49151242240
     },
     {
       "code": "REGN",
@@ -296,7 +296,7 @@
       "per": 16.425287,
       "pbr": 2.940571,
       "change_percent": 0.09806626,
-      "market_cap": 32272979968
+      "market_cap": 32502016000
     },
     {
       "code": "CPRT",
@@ -312,7 +312,7 @@
       "per": 23.455881,
       "pbr": 3.0668654,
       "change_percent": -2.1322338,
-      "market_cap": 81428455424
+      "market_cap": 81896857600
     },
     {
       "code": "HON",
@@ -351,10 +351,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 39.951454,
+      "per": 39.190475,
       "pbr": 1.5231377,
       "change_percent": 4.367455,
-      "market_cap": 57614069760
+      "market_cap": 57880215552
     },
     {
       "code": "BKR",
@@ -402,7 +402,7 @@
       "per": 62.92047,
       "pbr": 12.70942,
       "change_percent": 2.2089444,
-      "market_cap": 87159128064
+      "market_cap": 87293001728
     },
     {
       "code": "ISRG",
@@ -415,8 +415,8 @@
     {
       "code": "SPCX",
       "name": "SpaceX",
-      "per": 641.26086,
-      "pbr": 11.329698,
+      "per": null,
+      "pbr": 15.274441,
       "change_percent": 1.8929226000000001,
       "market_cap": 2003071270912
     },
@@ -515,10 +515,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.778828,
+      "per": 10.657944,
       "pbr": 2.479885,
       "change_percent": -0.8951062,
-      "market_cap": 48778379264
+      "market_cap": 49151242240
     },
     {
       "code": "HON",
@@ -559,10 +559,10 @@
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 39.951454,
+      "per": 39.190475,
       "pbr": 1.5231377,
       "change_percent": 4.367455,
-      "market_cap": 57614069760
+      "market_cap": 57880215552
     },
     {
       "code": "SNPS",
@@ -581,5 +581,5 @@
       "market_cap": 55450771456
     }
   ],
-  "generated_at": "2026-10-26T02:29:39+00:00"
+  "generated_at": "2026-10-26T09:32:39+00:00"
 }
