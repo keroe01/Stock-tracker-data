@@ -19,7 +19,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.395085,
+      "per": 10.782353,
       "pbr": 2.3915975,
       "change_percent": -3.56015,
       "market_cap": 47041794048
@@ -83,7 +83,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.315018,
+      "per": 16.375,
       "pbr": 1.5481404,
       "change_percent": 0.24758200000000002,
       "market_cap": 45887512576
@@ -131,7 +131,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.009645,
+      "per": 17.951923,
       "pbr": 2.791845,
       "change_percent": 0.26852400000000004,
       "market_cap": 55599673344
@@ -181,7 +181,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.315018,
+      "per": 16.375,
       "pbr": 1.5481404,
       "change_percent": 0.24758200000000002,
       "market_cap": 45887512576
@@ -213,7 +213,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.331507,
+      "per": 21.39011,
       "pbr": 2.020868,
       "change_percent": -0.243437,
       "market_cap": 48634028032
@@ -221,7 +221,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 22.395147,
+      "per": 22.473043,
       "pbr": 2.1928084,
       "change_percent": -0.362404,
       "market_cap": 70347030528
@@ -237,7 +237,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.395085,
+      "per": 10.782353,
       "pbr": 2.3915975,
       "change_percent": -3.56015,
       "market_cap": 47041794048
@@ -261,7 +261,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.009645,
+      "per": 17.951923,
       "pbr": 2.791845,
       "change_percent": 0.26852400000000004,
       "market_cap": 55599673344
@@ -359,7 +359,7 @@
     {
       "code": "TXN",
       "name": "Texas Instruments",
-      "per": 36.94176,
+      "per": 38.666664,
       "pbr": 14.202953,
       "change_percent": 4.717409999999999,
       "market_cap": 272257400832
@@ -391,7 +391,7 @@
     {
       "code": "DDOG",
       "name": "Datadog",
-      "per": 538.9231,
+      "per": 560.48,
       "pbr": 23.034685,
       "change_percent": 3.9273097999999997,
       "market_cap": 100627177472
@@ -423,7 +423,7 @@
     {
       "code": "LRCX",
       "name": "Lam Research",
-      "per": 35.39493,
+      "per": 34.271286,
       "pbr": 21.331059,
       "change_percent": 3.2159902,
       "market_cap": 297213296640
@@ -506,7 +506,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.395085,
+      "per": 10.782353,
       "pbr": 2.3915975,
       "change_percent": -3.56015,
       "market_cap": 47041794048
@@ -556,5 +556,5 @@
       "market_cap": 87066271744
     }
   ],
-  "generated_at": "2026-10-27T03:04:48+00:00"
+  "generated_at": "2026-10-27T09:29:21+00:00"
 }
