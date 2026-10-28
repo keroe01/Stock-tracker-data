@@ -22,7 +22,7 @@
       "per": 5.470046,
       "pbr": 1.1457161,
       "change_percent": -3.41741,
-      "market_cap": 18406066176
+      "market_cap": 18364289024
     },
     {
       "code": "AES",
@@ -30,7 +30,7 @@
       "per": 5.6292133,
       "pbr": 2.168831,
       "change_percent": 0.0,
-      "market_cap": 10718759936
+      "market_cap": 10722982912
     },
     {
       "code": "EIX",
@@ -65,20 +65,20 @@
       "market_cap": 24393052160
     },
     {
-      "code": "ACGL",
-      "name": "ARCH CAPITAL GROUP LTD",
-      "per": 7.8513303,
-      "pbr": 1.4687197,
-      "change_percent": -1.95427,
-      "market_cap": 34215938048
-    },
-    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 8.08718,
-      "pbr": 1.1424087,
+      "per": 8.163935,
+      "pbr": 1.2185291,
       "change_percent": 0.638169,
-      "market_cap": 22635833344
+      "market_cap": 21904889856
+    },
+    {
+      "code": "ACGL",
+      "name": "ARCH CAPITAL GROUP LTD",
+      "per": 8.204415,
+      "pbr": 1.5349313,
+      "change_percent": -1.95427,
+      "market_cap": 34238928896
     },
     {
       "code": "EG",
@@ -87,14 +87,6 @@
       "pbr": 0.98089325,
       "change_percent": -1.6398,
       "market_cap": 14995460096
-    },
-    {
-      "code": "CINF",
-      "name": "CINCINNATI FINANCIAL CORP",
-      "per": 8.565156,
-      "pbr": 1.771807,
-      "change_percent": 2.31234,
-      "market_cap": 27842453504
     },
     {
       "code": "MKC",
@@ -121,6 +113,14 @@
       "market_cap": 111525822464
     },
     {
+      "code": "HIG",
+      "name": "HARTFORD INSURANCE GROUP INC",
+      "per": 8.936412,
+      "pbr": 1.9829493,
+      "change_percent": -1.7875599999999998,
+      "market_cap": 36164120576
+    },
+    {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
       "per": 8.942137,
@@ -145,20 +145,20 @@
       "market_cap": 26095538176
     },
     {
-      "code": "HIG",
-      "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.529621,
-      "pbr": 1.8790727,
-      "change_percent": -1.7875599999999998,
-      "market_cap": 36164120576
-    },
-    {
       "code": "UAL",
       "name": "UNITED AIRLINES HOLDINGS INC",
       "per": 9.588828,
       "pbr": 1.9161512,
       "change_percent": 3.9924500000000003,
       "market_cap": 34019688448
+    },
+    {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.599999,
+      "pbr": 0.8650958,
+      "change_percent": 0.856028,
+      "market_cap": 38910676992
     }
   ],
   "pbr": [
@@ -272,7 +272,7 @@
       "per": 43.217823,
       "pbr": 1.0390879,
       "change_percent": 0.09172419999999999,
-      "market_cap": 9237236736
+      "market_cap": 9063194624
     },
     {
       "code": "C",
@@ -285,8 +285,8 @@
     {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
-      "per": 12.084616,
-      "pbr": 1.067183,
+      "per": 12.8770485,
+      "pbr": 1.0806906,
       "change_percent": -0.12714199,
       "market_cap": 31740717056
     },
@@ -307,30 +307,30 @@
       "market_cap": 68378460160
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.08718,
-      "pbr": 1.1424087,
-      "change_percent": 0.638169,
-      "market_cap": 22635833344
-    },
-    {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
       "per": 5.470046,
       "pbr": 1.1457161,
       "change_percent": -3.41741,
-      "market_cap": 18406066176
+      "market_cap": 18364289024
+    },
+    {
+      "code": "COF",
+      "name": "CAPITAL ONE FINANCIAL CORP",
+      "per": 12.465687,
+      "pbr": 1.1627934,
+      "change_percent": 0.53866897,
+      "market_cap": 124807364608
     }
   ],
   "rise": [
     {
       "code": "PNR",
       "name": "PENTAIR PLC",
-      "per": 16.054123,
+      "per": 16.972752,
       "pbr": 2.6279376,
       "change_percent": 12.8033,
-      "market_cap": 10066409472
+      "market_cap": 9941484544
     },
     {
       "code": "FLEX",
@@ -354,13 +354,13 @@
       "per": 10.7638035,
       "pbr": 2.248062,
       "change_percent": 7.3416999999999994,
-      "market_cap": 22698774528
+      "market_cap": 23052914688
     },
     {
       "code": "BE",
       "name": "BLOOM ENERGY CORP  A",
-      "per": 287.5,
-      "pbr": 39.763424,
+      "per": 123.44633,
+      "pbr": 33.409786,
       "change_percent": 7.149859999999999,
       "market_cap": 64574881792
     },
@@ -378,7 +378,7 @@
       "per": 68.20676,
       "pbr": 17.033909,
       "change_percent": 6.49035,
-      "market_cap": 94626947072
+      "market_cap": 94481825792
     },
     {
       "code": "COHR",
@@ -391,7 +391,7 @@
     {
       "code": "ON",
       "name": "ON SEMICONDUCTOR",
-      "per": 53.155403,
+      "per": 50.75484,
       "pbr": 4.2425714,
       "change_percent": 6.22468,
       "market_cap": 30627694592
@@ -431,7 +431,7 @@
     {
       "code": "JCI",
       "name": "JOHNSON CONTROLS INTERNATION",
-      "per": 44.0339,
+      "per": 33.025425,
       "pbr": 7.0036397,
       "change_percent": 5.6813598,
       "market_cap": 94422982656
@@ -447,7 +447,7 @@
     {
       "code": "MCHP",
       "name": "MICROCHIP TECHNOLOGY INC",
-      "per": 114.52857,
+      "per": 117.89706,
       "pbr": 6.7483163,
       "change_percent": 5.62582,
       "market_cap": 43533004800
@@ -471,8 +471,8 @@
     {
       "code": "RCL",
       "name": "ROYAL CARIBBEAN CRUISES LTD",
-      "per": 18.0,
-      "pbr": 7.731822,
+      "per": 17.510061,
+      "pbr": 7.972842,
       "change_percent": 5.4597303,
       "market_cap": 79144419328
     },
@@ -501,7 +501,7 @@
       "per": 5.470046,
       "pbr": 1.1457161,
       "change_percent": -3.41741,
-      "market_cap": 18406066176
+      "market_cap": 18364289024
     },
     {
       "code": "CMCSA",
@@ -512,20 +512,20 @@
       "market_cap": 77553975296
     },
     {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 8.08718,
-      "pbr": 1.1424087,
-      "change_percent": 0.638169,
-      "market_cap": 22635833344
-    },
-    {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
       "per": 8.271785,
       "pbr": 0.98089325,
       "change_percent": -1.6398,
       "market_cap": 14995460096
+    },
+    {
+      "code": "VICI",
+      "name": "VICI PROPERTIES INC",
+      "per": 9.22179,
+      "pbr": 0.89457595,
+      "change_percent": -1.33222,
+      "market_cap": 26095538176
     }
   ],
   "per_rise": [],
@@ -547,5 +547,5 @@
       "market_cap": 68378460160
     }
   ],
-  "generated_at": "2026-10-28T00:52:15+00:00"
+  "generated_at": "2026-10-28T07:47:12+00:00"
 }

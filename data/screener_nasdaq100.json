@@ -19,10 +19,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.484113,
-      "pbr": 2.439438,
+      "per": 10.387037,
+      "pbr": 2.547577,
       "change_percent": 2.00036,
-      "market_cap": 48349581312
+      "market_cap": 47982800896
     },
     {
       "code": "HON",
@@ -86,7 +86,7 @@
       "per": 16.347126,
       "pbr": 2.9265783,
       "change_percent": -1.2086701,
-      "market_cap": 32347355136
+      "market_cap": 32119408640
     },
     {
       "code": "EXC",
@@ -102,7 +102,7 @@
       "per": 16.645231,
       "pbr": null,
       "change_percent": -1.95899,
-      "market_cap": 116340252672
+      "market_cap": 112812261376
     },
     {
       "code": "PEP",
@@ -148,17 +148,17 @@
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 18.971062,
-      "pbr": 2.9408832,
+      "pbr": 3.091271,
       "change_percent": 5.33834,
       "market_cap": 58567770112
     },
     {
-      "code": "INTU",
-      "name": "Intuit",
-      "per": 20.162676,
-      "pbr": 4.6414847,
-      "change_percent": -3.3657998,
-      "market_cap": 87773667328
+      "code": "PCAR",
+      "name": "Paccar",
+      "per": 19.795803,
+      "pbr": 2.8291285,
+      "change_percent": -0.61320197,
+      "market_cap": 54599839744
     }
   ],
   "pbr": [
@@ -176,7 +176,7 @@
       "per": 38.94857,
       "pbr": 1.513736,
       "change_percent": -1.27938995,
-      "market_cap": 57522946048
+      "market_cap": 57258442752
     },
     {
       "code": "EXC",
@@ -213,7 +213,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.174797,
+      "per": 21.406849,
       "pbr": 2.0280056,
       "change_percent": 0.3532,
       "market_cap": 48805801984
@@ -237,10 +237,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.484113,
-      "pbr": 2.439438,
+      "per": 10.387037,
+      "pbr": 2.547577,
       "change_percent": 2.00036,
-      "market_cap": 48349581312
+      "market_cap": 47982800896
     },
     {
       "code": "REGN",
@@ -261,7 +261,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 21.837896,
+      "per": 19.795803,
       "pbr": 2.8291285,
       "change_percent": -0.61320197,
       "market_cap": 54599839744
@@ -288,15 +288,7 @@
       "per": 16.347126,
       "pbr": 2.9265783,
       "change_percent": -1.2086701,
-      "market_cap": 32347355136
-    },
-    {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 18.971062,
-      "pbr": 2.9408832,
-      "change_percent": 5.33834,
-      "market_cap": 58567770112
+      "market_cap": 32119408640
     },
     {
       "code": "CPRT",
@@ -312,7 +304,15 @@
       "per": 22.922792,
       "pbr": 2.9971638,
       "change_percent": -0.9846,
-      "market_cap": 80035561472
+      "market_cap": 79577808896
+    },
+    {
+      "code": "BKR",
+      "name": "Baker Hughes",
+      "per": 18.971062,
+      "pbr": 3.091271,
+      "change_percent": 5.33834,
+      "market_cap": 58567770112
     },
     {
       "code": "HON",
@@ -330,12 +330,12 @@
       "per": 133.17969,
       "pbr": 4.5191135,
       "change_percent": 11.2220004,
-      "market_cap": 43282026496
+      "market_cap": 46343159808
     },
     {
       "code": "ALAB",
       "name": "Astera Labs",
-      "per": 139.84879,
+      "per": 141.22661,
       "pbr": 28.821756,
       "change_percent": 10.4736,
       "market_cap": 49736445952
@@ -378,7 +378,7 @@
       "per": 68.20676,
       "pbr": 17.033909,
       "change_percent": 6.49035,
-      "market_cap": 94626947072
+      "market_cap": 94481825792
     },
     {
       "code": "LITE",
@@ -391,7 +391,7 @@
     {
       "code": "MCHP",
       "name": "Microchip Technology",
-      "per": 114.52857,
+      "per": 117.89706,
       "pbr": 6.7483163,
       "change_percent": 5.62582,
       "market_cap": 43533004800
@@ -408,7 +408,7 @@
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 18.971062,
-      "pbr": 2.9408832,
+      "pbr": 3.091271,
       "change_percent": 5.33834,
       "market_cap": 58567770112
     },
@@ -416,7 +416,7 @@
       "code": "TER",
       "name": "Teradyne",
       "per": 44.461536,
-      "pbr": 14.726114,
+      "pbr": 18.071577,
       "change_percent": 4.7508102,
       "market_cap": 50604371968
     },
@@ -447,7 +447,7 @@
     {
       "code": "MRVL",
       "name": "Marvell Technology",
-      "per": 78.31834,
+      "per": 80.12171,
       "pbr": 11.524486,
       "change_percent": 4.1876998,
       "market_cap": 218897498112
@@ -490,7 +490,7 @@
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 18.971062,
-      "pbr": 2.9408832,
+      "pbr": 3.091271,
       "change_percent": 5.33834,
       "market_cap": 58567770112
     }
@@ -515,10 +515,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.484113,
-      "pbr": 2.439438,
+      "per": 10.387037,
+      "pbr": 2.547577,
       "change_percent": 2.00036,
-      "market_cap": 48349581312
+      "market_cap": 47982800896
     },
     {
       "code": "HON",
@@ -558,7 +558,7 @@
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 18.971062,
-      "pbr": 2.9408832,
+      "pbr": 3.091271,
       "change_percent": 5.33834,
       "market_cap": 58567770112
     }
@@ -576,10 +576,10 @@
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 18.971062,
-      "pbr": 2.9408832,
+      "pbr": 3.091271,
       "change_percent": 5.33834,
       "market_cap": 58567770112
     }
   ],
-  "generated_at": "2026-10-28T00:52:16+00:00"
+  "generated_at": "2026-10-28T07:47:13+00:00"
 }
