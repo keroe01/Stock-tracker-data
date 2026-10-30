@@ -22,7 +22,7 @@
       "per": 5.636704,
       "pbr": 2.1717172,
       "change_percent": 0.46729400000000004,
-      "market_cap": 10737252352
+      "market_cap": 10733023232
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 5.726574,
       "pbr": 1.1994466,
       "change_percent": 2.19298,
-      "market_cap": 19225516032
+      "market_cap": 19269253120
     },
     {
       "code": "EIX",
@@ -51,15 +51,15 @@
     {
       "code": "UHS",
       "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.392633,
-      "pbr": 1.3668553,
+      "per": 7.2026916,
+      "pbr": 1.3852851,
       "change_percent": 2.57289,
       "market_cap": 10408777728
     },
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.8100176,
+      "per": 7.803279,
       "pbr": 1.0711071,
       "change_percent": -1.23403,
       "market_cap": 20887783424
@@ -145,20 +145,20 @@
       "market_cap": 25780049920
     },
     {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 9.540856,
-      "pbr": 0.9427869,
-      "change_percent": 4.2517,
-      "market_cap": 26998421504
-    },
-    {
       "code": "UAL",
       "name": "UNITED AIRLINES HOLDINGS INC",
       "per": 9.634615,
       "pbr": 1.925301,
       "change_percent": 1.7209701000000002,
       "market_cap": 34182135808
+    },
+    {
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.799999,
+      "pbr": 0.88311857,
+      "change_percent": 0.608364,
+      "market_cap": 39721312256
     }
   ],
   "pbr": [
@@ -221,7 +221,7 @@
     {
       "code": "VICI",
       "name": "VICI PROPERTIES INC",
-      "per": 9.540856,
+      "per": 11.351851,
       "pbr": 0.9427869,
       "change_percent": 4.2517,
       "market_cap": 26998421504
@@ -280,15 +280,23 @@
       "per": 43.9901,
       "pbr": 1.0576557,
       "change_percent": 0.794007,
-      "market_cap": 9225148416
+      "market_cap": 9402300416
     },
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.8100176,
+      "per": 7.803279,
       "pbr": 1.0711071,
       "change_percent": -1.23403,
       "market_cap": 20887783424
+    },
+    {
+      "code": "HBAN",
+      "name": "HUNTINGTON BANCSHARES INC",
+      "per": 12.284616,
+      "pbr": 1.0848448,
+      "change_percent": 1.7197500000000001,
+      "market_cap": 32185735168
     },
     {
       "code": "C",
@@ -305,14 +313,6 @@
       "pbr": 1.094571,
       "change_percent": 1.60766,
       "market_cap": 19788834816
-    },
-    {
-      "code": "HBAN",
-      "name": "HUNTINGTON BANCSHARES INC",
-      "per": 13.090164,
-      "pbr": 1.0985761,
-      "change_percent": 1.7197500000000001,
-      "market_cap": 32185735168
     },
     {
       "code": "GM",
@@ -362,12 +362,12 @@
       "per": 16.47081,
       "pbr": 1.935898,
       "change_percent": 11.6701,
-      "market_cap": 15041975296
+      "market_cap": 15208329216
     },
     {
       "code": "CMG",
       "name": "CHIPOTLE MEXICAN GRILL INC",
-      "per": 28.697247,
+      "per": 29.233644,
       "pbr": 14.414746,
       "change_percent": 8.87574,
       "market_cap": 39582273536
@@ -386,7 +386,7 @@
       "per": 46.112785,
       "pbr": 46.32271,
       "change_percent": 6.62888,
-      "market_cap": 1224985149440
+      "market_cap": 1224457191424
     },
     {
       "code": "TSCO",
@@ -423,10 +423,10 @@
     {
       "code": "MGM",
       "name": "MGM RESORTS INTERNATIONAL",
-      "per": 17.796297,
+      "per": 11.088462,
       "pbr": 3.0647392,
       "change_percent": 5.7205699999999995,
-      "market_cap": 7376190976
+      "market_cap": 7253419008
     },
     {
       "code": "NXPI",
@@ -471,7 +471,7 @@
     {
       "code": "MAS",
       "name": "MASCO CORP",
-      "per": 17.392624,
+      "per": 18.474653,
       "pbr": null,
       "change_percent": 5.4306302,
       "market_cap": 15456227328
@@ -506,7 +506,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.8100176,
+      "per": 7.803279,
       "pbr": 1.0711071,
       "change_percent": -1.23403,
       "market_cap": 20887783424
@@ -520,15 +520,15 @@
       "market_cap": 15359716352
     },
     {
-      "code": "VICI",
-      "name": "VICI PROPERTIES INC",
-      "per": 9.540856,
-      "pbr": 0.9427869,
-      "change_percent": 4.2517,
-      "market_cap": 26998421504
+      "code": "PCG",
+      "name": "P G + E CORP",
+      "per": 9.799999,
+      "pbr": 0.88311857,
+      "change_percent": 0.608364,
+      "market_cap": 39721312256
     }
   ],
   "per_rise": [],
   "pbr_rise": [],
-  "generated_at": "2026-10-30T01:29:47+00:00"
+  "generated_at": "2026-10-30T07:56:09+00:00"
 }
