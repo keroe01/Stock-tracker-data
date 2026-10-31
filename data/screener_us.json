@@ -22,7 +22,7 @@
       "per": 5.554307,
       "pbr": 2.1399713,
       "change_percent": -0.29615501,
-      "market_cap": 10580295680
+      "market_cap": 10576129024
     },
     {
       "code": "FIS",
@@ -30,7 +30,7 @@
       "per": 5.9216585,
       "pbr": 1.2403076,
       "change_percent": 3.4066501999999996,
-      "market_cap": 19880462336
+      "market_cap": 19925690368
     },
     {
       "code": "EIX",
@@ -41,20 +41,20 @@
       "market_cap": 22621640704
     },
     {
+      "code": "UHS",
+      "name": "UNIVERSAL HEALTH SERVICES B",
+      "per": 7.179853,
+      "pbr": 1.3808926,
+      "change_percent": -0.317081,
+      "market_cap": 10375774208
+    },
+    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 7.3481007,
       "pbr": 0.8906448,
       "change_percent": 4.26582,
       "market_cap": 82454364160
-    },
-    {
-      "code": "UHS",
-      "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.3691926,
-      "pbr": 1.3625212,
-      "change_percent": -0.317081,
-      "market_cap": 10375774208
     },
     {
       "code": "EXE",
@@ -256,7 +256,7 @@
       "per": 43.49505,
       "pbr": 1.0457532,
       "change_percent": -1.1253701,
-      "market_cap": 9121332224
+      "market_cap": 9296489472
     },
     {
       "code": "AIG",
@@ -573,5 +573,5 @@
       "market_cap": 25625643008
     }
   ],
-  "generated_at": "2026-10-31T14:07:07+00:00"
+  "generated_at": "2026-10-31T19:39:57+00:00"
 }
