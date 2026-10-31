@@ -22,7 +22,7 @@
       "per": 5.554307,
       "pbr": 2.1399713,
       "change_percent": -0.29615501,
-      "market_cap": 10576129024
+      "market_cap": 10580295680
     },
     {
       "code": "FIS",
@@ -30,23 +30,15 @@
       "per": 5.9216585,
       "pbr": 1.2403076,
       "change_percent": 3.4066501999999996,
-      "market_cap": 19925690368
+      "market_cap": 19880462336
     },
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 6.123958,
-      "pbr": 1.3243079,
+      "per": 6.247609,
+      "pbr": 1.2704483,
       "change_percent": -0.9936010000000001,
-      "market_cap": 22623213568
-    },
-    {
-      "code": "UHS",
-      "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.179853,
-      "pbr": 1.3808926,
-      "change_percent": -0.317081,
-      "market_cap": 10375774208
+      "market_cap": 22621640704
     },
     {
       "code": "CMCSA",
@@ -55,6 +47,14 @@
       "pbr": 0.8906448,
       "change_percent": 4.26582,
       "market_cap": 82454364160
+    },
+    {
+      "code": "UHS",
+      "name": "UNIVERSAL HEALTH SERVICES B",
+      "per": 7.3691926,
+      "pbr": 1.3625212,
+      "change_percent": -0.317081,
+      "market_cap": 10375774208
     },
     {
       "code": "EXE",
@@ -84,7 +84,7 @@
       "code": "EG",
       "name": "EVEREST GROUP LTD",
       "per": 8.635637,
-      "pbr": 2.1482787,
+      "pbr": 1.0784633,
       "change_percent": 2.59118,
       "market_cap": 15370277888
     },
@@ -101,7 +101,7 @@
       "name": "LULULEMON ATHLETICA INC",
       "per": 8.826338,
       "pbr": 2.4997668,
-      "change_percent": -2.3493,
+      "change_percent": -2.3493003,
       "market_cap": 12421178368
     },
     {
@@ -116,7 +116,7 @@
       "code": "PSX",
       "name": "PHILLIPS 66",
       "per": 9.070878,
-      "pbr": 3.5820308,
+      "pbr": 3.213539,
       "change_percent": 3.3697600000000003,
       "market_cap": 110324154368
     },
@@ -140,9 +140,9 @@
       "code": "SNDK",
       "name": "SANDISK CORP",
       "per": 9.19829,
-      "pbr": 10.897445,
+      "pbr": 9.139052,
       "change_percent": -13.470199999999998,
-      "market_cap": 166335332352
+      "market_cap": 163759407104
     },
     {
       "code": "UAL",
@@ -256,15 +256,7 @@
       "per": 43.49505,
       "pbr": 1.0457532,
       "change_percent": -1.1253701,
-      "market_cap": 9296489472
-    },
-    {
-      "code": "BG",
-      "name": "BUNGE GLOBAL SA",
-      "per": 16.60481,
-      "pbr": 1.0531478,
-      "change_percent": 0.645702,
-      "market_cap": 18566391808
+      "market_cap": 9121332224
     },
     {
       "code": "AIG",
@@ -291,6 +283,14 @@
       "market_cap": 20913188864
     },
     {
+      "code": "EG",
+      "name": "EVEREST GROUP LTD",
+      "per": 8.635637,
+      "pbr": 1.0784633,
+      "change_percent": 2.59118,
+      "market_cap": 15370277888
+    },
+    {
       "code": "HBAN",
       "name": "HUNTINGTON BANCSHARES INC",
       "per": 12.934425,
@@ -315,12 +315,12 @@
       "market_cap": 25625643008
     },
     {
-      "code": "COF",
-      "name": "CAPITAL ONE FINANCIAL CORP",
-      "per": 12.552084,
-      "pbr": 1.1708525,
-      "change_percent": -1.8635598999999998,
-      "market_cap": 125675487232
+      "code": "BG",
+      "name": "BUNGE GLOBAL SA",
+      "per": 16.60481,
+      "pbr": 1.1394614,
+      "change_percent": 0.645702,
+      "market_cap": 18568773632
     }
   ],
   "rise": [
@@ -330,15 +330,15 @@
       "per": 36.961876,
       "pbr": null,
       "change_percent": 14.9056,
-      "market_cap": 18845265920
+      "market_cap": 18845661184
     },
     {
       "code": "REGN",
       "name": "REGENERON PHARMACEUTICALS",
-      "per": 23.243738,
-      "pbr": 3.0457773,
+      "per": 20.51039,
+      "pbr": 2.8170295,
       "change_percent": 13.327300000000001,
-      "market_cap": 95530909696
+      "market_cap": 95988236288
     },
     {
       "code": "GPN",
@@ -352,7 +352,7 @@
       "code": "GDDY",
       "name": "GODADDY INC   CLASS A",
       "per": 16.126547,
-      "pbr": 73.45865,
+      "pbr": null,
       "change_percent": 10.7187,
       "market_cap": 14848176128
     },
@@ -367,10 +367,10 @@
     {
       "code": "CBOE",
       "name": "CBOE GLOBAL MARKETS INC",
-      "per": 25.4962,
-      "pbr": 6.8334656,
+      "per": 23.881138,
+      "pbr": 5.9162803,
       "change_percent": 6.771679999999999,
-      "market_cap": 35039739904
+      "market_cap": 35005923328
     },
     {
       "code": "VLTO",
@@ -378,7 +378,7 @@
       "per": 27.984886,
       "pbr": 8.7604475,
       "change_percent": 6.76533,
-      "market_cap": 27085441024
+      "market_cap": 27013056512
     },
     {
       "code": "TMUS",
@@ -400,9 +400,9 @@
       "code": "LYB",
       "name": "LYONDELLBASELL INDU CL A",
       "per": null,
-      "pbr": 2.0776706,
+      "pbr": 2.192831,
       "change_percent": 5.0022896,
-      "market_cap": 22173325312
+      "market_cap": 22187364352
     },
     {
       "code": "STZ",
@@ -447,8 +447,8 @@
     {
       "code": "CTSH",
       "name": "COGNIZANT TECH SOLUTIONS A",
-      "per": 14.002151,
-      "pbr": 2.0770729,
+      "per": 11.881387,
+      "pbr": 1.9807734,
       "change_percent": 4.1426703,
       "market_cap": 29106151424
     },
@@ -472,9 +472,9 @@
       "code": "MDLZ",
       "name": "MONDELEZ INTERNATIONAL INC A",
       "per": 20.485806,
-      "pbr": 3.2210705,
+      "pbr": 3.1000574,
       "change_percent": 3.8541600000000003,
-      "market_cap": 83360219136
+      "market_cap": 82203541504
     },
     {
       "code": "ROP",
@@ -519,6 +519,14 @@
       "pbr": 1.07241,
       "change_percent": 0.12162799999999999,
       "market_cap": 20913188864
+    },
+    {
+      "code": "EG",
+      "name": "EVEREST GROUP LTD",
+      "per": 8.635637,
+      "pbr": 1.0784633,
+      "change_percent": 2.59118,
+      "market_cap": 15370277888
     }
   ],
   "per_rise": [
@@ -565,5 +573,5 @@
       "market_cap": 25625643008
     }
   ],
-  "generated_at": "2026-10-31T07:49:03+00:00"
+  "generated_at": "2026-10-31T14:07:07+00:00"
 }

@@ -28,9 +28,9 @@
       "code": "SNDK",
       "name": "Sandisk",
       "per": 9.19829,
-      "pbr": 10.897445,
+      "pbr": 9.139052,
       "change_percent": -13.470199999999998,
-      "market_cap": 166335332352
+      "market_cap": 163759407104
     },
     {
       "code": "HON",
@@ -75,7 +75,7 @@
     {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 14.319094,
+      "per": 14.52846,
       "pbr": 5.1862206,
       "change_percent": -1.45225,
       "market_cap": 3420436561920
@@ -110,7 +110,7 @@
       "per": 16.422394,
       "pbr": null,
       "change_percent": -1.52894,
-      "market_cap": 114782748672
+      "market_cap": 111301992448
     },
     {
       "code": "PEP",
@@ -126,7 +126,7 @@
       "per": 17.563412,
       "pbr": 24.220903,
       "change_percent": -10.3605,
-      "market_cap": 76467642368
+      "market_cap": 76762177536
     },
     {
       "code": "NFLX",
@@ -140,9 +140,9 @@
       "code": "EXC",
       "name": "Exelon",
       "per": 18.03125,
-      "pbr": 1.639088,
+      "pbr": 1.5813634,
       "change_percent": 0.544544,
-      "market_cap": 47556521984
+      "market_cap": 47770832896
     },
     {
       "code": "ROP",
@@ -174,7 +174,7 @@
       "code": "MSTR",
       "name": "MicroStrategy",
       "per": null,
-      "pbr": 0.9230301,
+      "pbr": 0.9933477,
       "change_percent": -7.84494,
       "market_cap": 55280414720
     },
@@ -184,15 +184,15 @@
       "per": 40.39619,
       "pbr": 1.5699978,
       "change_percent": 2.73701,
-      "market_cap": 59660926976
+      "market_cap": 59386593280
     },
     {
       "code": "EXC",
       "name": "Exelon",
       "per": 18.03125,
-      "pbr": 1.639088,
+      "pbr": 1.5813634,
       "change_percent": 0.544544,
-      "market_cap": 47556521984
+      "market_cap": 47770832896
     },
     {
       "code": "PDD",
@@ -214,9 +214,9 @@
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 21.868492,
-      "pbr": 2.0717402,
+      "pbr": 2.1083493,
       "change_percent": 0.986841,
-      "market_cap": 49858310144
+      "market_cap": 51234418688
     },
     {
       "code": "AEP",
@@ -259,12 +259,12 @@
       "market_cap": 54847721472
     },
     {
-      "code": "INTC",
-      "name": "Intel",
-      "per": null,
-      "pbr": 2.8736234,
-      "change_percent": -28.5761,
-      "market_cap": 349185605632
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 20.51039,
+      "pbr": 2.8170295,
+      "change_percent": 13.327300000000001,
+      "market_cap": 95988236288
     },
     {
       "code": "SNPS",
@@ -299,12 +299,12 @@
       "market_cap": 34620194816
     },
     {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 23.243738,
-      "pbr": 3.0457773,
-      "change_percent": 13.327300000000001,
-      "market_cap": 95530909696
+      "code": "INTC",
+      "name": "Intel",
+      "per": null,
+      "pbr": 3.0386765,
+      "change_percent": -28.5761,
+      "market_cap": 349514399744
     },
     {
       "code": "CPRT",
@@ -327,10 +327,10 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 23.243738,
-      "pbr": 3.0457773,
+      "per": 20.51039,
+      "pbr": 2.8170295,
       "change_percent": 13.327300000000001,
-      "market_cap": 95530909696
+      "market_cap": 95988236288
     },
     {
       "code": "TMUS",
@@ -352,9 +352,9 @@
       "code": "MDLZ",
       "name": "Mondelez International",
       "per": 20.485806,
-      "pbr": 3.2210705,
+      "pbr": 3.1000574,
       "change_percent": 3.8541600000000003,
-      "market_cap": 83360219136
+      "market_cap": 82203541504
     },
     {
       "code": "ROP",
@@ -370,7 +370,7 @@
       "per": 32.549797,
       "pbr": 6.9929056,
       "change_percent": 3.4963,
-      "market_cap": 141564297216
+      "market_cap": 141654245376
     },
     {
       "code": "ADSK",
@@ -384,9 +384,9 @@
       "code": "GILD",
       "name": "Gilead Sciences",
       "per": null,
-      "pbr": 9.330345,
+      "pbr": 16.350224,
       "change_percent": 3.0614,
-      "market_cap": 211813859328
+      "market_cap": 211700973568
     },
     {
       "code": "INTU",
@@ -400,9 +400,9 @@
       "code": "DXCM",
       "name": "DexCom",
       "per": 32.39764,
-      "pbr": 11.531671,
+      "pbr": 12.1068125,
       "change_percent": 2.95258,
-      "market_cap": 31053017088
+      "market_cap": 30690129920
     },
     {
       "code": "FANG",
@@ -410,7 +410,7 @@
       "per": 40.39619,
       "pbr": 1.5699978,
       "change_percent": 2.73701,
-      "market_cap": 59660926976
+      "market_cap": 59386593280
     },
     {
       "code": "ADP",
@@ -418,7 +418,7 @@
       "per": 26.049646,
       "pbr": 22.827843,
       "change_percent": 2.7125299,
-      "market_cap": 116243103744
+      "market_cap": 115996106752
     },
     {
       "code": "PEP",
@@ -439,7 +439,7 @@
     {
       "code": "LIN",
       "name": "Linde plc",
-      "per": 34.887383,
+      "per": 34.14608,
       "pbr": 5.9885173,
       "change_percent": 2.20411,
       "market_cap": 236079235072
@@ -474,7 +474,7 @@
       "per": 44.75,
       "pbr": 9.985447,
       "change_percent": 1.8639200000000002,
-      "market_cap": 979897024512
+      "market_cap": 982902374400
     },
     {
       "code": "COST",
@@ -602,7 +602,7 @@
       "per": 40.39619,
       "pbr": 1.5699978,
       "change_percent": 2.73701,
-      "market_cap": 59660926976
+      "market_cap": 59386593280
     },
     {
       "code": "ROP",
@@ -613,21 +613,21 @@
       "market_cap": 46147145728
     },
     {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 20.51039,
+      "pbr": 2.8170295,
+      "change_percent": 13.327300000000001,
+      "market_cap": 95988236288
+    },
+    {
       "code": "TMUS",
       "name": "T-Mobile US",
       "per": 15.085825,
       "pbr": 2.9529238,
       "change_percent": 6.21224,
       "market_cap": 165712609280
-    },
-    {
-      "code": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "per": 23.243738,
-      "pbr": 3.0457773,
-      "change_percent": 13.327300000000001,
-      "market_cap": 95530909696
     }
   ],
-  "generated_at": "2026-10-31T07:49:04+00:00"
+  "generated_at": "2026-10-31T14:07:08+00:00"
 }
