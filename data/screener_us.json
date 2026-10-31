@@ -35,7 +35,7 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 6.060825,
+      "per": 6.123958,
       "pbr": 1.3243079,
       "change_percent": -0.9936010000000001,
       "market_cap": 22623213568
@@ -137,6 +137,14 @@
       "market_cap": 18659991552
     },
     {
+      "code": "SNDK",
+      "name": "SANDISK CORP",
+      "per": 9.19829,
+      "pbr": 10.897445,
+      "change_percent": -13.470199999999998,
+      "market_cap": 166335332352
+    },
+    {
       "code": "UAL",
       "name": "UNITED AIRLINES HOLDINGS INC",
       "per": 9.545787,
@@ -151,14 +159,6 @@
       "pbr": null,
       "change_percent": 3.17657,
       "market_cap": 26598971392
-    },
-    {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 9.762963,
-      "pbr": 0.87978107,
-      "change_percent": -0.37792302,
-      "market_cap": 39571197952
     }
   ],
   "pbr": [
@@ -261,7 +261,7 @@
     {
       "code": "BG",
       "name": "BUNGE GLOBAL SA",
-      "per": 19.250996,
+      "per": 16.60481,
       "pbr": 1.0531478,
       "change_percent": 0.645702,
       "market_cap": 18566391808
@@ -327,7 +327,7 @@
     {
       "code": "FDXF",
       "name": "FEDEX FREIGHT HOLDING CO",
-      "per": 28.776255,
+      "per": 36.961876,
       "pbr": null,
       "change_percent": 14.9056,
       "market_cap": 18845265920
@@ -335,7 +335,7 @@
     {
       "code": "REGN",
       "name": "REGENERON PHARMACEUTICALS",
-      "per": 22.944859,
+      "per": 23.243738,
       "pbr": 3.0457773,
       "change_percent": 13.327300000000001,
       "market_cap": 95530909696
@@ -351,7 +351,7 @@
     {
       "code": "GDDY",
       "name": "GODADDY INC   CLASS A",
-      "per": 17.446428,
+      "per": 16.126547,
       "pbr": 73.45865,
       "change_percent": 10.7187,
       "market_cap": 14848176128
@@ -367,7 +367,7 @@
     {
       "code": "CBOE",
       "name": "CBOE GLOBAL MARKETS INC",
-      "per": 26.151987,
+      "per": 25.4962,
       "pbr": 6.8334656,
       "change_percent": 6.771679999999999,
       "market_cap": 35039739904
@@ -439,7 +439,7 @@
     {
       "code": "ERIE",
       "name": "ERIE INDEMNITY COMPANY CL A",
-      "per": 23.698097,
+      "per": 23.741146,
       "pbr": 5.9858484,
       "change_percent": 4.226650299999999,
       "market_cap": 13668048896
@@ -471,7 +471,7 @@
     {
       "code": "MDLZ",
       "name": "MONDELEZ INTERNATIONAL INC A",
-      "per": 23.875,
+      "per": 20.485806,
       "pbr": 3.2210705,
       "change_percent": 3.8541600000000003,
       "market_cap": 83360219136
@@ -519,14 +519,6 @@
       "pbr": 1.07241,
       "change_percent": 0.12162799999999999,
       "market_cap": 20913188864
-    },
-    {
-      "code": "PCG",
-      "name": "P G + E CORP",
-      "per": 9.762963,
-      "pbr": 0.87978107,
-      "change_percent": -0.37792302,
-      "market_cap": 39571197952
     }
   ],
   "per_rise": [
@@ -573,5 +565,5 @@
       "market_cap": 25625643008
     }
   ],
-  "generated_at": "2026-10-31T01:18:01+00:00"
+  "generated_at": "2026-10-31T07:49:03+00:00"
 }

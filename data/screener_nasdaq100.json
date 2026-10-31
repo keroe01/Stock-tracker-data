@@ -9,12 +9,28 @@
       "market_cap": 82454364160
     },
     {
+      "code": "ALNY",
+      "name": "Alnylam Pharmaceuticals",
+      "per": 8.333334,
+      "pbr": 6.129272,
+      "change_percent": -5.17241,
+      "market_cap": 22099699712
+    },
+    {
       "code": "PDD",
       "name": "PDD Holdings",
       "per": 8.84252,
       "pbr": 1.6492355,
       "change_percent": -0.845104,
       "market_cap": 111893200896
+    },
+    {
+      "code": "SNDK",
+      "name": "Sandisk",
+      "per": 9.19829,
+      "pbr": 10.897445,
+      "change_percent": -13.470199999999998,
+      "market_cap": 166335332352
     },
     {
       "code": "HON",
@@ -59,7 +75,7 @@
     {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 14.52846,
+      "per": 14.319094,
       "pbr": 5.1862206,
       "change_percent": -1.45225,
       "market_cap": 3420436561920
@@ -81,14 +97,6 @@
       "market_cap": 165712609280
     },
     {
-      "code": "SNDK",
-      "name": "Sandisk",
-      "per": 15.603172,
-      "pbr": 10.897445,
-      "change_percent": -13.470199999999998,
-      "market_cap": 166335332352
-    },
-    {
       "code": "GEHC",
       "name": "GE HealthCare",
       "per": 16.18816,
@@ -103,14 +111,6 @@
       "pbr": null,
       "change_percent": -1.52894,
       "market_cap": 114782748672
-    },
-    {
-      "code": "EXC",
-      "name": "Exelon",
-      "per": 16.970589,
-      "pbr": 1.639088,
-      "change_percent": 0.544544,
-      "market_cap": 47556521984
     },
     {
       "code": "PEP",
@@ -137,6 +137,14 @@
       "market_cap": 258497380352
     },
     {
+      "code": "EXC",
+      "name": "Exelon",
+      "per": 18.03125,
+      "pbr": 1.639088,
+      "change_percent": 0.544544,
+      "market_cap": 47556521984
+    },
+    {
       "code": "ROP",
       "name": "Roper Technologies",
       "per": 18.464582,
@@ -151,14 +159,6 @@
       "pbr": 2.667343,
       "change_percent": 1.3208601,
       "market_cap": 54847721472
-    },
-    {
-      "code": "QCOM",
-      "name": "Qualcomm",
-      "per": 19.072916,
-      "pbr": 6.2976265,
-      "change_percent": -11.121300000000002,
-      "market_cap": 175969255424
     }
   ],
   "pbr": [
@@ -189,7 +189,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 16.970589,
+      "per": 18.03125,
       "pbr": 1.639088,
       "change_percent": 0.544544,
       "market_cap": 47556521984
@@ -301,7 +301,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 22.944859,
+      "per": 23.243738,
       "pbr": 3.0457773,
       "change_percent": 13.327300000000001,
       "market_cap": 95530909696
@@ -327,7 +327,7 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 22.944859,
+      "per": 23.243738,
       "pbr": 3.0457773,
       "change_percent": 13.327300000000001,
       "market_cap": 95530909696
@@ -351,7 +351,7 @@
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 23.875,
+      "per": 20.485806,
       "pbr": 3.2210705,
       "change_percent": 3.8541600000000003,
       "market_cap": 83360219136
@@ -399,7 +399,7 @@
     {
       "code": "DXCM",
       "name": "DexCom",
-      "per": 32.654762,
+      "per": 32.39764,
       "pbr": 11.531671,
       "change_percent": 2.95258,
       "market_cap": 31053017088
@@ -439,7 +439,7 @@
     {
       "code": "LIN",
       "name": "Linde plc",
-      "per": 33.198193,
+      "per": 34.887383,
       "pbr": 5.9885173,
       "change_percent": 2.20411,
       "market_cap": 236079235072
@@ -623,11 +623,11 @@
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 22.944859,
+      "per": 23.243738,
       "pbr": 3.0457773,
       "change_percent": 13.327300000000001,
       "market_cap": 95530909696
     }
   ],
-  "generated_at": "2026-10-31T01:18:02+00:00"
+  "generated_at": "2026-10-31T07:49:04+00:00"
 }
