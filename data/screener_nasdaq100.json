@@ -110,7 +110,7 @@
       "per": 16.422394,
       "pbr": null,
       "change_percent": -1.52894,
-      "market_cap": 114782748672
+      "market_cap": 111301992448
     },
     {
       "code": "PEP",
@@ -126,7 +126,7 @@
       "per": 17.563412,
       "pbr": 24.220903,
       "change_percent": -10.3605,
-      "market_cap": 76467642368
+      "market_cap": 76762177536
     },
     {
       "code": "NFLX",
@@ -140,7 +140,7 @@
       "code": "EXC",
       "name": "Exelon",
       "per": 18.03125,
-      "pbr": 1.5813634,
+      "pbr": 1.5855459,
       "change_percent": 0.544544,
       "market_cap": 47770832896
     },
@@ -153,12 +153,12 @@
       "market_cap": 46147145728
     },
     {
-      "code": "BKR",
-      "name": "Baker Hughes",
-      "per": 18.979382,
-      "pbr": 2.667343,
-      "change_percent": 1.3208601,
-      "market_cap": 54847721472
+      "code": "XEL",
+      "name": "Xcel Energy",
+      "per": 18.60606,
+      "pbr": 1.9879458,
+      "change_percent": 0.986841,
+      "market_cap": 51234418688
     }
   ],
   "pbr": [
@@ -184,13 +184,13 @@
       "per": 40.39619,
       "pbr": 1.5699978,
       "change_percent": 2.73701,
-      "market_cap": 59660926976
+      "market_cap": 59386593280
     },
     {
       "code": "EXC",
       "name": "Exelon",
       "per": 18.03125,
-      "pbr": 1.5813634,
+      "pbr": 1.5855459,
       "change_percent": 0.544544,
       "market_cap": 47770832896
     },
@@ -213,8 +213,8 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 21.868492,
-      "pbr": 2.0717402,
+      "per": 18.60606,
+      "pbr": 1.9879458,
       "change_percent": 0.986841,
       "market_cap": 51234418688
     },
@@ -254,7 +254,7 @@
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 18.979382,
-      "pbr": 2.667343,
+      "pbr": 2.7232385,
       "change_percent": 1.3208601,
       "market_cap": 54847721472
     },
@@ -262,7 +262,7 @@
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 20.51039,
-      "pbr": 2.8170295,
+      "pbr": 2.7787294,
       "change_percent": 13.327300000000001,
       "market_cap": 95988236288
     },
@@ -328,7 +328,7 @@
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 20.51039,
-      "pbr": 2.8170295,
+      "pbr": 2.7787294,
       "change_percent": 13.327300000000001,
       "market_cap": 95988236288
     },
@@ -370,7 +370,7 @@
       "per": 32.549797,
       "pbr": 6.9929056,
       "change_percent": 3.4963,
-      "market_cap": 141564297216
+      "market_cap": 141654245376
     },
     {
       "code": "ADSK",
@@ -384,7 +384,7 @@
       "code": "GILD",
       "name": "Gilead Sciences",
       "per": null,
-      "pbr": 16.350224,
+      "pbr": 16.24286,
       "change_percent": 3.0614,
       "market_cap": 211700973568
     },
@@ -410,7 +410,7 @@
       "per": 40.39619,
       "pbr": 1.5699978,
       "change_percent": 2.73701,
-      "market_cap": 59660926976
+      "market_cap": 59386593280
     },
     {
       "code": "ADP",
@@ -474,7 +474,7 @@
       "per": 44.75,
       "pbr": 9.985447,
       "change_percent": 1.8639200000000002,
-      "market_cap": 979897024512
+      "market_cap": 982902374400
     },
     {
       "code": "COST",
@@ -602,7 +602,7 @@
       "per": 40.39619,
       "pbr": 1.5699978,
       "change_percent": 2.73701,
-      "market_cap": 59660926976
+      "market_cap": 59386593280
     },
     {
       "code": "ROP",
@@ -616,7 +616,7 @@
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "per": 20.51039,
-      "pbr": 2.8170295,
+      "pbr": 2.7787294,
       "change_percent": 13.327300000000001,
       "market_cap": 95988236288
     },
@@ -629,5 +629,5 @@
       "market_cap": 165712609280
     }
   ],
-  "generated_at": "2026-11-01T03:30:24+00:00"
+  "generated_at": "2026-11-01T10:56:57+00:00"
 }
