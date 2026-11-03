@@ -2,7 +2,7 @@
   {
     "symbol": "000660.KS",
     "name": "SK하이닉스",
-    "collected_at": "2026-11-03T08:53:53+00:00",
+    "collected_at": "2026-11-03T17:27:57+00:00",
     "decl_date": "2026-08-19",
     "method": "직접",
     "acq_disp": "취득",
@@ -16,15 +16,15 @@
   {
     "symbol": "000660.KS",
     "name": "SK하이닉스",
-    "collected_at": "2026-11-03T08:53:53+00:00",
+    "collected_at": "2026-11-03T17:27:57+00:00",
     "decl_date": "2026-10-28",
     "method": "직접",
     "acq_disp": "취득",
     "period_start": "2026-10-29",
     "period_end": "2027-01-28",
     "declared_qty": 14920000.0,
-    "cum_executed_qty": 750000.0,
-    "cum_executed_pct": 5.03,
-    "cum_executed_amount": 1099647277000.0
+    "cum_executed_qty": 1000000.0,
+    "cum_executed_pct": 6.7,
+    "cum_executed_amount": 1449883471000.0
   }
 ]
