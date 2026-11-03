@@ -110,7 +110,7 @@
       "per": 17.045454,
       "pbr": null,
       "change_percent": 3.793961,
-      "market_cap": 115524747264
+      "market_cap": 119137566720
     },
     {
       "code": "APP",
@@ -118,7 +118,7 @@
       "per": 17.590315,
       "pbr": 24.258003,
       "change_percent": 0.15317553,
-      "market_cap": 76879757312
+      "market_cap": 76584771584
     },
     {
       "code": "PEP",
@@ -153,12 +153,12 @@
       "market_cap": 52682813440
     },
     {
-      "code": "XEL",
-      "name": "Xcel Energy",
-      "per": 18.491842,
-      "pbr": 1.9757422,
-      "change_percent": -0.6138785299999999,
-      "market_cap": 50919899136
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 18.759258,
+      "pbr": 6.1940613,
+      "change_percent": -1.644512,
+      "market_cap": 173075431424
     }
   ],
   "pbr": [
@@ -184,7 +184,7 @@
       "per": 38.045715,
       "pbr": 1.4786466,
       "change_percent": -5.8185573999999995,
-      "market_cap": 55931150336
+      "market_cap": 56189521920
     },
     {
       "code": "EXC",
@@ -203,20 +203,20 @@
       "market_cap": 116263026688
     },
     {
-      "code": "XEL",
-      "name": "Xcel Energy",
-      "per": 18.491842,
-      "pbr": 1.9757422,
-      "change_percent": -0.6138785299999999,
-      "market_cap": 50919899136
-    },
-    {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
       "per": 37.191917,
       "pbr": 2.0016308,
       "change_percent": 2.7343739,
       "market_cap": 50105614336
+    },
+    {
+      "code": "XEL",
+      "name": "Xcel Energy",
+      "per": 21.734247,
+      "pbr": 2.059022,
+      "change_percent": -0.6138785299999999,
+      "market_cap": 50919899136
     },
     {
       "code": "AEP",
@@ -330,7 +330,7 @@
       "per": 47.19888,
       "pbr": 32.851067,
       "change_percent": 21.848296,
-      "market_cap": 52912553984
+      "market_cap": 52980977664
     },
     {
       "code": "DASH",
@@ -351,7 +351,7 @@
     {
       "code": "MAR",
       "name": "Marriott International",
-      "per": 43.095238,
+      "per": 41.340614,
       "pbr": null,
       "change_percent": 4.257450599999999,
       "market_cap": 108557000704
@@ -386,7 +386,7 @@
       "per": 17.045454,
       "pbr": null,
       "change_percent": 3.793961,
-      "market_cap": 115524747264
+      "market_cap": 119137566720
     },
     {
       "code": "REGN",
@@ -402,7 +402,7 @@
       "per": 46.264492,
       "pbr": 10.323389,
       "change_percent": 3.3843417000000002,
-      "market_cap": 1016167137280
+      "market_cap": 1013060075520
     },
     {
       "code": "TRI",
@@ -415,7 +415,7 @@
     {
       "code": "FER",
       "name": "Ferrovial",
-      "per": 31.401098,
+      "per": 30.398937,
       "pbr": 6.4102125,
       "change_percent": 3.3640813,
       "market_cap": 41079545856
@@ -423,7 +423,7 @@
     {
       "code": "ADSK",
       "name": "Autodesk",
-      "per": 33.451363,
+      "per": 32.3601,
       "pbr": 15.933156,
       "change_percent": 3.3251885000000003,
       "market_cap": 53903192064
@@ -431,7 +431,7 @@
     {
       "code": "INTU",
       "name": "Intuit",
-      "per": 21.391253,
+      "per": 20.723955,
       "pbr": 4.975694,
       "change_percent": 3.22789,
       "market_cap": 94093795328
@@ -600,7 +600,7 @@
       "per": 17.045454,
       "pbr": null,
       "change_percent": 3.793961,
-      "market_cap": 115524747264
+      "market_cap": 119137566720
     }
   ],
   "pbr_rise": [
@@ -645,5 +645,5 @@
       "market_cap": 35967565824
     }
   ],
-  "generated_at": "2026-11-03T01:57:18+00:00"
+  "generated_at": "2026-11-03T08:54:26+00:00"
 }

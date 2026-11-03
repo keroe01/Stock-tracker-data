@@ -22,7 +22,7 @@
       "per": 5.580524,
       "pbr": 2.150072,
       "change_percent": 0.47201402000000003,
-      "market_cap": 10630236160
+      "market_cap": 10626049024
     },
     {
       "code": "FIS",
@@ -30,15 +30,23 @@
       "per": 6.1674347,
       "pbr": 1.2917861,
       "change_percent": 4.150460000000001,
-      "market_cap": 20705593344
+      "market_cap": 20752697344
     },
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 6.3453774,
+      "per": 6.2458158,
       "pbr": 1.2903295,
       "change_percent": 1.5648900000000001,
       "market_cap": 22975645696
+    },
+    {
+      "code": "UHS",
+      "name": "UNIVERSAL HEALTH SERVICES B",
+      "per": 7.3674545,
+      "pbr": 1.4169738,
+      "change_percent": 2.61289,
+      "market_cap": 10646881280
     },
     {
       "code": "CMCSA",
@@ -49,17 +57,9 @@
       "market_cap": 84762517504
     },
     {
-      "code": "UHS",
-      "name": "UNIVERSAL HEALTH SERVICES B",
-      "per": 7.5617414,
-      "pbr": 1.3981224,
-      "change_percent": 2.61289,
-      "market_cap": 10646881280
-    },
-    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.718723,
+      "per": 7.8131003,
       "pbr": 1.0595007,
       "change_percent": -1.2037592,
       "market_cap": 20661444608
@@ -79,14 +79,6 @@
       "pbr": 8.537056,
       "change_percent": -6.5870814,
       "market_cap": 152972443648
-    },
-    {
-      "code": "VLO",
-      "name": "VALERO ENERGY CORP",
-      "per": 8.67546,
-      "pbr": 3.8029628,
-      "change_percent": -4.55387,
-      "market_cap": 106383245312
     },
     {
       "code": "EG",
@@ -145,12 +137,20 @@
       "market_cap": 36239863808
     },
     {
+      "code": "VLO",
+      "name": "VALERO ENERGY CORP",
+      "per": 9.088873,
+      "pbr": 3.8029628,
+      "change_percent": -4.55387,
+      "market_cap": 106383245312
+    },
+    {
       "code": "SMCI",
       "name": "SUPER MICRO COMPUTER INC",
       "per": 9.337423,
       "pbr": 1.9501569,
       "change_percent": -7.617603000000001,
-      "market_cap": 19998025728
+      "market_cap": 19690815488
     },
     {
       "code": "PCG",
@@ -245,15 +245,15 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 43.79208,
+      "per": 43.362747,
       "pbr": 1.0528947,
       "change_percent": 0.682903,
-      "market_cap": 9183622144
+      "market_cap": 9359975424
     },
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.718723,
+      "per": 7.8131003,
       "pbr": 1.0595007,
       "change_percent": -1.2037592,
       "market_cap": 20661444608
@@ -317,7 +317,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 46.774643,
+      "per": 45.49315,
       "pbr": 1.14591,
       "change_percent": 2.88104,
       "market_cap": 26363928576
@@ -330,7 +330,7 @@
       "per": 47.19888,
       "pbr": 32.851067,
       "change_percent": 21.848296,
-      "market_cap": 52912553984
+      "market_cap": 52980977664
     },
     {
       "code": "HWM",
@@ -402,7 +402,7 @@
       "per": 36.809826,
       "pbr": null,
       "change_percent": 5.8257200000000005,
-      "market_cap": 67084693504
+      "market_cap": 67882115072
     },
     {
       "code": "BSX",
@@ -424,7 +424,7 @@
       "code": "CVNA",
       "name": "CARVANA CO",
       "per": 34.615387,
-      "pbr": 11.94228,
+      "pbr": 14.8791065,
       "change_percent": 5.43271,
       "market_cap": 79809388544
     },
@@ -439,7 +439,7 @@
     {
       "code": "XYL",
       "name": "XYLEM INC",
-      "per": 21.565409,
+      "per": 20.47579,
       "pbr": 2.1812067,
       "change_percent": 5.25974,
       "market_cap": 22305083392
@@ -447,7 +447,7 @@
     {
       "code": "PHM",
       "name": "PULTEGROUP INC",
-      "per": 14.02671,
+      "per": 13.328933,
       "pbr": 1.8534622,
       "change_percent": 5.25092,
       "market_cap": 25008951296
@@ -458,12 +458,12 @@
       "per": 17.318388,
       "pbr": 4.8229065,
       "change_percent": 5.1445298,
-      "market_cap": 16778896384
+      "market_cap": 16695614464
     },
     {
       "code": "SYK",
       "name": "STRYKER CORP",
-      "per": 32.67412,
+      "per": 31.085106,
       "pbr": 4.9793077,
       "change_percent": 5.1223204,
       "market_cap": 116799807488
@@ -471,7 +471,7 @@
     {
       "code": "ERIE",
       "name": "ERIE INDEMNITY COMPANY CL A",
-      "per": 24.902727,
+      "per": 24.880108,
       "pbr": 5.61125,
       "change_percent": 4.7974207,
       "market_cap": 14323763200
@@ -506,7 +506,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.718723,
+      "per": 7.8131003,
       "pbr": 1.0595007,
       "change_percent": -1.2037592,
       "market_cap": 20661444608
@@ -539,5 +539,5 @@
       "market_cap": 7414018560
     }
   ],
-  "generated_at": "2026-11-03T01:57:18+00:00"
+  "generated_at": "2026-11-03T08:54:25+00:00"
 }
