@@ -9,6 +9,14 @@
       "market_cap": 14787875840
     },
     {
+      "code": "ECHO",
+      "name": "ECHOSTAR CORP A",
+      "per": 3.6961567,
+      "pbr": 1.7496824,
+      "change_percent": 3.7768498,
+      "market_cap": 29662312448
+    },
+    {
       "code": "ALL",
       "name": "ALLSTATE CORP",
       "per": 5.232093,
@@ -20,9 +28,9 @@
       "code": "AES",
       "name": "AES CORP",
       "per": 5.588015,
-      "pbr": 2.1529582,
+      "pbr": 2.6152499,
       "change_percent": 0.134231,
-      "market_cap": 10644504576
+      "market_cap": 10640313344
     },
     {
       "code": "FIS",
@@ -30,7 +38,7 @@
       "per": 6.169304,
       "pbr": 1.2544643,
       "change_percent": -2.88917,
-      "market_cap": 20107374592
+      "market_cap": 20153118720
     },
     {
       "code": "EIX",
@@ -39,6 +47,14 @@
       "pbr": 1.2883846,
       "change_percent": -0.150729,
       "market_cap": 22941014016
+    },
+    {
+      "code": "SMCI",
+      "name": "SUPER MICRO COMPUTER INC",
+      "per": 6.622363,
+      "pbr": 2.0110192,
+      "change_percent": 3.1208899,
+      "market_cap": 20305344512
     },
     {
       "code": "CMCSA",
@@ -71,6 +87,14 @@
       "pbr": 1.5761006,
       "change_percent": -2.1348601,
       "market_cap": 24461379584
+    },
+    {
+      "code": "MPC",
+      "name": "MARATHON PETROLEUM CORP",
+      "per": 8.467208,
+      "pbr": 7.28106,
+      "change_percent": -0.708664,
+      "market_cap": 116357103616
     },
     {
       "code": "EG",
@@ -135,30 +159,6 @@
       "pbr": 8.945534,
       "change_percent": 4.78477,
       "market_cap": 160291815424
-    },
-    {
-      "code": "HIG",
-      "name": "HARTFORD INSURANCE GROUP INC",
-      "per": 9.073302,
-      "pbr": 1.9529,
-      "change_percent": -0.442744,
-      "market_cap": 36079415296
-    },
-    {
-      "code": "NCLH",
-      "name": "NORWEGIAN CRUISE LINE HOLDIN",
-      "per": 9.62431,
-      "pbr": 2.5408401,
-      "change_percent": -2.89855,
-      "market_cap": 8000578560
-    },
-    {
-      "code": "SMCI",
-      "name": "SUPER MICRO COMPUTER INC",
-      "per": 9.628834,
-      "pbr": 2.0110192,
-      "change_percent": 3.1208899,
-      "market_cap": 20622143488
     }
   ],
   "pbr": [
@@ -235,6 +235,14 @@
       "market_cap": 20480831488
     },
     {
+      "code": "APTV",
+      "name": "APTIV PLC",
+      "per": 40.930695,
+      "pbr": 0.9552418,
+      "change_percent": -6.5340300000000004,
+      "market_cap": 8748392448
+    },
+    {
       "code": "IVZ",
       "name": "INVESCO LTD",
       "per": null,
@@ -243,18 +251,10 @@
       "market_cap": 12420270080
     },
     {
-      "code": "APTV",
-      "name": "APTIV PLC",
-      "per": 40.930695,
-      "pbr": 0.98409826,
-      "change_percent": -6.5340300000000004,
-      "market_cap": 8583561728
-    },
-    {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 15.0805235,
-      "pbr": 1.0406275,
+      "per": 14.7490835,
+      "pbr": 1.0534922,
       "change_percent": -2.2694197999999997,
       "market_cap": 42108588032
     },
@@ -325,17 +325,9 @@
   ],
   "rise": [
     {
-      "code": "FISV",
-      "name": "FISERV INC",
-      "per": 11.209213,
-      "pbr": null,
-      "change_percent": 12.4591,
-      "market_cap": 31055177728
-    },
-    {
       "code": "BE",
       "name": "BLOOM ENERGY CORP  A",
-      "per": 129.70303,
+      "per": 118.89445,
       "pbr": 32.72324,
       "change_percent": 9.04968,
       "market_cap": 63247917056
@@ -344,15 +336,15 @@
       "code": "DD",
       "name": "DUPONT DE NEMOURS INC",
       "per": 37.98515,
-      "pbr": 1.5050559,
+      "pbr": 1.5038023,
       "change_percent": 8.60581,
-      "market_cap": 20723695616
+      "market_cap": 20350457856
     },
     {
       "code": "RVTY",
       "name": "REVVITY INC",
-      "per": 78.2201,
-      "pbr": 2.5235016,
+      "per": 72.657776,
+      "pbr": 2.5317082,
       "change_percent": 7.8364,
       "market_cap": 18242144256
     },
@@ -362,7 +354,7 @@
       "per": 18.870869,
       "pbr": 26.023954,
       "change_percent": 7.279869999999999,
-      "market_cap": 82476507136
+      "market_cap": 82160050176
     },
     {
       "code": "FIX",
@@ -375,10 +367,10 @@
     {
       "code": "ETN",
       "name": "EATON CORP PLC",
-      "per": 39.84741,
-      "pbr": 7.5114584,
+      "per": 39.13087,
+      "pbr": 7.2566605,
       "change_percent": 7.001390000000001,
-      "market_cap": 152136286208
+      "market_cap": 152175460352
     },
     {
       "code": "FOXA",
@@ -407,7 +399,7 @@
     {
       "code": "GEV",
       "name": "GE VERNOVA INC",
-      "per": 22.638067,
+      "per": 24.106066,
       "pbr": 21.352,
       "change_percent": 6.48884,
       "market_cap": 243026493440
@@ -455,7 +447,7 @@
     {
       "code": "APH",
       "name": "AMPHENOL CORP CL A",
-      "per": 36.60435,
+      "per": 36.44589,
       "pbr": 12.136371,
       "change_percent": 5.4483999999999995,
       "market_cap": 207887122432
@@ -471,7 +463,7 @@
     {
       "code": "VRT",
       "name": "VERTIV HOLDINGS CO A",
-      "per": 44.106544,
+      "per": 41.912964,
       "pbr": 16.512947,
       "change_percent": 5.231,
       "market_cap": 90862706688
@@ -483,6 +475,14 @@
       "pbr": 11.512735,
       "change_percent": 5.132850299999999,
       "market_cap": 36017352704
+    },
+    {
+      "code": "SNDK",
+      "name": "SANDISK CORP",
+      "per": 9.003516,
+      "pbr": 8.945534,
+      "change_percent": 4.78477,
+      "market_cap": 160291815424
     }
   ],
   "triple": [],
@@ -520,7 +520,16 @@
       "market_cap": 15208742912
     }
   ],
-  "per_rise": [],
+  "per_rise": [
+    {
+      "code": "SNDK",
+      "name": "SANDISK CORP",
+      "per": 9.003516,
+      "pbr": 8.945534,
+      "change_percent": 4.78477,
+      "market_cap": 160291815424
+    }
+  ],
   "pbr_rise": [],
-  "generated_at": "2026-11-04T04:05:59+00:00"
+  "generated_at": "2026-11-04T13:32:38+00:00"
 }

@@ -35,7 +35,7 @@
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 11.091584,
+      "per": 11.108082,
       "pbr": 3.1718953,
       "change_percent": 0.125128,
       "market_cap": 71010410496
@@ -43,7 +43,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.108779,
+      "per": 11.215799,
       "pbr": 2.5007517,
       "change_percent": -0.9697169999999999,
       "market_cap": 48352620544
@@ -110,7 +110,7 @@
       "per": 17.258314,
       "pbr": null,
       "change_percent": 1.24878,
-      "market_cap": 116967399424
+      "market_cap": 120625332224
     },
     {
       "code": "PEP",
@@ -131,7 +131,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.140894,
+      "per": 18.203447,
       "pbr": 2.6029289,
       "change_percent": -0.490101,
       "market_cap": 52424613888
@@ -147,7 +147,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 18.358974,
+      "per": 18.488262,
       "pbr": 1.9615462,
       "change_percent": -0.7185170000000001,
       "market_cap": 50554032128
@@ -158,7 +158,7 @@
       "per": 18.740799,
       "pbr": 2.4453819,
       "change_percent": -1.2428599,
-      "market_cap": 46837473280
+      "market_cap": 46901673984
     }
   ],
   "pbr": [
@@ -184,7 +184,7 @@
       "per": 26.900698,
       "pbr": 1.4805521,
       "change_percent": -3.7048200000000002,
-      "market_cap": 53859004416
+      "market_cap": 53709357056
     },
     {
       "code": "EXC",
@@ -205,15 +205,15 @@
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 35.09091,
-      "pbr": 1.8885567,
+      "per": 31.297298,
+      "pbr": 1.8498403,
       "change_percent": -5.6491,
-      "market_cap": 47275098112
+      "market_cap": 47279063040
     },
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 18.358974,
+      "per": 18.488262,
       "pbr": 1.9615462,
       "change_percent": -0.7185170000000001,
       "market_cap": 50554032128
@@ -221,7 +221,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 21.288525,
+      "per": 21.218954,
       "pbr": 2.1574295,
       "change_percent": -0.36062398,
       "market_cap": 70712188928
@@ -232,12 +232,12 @@
       "per": 18.740799,
       "pbr": 2.4453819,
       "change_percent": -1.2428599,
-      "market_cap": 46837473280
+      "market_cap": 46901673984
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.108779,
+      "per": 11.215799,
       "pbr": 2.5007517,
       "change_percent": -0.9697169999999999,
       "market_cap": 48352620544
@@ -253,7 +253,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 18.140894,
+      "per": 18.203447,
       "pbr": 2.6029289,
       "change_percent": -0.490101,
       "market_cap": 52424613888
@@ -269,7 +269,7 @@
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 82.36299,
+      "per": 81.78092,
       "pbr": 2.846968,
       "change_percent": -0.686574,
       "market_cap": 88704770048
@@ -293,7 +293,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 25.7478,
+      "per": 25.157593,
       "pbr": 2.9266992,
       "change_percent": 2.39067,
       "market_cap": 93324566528
@@ -301,7 +301,7 @@
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 20.938908,
+      "per": 20.542587,
       "pbr": 3.1086502,
       "change_percent": -1.8981499999999998,
       "market_cap": 82431393792
@@ -330,15 +330,15 @@
       "per": 18.870869,
       "pbr": 26.023954,
       "change_percent": 7.279869999999999,
-      "market_cap": 82476507136
+      "market_cap": 82160050176
     },
     {
       "code": "NBIS",
       "name": "Nebius Group",
-      "per": 118.46875,
+      "per": 110.686134,
       "pbr": 4.019935,
       "change_percent": 7.24945,
-      "market_cap": 41224126464
+      "market_cap": 38501122048
     },
     {
       "code": "CRWV",
@@ -423,7 +423,7 @@
     {
       "code": "AVGO",
       "name": "Broadcom",
-      "per": 41.156136,
+      "per": 42.417625,
       "pbr": 15.905086,
       "change_percent": 3.07234,
       "market_cap": 1585465786368
@@ -463,7 +463,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 25.7478,
+      "per": 25.157593,
       "pbr": 2.9266992,
       "change_percent": 2.39067,
       "market_cap": 93324566528
@@ -506,7 +506,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.108779,
+      "per": 11.215799,
       "pbr": 2.5007517,
       "change_percent": -0.9697169999999999,
       "market_cap": 48352620544
@@ -566,11 +566,11 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 25.7478,
+      "per": 25.157593,
       "pbr": 2.9266992,
       "change_percent": 2.39067,
       "market_cap": 93324566528
     }
   ],
-  "generated_at": "2026-11-04T04:06:00+00:00"
+  "generated_at": "2026-11-04T13:32:39+00:00"
 }
