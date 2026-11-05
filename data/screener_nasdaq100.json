@@ -65,6 +65,14 @@
       "market_cap": 50005630976
     },
     {
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 13.637009,
+      "pbr": 6.618642,
+      "change_percent": 5.327500000000001,
+      "market_cap": 184939118592
+    },
+    {
       "code": "ADBE",
       "name": "Adobe Inc.",
       "per": 13.873814,
@@ -129,36 +137,28 @@
       "market_cap": 38797946880
     },
     {
+      "code": "APP",
+      "name": "AppLovin",
+      "per": 18.299664,
+      "pbr": 28.805386,
+      "change_percent": 10.6879994,
+      "market_cap": 91291566080
+    },
+    {
+      "code": "BKNG",
+      "name": "Booking Holdings",
+      "per": 18.543383,
+      "pbr": null,
+      "change_percent": 9.828489999999999,
+      "market_cap": 128463519744
+    },
+    {
       "code": "XEL",
       "name": "Xcel Energy",
       "per": 18.764568,
       "pbr": 2.0048814,
       "change_percent": 2.2092400000000003,
       "market_cap": 51670892544
-    },
-    {
-      "code": "BKNG",
-      "name": "Booking Holdings",
-      "per": 18.954544,
-      "pbr": null,
-      "change_percent": 9.828489999999999,
-      "market_cap": 128463519744
-    },
-    {
-      "code": "NFLX",
-      "name": "Netflix, Inc.",
-      "per": 19.18786,
-      "pbr": 9.308749,
-      "change_percent": 4.6830703,
-      "market_cap": 276443955200
-    },
-    {
-      "code": "ROP",
-      "name": "Roper Technologies",
-      "per": 19.478432,
-      "pbr": 2.5416317,
-      "change_percent": 3.93598,
-      "market_cap": 48747712512
     }
   ],
   "pbr": [
@@ -335,7 +335,7 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 20.887777,
+      "per": 18.299664,
       "pbr": 28.805386,
       "change_percent": 10.6879994,
       "market_cap": 91291566080
@@ -343,7 +343,7 @@
     {
       "code": "BKNG",
       "name": "Booking Holdings",
-      "per": 18.954544,
+      "per": 18.543383,
       "pbr": null,
       "change_percent": 9.828489999999999,
       "market_cap": 128463519744
@@ -455,7 +455,7 @@
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 20.04514,
+      "per": 13.637009,
       "pbr": 6.618642,
       "change_percent": 5.327500000000001,
       "market_cap": 184939118592
@@ -530,6 +530,14 @@
   ],
   "per_rise": [
     {
+      "code": "QCOM",
+      "name": "Qualcomm",
+      "per": 13.637009,
+      "pbr": 6.618642,
+      "change_percent": 5.327500000000001,
+      "market_cap": 184939118592
+    },
+    {
       "code": "GEHC",
       "name": "GE HealthCare",
       "per": 18.14165,
@@ -538,9 +546,17 @@
       "market_cap": 38797946880
     },
     {
+      "code": "APP",
+      "name": "AppLovin",
+      "per": 18.299664,
+      "pbr": 28.805386,
+      "change_percent": 10.6879994,
+      "market_cap": 91291566080
+    },
+    {
       "code": "BKNG",
       "name": "Booking Holdings",
-      "per": 18.954544,
+      "per": 18.543383,
       "pbr": null,
       "change_percent": 9.828489999999999,
       "market_cap": 128463519744
@@ -572,5 +588,5 @@
       "market_cap": 30216898560
     }
   ],
-  "generated_at": "2026-11-05T01:56:14+00:00"
+  "generated_at": "2026-11-05T08:48:25+00:00"
 }

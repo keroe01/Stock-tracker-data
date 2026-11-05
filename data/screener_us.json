@@ -19,7 +19,7 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 4.5714283,
+      "per": 4.4484305,
       "pbr": 1.100551,
       "change_percent": -23.672701,
       "market_cap": 15347407872
@@ -28,14 +28,14 @@
       "code": "ALL",
       "name": "ALLSTATE CORP",
       "per": 5.383353,
-      "pbr": 2.156085,
+      "pbr": 2.445222,
       "change_percent": 2.89101,
       "market_cap": 68033961984
     },
     {
       "code": "AES",
       "name": "AES CORP",
-      "per": 5.580524,
+      "per": 5.9839354,
       "pbr": 2.6117442,
       "change_percent": -0.134051,
       "market_cap": 10630236160
@@ -229,7 +229,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 42.83168,
+      "per": 12.083798,
       "pbr": 1.0154929,
       "change_percent": 4.6444103,
       "market_cap": 8982217728
@@ -261,7 +261,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 14.965201,
+      "per": 13.329527,
       "pbr": 1.068929,
       "change_percent": 1.46528995,
       "market_cap": 42725601280
@@ -285,7 +285,7 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 4.5714283,
+      "per": 4.4484305,
       "pbr": 1.100551,
       "change_percent": -23.672701,
       "market_cap": 15347407872
@@ -343,7 +343,7 @@
     {
       "code": "ZBH",
       "name": "ZIMMER BIOMET HOLDINGS INC",
-      "per": 26.735437,
+      "per": 27.815657,
       "pbr": 1.6630933,
       "change_percent": 13.486500000000001,
       "market_cap": 21009758208
@@ -359,7 +359,7 @@
     {
       "code": "SWK",
       "name": "STANLEY BLACK + DECKER INC",
-      "per": 28.93154,
+      "per": 21.206095,
       "pbr": 2.0260947,
       "change_percent": 13.1046,
       "market_cap": 17869799424
@@ -367,7 +367,7 @@
     {
       "code": "CDW",
       "name": "CDW CORP/DE",
-      "per": 20.282454,
+      "per": 19.690783,
       "pbr": 8.378848,
       "change_percent": 12.6728,
       "market_cap": 21096689664
@@ -399,7 +399,7 @@
     {
       "code": "APP",
       "name": "APPLOVIN CORP CLASS A",
-      "per": 20.887777,
+      "per": 18.299664,
       "pbr": 28.805386,
       "change_percent": 10.6879994,
       "market_cap": 91291566080
@@ -407,8 +407,8 @@
     {
       "code": "EXPE",
       "name": "EXPEDIA GROUP INC",
-      "per": 19.73017,
-      "pbr": 31.352854,
+      "per": 18.515827,
+      "pbr": 30.13547,
       "change_percent": 10.5365,
       "market_cap": 37912576000
     },
@@ -431,7 +431,7 @@
     {
       "code": "BKNG",
       "name": "BOOKING HOLDINGS INC",
-      "per": 18.954544,
+      "per": 18.543383,
       "pbr": null,
       "change_percent": 9.828489999999999,
       "market_cap": 128463519744
@@ -498,7 +498,7 @@
     {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
-      "per": 4.5714283,
+      "per": 4.4484305,
       "pbr": 1.100551,
       "change_percent": -23.672701,
       "market_cap": 15347407872
@@ -556,5 +556,5 @@
       "market_cap": 6872904192
     }
   ],
-  "generated_at": "2026-11-05T01:56:13+00:00"
+  "generated_at": "2026-11-05T08:48:25+00:00"
 }
