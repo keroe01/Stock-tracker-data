@@ -1,14 +1,6 @@
 {
   "per": [
     {
-      "code": "CHTR",
-      "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.073939,
-      "pbr": 0.93132037,
-      "change_percent": -6.18942,
-      "market_cap": 15344094208
-    },
-    {
       "code": "ECHO",
       "name": "ECHOSTAR CORP A",
       "per": 3.430747,
@@ -46,7 +38,7 @@
       "per": 6.067511,
       "pbr": 1.5983106,
       "change_percent": 6.2038400000000005,
-      "market_cap": 18604068864
+      "market_cap": 18894323712
     },
     {
       "code": "EIX",
@@ -159,6 +151,14 @@
       "pbr": 1.573182,
       "change_percent": -2.9754901,
       "market_cap": 34922356736
+    },
+    {
+      "code": "HIG",
+      "name": "HARTFORD INSURANCE GROUP INC",
+      "per": 8.968541,
+      "pbr": 1.9394388,
+      "change_percent": -2.2612799999999997,
+      "market_cap": 35830722560
     }
   ],
   "pbr": [
@@ -221,7 +221,7 @@
     {
       "code": "CHTR",
       "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.073939,
+      "per": 11.096804,
       "pbr": 0.93132037,
       "change_percent": -6.18942,
       "market_cap": 15344094208
@@ -309,7 +309,7 @@
     {
       "code": "DVN",
       "name": "DEVON ENERGY CORP",
-      "per": 10.5525,
+      "per": 9.90845,
       "pbr": 1.1473538,
       "change_percent": -1.5625,
       "market_cap": 46430998528
@@ -335,7 +335,7 @@
     {
       "code": "ABNB",
       "name": "AIRBNB INC CLASS A",
-      "per": 43.27791,
+      "per": 35.645405,
       "pbr": 12.200746,
       "change_percent": 11.6734,
       "market_cap": 113763295232
@@ -351,7 +351,7 @@
     {
       "code": "VST",
       "name": "VISTRA CORP",
-      "per": 21.045532,
+      "per": 16.79677,
       "pbr": 16.096996,
       "change_percent": 10.5501,
       "market_cap": 41887272960
@@ -442,7 +442,7 @@
       "per": 6.067511,
       "pbr": 1.5983106,
       "change_percent": 6.2038400000000005,
-      "market_cap": 18604068864
+      "market_cap": 18894323712
     },
     {
       "code": "MRVL",
@@ -488,14 +488,6 @@
   "triple": [],
   "per_pbr": [
     {
-      "code": "CHTR",
-      "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 3.073939,
-      "pbr": 0.93132037,
-      "change_percent": -6.18942,
-      "market_cap": 15344094208
-    },
-    {
       "code": "FIS",
       "name": "FIDELITY NATIONAL INFO SERV",
       "per": 4.2944694,
@@ -535,9 +527,9 @@
       "per": 6.067511,
       "pbr": 1.5983106,
       "change_percent": 6.2038400000000005,
-      "market_cap": 18604068864
+      "market_cap": 18894323712
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-11-07T01:29:43+00:00"
+  "generated_at": "2026-11-07T08:05:02+00:00"
 }
