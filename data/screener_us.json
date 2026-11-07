@@ -38,7 +38,7 @@
       "per": 6.067511,
       "pbr": 1.5983106,
       "change_percent": 6.2038400000000005,
-      "market_cap": 18894323712
+      "market_cap": 18959380480
     },
     {
       "code": "EIX",
@@ -60,9 +60,9 @@
       "code": "APA",
       "name": "APA CORP",
       "per": 7.256911,
-      "pbr": 2.111663,
+      "pbr": 2.1127627,
       "change_percent": 2.6449,
-      "market_cap": 15174200320
+      "market_cap": 14984791040
     },
     {
       "code": "EXE",
@@ -124,9 +124,9 @@
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
       "per": 8.419605,
-      "pbr": 3.1498826,
+      "pbr": 3.0975795,
       "change_percent": 0.6915739700000001,
-      "market_cap": 17753292800
+      "market_cap": 17464954880
     },
     {
       "code": "EG",
@@ -219,14 +219,6 @@
       "market_cap": 7983842304
     },
     {
-      "code": "CHTR",
-      "name": "CHARTER COMMUNICATIONS INC A",
-      "per": 11.096804,
-      "pbr": 0.93132037,
-      "change_percent": -6.18942,
-      "market_cap": 15344094208
-    },
-    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
       "per": 7.718354,
@@ -259,20 +251,12 @@
       "market_cap": 19538991104
     },
     {
-      "code": "GPN",
-      "name": "GLOBAL PAYMENTS INC",
-      "per": 173.92857,
-      "pbr": 1.0072076,
-      "change_percent": 2.5479000000000003,
-      "market_cap": 25773830144
-    },
-    {
       "code": "C",
       "name": "CITIGROUP INC",
       "per": 11.603313,
-      "pbr": 1.0297463,
+      "pbr": 1.0297552,
       "change_percent": 0.506548,
-      "market_cap": 197051564032
+      "market_cap": 197052104704
     },
     {
       "code": "AIG",
@@ -307,12 +291,20 @@
       "market_cap": 15228745728
     },
     {
+      "code": "GPN",
+      "name": "GLOBAL PAYMENTS INC",
+      "per": 173.92857,
+      "pbr": 1.1137538,
+      "change_percent": 2.5479000000000003,
+      "market_cap": 25775527936
+    },
+    {
       "code": "DVN",
       "name": "DEVON ENERGY CORP",
       "per": 9.90845,
       "pbr": 1.1473538,
       "change_percent": -1.5625,
-      "market_cap": 46430998528
+      "market_cap": 48107339776
     },
     {
       "code": "COF",
@@ -321,6 +313,14 @@
       "pbr": 1.1538857,
       "change_percent": -0.966445,
       "market_cap": 121431498752
+    },
+    {
+      "code": "CFG",
+      "name": "CITIZENS FINANCIAL GROUP",
+      "per": 12.775759,
+      "pbr": 1.1606013,
+      "change_percent": -0.92433,
+      "market_cap": 26509895680
     }
   ],
   "rise": [
@@ -336,9 +336,9 @@
       "code": "ABNB",
       "name": "AIRBNB INC CLASS A",
       "per": 35.645405,
-      "pbr": 12.200746,
+      "pbr": 12.017077,
       "change_percent": 11.6734,
-      "market_cap": 113763295232
+      "market_cap": 113375051776
     },
     {
       "code": "AMD",
@@ -354,7 +354,7 @@
       "per": 16.79677,
       "pbr": 16.096996,
       "change_percent": 10.5501,
-      "market_cap": 41887272960
+      "market_cap": 42307203072
     },
     {
       "code": "APP",
@@ -408,7 +408,7 @@
       "code": "AKAM",
       "name": "AKAMAI TECHNOLOGIES INC",
       "per": 32.330738,
-      "pbr": 2.3227663,
+      "pbr": 2.3239355,
       "change_percent": 6.7446,
       "market_cap": 11941412864
     },
@@ -442,7 +442,7 @@
       "per": 6.067511,
       "pbr": 1.5983106,
       "change_percent": 6.2038400000000005,
-      "market_cap": 18894323712
+      "market_cap": 18959380480
     },
     {
       "code": "MRVL",
@@ -527,9 +527,9 @@
       "per": 6.067511,
       "pbr": 1.5983106,
       "change_percent": 6.2038400000000005,
-      "market_cap": 18894323712
+      "market_cap": 18959380480
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-11-07T08:05:02+00:00"
+  "generated_at": "2026-11-07T16:00:23+00:00"
 }
