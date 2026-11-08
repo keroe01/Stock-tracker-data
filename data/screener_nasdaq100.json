@@ -370,7 +370,7 @@
       "per": 29.871834,
       "pbr": 18.002516,
       "change_percent": 8.22894,
-      "market_cap": 250835501056
+      "market_cap": 250383826944
     },
     {
       "code": "INTC",
@@ -386,7 +386,7 @@
       "per": 101.16407,
       "pbr": 3.432745,
       "change_percent": 7.576639999999999,
-      "market_cap": 35202535424
+      "market_cap": 32877279232
     },
     {
       "code": "KLAC",
@@ -440,9 +440,9 @@
       "code": "MRNA",
       "name": "Moderna",
       "per": null,
-      "pbr": 15.020387,
+      "pbr": 11.5782995,
       "change_percent": 5.27209,
-      "market_cap": 101481775104
+      "market_cap": 102850600960
     },
     {
       "code": "MPWR",
@@ -564,5 +564,5 @@
       "market_cap": 88559132672
     }
   ],
-  "generated_at": "2026-11-08T10:57:15+00:00"
+  "generated_at": "2026-11-08T17:26:51+00:00"
 }
