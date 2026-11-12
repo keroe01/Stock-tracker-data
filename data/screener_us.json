@@ -3,9 +3,9 @@
     {
       "code": "ECHO",
       "name": "ECHOSTAR CORP A",
-      "per": 3.7055836,
+      "per": 3.775397,
       "pbr": 1.754145,
-      "change_percent": -1.8817268000000003,
+      "change_percent": -1.88173,
       "market_cap": 29737965568
     },
     {
@@ -17,9 +17,17 @@
       "market_cap": 15572355072
     },
     {
+      "code": "SMCI",
+      "name": "SUPER MICRO COMPUTER INC",
+      "per": 5.8631983,
+      "pbr": 1.6938492,
+      "change_percent": 9.499819599999999,
+      "market_cap": 20060289024
+    },
+    {
       "code": "ALL",
       "name": "ALLSTATE CORP",
-      "per": 5.946473,
+      "per": 5.9222946,
       "pbr": 2.153836,
       "change_percent": 0.405943,
       "market_cap": 64876310528
@@ -35,66 +43,74 @@
     {
       "code": "EIX",
       "name": "EDISON INTERNATIONAL",
-      "per": 6.367694,
+      "per": 6.394877,
       "pbr": 1.2948675,
       "change_percent": -0.465121,
       "market_cap": 23056449536
     },
     {
-      "code": "SMCI",
-      "name": "SUPER MICRO COMPUTER INC",
-      "per": 6.4198318,
-      "pbr": 1.6938492,
-      "change_percent": 9.499816599999999,
-      "market_cap": 20060289024
+      "code": "SNDK",
+      "name": "SANDISK CORP",
+      "per": 6.873523,
+      "pbr": 7.763696,
+      "change_percent": 13.686200000000001,
+      "market_cap": 139114889216
     },
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 7.517745,
+      "per": 7.4864864,
       "pbr": 1.5098531,
       "change_percent": 0.446304,
       "market_cap": 23433207808
+    },
+    {
+      "code": "EXE",
+      "name": "EXPAND ENERGY CORP",
+      "per": 7.5881844,
+      "pbr": 1.0496708,
+      "change_percent": 0.78462,
+      "market_cap": 20469749760
     },
     {
       "code": "APA",
       "name": "APA CORP",
       "per": 7.6000004,
       "pbr": 2.212649,
-      "change_percent": 3.5904317999999997,
+      "change_percent": 3.59043,
       "market_cap": 15693236224
-    },
-    {
-      "code": "EXE",
-      "name": "EXPAND ENERGY CORP",
-      "per": 7.647109,
-      "pbr": 1.0496708,
-      "change_percent": 0.78462,
-      "market_cap": 20469749760
-    },
-    {
-      "code": "SNDK",
-      "name": "SANDISK CORP",
-      "per": 7.8140182,
-      "pbr": 7.763696,
-      "change_percent": 13.686207,
-      "market_cap": 139114889216
-    },
-    {
-      "code": "CMCSA",
-      "name": "COMCAST CORP CLASS A",
-      "per": 7.9177213,
-      "pbr": 0.95968705,
-      "change_percent": 1.0909109,
-      "market_cap": 88846180352
     },
     {
       "code": "MPC",
       "name": "MARATHON PETROLEUM CORP",
-      "per": 7.981771,
+      "per": 7.71872,
       "pbr": 4.773212,
       "change_percent": 3.4116298000000005,
       "market_cap": 109686185984
+    },
+    {
+      "code": "CMCSA",
+      "name": "COMCAST CORP CLASS A",
+      "per": 7.8432603,
+      "pbr": 0.95968705,
+      "change_percent": 1.0909099,
+      "market_cap": 88846180352
+    },
+    {
+      "code": "VLO",
+      "name": "VALERO ENERGY CORP",
+      "per": 7.9760966,
+      "pbr": 3.6260045,
+      "change_percent": 3.70677,
+      "market_cap": 101433049088
+    },
+    {
+      "code": "PSX",
+      "name": "PHILLIPS 66",
+      "per": 8.041032,
+      "pbr": 2.9391446,
+      "change_percent": 3.1830900000000004,
+      "market_cap": 100903911424
     },
     {
       "code": "UHS",
@@ -103,22 +119,6 @@
       "pbr": 1.5228816,
       "change_percent": 0.695973,
       "market_cap": 11344206848
-    },
-    {
-      "code": "VLO",
-      "name": "VALERO ENERGY CORP",
-      "per": 8.271776,
-      "pbr": 3.6260045,
-      "change_percent": 3.70677,
-      "market_cap": 101433049088
-    },
-    {
-      "code": "PSX",
-      "name": "PHILLIPS 66",
-      "per": 8.296344,
-      "pbr": 2.9391446,
-      "change_percent": 3.1830900000000004,
-      "market_cap": 100903911424
     },
     {
       "code": "MKC",
@@ -131,23 +131,15 @@
     {
       "code": "CF",
       "name": "CF INDUSTRIES HOLDINGS INC",
-      "per": 8.691113,
+      "per": 8.630252,
       "pbr": 3.1974678,
       "change_percent": 0.71918704,
       "market_cap": 18028152832
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 8.843621,
-      "pbr": 2.5046618,
-      "change_percent": -2.6456516,
-      "market_cap": 12445501440
-    },
-    {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.903971,
+      "per": 8.874136,
       "pbr": 1.1119741,
       "change_percent": 0.33623400000000003,
       "market_cap": 15696599040
@@ -157,8 +149,16 @@
       "name": "ARCH CAPITAL GROUP LTD",
       "per": 8.926411,
       "pbr": 1.6008974,
-      "change_percent": 0.027486512999999997,
+      "change_percent": 0.0274865,
       "market_cap": 35537600512
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 9.08284,
+      "pbr": 2.5046618,
+      "change_percent": -2.6456500000000003,
+      "market_cap": 12445501440
     }
   ],
   "pbr": [
@@ -197,7 +197,7 @@
     {
       "code": "PCG",
       "name": "P G + E CORP",
-      "per": 9.703704,
+      "per": 9.776119,
       "pbr": 0.87444097,
       "change_percent": -0.9826090000000001,
       "market_cap": 28851830784
@@ -205,7 +205,7 @@
     {
       "code": "APTV",
       "name": "APTIV PLC",
-      "per": 11.00838,
+      "per": 11.039216,
       "pbr": 0.91330445,
       "change_percent": -0.404346,
       "market_cap": 7977769472
@@ -229,9 +229,9 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.9177213,
+      "per": 7.8432603,
       "pbr": 0.95968705,
-      "change_percent": 1.0909109,
+      "change_percent": 1.0909099,
       "market_cap": 88846180352
     },
     {
@@ -245,7 +245,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.647109,
+      "per": 7.5881844,
       "pbr": 1.0496708,
       "change_percent": 0.78462,
       "market_cap": 20469749760
@@ -253,7 +253,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 12.106237,
+      "per": 11.920345,
       "pbr": 1.074388,
       "change_percent": 1.58665,
       "market_cap": 205592952832
@@ -271,13 +271,13 @@
       "name": "HUNTINGTON BANCSHARES INC",
       "per": 13.016394,
       "pbr": 1.0923849,
-      "change_percent": 0.25252504,
+      "change_percent": 0.252525,
       "market_cap": 32004349952
     },
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.515497,
+      "per": 13.427876,
       "pbr": 1.1052561,
       "change_percent": 0.643827,
       "market_cap": 42952658944
@@ -285,7 +285,7 @@
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.903971,
+      "per": 8.874136,
       "pbr": 1.1119741,
       "change_percent": 0.33623400000000003,
       "market_cap": 15696599040
@@ -301,7 +301,7 @@
     {
       "code": "GPN",
       "name": "GLOBAL PAYMENTS INC",
-      "per": 178.98215,
+      "per": 182.23636,
       "pbr": 1.1461145,
       "change_percent": -1.33871,
       "market_cap": 26524448768
@@ -309,7 +309,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 36.95679,
+      "per": 37.186333,
       "pbr": 1.1650126,
       "change_percent": -0.69663604,
       "market_cap": 21062354944
@@ -317,7 +317,7 @@
     {
       "code": "BG",
       "name": "BUNGE GLOBAL SA",
-      "per": 17.23024,
+      "per": 17.083475,
       "pbr": 1.1823798,
       "change_percent": 0.8650180000000001,
       "market_cap": 19268177920
@@ -327,9 +327,9 @@
     {
       "code": "SNDK",
       "name": "SANDISK CORP",
-      "per": 7.8140182,
+      "per": 6.873523,
       "pbr": 7.763696,
-      "change_percent": 13.686207,
+      "change_percent": 13.686200000000001,
       "market_cap": 139114889216
     },
     {
@@ -343,15 +343,15 @@
     {
       "code": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "per": 10.914839,
+      "per": 9.75472,
       "pbr": 6.6309767,
-      "change_percent": 11.886473,
+      "change_percent": 11.8865006,
       "market_cap": 917923627008
     },
     {
       "code": "DELL",
       "name": "DELL TECHNOLOGIES  C",
-      "per": 21.72558,
+      "per": 19.442247,
       "pbr": null,
       "change_percent": 11.7531,
       "market_cap": 237590495232
@@ -361,37 +361,37 @@
       "name": "LUMENTUM HOLDINGS INC",
       "per": null,
       "pbr": 12.840499,
-      "change_percent": 10.671652,
+      "change_percent": 10.671700000000001,
       "market_cap": 58769264640
     },
     {
       "code": "STX",
       "name": "SEAGATE TECHNOLOGY HOLDINGS",
-      "per": 28.931305,
+      "per": 26.297426,
       "pbr": 36.703033,
-      "change_percent": 9.987636,
+      "change_percent": 9.9876404,
       "market_cap": 126653448192
     },
     {
       "code": "SMCI",
       "name": "SUPER MICRO COMPUTER INC",
-      "per": 6.4198318,
+      "per": 5.8631983,
       "pbr": 1.6938492,
-      "change_percent": 9.499816599999999,
+      "change_percent": 9.499819599999999,
       "market_cap": 20060289024
     },
     {
       "code": "MRVL",
       "name": "MARVELL TECHNOLOGY INC",
-      "per": 55.526318,
+      "per": 50.843376,
       "pbr": 7.986752,
-      "change_percent": 9.3335085,
+      "change_percent": 9.333511,
       "market_cap": 151880482816
     },
     {
       "code": "COHR",
       "name": "COHERENT CORP",
-      "per": 48.552795,
+      "per": 44.41477,
       "pbr": 4.076095,
       "change_percent": 9.24718,
       "market_cap": 46188777472
@@ -399,15 +399,15 @@
     {
       "code": "MPWR",
       "name": "MONOLITHIC POWER SYSTEMS INC",
-      "per": 81.06853,
+      "per": 74.41821,
       "pbr": 19.323217,
-      "change_percent": 8.919415,
+      "change_percent": 8.91941,
       "market_cap": 72112750592
     },
     {
       "code": "ORCL",
       "name": "ORACLE CORP",
-      "per": 20.122257,
+      "per": 18.49856,
       "pbr": 6.279593,
       "change_percent": 8.815050000000001,
       "market_cap": 400251387904
@@ -423,17 +423,17 @@
     {
       "code": "WDC",
       "name": "WESTERN DIGITAL CORP",
-      "per": 11.020401,
+      "per": 10.172402,
       "pbr": 12.534906,
-      "change_percent": 8.3367854,
+      "change_percent": 8.336789999999999,
       "market_cap": 117279219712
     },
     {
       "code": "TER",
       "name": "TERADYNE INC",
-      "per": 30.549425,
+      "per": 28.214437,
       "pbr": 11.253282,
-      "change_percent": 8.3048105,
+      "change_percent": 8.30481,
       "market_cap": 41494835200
     },
     {
@@ -441,13 +441,13 @@
       "name": "INTEL CORP",
       "per": null,
       "pbr": 2.8880365,
-      "change_percent": 7.5176305999999995,
+      "change_percent": 7.5176300000000005,
       "market_cap": 332187500544
     },
     {
       "code": "GLW",
       "name": "CORNING INC",
-      "per": 48.76923,
+      "per": 45.4566,
       "pbr": 7.9832993,
       "change_percent": 7.42888,
       "market_cap": 103764377600
@@ -455,15 +455,15 @@
     {
       "code": "AMD",
       "name": "ADVANCED MICRO DEVICES",
-      "per": 118.14104,
+      "per": 110.13945,
       "pbr": 13.258676,
-      "change_percent": 7.315463599999999,
+      "change_percent": 7.31546,
       "market_cap": 906804330496
     },
     {
       "code": "RDDT",
       "name": "REDDIT INC CL A",
-      "per": 21.563265,
+      "per": 20.125715,
       "pbr": 5.696878,
       "change_percent": 7.0842296,
       "market_cap": 20402284544
@@ -507,7 +507,7 @@
     {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
-      "per": 7.647109,
+      "per": 7.5881844,
       "pbr": 1.0496708,
       "change_percent": 0.78462,
       "market_cap": 20469749760
@@ -515,15 +515,15 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.9177213,
+      "per": 7.8432603,
       "pbr": 0.95968705,
-      "change_percent": 1.0909109,
+      "change_percent": 1.0909099,
       "market_cap": 88846180352
     },
     {
       "code": "EG",
       "name": "EVEREST GROUP LTD",
-      "per": 8.903971,
+      "per": 8.874136,
       "pbr": 1.1119741,
       "change_percent": 0.33623400000000003,
       "market_cap": 15696599040
@@ -541,17 +541,17 @@
     {
       "code": "SMCI",
       "name": "SUPER MICRO COMPUTER INC",
-      "per": 6.4198318,
+      "per": 5.8631983,
       "pbr": 1.6938492,
-      "change_percent": 9.499816599999999,
+      "change_percent": 9.499819599999999,
       "market_cap": 20060289024
     },
     {
       "code": "SNDK",
       "name": "SANDISK CORP",
-      "per": 7.8140182,
+      "per": 6.873523,
       "pbr": 7.763696,
-      "change_percent": 13.686207,
+      "change_percent": 13.686200000000001,
       "market_cap": 139114889216
     }
   ],
@@ -565,5 +565,5 @@
       "market_cap": 15572355072
     }
   ],
-  "generated_at": "2026-11-11T23:54:17+00:00"
+  "generated_at": "2026-11-12T05:03:32+00:00"
 }
