@@ -59,7 +59,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.121951,
+      "per": 11.312978,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -107,7 +107,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 16.816326,
+      "per": 16.989689,
       "pbr": 2.4377496,
       "change_percent": 1.18706105,
       "market_cap": 49097797632
@@ -153,12 +153,12 @@
       "market_cap": 198197067776
     },
     {
-      "code": "XEL",
-      "name": "Xcel Energy",
-      "per": 18.979069,
-      "pbr": 2.0325265,
-      "change_percent": 0.13497007,
-      "market_cap": 52383371264
+      "code": "ROP",
+      "name": "Roper Technologies",
+      "per": 18.993866,
+      "pbr": 2.4784033,
+      "change_percent": 0.44049867000000004,
+      "market_cap": 47535013888
     }
   ],
   "pbr": [
@@ -213,7 +213,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 18.979069,
+      "per": 19.02331,
       "pbr": 2.0325265,
       "change_percent": 0.13497007,
       "market_cap": 52383371264
@@ -221,7 +221,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 21.073408,
+      "per": 21.107841,
       "pbr": 2.1461322,
       "change_percent": 0.20943992,
       "market_cap": 70341910528
@@ -229,7 +229,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 16.816326,
+      "per": 16.989689,
       "pbr": 2.4377496,
       "change_percent": 1.18706105,
       "market_cap": 49097797632
@@ -245,7 +245,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.121951,
+      "per": 11.312978,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -267,6 +267,14 @@
       "market_cap": 317092888576
     },
     {
+      "code": "NBIS",
+      "name": "Nebius Group",
+      "per": 90.53125,
+      "pbr": 2.761283,
+      "change_percent": -9.919156,
+      "market_cap": 33941528576
+    },
+    {
       "code": "SNPS",
       "name": "Synopsys",
       "per": 80.424034,
@@ -285,7 +293,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 22.706646,
+      "per": 22.524118,
       "pbr": 3.0117373,
       "change_percent": -0.7790304,
       "market_cap": 98520711168
@@ -313,14 +321,6 @@
       "pbr": 3.2241743,
       "change_percent": 1.4723608,
       "market_cap": 85494718464
-    },
-    {
-      "code": "GEHC",
-      "name": "GE HealthCare",
-      "per": 17.551796,
-      "pbr": 3.2319849,
-      "change_percent": 1.4418381,
-      "market_cap": 37536481280
     }
   ],
   "rise": [
@@ -359,10 +359,10 @@
     {
       "code": "META",
       "name": "Meta Platforms",
-      "per": 21.276194,
+      "per": 21.893211,
       "pbr": 6.02147,
       "change_percent": 2.8992508,
-      "market_cap": 1640694153216
+      "market_cap": 1640314437632
     },
     {
       "code": "AXON",
@@ -399,7 +399,7 @@
     {
       "code": "MNST",
       "name": "Monster Beverage",
-      "per": 41.482143,
+      "per": 42.236362,
       "pbr": 9.242092,
       "change_percent": 1.953038,
       "market_cap": 90946002944
@@ -407,7 +407,7 @@
     {
       "code": "ADSK",
       "name": "Autodesk",
-      "per": 33.641224,
+      "per": 34.295723,
       "pbr": 16.335331,
       "change_percent": 1.9038085,
       "market_cap": 55263780864
@@ -431,7 +431,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.121951,
+      "per": 11.312978,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -447,10 +447,10 @@
     {
       "code": "WMT",
       "name": "Walmart",
-      "per": 45.74643,
+      "per": 46.40942,
       "pbr": 10.355727,
       "change_percent": 1.5056613,
-      "market_cap": 1016233525248
+      "market_cap": 1019350286336
     },
     {
       "code": "FANG",
@@ -505,18 +505,10 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.121951,
+      "per": 11.312978,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
-    },
-    {
-      "code": "GEHC",
-      "name": "GE HealthCare",
-      "per": 17.551796,
-      "pbr": 3.2319849,
-      "change_percent": 1.4418381,
-      "market_cap": 37536481280
     }
   ],
   "per_pbr": [
@@ -547,7 +539,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.121951,
+      "per": 11.312978,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -589,7 +581,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.121951,
+      "per": 11.312978,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -639,11 +631,11 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.121951,
+      "per": 11.312978,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
     }
   ],
-  "generated_at": "2026-11-14T08:22:17+00:00"
+  "generated_at": "2026-11-14T16:16:19+00:00"
 }
