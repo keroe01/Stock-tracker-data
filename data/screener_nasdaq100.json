@@ -59,7 +59,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -107,7 +107,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 16.989689,
+      "per": 16.816326,
       "pbr": 2.4377496,
       "change_percent": 1.18706105,
       "market_cap": 49097797632
@@ -153,12 +153,12 @@
       "market_cap": 198197067776
     },
     {
-      "code": "ROP",
-      "name": "Roper Technologies",
-      "per": 18.993866,
-      "pbr": 2.4784033,
-      "change_percent": 0.44049867000000004,
-      "market_cap": 47535013888
+      "code": "XEL",
+      "name": "Xcel Energy",
+      "per": 18.979069,
+      "pbr": 2.0325265,
+      "change_percent": 0.13497007,
+      "market_cap": 52383371264
     }
   ],
   "pbr": [
@@ -213,7 +213,7 @@
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 19.02331,
+      "per": 18.979069,
       "pbr": 2.0325265,
       "change_percent": 0.13497007,
       "market_cap": 52383371264
@@ -221,7 +221,7 @@
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 21.107841,
+      "per": 21.073408,
       "pbr": 2.1461322,
       "change_percent": 0.20943992,
       "market_cap": 70341910528
@@ -229,7 +229,7 @@
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 16.989689,
+      "per": 16.816326,
       "pbr": 2.4377496,
       "change_percent": 1.18706105,
       "market_cap": 49097797632
@@ -245,7 +245,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -285,7 +285,7 @@
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 22.524118,
+      "per": 22.706646,
       "pbr": 3.0117373,
       "change_percent": -0.7790304,
       "market_cap": 98520711168
@@ -359,7 +359,7 @@
     {
       "code": "META",
       "name": "Meta Platforms",
-      "per": 21.893211,
+      "per": 21.276194,
       "pbr": 6.02147,
       "change_percent": 2.8992508,
       "market_cap": 1640694153216
@@ -399,7 +399,7 @@
     {
       "code": "MNST",
       "name": "Monster Beverage",
-      "per": 42.236362,
+      "per": 41.482143,
       "pbr": 9.242092,
       "change_percent": 1.953038,
       "market_cap": 90946002944
@@ -407,7 +407,7 @@
     {
       "code": "ADSK",
       "name": "Autodesk",
-      "per": 34.295723,
+      "per": 33.641224,
       "pbr": 16.335331,
       "change_percent": 1.9038085,
       "market_cap": 55263780864
@@ -431,7 +431,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -447,10 +447,10 @@
     {
       "code": "WMT",
       "name": "Walmart",
-      "per": 46.40942,
+      "per": 45.74643,
       "pbr": 10.355727,
       "change_percent": 1.5056613,
-      "market_cap": 1019350286336
+      "market_cap": 1016233525248
     },
     {
       "code": "FANG",
@@ -505,7 +505,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -547,7 +547,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -589,7 +589,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -639,11 +639,11 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
     }
   ],
-  "generated_at": "2026-11-14T00:35:47+00:00"
+  "generated_at": "2026-11-14T08:22:17+00:00"
 }
