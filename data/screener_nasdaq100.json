@@ -29,7 +29,7 @@
       "name": "PDD Holdings",
       "per": 8.883015,
       "pbr": 1.6567883,
-      "change_percent": 1.85735,
+      "change_percent": 1.8573487,
       "market_cap": 112405618688
     },
     {
@@ -45,7 +45,7 @@
       "name": "Micron Technology",
       "per": 10.471007,
       "pbr": 6.3613405,
-      "change_percent": -2.52117,
+      "change_percent": -2.5211669999999997,
       "market_cap": 880597991424
     },
     {
@@ -53,13 +53,13 @@
       "name": "Honeywell Technologies",
       "per": 11.029252,
       "pbr": 3.1493857,
-      "change_percent": -0.130188,
+      "change_percent": -0.13018778,
       "market_cap": 70599581696
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -125,7 +125,7 @@
       "name": "GE HealthCare",
       "per": 17.551796,
       "pbr": 3.2319849,
-      "change_percent": 1.4418401,
+      "change_percent": 1.4418381,
       "market_cap": 37536481280
     },
     {
@@ -133,7 +133,7 @@
       "name": "Netflix, Inc.",
       "per": 17.962427,
       "pbr": 8.714246,
-      "change_percent": -0.861377,
+      "change_percent": -0.8613768,
       "market_cap": 255208161280
     },
     {
@@ -141,7 +141,7 @@
       "name": "Exelon",
       "per": 18.066406,
       "pbr": 1.5884737,
-      "change_percent": 1.3587500000000001,
+      "change_percent": 1.3587528999999998,
       "market_cap": 47863971840
     },
     {
@@ -149,16 +149,16 @@
       "name": "PepsiCo",
       "per": 18.29434,
       "pbr": 8.899222,
-      "change_percent": 2.2353498,
+      "change_percent": 2.2353495,
       "market_cap": 198197067776
     },
     {
-      "code": "ROP",
-      "name": "Roper Technologies",
-      "per": 18.993866,
-      "pbr": 2.4784033,
-      "change_percent": 0.44049867000000004,
-      "market_cap": 47535013888
+      "code": "XEL",
+      "name": "Xcel Energy",
+      "per": 18.979069,
+      "pbr": 2.0325265,
+      "change_percent": 0.13497007,
+      "market_cap": 52383371264
     }
   ],
   "pbr": [
@@ -167,7 +167,7 @@
       "name": "MicroStrategy",
       "per": null,
       "pbr": 0.84957075,
-      "change_percent": -2.4386,
+      "change_percent": -2.4385987,
       "market_cap": 47246696448
     },
     {
@@ -183,7 +183,7 @@
       "name": "Diamondback Energy",
       "per": 24.889637,
       "pbr": 1.325264,
-      "change_percent": 1.49835,
+      "change_percent": 1.4983511,
       "market_cap": 51626508288
     },
     {
@@ -191,7 +191,7 @@
       "name": "Exelon",
       "per": 18.066406,
       "pbr": 1.5884737,
-      "change_percent": 1.3587500000000001,
+      "change_percent": 1.3587528999999998,
       "market_cap": 47863971840
     },
     {
@@ -199,7 +199,7 @@
       "name": "PDD Holdings",
       "per": 8.883015,
       "pbr": 1.6567883,
-      "change_percent": 1.85735,
+      "change_percent": 1.8573487,
       "market_cap": 112405618688
     },
     {
@@ -207,13 +207,13 @@
       "name": "Keurig Dr Pepper",
       "per": 32.73874,
       "pbr": 1.9450837,
-      "change_percent": 2.59741,
+      "change_percent": 2.5974084,
       "market_cap": 49456865280
     },
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 19.02331,
+      "per": 18.979069,
       "pbr": 2.0325265,
       "change_percent": 0.13497007,
       "market_cap": 52383371264
@@ -245,7 +245,7 @@
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -255,7 +255,7 @@
       "name": "Paccar",
       "per": 20.354963,
       "pbr": 2.6828656,
-      "change_percent": 0.31035598,
+      "change_percent": 0.31035626,
       "market_cap": 56157061120
     },
     {
@@ -263,7 +263,7 @@
       "name": "Intel",
       "per": null,
       "pbr": 2.7568042,
-      "change_percent": -2.51634,
+      "change_percent": -2.5163414,
       "market_cap": 317092888576
     },
     {
@@ -271,7 +271,7 @@
       "name": "Nebius Group",
       "per": 90.53125,
       "pbr": 2.761283,
-      "change_percent": -9.91916,
+      "change_percent": -9.919156,
       "market_cap": 33941528576
     },
     {
@@ -303,7 +303,7 @@
       "name": "Honeywell Technologies",
       "per": 11.029252,
       "pbr": 3.1493857,
-      "change_percent": -0.130188,
+      "change_percent": -0.13018778,
       "market_cap": 70599581696
     },
     {
@@ -319,7 +319,7 @@
       "name": "Mondelez International",
       "per": 21.305994,
       "pbr": 3.2241743,
-      "change_percent": 1.47236,
+      "change_percent": 1.4723608,
       "market_cap": 85494718464
     }
   ],
@@ -361,7 +361,7 @@
       "name": "Meta Platforms",
       "per": 21.893211,
       "pbr": 6.02147,
-      "change_percent": 2.89925,
+      "change_percent": 2.8992508,
       "market_cap": 1640314437632
     },
     {
@@ -377,7 +377,7 @@
       "name": "Keurig Dr Pepper",
       "per": 32.73874,
       "pbr": 1.9450837,
-      "change_percent": 2.59741,
+      "change_percent": 2.5974084,
       "market_cap": 49456865280
     },
     {
@@ -385,7 +385,7 @@
       "name": "DexCom",
       "per": 32.807087,
       "pbr": 12.259821,
-      "change_percent": 2.38359,
+      "change_percent": 2.3835883,
       "market_cap": 31078000640
     },
     {
@@ -393,7 +393,7 @@
       "name": "PepsiCo",
       "per": 18.29434,
       "pbr": 8.899222,
-      "change_percent": 2.2353498,
+      "change_percent": 2.2353495,
       "market_cap": 198197067776
     },
     {
@@ -401,7 +401,7 @@
       "name": "Monster Beverage",
       "per": 42.236362,
       "pbr": 9.242092,
-      "change_percent": 1.9530399999999999,
+      "change_percent": 1.953038,
       "market_cap": 90946002944
     },
     {
@@ -425,13 +425,13 @@
       "name": "PDD Holdings",
       "per": 8.883015,
       "pbr": 1.6567883,
-      "change_percent": 1.85735,
+      "change_percent": 1.8573487,
       "market_cap": 112405618688
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -441,7 +441,7 @@
       "name": "Old Dominion Freight Line",
       "per": 31.335726,
       "pbr": 7.7199345,
-      "change_percent": 1.67773,
+      "change_percent": 1.677729,
       "market_cap": 35962200064
     },
     {
@@ -450,14 +450,14 @@
       "per": 46.40942,
       "pbr": 10.355727,
       "change_percent": 1.5056613,
-      "market_cap": 1019350286336
+      "market_cap": 1016233525248
     },
     {
       "code": "FANG",
       "name": "Diamondback Energy",
       "per": 24.889637,
       "pbr": 1.325264,
-      "change_percent": 1.49835,
+      "change_percent": 1.4983511,
       "market_cap": 51626508288
     },
     {
@@ -465,7 +465,7 @@
       "name": "Mondelez International",
       "per": 21.305994,
       "pbr": 3.2241743,
-      "change_percent": 1.47236,
+      "change_percent": 1.4723608,
       "market_cap": 85494718464
     },
     {
@@ -481,7 +481,7 @@
       "name": "GE HealthCare",
       "per": 17.551796,
       "pbr": 3.2319849,
-      "change_percent": 1.4418401,
+      "change_percent": 1.4418381,
       "market_cap": 37536481280
     }
   ],
@@ -499,13 +499,13 @@
       "name": "PDD Holdings",
       "per": 8.883015,
       "pbr": 1.6567883,
-      "change_percent": 1.85735,
+      "change_percent": 1.8573487,
       "market_cap": 112405618688
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -525,7 +525,7 @@
       "name": "PDD Holdings",
       "per": 8.883015,
       "pbr": 1.6567883,
-      "change_percent": 1.85735,
+      "change_percent": 1.8573487,
       "market_cap": 112405618688
     },
     {
@@ -533,13 +533,13 @@
       "name": "Honeywell Technologies",
       "per": 11.029252,
       "pbr": 3.1493857,
-      "change_percent": -0.130188,
+      "change_percent": -0.13018778,
       "market_cap": 70599581696
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -575,13 +575,13 @@
       "name": "PDD Holdings",
       "per": 8.883015,
       "pbr": 1.6567883,
-      "change_percent": 1.85735,
+      "change_percent": 1.8573487,
       "market_cap": 112405618688
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
@@ -609,7 +609,7 @@
       "name": "Diamondback Energy",
       "per": 24.889637,
       "pbr": 1.325264,
-      "change_percent": 1.49835,
+      "change_percent": 1.4983511,
       "market_cap": 51626508288
     },
     {
@@ -617,7 +617,7 @@
       "name": "PDD Holdings",
       "per": 8.883015,
       "pbr": 1.6567883,
-      "change_percent": 1.85735,
+      "change_percent": 1.8573487,
       "market_cap": 112405618688
     },
     {
@@ -625,17 +625,17 @@
       "name": "Keurig Dr Pepper",
       "per": 32.73874,
       "pbr": 1.9450837,
-      "change_percent": 2.59741,
+      "change_percent": 2.5974084,
       "market_cap": 49456865280
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 11.312978,
+      "per": 11.121951,
       "pbr": 2.5467198,
       "change_percent": 1.6809598,
       "market_cap": 49241423872
     }
   ],
-  "generated_at": "2026-11-15T01:28:19+00:00"
+  "generated_at": "2026-11-15T08:40:30+00:00"
 }
