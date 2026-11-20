@@ -33542,5 +33542,33 @@
     "date": "2026-11-19",
     "yield": 4.031,
     "collected_at": "2026-11-19T14:57:43+00:00"
+  },
+  {
+    "country": "US",
+    "maturity": "10Y",
+    "date": "2026-11-19",
+    "yield": 5.04,
+    "collected_at": "2026-11-20T05:00:05+00:00"
+  },
+  {
+    "country": "US",
+    "maturity": "30Y",
+    "date": "2026-11-19",
+    "yield": 5.4,
+    "collected_at": "2026-11-20T05:00:05+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "10Y",
+    "date": "2026-11-19",
+    "yield": 2.87,
+    "collected_at": "2026-11-20T05:00:08+00:00"
+  },
+  {
+    "country": "JP",
+    "maturity": "30Y",
+    "date": "2026-11-19",
+    "yield": 4.03,
+    "collected_at": "2026-11-20T05:00:08+00:00"
   }
 ]
