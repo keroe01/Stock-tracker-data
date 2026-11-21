@@ -1,6 +1,14 @@
 {
   "per": [
     {
+      "code": "SNDK",
+      "name": "SANDISK CORP",
+      "per": 0.085785426,
+      "pbr": 5.0339875,
+      "change_percent": -16.054875,
+      "market_cap": 90200072192
+    },
+    {
       "code": "ECHO",
       "name": "ECHOSTAR CORP A",
       "per": 3.0551126,
@@ -23,14 +31,6 @@
       "pbr": 1.205121,
       "change_percent": -9.186244,
       "market_cap": 14272272384
-    },
-    {
-      "code": "SNDK",
-      "name": "SANDISK CORP",
-      "per": 5.066496,
-      "pbr": 0.6292335,
-      "change_percent": -16.054875,
-      "market_cap": 90200072192
     },
     {
       "code": "AES",
@@ -67,7 +67,7 @@
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 7.1932063,
+      "per": 7.073069,
       "pbr": 1.4205451,
       "change_percent": -1.71163,
       "market_cap": 21100793856
@@ -75,7 +75,7 @@
     {
       "code": "MPC",
       "name": "MARATHON PETROLEUM CORP",
-      "per": 7.2898555,
+      "per": 7.275411,
       "pbr": 4.3507986,
       "change_percent": -0.20112300000000002,
       "market_cap": 99979329536
@@ -107,7 +107,7 @@
     {
       "code": "PSX",
       "name": "PHILLIPS 66",
-      "per": 7.7830896,
+      "per": 7.6757536,
       "pbr": 2.7192883,
       "change_percent": -1.3926100000000001,
       "market_cap": 93356015616
@@ -115,10 +115,26 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.8548894,
+      "per": 7.8797464,
       "pbr": 0.9550842,
       "change_percent": 0.16089705999999998,
       "market_cap": 88420057088
+    },
+    {
+      "code": "FSLR",
+      "name": "FIRST SOLAR INC",
+      "per": 7.9577785,
+      "pbr": 1.3591284,
+      "change_percent": -9.450477,
+      "market_cap": 14788331520
+    },
+    {
+      "code": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "per": 7.998251,
+      "pbr": 4.8590927,
+      "change_percent": -13.894038,
+      "market_cap": 672642433024
     },
     {
       "code": "CF",
@@ -129,36 +145,20 @@
       "market_cap": 16900295680
     },
     {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 8.446091,
+      "pbr": 2.3920746,
+      "change_percent": -2.757506,
+      "market_cap": 11886062592
+    },
+    {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
       "per": 8.571428,
       "pbr": 1.8211157,
       "change_percent": 3.4257000000000004,
       "market_cap": 12753656832
-    },
-    {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 8.689246,
-      "pbr": 2.3920746,
-      "change_percent": -2.757506,
-      "market_cap": 11886062592
-    },
-    {
-      "code": "FSLR",
-      "name": "FIRST SOLAR INC",
-      "per": 8.786079,
-      "pbr": 1.3591284,
-      "change_percent": -9.450477,
-      "market_cap": 14788331520
-    },
-    {
-      "code": "NCLH",
-      "name": "NORWEGIAN CRUISE LINE HOLDIN",
-      "per": 8.834254,
-      "pbr": 2.3322637,
-      "change_percent": -6.326890000000001,
-      "market_cap": 7343814656
     }
   ],
   "pbr": [
@@ -185,14 +185,6 @@
       "pbr": 0.58243304,
       "change_percent": -2.2082100000000002,
       "market_cap": 31274178560
-    },
-    {
-      "code": "SNDK",
-      "name": "SANDISK CORP",
-      "per": 5.066496,
-      "pbr": 0.6292335,
-      "change_percent": -16.054875,
-      "market_cap": 90200072192
     },
     {
       "code": "APTV",
@@ -245,7 +237,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.8548894,
+      "per": 7.8797464,
       "pbr": 0.9550842,
       "change_percent": 0.16089705999999998,
       "market_cap": 88420057088
@@ -253,7 +245,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 11.230456,
+      "per": 10.781676,
       "pbr": 0.95683765,
       "change_percent": -4.0423295999999995,
       "market_cap": 183098720256
@@ -301,7 +293,7 @@
     {
       "code": "AIG",
       "name": "AMERICAN INTERNATIONAL GROUP",
-      "per": 13.192053,
+      "per": 12.998368,
       "pbr": 1.062967,
       "change_percent": 0.226415,
       "market_cap": 41309208576
@@ -321,6 +313,14 @@
       "pbr": 1.0717824,
       "change_percent": -0.9264289,
       "market_cap": 17465870336
+    },
+    {
+      "code": "CFG",
+      "name": "CITIZENS FINANCIAL GROUP",
+      "per": 11.860606,
+      "pbr": 1.0774652,
+      "change_percent": -2.97471,
+      "market_cap": 24610940928
     }
   ],
   "rise": [
@@ -351,7 +351,7 @@
     {
       "code": "HCA",
       "name": "HCA HEALTHCARE INC",
-      "per": 15.267096,
+      "per": 15.773466,
       "pbr": null,
       "change_percent": 3.3106700000000004,
       "market_cap": 99343007744
@@ -359,7 +359,7 @@
     {
       "code": "CSGP",
       "name": "COSTAR GROUP INC",
-      "per": 67.295456,
+      "per": 68.860466,
       "pbr": 1.4922138,
       "change_percent": 3.1707310000000004,
       "market_cap": 11913208832
@@ -383,7 +383,7 @@
     {
       "code": "UNH",
       "name": "UNITEDHEALTH GROUP INC",
-      "per": 18.8596,
+      "per": 19.397831,
       "pbr": 3.1041632,
       "change_percent": 2.83527,
       "market_cap": 304513286144
@@ -415,7 +415,7 @@
     {
       "code": "SBAC",
       "name": "SBA COMMUNICATIONS CORP",
-      "per": 18.32241,
+      "per": 18.718142,
       "pbr": null,
       "change_percent": 2.1631487000000003,
       "market_cap": 18100504576
@@ -423,7 +423,7 @@
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 11.680628,
+      "per": 11.930481,
       "pbr": 1.4127406,
       "change_percent": 2.1052599,
       "market_cap": 150290726912
@@ -439,7 +439,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 49.709927,
+      "per": 50.875004,
       "pbr": 1.2828747,
       "change_percent": 1.97307,
       "market_cap": 22435805184
@@ -455,7 +455,7 @@
     {
       "code": "CL",
       "name": "COLGATE PALMOLIVE CO",
-      "per": 37.675575,
+      "per": 38.40856,
       "pbr": 272.67957,
       "change_percent": 1.88894,
       "market_cap": 78466605056
@@ -496,14 +496,6 @@
       "market_cap": 13314595840
     },
     {
-      "code": "SNDK",
-      "name": "SANDISK CORP",
-      "per": 5.066496,
-      "pbr": 0.6292335,
-      "change_percent": -16.054875,
-      "market_cap": 90200072192
-    },
-    {
       "code": "EXE",
       "name": "EXPAND ENERGY CORP",
       "per": 7.012079,
@@ -514,7 +506,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.8548894,
+      "per": 7.8797464,
       "pbr": 0.9550842,
       "change_percent": 0.16089705999999998,
       "market_cap": 88420057088
@@ -556,5 +548,5 @@
       "market_cap": 24301506560
     }
   ],
-  "generated_at": "2026-11-21T04:56:49+00:00"
+  "generated_at": "2026-11-21T13:57:48+00:00"
 }
