@@ -67,7 +67,7 @@
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 7.073069,
+      "per": 7.1932063,
       "pbr": 1.4205451,
       "change_percent": -1.71163,
       "market_cap": 21100793856
@@ -75,7 +75,7 @@
     {
       "code": "MPC",
       "name": "MARATHON PETROLEUM CORP",
-      "per": 7.275411,
+      "per": 7.2898555,
       "pbr": 4.3507986,
       "change_percent": -0.20112300000000002,
       "market_cap": 99979329536
@@ -107,7 +107,7 @@
     {
       "code": "PSX",
       "name": "PHILLIPS 66",
-      "per": 7.6757536,
+      "per": 7.7830896,
       "pbr": 2.7192883,
       "change_percent": -1.3926100000000001,
       "market_cap": 93356015616
@@ -115,26 +115,10 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.8797464,
+      "per": 7.8548894,
       "pbr": 0.9550842,
       "change_percent": 0.16089705999999998,
       "market_cap": 88420057088
-    },
-    {
-      "code": "FSLR",
-      "name": "FIRST SOLAR INC",
-      "per": 7.9577785,
-      "pbr": 1.3591284,
-      "change_percent": -9.450477,
-      "market_cap": 14788331520
-    },
-    {
-      "code": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "per": 7.998251,
-      "pbr": 4.8590927,
-      "change_percent": -13.894038,
-      "market_cap": 672642433024
     },
     {
       "code": "CF",
@@ -145,20 +129,36 @@
       "market_cap": 16900295680
     },
     {
-      "code": "LULU",
-      "name": "LULULEMON ATHLETICA INC",
-      "per": 8.446091,
-      "pbr": 2.3920746,
-      "change_percent": -2.757506,
-      "market_cap": 11886062592
-    },
-    {
       "code": "MKC",
       "name": "MCCORMICK + CO NON VTG SHRS",
       "per": 8.571428,
       "pbr": 1.8211157,
       "change_percent": 3.4257000000000004,
       "market_cap": 12753656832
+    },
+    {
+      "code": "LULU",
+      "name": "LULULEMON ATHLETICA INC",
+      "per": 8.689246,
+      "pbr": 2.3920746,
+      "change_percent": -2.757506,
+      "market_cap": 11886062592
+    },
+    {
+      "code": "FSLR",
+      "name": "FIRST SOLAR INC",
+      "per": 8.786079,
+      "pbr": 1.3591284,
+      "change_percent": -9.450477,
+      "market_cap": 14788331520
+    },
+    {
+      "code": "NCLH",
+      "name": "NORWEGIAN CRUISE LINE HOLDIN",
+      "per": 8.834254,
+      "pbr": 2.3322637,
+      "change_percent": -6.326890000000001,
+      "market_cap": 7343814656
     }
   ],
   "pbr": [
@@ -245,7 +245,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.8797464,
+      "per": 7.8548894,
       "pbr": 0.9550842,
       "change_percent": 0.16089705999999998,
       "market_cap": 88420057088
@@ -253,7 +253,7 @@
     {
       "code": "C",
       "name": "CITIGROUP INC",
-      "per": 10.781676,
+      "per": 11.230456,
       "pbr": 0.95683765,
       "change_percent": -4.0423295999999995,
       "market_cap": 183098720256
@@ -351,7 +351,7 @@
     {
       "code": "HCA",
       "name": "HCA HEALTHCARE INC",
-      "per": 15.773466,
+      "per": 15.267096,
       "pbr": null,
       "change_percent": 3.3106700000000004,
       "market_cap": 99343007744
@@ -359,7 +359,7 @@
     {
       "code": "CSGP",
       "name": "COSTAR GROUP INC",
-      "per": 68.860466,
+      "per": 67.295456,
       "pbr": 1.4922138,
       "change_percent": 3.1707310000000004,
       "market_cap": 11913208832
@@ -383,7 +383,7 @@
     {
       "code": "UNH",
       "name": "UNITEDHEALTH GROUP INC",
-      "per": 19.397831,
+      "per": 18.8596,
       "pbr": 3.1041632,
       "change_percent": 2.83527,
       "market_cap": 304513286144
@@ -415,7 +415,7 @@
     {
       "code": "SBAC",
       "name": "SBA COMMUNICATIONS CORP",
-      "per": 18.718142,
+      "per": 18.32241,
       "pbr": null,
       "change_percent": 2.1631487000000003,
       "market_cap": 18100504576
@@ -423,7 +423,7 @@
     {
       "code": "T",
       "name": "AT+T INC",
-      "per": 11.930481,
+      "per": 11.680628,
       "pbr": 1.4127406,
       "change_percent": 2.1052599,
       "market_cap": 150290726912
@@ -439,7 +439,7 @@
     {
       "code": "TSN",
       "name": "TYSON FOODS INC CL A",
-      "per": 50.875004,
+      "per": 49.709927,
       "pbr": 1.2828747,
       "change_percent": 1.97307,
       "market_cap": 22435805184
@@ -455,7 +455,7 @@
     {
       "code": "CL",
       "name": "COLGATE PALMOLIVE CO",
-      "per": 38.40856,
+      "per": 37.675575,
       "pbr": 272.67957,
       "change_percent": 1.88894,
       "market_cap": 78466605056
@@ -514,7 +514,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.8797464,
+      "per": 7.8548894,
       "pbr": 0.9550842,
       "change_percent": 0.16089705999999998,
       "market_cap": 88420057088
@@ -556,5 +556,5 @@
       "market_cap": 24301506560
     }
   ],
-  "generated_at": "2026-11-20T22:28:13+00:00"
+  "generated_at": "2026-11-21T04:56:49+00:00"
 }
