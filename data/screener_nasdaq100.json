@@ -105,14 +105,6 @@
       "market_cap": 3261475323904
     },
     {
-      "code": "INTU",
-      "name": "Intuit",
-      "per": 15.392146,
-      "pbr": 3.9598222,
-      "change_percent": -12.766913999999998,
-      "market_cap": 72271306752
-    },
-    {
       "code": "BKR",
       "name": "Baker Hughes",
       "per": 15.398625,
@@ -143,6 +135,14 @@
       "pbr": 7.9542904,
       "change_percent": -2.9592877,
       "market_cap": 232951873536
+    },
+    {
+      "code": "INTU",
+      "name": "Intuit",
+      "per": 16.430134,
+      "pbr": 3.8217173,
+      "change_percent": -12.766913999999998,
+      "market_cap": 72271306752
     },
     {
       "code": "GEHC",
@@ -338,7 +338,7 @@
       "per": 46.358696,
       "pbr": 10.344409,
       "change_percent": 1.5153888,
-      "market_cap": 1015122821120
+      "market_cap": 1018236174336
     },
     {
       "code": "KDP",
@@ -613,5 +613,5 @@
       "market_cap": 175415541760
     }
   ],
-  "generated_at": "2026-11-22T01:50:45+00:00"
+  "generated_at": "2026-11-22T09:08:45+00:00"
 }
