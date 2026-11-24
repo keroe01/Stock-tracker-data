@@ -3,31 +3,31 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 0.09495507,
+      "per": 5.608056,
       "pbr": 5.572073,
       "change_percent": 10.689,
       "market_cap": 99841597440
     },
     {
-      "code": "ALNY",
-      "name": "Alnylam Pharmaceuticals",
-      "per": 7.265021,
-      "pbr": 5.7942047,
-      "change_percent": 8.455,
-      "market_cap": 20891582464
-    },
-    {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 7.872611,
+      "per": 7.8227844,
       "pbr": 0.94817996,
       "change_percent": -0.722893,
       "market_cap": 87780868096
     },
     {
+      "code": "ALNY",
+      "name": "Alnylam Pharmaceuticals",
+      "per": 7.877778,
+      "pbr": 5.7942047,
+      "change_percent": 8.455,
+      "market_cap": 20891582464
+    },
+    {
       "code": "MU",
       "name": "Micron Technology",
-      "per": 7.9984174,
+      "per": 9.521054,
       "pbr": 5.784226,
       "change_percent": 19.0392,
       "market_cap": 800708231168
@@ -81,14 +81,6 @@
       "market_cap": 176956604416
     },
     {
-      "code": "NVDA",
-      "name": "Nvidia",
-      "per": 13.484478,
-      "pbr": 14.920448,
-      "change_percent": 31.4825,
-      "market_cap": 3985462263808
-    },
-    {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
       "per": 14.596867,
@@ -110,7 +102,7 @@
       "per": 15.677859,
       "pbr": 3.9963439,
       "change_percent": 1.85623,
-      "market_cap": 73612828672
+      "market_cap": 72725569536
     },
     {
       "code": "BKNG",
@@ -139,7 +131,7 @@
     {
       "code": "NFLX",
       "name": "Netflix, Inc.",
-      "per": 16.366198,
+      "per": 16.791906,
       "pbr": 8.146382,
       "change_percent": 2.41495,
       "market_cap": 238577532928
@@ -155,10 +147,18 @@
     {
       "code": "PEP",
       "name": "PepsiCo",
-      "per": 17.68096,
+      "per": 17.636478,
       "pbr": 8.579208,
       "change_percent": -0.23479899999999998,
       "market_cap": 191069945856
+    },
+    {
+      "code": "NVDA",
+      "name": "Nvidia",
+      "per": 17.728249,
+      "pbr": 14.920448,
+      "change_percent": 31.4825,
+      "market_cap": 3985462263808
     }
   ],
   "pbr": [
@@ -168,12 +168,12 @@
       "per": null,
       "pbr": 0.64239174,
       "change_percent": 8.48329,
-      "market_cap": 35724972032
+      "market_cap": 35908726784
     },
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 7.872611,
+      "per": 7.8227844,
       "pbr": 0.94817996,
       "change_percent": -0.722893,
       "market_cap": 87780868096
@@ -189,7 +189,7 @@
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 17.848837,
+      "per": 17.988281,
       "pbr": 1.5816046,
       "change_percent": 0.76586097,
       "market_cap": 47656992768
@@ -205,7 +205,7 @@
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 31.353983,
+      "per": 31.918919,
       "pbr": 1.8963764,
       "change_percent": 1.6934600000000002,
       "market_cap": 50580398080
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 18.18698,
+      "per": 18.129402,
       "pbr": 2.3656042,
       "change_percent": -0.36969799999999997,
       "market_cap": 45371559936
@@ -269,7 +269,7 @@
     {
       "code": "PCAR",
       "name": "Paccar",
-      "per": 19.516666,
+      "per": 20.112597,
       "pbr": 2.6509206,
       "change_percent": 3.12133,
       "market_cap": 55488397312
@@ -327,7 +327,7 @@
     {
       "code": "NVDA",
       "name": "Nvidia",
-      "per": 13.484478,
+      "per": 17.728249,
       "pbr": 14.920448,
       "change_percent": 31.4825,
       "market_cap": 3985462263808
@@ -359,7 +359,7 @@
     {
       "code": "MU",
       "name": "Micron Technology",
-      "per": 7.9984174,
+      "per": 9.521054,
       "pbr": 5.784226,
       "change_percent": 19.0392,
       "market_cap": 800708231168
@@ -415,7 +415,7 @@
     {
       "code": "AMAT",
       "name": "Applied Materials",
-      "per": 23.988243,
+      "per": 27.485737,
       "pbr": 10.536435,
       "change_percent": 14.618500000000001,
       "market_cap": 275275153408
@@ -479,7 +479,7 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 0.09495507,
+      "per": 5.608056,
       "pbr": 5.572073,
       "change_percent": 10.689,
       "market_cap": 99841597440
@@ -490,7 +490,7 @@
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 7.872611,
+      "per": 7.8227844,
       "pbr": 0.94817996,
       "change_percent": -0.722893,
       "market_cap": 87780868096
@@ -532,7 +532,7 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 0.09495507,
+      "per": 5.608056,
       "pbr": 5.572073,
       "change_percent": 10.689,
       "market_cap": 99841597440
@@ -540,7 +540,7 @@
     {
       "code": "MU",
       "name": "Micron Technology",
-      "per": 7.9984174,
+      "per": 9.521054,
       "pbr": 5.784226,
       "change_percent": 19.0392,
       "market_cap": 800708231168
@@ -556,7 +556,7 @@
     {
       "code": "NVDA",
       "name": "Nvidia",
-      "per": 13.484478,
+      "per": 17.728249,
       "pbr": 14.920448,
       "change_percent": 31.4825,
       "market_cap": 3985462263808
@@ -580,5 +580,5 @@
       "market_cap": 317092888576
     }
   ],
-  "generated_at": "2026-11-24T03:41:22+00:00"
+  "generated_at": "2026-11-24T14:27:28+00:00"
 }

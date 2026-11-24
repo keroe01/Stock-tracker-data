@@ -1,14 +1,6 @@
 {
   "per": [
     {
-      "code": "SNDK",
-      "name": "SANDISK CORP",
-      "per": 0.09495507,
-      "pbr": 5.572073,
-      "change_percent": 10.689,
-      "market_cap": 99841597440
-    },
-    {
       "code": "ECHO",
       "name": "ECHOSTAR CORP A",
       "per": 3.1997824,
@@ -31,6 +23,14 @@
       "pbr": 1.3654329,
       "change_percent": 13.302499000000001,
       "market_cap": 16170848256
+    },
+    {
+      "code": "SNDK",
+      "name": "SANDISK CORP",
+      "per": 5.608056,
+      "pbr": 5.572073,
+      "change_percent": 10.689,
+      "market_cap": 99841597440
     },
     {
       "code": "ALL",
@@ -115,18 +115,10 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.872611,
+      "per": 7.8227844,
       "pbr": 0.94817996,
       "change_percent": -0.722893,
       "market_cap": 87780868096
-    },
-    {
-      "code": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "per": 7.9984174,
-      "pbr": 5.784226,
-      "change_percent": 19.0392,
-      "market_cap": 800708231168
     },
     {
       "code": "CF",
@@ -159,6 +151,14 @@
       "pbr": 1.8391732,
       "change_percent": 0.991556,
       "market_cap": 12880116736
+    },
+    {
+      "code": "ACGL",
+      "name": "ARCH CAPITAL GROUP LTD",
+      "per": 8.8822565,
+      "pbr": 1.5929787,
+      "change_percent": -0.17460301,
+      "market_cap": 35361816576
     }
   ],
   "pbr": [
@@ -237,7 +237,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.872611,
+      "per": 7.8227844,
       "pbr": 0.94817996,
       "change_percent": -0.722893,
       "market_cap": 87780868096
@@ -327,7 +327,7 @@
     {
       "code": "NVDA",
       "name": "NVIDIA CORP",
-      "per": 13.484478,
+      "per": 17.728249,
       "pbr": 14.920448,
       "change_percent": 31.4825,
       "market_cap": 3985462263808
@@ -343,7 +343,7 @@
     {
       "code": "MU",
       "name": "MICRON TECHNOLOGY INC",
-      "per": 7.9984174,
+      "per": 9.521054,
       "pbr": 5.784226,
       "change_percent": 19.0392,
       "market_cap": 800708231168
@@ -399,7 +399,7 @@
     {
       "code": "COHR",
       "name": "COHERENT CORP",
-      "per": 38.74506,
+      "per": 44.68116,
       "pbr": 3.7510645,
       "change_percent": 15.270800000000001,
       "market_cap": 42505650176
@@ -423,7 +423,7 @@
     {
       "code": "AMAT",
       "name": "APPLIED MATERIALS INC",
-      "per": 23.988243,
+      "per": 27.485737,
       "pbr": 10.536435,
       "change_percent": 14.618500000000001,
       "market_cap": 275275153408
@@ -479,7 +479,7 @@
     {
       "code": "ORCL",
       "name": "ORACLE CORP",
-      "per": 15.854951,
+      "per": 17.818182,
       "pbr": 5.5605555,
       "change_percent": 12.3431,
       "market_cap": 354421047296
@@ -506,7 +506,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 7.872611,
+      "per": 7.8227844,
       "pbr": 0.94817996,
       "change_percent": -0.722893,
       "market_cap": 87780868096
@@ -520,16 +520,8 @@
       "pbr": 1.3654329,
       "change_percent": 13.302499000000001,
       "market_cap": 16170848256
-    },
-    {
-      "code": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "per": 7.9984174,
-      "pbr": 5.784226,
-      "change_percent": 19.0392,
-      "market_cap": 800708231168
     }
   ],
   "pbr_rise": [],
-  "generated_at": "2026-11-24T03:41:21+00:00"
+  "generated_at": "2026-11-24T14:27:27+00:00"
 }
