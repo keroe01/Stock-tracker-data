@@ -3,162 +3,162 @@
     {
       "code": "SNDK",
       "name": "Sandisk",
-      "per": 5.608056,
-      "pbr": 5.572073,
-      "change_percent": 10.689,
-      "market_cap": 99841597440
+      "per": 4.984015,
+      "pbr": 4.952036,
+      "change_percent": -11.127582,
+      "market_cap": 88731639808
     },
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 7.8227844,
-      "pbr": 0.94817996,
-      "change_percent": -0.722893,
-      "market_cap": 87780868096
+      "per": 8.031645,
+      "pbr": 0.9734955,
+      "change_percent": 2.6699023,
+      "market_cap": 90124533760
     },
     {
       "code": "ALNY",
       "name": "Alnylam Pharmaceuticals",
-      "per": 7.877778,
-      "pbr": 5.7942047,
-      "change_percent": 8.455,
-      "market_cap": 20891582464
+      "per": 8.313637,
+      "pbr": 6.1147847,
+      "change_percent": 5.532763999999999,
+      "market_cap": 22047465472
     },
     {
       "code": "MU",
       "name": "Micron Technology",
-      "per": 9.521054,
-      "pbr": 5.784226,
-      "change_percent": 19.0392,
-      "market_cap": 800708231168
+      "per": 8.472891,
+      "pbr": 5.1474457,
+      "change_percent": -11.008906,
+      "market_cap": 712559034368
     },
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.607497,
-      "pbr": 1.7222862,
-      "change_percent": 4.1348,
-      "market_cap": 124034768896
+      "per": 9.616318,
+      "pbr": 1.7238674,
+      "change_percent": 0.09180838999999999,
+      "market_cap": 124148645888
     },
     {
       "code": "WDC",
       "name": "Western Digital",
-      "per": 10.455504,
-      "pbr": 11.892378,
-      "change_percent": 13.840900000000001,
-      "market_cap": 111267594240
+      "per": 9.635948,
+      "pbr": 10.960192,
+      "change_percent": -7.838515999999999,
+      "market_cap": 102545866752
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.5419855,
-      "pbr": 2.373158,
-      "change_percent": 3.65922,
-      "market_cap": 45885566976
+      "per": 10.719466,
+      "pbr": 2.4131114,
+      "change_percent": 1.6835563000000002,
+      "market_cap": 46658076672
     },
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 11.004958,
-      "pbr": 3.1424487,
-      "change_percent": 4.3877,
-      "market_cap": 70444072960
+      "per": 11.146257,
+      "pbr": 3.1827962,
+      "change_percent": 1.2839601,
+      "market_cap": 71348543488
     },
     {
       "code": "ADBE",
       "name": "Adobe Inc.",
-      "per": 12.505862,
-      "pbr": 7.4444113,
-      "change_percent": 2.8799701,
-      "market_cap": 87173013504
+      "per": 12.958124,
+      "pbr": 7.7136307,
+      "change_percent": 3.6163969999999996,
+      "market_cap": 90325532672
     },
     {
       "code": "QCOM",
       "name": "Qualcomm",
-      "per": 13.022048,
-      "pbr": 5.831659,
-      "change_percent": 10.2974996,
-      "market_cap": 176956604416
+      "per": 12.988977,
+      "pbr": 5.8168488,
+      "change_percent": -0.25395946999999996,
+      "market_cap": 176507207680
     },
     {
       "code": "GOOG",
       "name": "Alphabet Inc.(Class C)",
-      "per": 14.596867,
-      "pbr": 5.21064,
-      "change_percent": 5.88258,
-      "market_cap": 3436541640704
+      "per": 14.44282,
+      "pbr": 5.1556497,
+      "change_percent": -1.0553474,
+      "market_cap": 3400274280448
     },
     {
       "code": "GOOGL",
       "name": "Alphabet Inc.(Class A)",
-      "per": 14.731071,
-      "pbr": 5.258547,
-      "change_percent": 6.336459999999999,
-      "market_cap": 3468137332736
-    },
-    {
-      "code": "INTU",
-      "name": "Intuit",
-      "per": 15.677859,
-      "pbr": 3.9963439,
-      "change_percent": 1.85623,
-      "market_cap": 72725569536
-    },
-    {
-      "code": "BKNG",
-      "name": "Booking Holdings",
-      "per": 15.720173,
-      "pbr": null,
-      "change_percent": 0.0207017,
-      "market_cap": 107792064512
+      "per": 14.571801,
+      "pbr": 5.2016926,
+      "change_percent": -1.0811833,
+      "market_cap": 3430640517120
     },
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 15.821305,
-      "pbr": 2.2701051,
-      "change_percent": 2.74492,
-      "market_cap": 45721333760
+      "per": 15.769759,
+      "pbr": 2.262709,
+      "change_percent": -0.32580695,
+      "market_cap": 45572370432
+    },
+    {
+      "code": "BKNG",
+      "name": "Booking Holdings",
+      "per": 15.904554,
+      "pbr": null,
+      "change_percent": 1.1728969,
+      "market_cap": 109056352256
     },
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 16.04243,
-      "pbr": 3.1401713,
-      "change_percent": 0.458934,
-      "market_cap": 176220585984
-    },
-    {
-      "code": "NFLX",
-      "name": "Netflix, Inc.",
-      "per": 16.791906,
-      "pbr": 8.146382,
-      "change_percent": 2.41495,
-      "market_cap": 238577532928
-    },
-    {
-      "code": "GEHC",
-      "name": "GE HealthCare",
-      "per": 17.190275,
-      "pbr": 3.1654143,
-      "change_percent": 0.830851,
-      "market_cap": 36763324416
-    },
-    {
-      "code": "PEP",
-      "name": "PepsiCo",
-      "per": 17.636478,
-      "pbr": 8.579208,
-      "change_percent": -0.23479899999999998,
-      "market_cap": 191069945856
+      "per": 16.133076,
+      "pbr": 3.1579146,
+      "change_percent": 0.56504114,
+      "market_cap": 177216307200
     },
     {
       "code": "NVDA",
       "name": "Nvidia",
-      "per": 17.728249,
-      "pbr": 14.920448,
-      "change_percent": 31.4825,
-      "market_cap": 3985462263808
+      "per": 16.68958,
+      "pbr": 14.046285,
+      "change_percent": -5.8588296,
+      "market_cap": 3751960903680
+    },
+    {
+      "code": "INTU",
+      "name": "Intuit",
+      "per": 16.9757,
+      "pbr": 3.9486182,
+      "change_percent": 1.4376033,
+      "market_cap": 73771073536
+    },
+    {
+      "code": "NFLX",
+      "name": "Netflix, Inc.",
+      "per": 17.01445,
+      "pbr": 8.254347,
+      "change_percent": 1.325302,
+      "market_cap": 241739415552
+    },
+    {
+      "code": "GEHC",
+      "name": "GE HealthCare",
+      "per": 17.446089,
+      "pbr": 3.21252,
+      "change_percent": 1.4881307,
+      "market_cap": 37310410752
+    },
+    {
+      "code": "PEP",
+      "name": "PepsiCo",
+      "per": 17.94717,
+      "pbr": 8.730343,
+      "change_percent": 1.7616332,
+      "market_cap": 194435891200
     }
   ],
   "pbr": [
@@ -166,419 +166,428 @@
       "code": "MSTR",
       "name": "MicroStrategy",
       "per": null,
-      "pbr": 0.64239174,
-      "change_percent": 8.48329,
-      "market_cap": 35908726784
+      "pbr": 0.59025455,
+      "change_percent": -8.116112000000001,
+      "market_cap": 32994334720
     },
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 7.8227844,
-      "pbr": 0.94817996,
-      "change_percent": -0.722893,
-      "market_cap": 87780868096
+      "per": 8.031645,
+      "pbr": 0.9734955,
+      "change_percent": 2.6699023,
+      "market_cap": 90124533760
     },
     {
       "code": "FANG",
       "name": "Diamondback Energy",
-      "per": 23.310902,
-      "pbr": 1.2412033,
-      "change_percent": -1.4509299999999998,
-      "market_cap": 48351870976
+      "per": 23.701212,
+      "pbr": 1.2619857,
+      "change_percent": 1.6743702999999999,
+      "market_cap": 49161457664
     },
     {
       "code": "EXC",
       "name": "Exelon",
-      "per": 17.988281,
-      "pbr": 1.5816046,
-      "change_percent": 0.76586097,
-      "market_cap": 47656992768
+      "per": 18.058594,
+      "pbr": 1.5877868,
+      "change_percent": 0.39088014,
+      "market_cap": 47843274752
     },
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.607497,
-      "pbr": 1.7222862,
-      "change_percent": 4.1348,
-      "market_cap": 124034768896
+      "per": 9.616318,
+      "pbr": 1.7238674,
+      "change_percent": 0.09180838999999999,
+      "market_cap": 124148645888
     },
     {
       "code": "KDP",
       "name": "Keurig Dr Pepper",
-      "per": 31.918919,
-      "pbr": 1.8963764,
-      "change_percent": 1.6934600000000002,
-      "market_cap": 50580398080
+      "per": 32.25225,
+      "pbr": 1.9161804,
+      "change_percent": 1.0443097000000001,
+      "market_cap": 51108614144
     },
     {
       "code": "XEL",
       "name": "Xcel Energy",
-      "per": 18.766901,
-      "pbr": 2.0051305,
-      "change_percent": 1.52585,
-      "market_cap": 51677310976
+      "per": 18.837996,
+      "pbr": 2.0127268,
+      "change_percent": 0.3788353,
+      "market_cap": 51873083392
+    },
+    {
+      "code": "NBIS",
+      "name": "Nebius Group",
+      "per": null,
+      "pbr": 2.0804937,
+      "change_percent": -10.725977,
+      "market_cap": 25573308416
     },
     {
       "code": "AEP",
       "name": "American Electric Power",
-      "per": 20.78268,
-      "pbr": 2.1130714,
-      "change_percent": 1.63817,
-      "market_cap": 69258305536
+      "per": 20.800655,
+      "pbr": 2.114899,
+      "change_percent": 0.08648525700000001,
+      "market_cap": 69318205440
     },
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 15.821305,
-      "pbr": 2.2701051,
-      "change_percent": 2.74492,
-      "market_cap": 45721333760
+      "per": 15.769759,
+      "pbr": 2.262709,
+      "change_percent": -0.32580695,
+      "market_cap": 45572370432
     },
     {
-      "code": "NBIS",
-      "name": "Nebius Group",
-      "per": null,
-      "pbr": 2.3304582,
-      "change_percent": 20.2804,
-      "market_cap": 28645855232
+      "code": "PYPL",
+      "name": "PayPal",
+      "per": 10.719466,
+      "pbr": 2.4131114,
+      "change_percent": 1.6835563000000002,
+      "market_cap": 46658076672
     },
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 18.129402,
-      "pbr": 2.3656042,
-      "change_percent": -0.36969799999999997,
-      "market_cap": 45371559936
+      "per": 18.85556,
+      "pbr": 2.4603565,
+      "change_percent": 4.0054146,
+      "market_cap": 47188881408
     },
     {
-      "code": "PYPL",
-      "name": "PayPal",
-      "per": 10.5419855,
-      "pbr": 2.373158,
-      "change_percent": 3.65922,
-      "market_cap": 45885566976
+      "code": "INTC",
+      "name": "Intel",
+      "per": null,
+      "pbr": 2.5322304,
+      "change_percent": -8.146162,
+      "market_cap": 291261972480
     },
     {
       "code": "SNPS",
       "name": "Synopsys",
-      "per": 75.439926,
-      "pbr": 2.6262245,
-      "change_percent": 7.7794799999999995,
-      "market_cap": 81826930688
-    },
-    {
-      "code": "PCAR",
-      "name": "Paccar",
-      "per": 20.112597,
-      "pbr": 2.6509206,
-      "change_percent": 3.12133,
-      "market_cap": 55488397312
+      "per": 73.28976,
+      "pbr": 2.5513725,
+      "change_percent": -2.85018,
+      "market_cap": 79494709248
     },
     {
       "code": "CEG",
       "name": "Constellation Energy",
-      "per": 20.234728,
-      "pbr": 2.7056193,
-      "change_percent": 6.0275503,
-      "market_cap": 88506892288
+      "per": 19.681673,
+      "pbr": 2.6316693,
+      "change_percent": -2.7331976,
+      "market_cap": 86087827456
     },
     {
-      "code": "INTC",
-      "name": "Intel",
-      "per": null,
-      "pbr": 2.7568042,
-      "change_percent": 16.3417,
-      "market_cap": 317092888576
+      "code": "PCAR",
+      "name": "Paccar",
+      "per": 20.103054,
+      "pbr": 2.6496627,
+      "change_percent": -0.047445728,
+      "market_cap": 55462072320
     },
     {
       "code": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "per": 20.827585,
-      "pbr": 2.821703,
-      "change_percent": 2.34063,
-      "market_cap": 97472708608
+      "per": 21.818966,
+      "pbr": 2.9560144,
+      "change_percent": 4.759937,
+      "market_cap": 102112346112
     },
     {
       "code": "TMUS",
       "name": "T-Mobile US",
-      "per": 16.04243,
-      "pbr": 3.1401713,
-      "change_percent": 0.458934,
-      "market_cap": 176220585984
+      "per": 16.133076,
+      "pbr": 3.1579146,
+      "change_percent": 0.56504114,
+      "market_cap": 177216307200
     },
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 11.004958,
-      "pbr": 3.1424487,
-      "change_percent": 4.3877,
-      "market_cap": 70444072960
+      "per": 11.146257,
+      "pbr": 3.1827962,
+      "change_percent": 1.2839601,
+      "market_cap": 71348543488
     },
     {
       "code": "MDLZ",
       "name": "Mondelez International",
-      "per": 20.899054,
-      "pbr": 3.1625931,
-      "change_percent": -0.045260703,
-      "market_cap": 83861790720
+      "per": 21.138802,
+      "pbr": 3.1988735,
+      "change_percent": 1.1471731,
+      "market_cap": 84823826432
     }
   ],
   "rise": [
     {
-      "code": "NVDA",
-      "name": "Nvidia",
-      "per": 17.728249,
-      "pbr": 14.920448,
-      "change_percent": 31.4825,
-      "market_cap": 3985462263808
-    },
-    {
-      "code": "ALAB",
-      "name": "Astera Labs",
-      "per": 87.794464,
-      "pbr": 19.41269,
-      "change_percent": 23.1605,
-      "market_cap": 38822596608
-    },
-    {
-      "code": "CRWV",
-      "name": "CoreWeave",
+      "code": "MRNA",
+      "name": "Moderna",
       "per": null,
-      "pbr": 6.6524434,
-      "change_percent": 22.3235,
-      "market_cap": 26877556736
+      "pbr": 13.436152,
+      "change_percent": 7.21426,
+      "market_cap": 92002713600
     },
     {
-      "code": "NBIS",
-      "name": "Nebius Group",
+      "code": "AMGN",
+      "name": "Amgen",
+      "per": 27.474493,
+      "pbr": 17.861423,
+      "change_percent": 5.544047,
+      "market_cap": 256356892672
+    },
+    {
+      "code": "ALNY",
+      "name": "Alnylam Pharmaceuticals",
+      "per": 8.313637,
+      "pbr": 6.1147847,
+      "change_percent": 5.532763999999999,
+      "market_cap": 22047465472
+    },
+    {
+      "code": "TTWO",
+      "name": "Take-Two Interactive",
       "per": null,
-      "pbr": 2.3304582,
-      "change_percent": 20.2804,
-      "market_cap": 28645855232
+      "pbr": 11.231655,
+      "change_percent": 5.2779917,
+      "market_cap": 41263726592
     },
     {
-      "code": "MU",
-      "name": "Micron Technology",
-      "per": 9.521054,
-      "pbr": 5.784226,
-      "change_percent": 19.0392,
-      "market_cap": 800708231168
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 21.818966,
+      "pbr": 2.9560144,
+      "change_percent": 4.759937,
+      "market_cap": 102112346112
     },
     {
-      "code": "MRVL",
-      "name": "Marvell Technology",
-      "per": 47.611843,
-      "pbr": 6.848356,
-      "change_percent": 18.3677,
-      "market_cap": 130232123392
+      "code": "VRTX",
+      "name": "Vertex Pharmaceuticals",
+      "per": 36.28829,
+      "pbr": 6.838046,
+      "change_percent": 4.712743,
+      "market_cap": 142974959616
     },
     {
-      "code": "LITE",
-      "name": "Lumentum",
+      "code": "TRI",
+      "name": "Thomson Reuters",
+      "per": 32.89264,
+      "pbr": 4.141114,
+      "change_percent": 4.6554793,
+      "market_cap": 46479798272
+    },
+    {
+      "code": "GILD",
+      "name": "Gilead Sciences",
       "per": null,
-      "pbr": 10.786209,
-      "change_percent": 18.204701,
-      "market_cap": 49367052288
+      "pbr": 16.967072,
+      "change_percent": 4.513745,
+      "market_cap": 221139959808
     },
     {
-      "code": "MPWR",
-      "name": "Monolithic Power Systems",
-      "per": 73.12939,
-      "pbr": 17.43087,
-      "change_percent": 16.797,
-      "market_cap": 65050660864
+      "code": "ISRG",
+      "name": "Intuitive Surgical",
+      "per": 52.53446,
+      "pbr": 9.419595,
+      "change_percent": 4.379785,
+      "market_cap": 150602825728
     },
     {
-      "code": "INTC",
-      "name": "Intel",
-      "per": null,
-      "pbr": 2.7568042,
-      "change_percent": 16.3417,
-      "market_cap": 317092888576
+      "code": "ROST",
+      "name": "Ross Stores",
+      "per": 26.330616,
+      "pbr": 10.341548,
+      "change_percent": 4.2112056,
+      "market_cap": 72554266624
     },
     {
-      "code": "ARM",
-      "name": "Arm Holdings",
-      "per": 203.06897,
-      "pbr": 20.801836,
-      "change_percent": 16.077499,
-      "market_cap": 189036904448
+      "code": "ROP",
+      "name": "Roper Technologies",
+      "per": 18.85556,
+      "pbr": 2.4603565,
+      "change_percent": 4.0054146,
+      "market_cap": 47188881408
     },
     {
-      "code": "KLAC",
-      "name": "KLA Corporation",
-      "per": 36.553886,
-      "pbr": 29.14086,
-      "change_percent": 14.9602,
-      "market_cap": 190037082112
+      "code": "AXON",
+      "name": "Axon Enterprise",
+      "per": 102.67525,
+      "pbr": 6.9085484,
+      "change_percent": 3.8101435,
+      "market_cap": 26003093504
     },
     {
-      "code": "AMAT",
-      "name": "Applied Materials",
-      "per": 27.485737,
-      "pbr": 10.536435,
-      "change_percent": 14.618500000000001,
-      "market_cap": 275275153408
+      "code": "IDXX",
+      "name": "Idexx Laboratories",
+      "per": 47.98383,
+      "pbr": 30.015175,
+      "change_percent": 3.647637,
+      "market_cap": 56102125568
     },
     {
-      "code": "LRCX",
-      "name": "Lam Research",
-      "per": 31.260803,
-      "pbr": 18.83959,
-      "change_percent": 14.4541,
-      "market_cap": 262026084352
+      "code": "ADBE",
+      "name": "Adobe Inc.",
+      "per": 12.958124,
+      "pbr": 7.7136307,
+      "change_percent": 3.6163969999999996,
+      "market_cap": 90325532672
     },
     {
-      "code": "TER",
-      "name": "Teradyne",
-      "per": 26.840229,
-      "pbr": 9.8869505,
-      "change_percent": 14.1049,
-      "market_cap": 36456689664
+      "code": "ADP",
+      "name": "Automatic Data Processing",
+      "per": 27.552307,
+      "pbr": 24.144657,
+      "change_percent": 2.8731335000000002,
+      "market_cap": 122687283200
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 10.455504,
-      "pbr": 11.892378,
-      "change_percent": 13.840900000000001,
-      "market_cap": 111267594240
+      "code": "DXCM",
+      "name": "DexCom",
+      "per": 33.322834,
+      "pbr": 12.452553,
+      "change_percent": 2.6935225,
+      "market_cap": 31566565376
     },
     {
-      "code": "STX",
-      "name": "Seagate Technology",
-      "per": 27.273203,
-      "pbr": 34.59952,
-      "change_percent": 13.8049,
-      "market_cap": 119394721792
+      "code": "CMCSA",
+      "name": "Comcast",
+      "per": 8.031645,
+      "pbr": 0.9734955,
+      "change_percent": 2.6699023,
+      "market_cap": 90124533760
     },
     {
-      "code": "TSLA",
-      "name": "Tesla, Inc.",
-      "per": 423.5824,
-      "pbr": 17.064814,
-      "change_percent": 11.4626,
-      "market_cap": 1523630080000
+      "code": "CPRT",
+      "name": "Copart",
+      "per": 20.870968,
+      "pbr": 3.2939618,
+      "change_percent": 2.308658,
+      "market_cap": 29968326656
     },
     {
-      "code": "MCHP",
-      "name": "Microchip Technology",
-      "per": 46.030075,
-      "pbr": 5.0172105,
-      "change_percent": 11.3395005,
-      "market_cap": 33317369856
+      "code": "PAYX",
+      "name": "Paychex",
+      "per": 22.833334,
+      "pbr": 11.055817,
+      "change_percent": 2.2569760000000003,
+      "market_cap": 40966234112
     },
     {
-      "code": "PLTR",
-      "name": "Palantir Technologies",
-      "per": 112.22536,
-      "pbr": 34.19009,
-      "change_percent": 11.06,
-      "market_cap": 383977553920
-    },
-    {
-      "code": "SNDK",
-      "name": "Sandisk",
-      "per": 5.608056,
-      "pbr": 5.572073,
-      "change_percent": 10.689,
-      "market_cap": 99841597440
+      "code": "COST",
+      "name": "Costco",
+      "per": 52.587185,
+      "pbr": 13.516112,
+      "change_percent": 2.2286452000000003,
+      "market_cap": 483768729600
     }
   ],
-  "triple": [],
+  "triple": [
+    {
+      "code": "CMCSA",
+      "name": "Comcast",
+      "per": 8.031645,
+      "pbr": 0.9734955,
+      "change_percent": 2.6699023,
+      "market_cap": 90124533760
+    }
+  ],
   "per_pbr": [
     {
       "code": "CMCSA",
       "name": "Comcast",
-      "per": 7.8227844,
-      "pbr": 0.94817996,
-      "change_percent": -0.722893,
-      "market_cap": 87780868096
+      "per": 8.031645,
+      "pbr": 0.9734955,
+      "change_percent": 2.6699023,
+      "market_cap": 90124533760
     },
     {
       "code": "PDD",
       "name": "PDD Holdings",
-      "per": 9.607497,
-      "pbr": 1.7222862,
-      "change_percent": 4.1348,
-      "market_cap": 124034768896
+      "per": 9.616318,
+      "pbr": 1.7238674,
+      "change_percent": 0.09180838999999999,
+      "market_cap": 124148645888
     },
     {
       "code": "PYPL",
       "name": "PayPal",
-      "per": 10.5419855,
-      "pbr": 2.373158,
-      "change_percent": 3.65922,
-      "market_cap": 45885566976
+      "per": 10.719466,
+      "pbr": 2.4131114,
+      "change_percent": 1.6835563000000002,
+      "market_cap": 46658076672
     },
     {
       "code": "HON",
       "name": "Honeywell Technologies",
-      "per": 11.004958,
-      "pbr": 3.1424487,
-      "change_percent": 4.3877,
-      "market_cap": 70444072960
+      "per": 11.146257,
+      "pbr": 3.1827962,
+      "change_percent": 1.2839601,
+      "market_cap": 71348543488
     },
     {
       "code": "BKR",
       "name": "Baker Hughes",
-      "per": 15.821305,
-      "pbr": 2.2701051,
-      "change_percent": 2.74492,
-      "market_cap": 45721333760
+      "per": 15.769759,
+      "pbr": 2.262709,
+      "change_percent": -0.32580695,
+      "market_cap": 45572370432
     }
   ],
   "per_rise": [
     {
-      "code": "SNDK",
-      "name": "Sandisk",
-      "per": 5.608056,
-      "pbr": 5.572073,
-      "change_percent": 10.689,
-      "market_cap": 99841597440
+      "code": "CMCSA",
+      "name": "Comcast",
+      "per": 8.031645,
+      "pbr": 0.9734955,
+      "change_percent": 2.6699023,
+      "market_cap": 90124533760
     },
     {
-      "code": "MU",
-      "name": "Micron Technology",
-      "per": 9.521054,
-      "pbr": 5.784226,
-      "change_percent": 19.0392,
-      "market_cap": 800708231168
+      "code": "ALNY",
+      "name": "Alnylam Pharmaceuticals",
+      "per": 8.313637,
+      "pbr": 6.1147847,
+      "change_percent": 5.532763999999999,
+      "market_cap": 22047465472
     },
     {
-      "code": "WDC",
-      "name": "Western Digital",
-      "per": 10.455504,
-      "pbr": 11.892378,
-      "change_percent": 13.840900000000001,
-      "market_cap": 111267594240
-    },
-    {
-      "code": "NVDA",
-      "name": "Nvidia",
-      "per": 17.728249,
-      "pbr": 14.920448,
-      "change_percent": 31.4825,
-      "market_cap": 3985462263808
+      "code": "ADBE",
+      "name": "Adobe Inc.",
+      "per": 12.958124,
+      "pbr": 7.7136307,
+      "change_percent": 3.6163969999999996,
+      "market_cap": 90325532672
     }
   ],
   "pbr_rise": [
     {
-      "code": "NBIS",
-      "name": "Nebius Group",
-      "per": null,
-      "pbr": 2.3304582,
-      "change_percent": 20.2804,
-      "market_cap": 28645855232
+      "code": "CMCSA",
+      "name": "Comcast",
+      "per": 8.031645,
+      "pbr": 0.9734955,
+      "change_percent": 2.6699023,
+      "market_cap": 90124533760
     },
     {
-      "code": "INTC",
-      "name": "Intel",
-      "per": null,
-      "pbr": 2.7568042,
-      "change_percent": 16.3417,
-      "market_cap": 317092888576
+      "code": "ROP",
+      "name": "Roper Technologies",
+      "per": 18.85556,
+      "pbr": 2.4603565,
+      "change_percent": 4.0054146,
+      "market_cap": 47188881408
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "per": 21.818966,
+      "pbr": 2.9560144,
+      "change_percent": 4.759937,
+      "market_cap": 102112346112
     }
   ],
-  "generated_at": "2026-11-24T14:27:28+00:00"
+  "generated_at": "2026-11-25T00:16:40+00:00"
 }
