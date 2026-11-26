@@ -59,7 +59,7 @@
     {
       "code": "MPC",
       "name": "MARATHON PETROLEUM CORP",
-      "per": 7.0365777,
+      "per": 6.860907,
       "pbr": 4.102919,
       "change_percent": -2.5030999,
       "market_cap": 94283177984
@@ -67,7 +67,7 @@
     {
       "code": "SYF",
       "name": "SYNCHRONY FINANCIAL",
-      "per": 7.0855675,
+      "per": 7.174322,
       "pbr": 1.4408805,
       "change_percent": 1.2074799,
       "market_cap": 21402857472
@@ -99,7 +99,7 @@
     {
       "code": "PSX",
       "name": "PHILLIPS 66",
-      "per": 7.5983267,
+      "per": 7.5715203,
       "pbr": 2.6823616,
       "change_percent": -0.36716398,
       "market_cap": 92088279040
@@ -113,9 +113,17 @@
       "market_cap": 10986764288
     },
     {
+      "code": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "per": 8.088927,
+      "pbr": 4.9141808,
+      "change_percent": -4.5745302,
+      "market_cap": 682379247616
+    },
+    {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.040625,
+      "per": 8.142405,
       "pbr": 0.98692036,
       "change_percent": 1.37904,
       "market_cap": 91367391232
@@ -129,17 +137,9 @@
       "market_cap": 17188476928
     },
     {
-      "code": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "per": 8.4730835,
-      "pbr": 4.9141808,
-      "change_percent": -4.5745302,
-      "market_cap": 680268201984
-    },
-    {
       "code": "FSLR",
       "name": "FIRST SOLAR INC",
-      "per": 8.55787,
+      "per": 8.55292,
       "pbr": 1.4607741,
       "change_percent": -0.08107779999999999,
       "market_cap": 15894312960
@@ -147,7 +147,7 @@
     {
       "code": "LULU",
       "name": "LULULEMON ATHLETICA INC",
-      "per": 8.727863,
+      "per": 8.842799,
       "pbr": 2.5044289,
       "change_percent": 1.3107001,
       "market_cap": 12444344320
@@ -245,7 +245,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.040625,
+      "per": 8.142405,
       "pbr": 0.98692036,
       "change_percent": 1.37904,
       "market_cap": 91367391232
@@ -280,7 +280,7 @@
       "per": 15.146048,
       "pbr": 1.0393577,
       "change_percent": 4.86558,
-      "market_cap": 16937474048
+      "market_cap": 16937347072
     },
     {
       "code": "COF",
@@ -327,8 +327,8 @@
     {
       "code": "HPQ",
       "name": "HP INC",
-      "per": 10.667808,
-      "pbr": null,
+      "per": 11.889314,
+      "pbr": 53.43053,
       "change_percent": 11.488900000000001,
       "market_cap": 28090787840
     },
@@ -359,7 +359,7 @@
     {
       "code": "ADI",
       "name": "ANALOG DEVICES INC",
-      "per": 30.644436,
+      "per": 32.62537,
       "pbr": 4.741641,
       "change_percent": 6.440329999999999,
       "market_cap": 160781926400
@@ -378,7 +378,7 @@
       "per": 15.146048,
       "pbr": 1.0393577,
       "change_percent": 4.86558,
-      "market_cap": 16937474048
+      "market_cap": 16937347072
     },
     {
       "code": "IP",
@@ -391,7 +391,7 @@
     {
       "code": "TXN",
       "name": "TEXAS INSTRUMENTS INC",
-      "per": 33.52233,
+      "per": 35.044098,
       "pbr": 12.87232,
       "change_percent": 4.5465100000000005,
       "market_cap": 246891593728
@@ -407,7 +407,7 @@
     {
       "code": "EQT",
       "name": "EQT CORP",
-      "per": 11.711363,
+      "per": 12.210901,
       "pbr": 1.2658135,
       "change_percent": 4.3751302999999995,
       "market_cap": 32234561536
@@ -423,7 +423,7 @@
     {
       "code": "CSGP",
       "name": "COSTAR GROUP INC",
-      "per": 75.600006,
+      "per": 79.11628,
       "pbr": 1.7144585,
       "change_percent": 4.22794,
       "market_cap": 13687516160
@@ -447,7 +447,7 @@
     {
       "code": "DASH",
       "name": "DOORDASH INC   A",
-      "per": 66.56,
+      "per": 69.04564,
       "pbr": 6.768905,
       "change_percent": 3.9155599999999997,
       "market_cap": 72546459648
@@ -515,7 +515,7 @@
     {
       "code": "CMCSA",
       "name": "COMCAST CORP CLASS A",
-      "per": 8.040625,
+      "per": 8.142405,
       "pbr": 0.98692036,
       "change_percent": 1.37904,
       "market_cap": 91367391232
@@ -562,8 +562,8 @@
       "per": 15.146048,
       "pbr": 1.0393577,
       "change_percent": 4.86558,
-      "market_cap": 16937474048
+      "market_cap": 16937347072
     }
   ],
-  "generated_at": "2026-11-26T03:53:00+00:00"
+  "generated_at": "2026-11-26T13:24:27+00:00"
 }
