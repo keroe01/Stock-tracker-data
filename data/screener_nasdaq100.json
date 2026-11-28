@@ -9,20 +9,20 @@
       "market_cap": 97166557184
     },
     {
-      "code": "ALNY",
-      "name": "Alnylam Pharmaceuticals",
-      "per": 8.217172,
-      "pbr": 6.0438333,
-      "change_percent": -1.2323199999999999,
-      "market_cap": 21791643648
-    },
-    {
       "code": "CMCSA",
       "name": "Comcast",
       "per": 8.253164,
       "pbr": 1.0003452,
       "change_percent": 1.3602801,
       "market_cap": 92610240512
+    },
+    {
+      "code": "ALNY",
+      "name": "Alnylam Pharmaceuticals",
+      "per": 8.317996,
+      "pbr": 6.0438333,
+      "change_percent": -1.2323199999999999,
+      "market_cap": 21791643648
     },
     {
       "code": "MU",
@@ -245,7 +245,7 @@
     {
       "code": "ROP",
       "name": "Roper Technologies",
-      "per": 19.178543,
+      "per": 19.170954,
       "pbr": 2.5015104,
       "change_percent": 0.281524,
       "market_cap": 47978201088
@@ -447,7 +447,7 @@
     {
       "code": "APP",
       "name": "AppLovin",
-      "per": 26.882828,
+      "per": 25.524935,
       "pbr": 40.097427,
       "change_percent": 5.3463504,
       "market_cap": 132267081728
@@ -580,5 +580,5 @@
       "market_cap": 305080991744
     }
   ],
-  "generated_at": "2026-11-28T00:54:46+00:00"
+  "generated_at": "2026-11-28T09:39:39+00:00"
 }
